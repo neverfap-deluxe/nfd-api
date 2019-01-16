@@ -1,13 +1,19 @@
-{{ partial "header.html" . }}
-  <main>
-    <div>
-    <h1>{{ .Title }}</h1>
+{{ define "main" }}
+  <main class="single__wrapper">
+    <div class="single__content">
+      <h2>Welcome to the NoFap Deluxe guide!</h2>
+      <p>Here are just a few of the skills you will learn from this website:</p>
       <ul>
-      <!-- Renders the li.html content view for each content/posts/*.md -->
-        {{ range .Pages }}
-          {{ .Render "li"}}
-        {{ end }}
+        <li>Value your mental health above all. </li>
+        <li>Develop the ability to quiet and focus your mind. </li>
+        <li>Learn to love and accept myself and others unconditionally.</li>
+        <li>Change the way you think about sex and women.</li>
+        <li>Understand the value of commitment and long-term thinking. </li>
       </ul>
+
+      <h2>Article List</h2>
+      {{- partial "posts.html" . -}}
+
     </div>
   </main>
-{{ partial "footer.html" . }}
+{{ end }}

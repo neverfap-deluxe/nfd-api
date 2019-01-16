@@ -1,1 +1,10 @@
-<p>Hello</p>
+{{ define "main" }}
+  <div class="homepage__hero">
+    <h1 class="single__title">{{ .Title }}</h1>
+  </div>
+  <main class="single__wrapper">
+    <div class="single__content">
+      {{ .Content }}
+    </div>
+  </main>
+{{ end }}

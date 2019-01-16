@@ -1,4 +1,15 @@
 <head>
-  {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+  <!-- <script src='https://www.google.com/recaptcha/api.js'></script> -->
+
+  {{ $style := resources.Get "sass/index.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">
+
+  <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
+
+  <meta name="author" content="Julius Reade">
+  <!-- <meta name="keywords" content="Julius Reade"> -->
+  <!-- <meta name="description" content=""> -->
 </head>
