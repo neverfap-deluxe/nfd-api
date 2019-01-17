@@ -1,24 +1,14 @@
-<!-- I imagine, would literally just have the 'popular' tag. -->
 <div class="posts">
-  {{ range .Pages }}
-    <a class="post" href="{{.Permalink}}">
-      <div class="post__left">
-        <h5>{{.Date.Format "2006-01-02"}}</h5>
-        <h4>{{.LinkTitle}}</h4>    
-      </div>
-      <div class="post__right">
-        {{ $logo := .Resources.Match .LinkTitle }}
-        {{ with $logo }}
-        {{ end }}
+    {{ range .Pages }}
+      <a class="post" href="{{.Permalink}}">
+        <div class="post__left">
+          <h5 class="post__date">{{.Date.Format "2006-01-02"}}</h5>
+          <h4 class="post__title">{{.LinkTitle}}</h4>    
+        </div>
+        <!-- <div class="post__right">
+          <img class="post__image" src="{{ .Params.image }}" />      
+        </div> -->
+      </a>
+    {{ end }}
+  </div>
   
-        <img src="" alt="">
-
-
-      </div>
-    </a>
-  {{ end }}
-</div>
-
-
-
-

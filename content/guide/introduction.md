@@ -7,6 +7,15 @@
   image: "/images/face.jpg"
 ---
 
+<!-- So, you're convinced that porn is a bad thing and that you want to kick the habit for good?
+
+Excellent, well, that's good news!
+
+At this point, you've probably already attempted to give up porn in some capacity. You've probably tried, and failed, and you're seeking help to better understand how to make the process a lot easier. 
+
+The first thing I would like to say is to not lose hope, and to forget about previous experiences.  -->
+
+
 Today I’m here to talk to you about porn addiction.
 
 Porn addiction itself can be a very complex topic. We can spend hours discussing the intricacies of how particular cultural upbringings affect the way we view women. We can bore over the details of our past trauma in order to extract why exactly we’re so obsessed with certain types of porn. We can do all sorts of things to try and understand why we humans are the way we are, and to be quite frank... it’s all very exhausting.

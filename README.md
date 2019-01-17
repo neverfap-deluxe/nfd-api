@@ -15,6 +15,7 @@
 - related posts
 - popular posts
 - Maybe a white to fade in when you go on a page.
+- Contact Form placeholder styling.
 
 ## Types of categories
 
