@@ -1,14 +1,14 @@
 ---
-title: "NoFap: A Best Case Scenario"
+title: "NeverFap: A Best Case Scenario"
 date: 2019-01-15T18:01:10+11:00
 draft: false
 ---
 
-Original this chapter was going to be about my upbringing. I wanted to write about my past, my previous trauma and help you understand how that may have contributed towards my porn addiction. However, halfway through writing it, I came to the realisation that everything I’d experienced before is completely irrelevant to who I am today. Largely, because the skills you end up learning have absolutely nothing to do with your past, hence why you don’t have those skills to begin with.
+Originally this article was going to be about my upbringing. I wanted to write about my past, my previous trauma and help you understand how that may have contributed towards my porn addiction. However, halfway through writing it, I came to the realisation that everything I’d experienced before is completely irrelevant to who I am today. Largely, because the skills you end up learning have absolutely nothing to do with your past, hence why you don’t have those skills to begin with.
 
 So instead, I’m going to write about the present. Who I am today, and how I’ve changed over the years. 
 
-With all this in mind, what does a successful nofap outcome look like?
+With all this in mind, what does a successful NeverFap outcome look like?
 
 - You no longer watch porn.
 - You no longer crave watching porn.

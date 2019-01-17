@@ -4,11 +4,11 @@ date: 2019-01-15T18:01:10+11:00
 draft: false
 ---
 
-Welcome to NoFap Deluxe.
+Welcome to NeverFap Deluxe.
 
 I decided to create this website in 2019 to help people overcome porn addiction.
 
-Not only have I personally overcome porn addiction, to a point that I literally do not think about porn or struggle with porn addiction in any capacity, however I also couldn't find anything solid in terms of how to overcome porn addiction on the internet.
+Not only have I personally overcome porn addiction, to a point that I literally do not think about porn nor struggle with porn addiction in any capacity, however I also couldn't find anything solid in terms of how to overcome porn addiction on the internet.
 
 I mean, in terms of understanding porn addiction? Yes, those resources are extensive and beyond excellent. 
 
@@ -20,8 +20,8 @@ Not only was this advice factually incorrect, but also somewhat devoid of the es
 
 In the dozens upon dozens of entries I read, not once did I read about the significance of meditation, arguably the most important thing you can do to help you overcome porn addiction
 
-That's when I knew there was an opportunity to create NoFap Deluxe, a website dedicated to giving useful advice on how to beat porn addiction. 
+That's when I knew there was an opportunity to create NeverFap Deluxe, a website dedicated to giving useful advice on how to beat porn addiction. 
 
 So, here you are. 
 
-I highly recommend checking out the NoFap Deluxe guide, which contains a series of posts relating to. 
+I highly recommend checking out the NeverFap Deluxe Guide, which contains a series of posts relating to. 

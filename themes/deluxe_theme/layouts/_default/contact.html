@@ -1,0 +1,26 @@
+{{ define "main" }}
+  <main class="single__wrapper">    
+    <h1 class="single__title">{{ .Title }}</h1>
+    <div class="single__content">
+      {{ .Content }}
+    </div>
+
+    <div class="form__wrapper">
+      <form class="form">  
+        <h4 class="form__title">CONTACT</h4>
+  
+        <div class="form__input__container">
+          <input class="form__input" type="text" placeholder="Name" name='name'/>
+          <input class="form__input" type="email" placeholder="Email" name='email'/>
+          <input class="form__input" type="text" placeholder="Subject" name='subject'/>
+        </div>
+  
+        <div class="form__submission__container">
+          <button type="submit" class='form__buton'>Send</button>
+        </div>
+      </form>
+    </div>
+
+
+  </main>
+{{ end }}

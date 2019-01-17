@@ -1,7 +1,10 @@
 ---
-title: "Introduction"
-date: 2019-01-15T18:01:10+11:00
-draft: false
+  title: "Introduction to the NeverFap Deluxe Guide"
+  date: 2019-01-15T18:01:10+11:00
+  draft: false
+  tags: ["popular"]
+  categories: ["cat1"]
+  image: "/images/face.jpg"
 ---
 
 Today I’m here to talk to you about porn addiction.
@@ -28,7 +31,7 @@ Well, that’s why I decided to write this guide. My intention is to help you fi
 
 In this guide, I hope to talk about every single aspect of how to successfully become porn free. What you’ll need to learn. How you can learn those things. How not to fall into certain traps. The whole works. 
 
-Ultimately it comes down to a number of core skills and understandings that I have come to learn over the past five years in my nofap journey, and in each chapter I want to go into detail as to what these skills and understandings are, how I spent years doing it wrong, as well as how you can do it right. 
+Ultimately it comes down to a number of core skills and understandings that I have come to learn over the past five years in my NeverFap journey, and in each chapter I want to go into detail as to what these skills and understandings are, how I spent years doing it wrong, as well as how you can do it right. 
 
 Ahem.
 

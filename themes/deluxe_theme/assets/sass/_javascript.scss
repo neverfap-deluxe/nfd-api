@@ -1,0 +1,55 @@
+// header
+
+#popular__dropdown {
+  display: none;
+}
+
+// homepage
+
+.popular__latest__title {
+  display: flex;
+
+  #popular {
+    margin-right: 1.4rem;
+
+    bottom: 0;
+    left: 0;
+    position: relative;
+    border: 5px solid black;
+    color: black;
+    padding: 0.6rem;
+    cursor: pointer;
+    transition: .2s;
+  }
+
+  #popular:hover {
+    box-shadow: -10px 10px 0px 0px black;
+    bottom: -5px;
+    left: -5px;
+  }
+
+  #latest {
+    bottom: 0;
+    left: 0;
+    position: relative;
+    border: 5px solid grey;
+    color: grey;
+    padding: 0.6rem;
+    cursor: pointer;
+    transition: .2s;
+  }  
+
+  #latest:hover {
+    box-shadow: -10px 10px 0px 0px black;
+    bottom: -5px;
+    left: -5px;
+  }
+}
+
+#popular__posts {
+  display: block;
+}
+
+#latest__posts {
+  display: none;
+}

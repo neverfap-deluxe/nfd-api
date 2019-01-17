@@ -5,7 +5,7 @@
         {{- partial "header.html" . -}}
         <div class="homepage__content">
           <div class="homepage__hero">
-            <h1>NoFap <span class="deluxe">Deluxe</span></h1><h2>The smartest way to end porn addiction.</h2>
+            <h1>NeverFap <span class="deluxe">Deluxe</span></h1><h2>The smartest way to end porn addiction.</h2>
           </div>
 
           <div class="homepage__section">
@@ -36,13 +36,21 @@
 
           <div class="homepage__section">
             <h3>I explain how and why these steps work.</h3>
-            <p>Because when you understand what to do.</p>
-            <p>You do it.</p>
+            <p>Because humans successfully follow through with things when they understand how they work.</p>
           </div>
 
+          
           <div class="homepage__section">
-            <h3>Latest posts.</h3>
-            {{- partial "posts.html" . -}}
+            <div class='popular__latest__title'>
+              <h3 id='popular'>Popular posts.</h3>
+              <h3 id='latest'>Latest posts.</h3>
+            </div>
+            <div id='popular__posts'>
+              {{- partial "popular_posts.html" . -}}
+            </div>
+            <div id='latest__posts'>
+              {{- partial "latest_posts.html" . -}}
+            </div>
           </div>
 
           <div class="homepage__section">
@@ -81,10 +89,10 @@
             <h1>I've spent most my life doing it wrong.</h1>
             <h2>So you don't have to. <i class="em em-innocent"></i></h2>
             <hr/>
-            <p>Click on the link below to get started with your NoFap journey:</p>
+            <p>Click on the link below to get started with your NeverFap journey:</p>
 
             <div class="homepage__hero homepage__guide__wrapper">
-              <a class="homepage__guide" href="/guide">NoFap Guide</a>
+              <a class="homepage__guide" href="/guide">NeverFap Deluxe Guide</a>
             </div>
           </div>
 

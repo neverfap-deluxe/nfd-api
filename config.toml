@@ -1,4 +1,8 @@
-baseURL = "https://nofapdeluxe.com/"
+baseURL = "https://neverfapdeluxe.com/"
 languageCode = "en-us"
-title = "Nofap Deluxe: How to overcome porn addiction without killing yourself"
+title = "NeverFap Deluxe: How to overcome porn addiction without killing yourself"
 theme = "Deluxe_theme"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"

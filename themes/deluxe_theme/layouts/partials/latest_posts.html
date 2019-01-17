@@ -1,0 +1,13 @@
+<div class="posts">
+  {{ range .Pages }}
+    <a class="post" href="{{.Permalink}}">
+      <div class="post__left">
+        <h5 class="post__date">{{.Date.Format "2006-01-02"}}</h5>
+        <h4 class="post__title">{{.LinkTitle}}</h4>    
+      </div>
+      <div class="post__right">
+        <img class="post__image" src="{{ .Params.image }}" />      
+      </div>
+    </a>
+  {{ end }}
+</div>

@@ -1,5 +1,5 @@
 ---
-title: "Paying the NoFap Maintenance Tax"
+title: "Paying the NeverFap Maintenance Tax"
 date: 2019-01-15T18:01:10+11:00
 draft: false
 ---
@@ -66,7 +66,7 @@ Well, I suppose a good place to start is with what I personally do on a daily/we
 
 These are the things that I do on a daily basis which keep me regular.
 
-Now an interesting thing to note is that realistically, in terms of achieving nofap, you don't need to do most of those things. In fact, I was personally doing most of those things while still being a pornography addict. 
+Now an interesting thing to note is that realistically, in terms of achieving NeverFap, you don't need to do most of those things. In fact, I was personally doing most of those things while still being a pornography addict. 
 
 In fact, it wasn't until I began adding meditation to my routine that I was finally able to overcome my porn addiction. 
 
