@@ -1,7 +1,7 @@
 baseURL = "https://neverfapdeluxe.com/"
 languageCode = "en-us"
 title = "NeverFap Deluxe: How to overcome porn addiction without killing yourself"
-theme = "Deluxe_theme"
+theme = "deluxe_theme"
 
 enableRobotsTXT = true
 canonifyURLs = true
