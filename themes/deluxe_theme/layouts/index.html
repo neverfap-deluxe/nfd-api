@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-  {{- partialCached "head.html" . -}}
+  {{ partialCached "head.html" . }}
   <body>
-    {{- partialCached "header.html" . -}}
+    {{ partialCached "header.html" . }}
     <div class="homepage__content">
       <div class="homepage__hero">
         <h1>NeverFap <span class="deluxe">Deluxe</span></h1>
@@ -87,10 +87,10 @@
           <h3 id="latest">Latest posts.</h3>
         </div>
         <div id="popular__posts">
-          {{- partialCached "popular_posts.html" . -}}
+          {{ partialCached "popular_posts.html" . }}
         </div>
         <div id="latest__posts">
-          {{- partialCached "latest_posts.html" . -}}
+          {{ partialCached "latest_posts.html" . }}
         </div>
       </div>
 
@@ -178,7 +178,7 @@
         </div>
       </div>
     </div>
-    {{- partialCached "footer.html" . -}}
+    {{ partialCached "footer.html" . }}
   </body>
 </html>
 <!--

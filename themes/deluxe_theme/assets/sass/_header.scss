@@ -27,54 +27,55 @@
   }
 }
 
-.highlight__link {
-  position: relative;
-  display: inline-block;
-  background-color: yellow;
-  transform: scale(1.5) rotate(-2deg) skew(-20deg);
-  z-index: -1;
-}
-.highlight__link > span {
-  display: inherit;
-  transform: scale(0.7) rotate(2deg) skew(20deg);
-}
+// .highlight__link {
+//   position: relative;
+//   display: inline-block;
+//   background-color: yellow;
+//   transform: scale(1) rotate(-2deg) skew(-20deg);
+//   z-index: -1;
+// }
+// .highlight__link > a {
+//   display: inherit;
+//   transform: scale(0.7) rotate(2deg) skew(20deg);
+//   color: black;
+// }
 
-// these might possibly need to be the element under .highlight__link
-.highlight__link {
-  color: var(--primary-text);
-  padding: 0.5rem 0;
-  position: relative;
-}
+// // these might possibly need to be the element under .highlight__link
+// .highlight__link {
+//   color: var(--primary-text);
+//   // padding: 0.5rem 0;
+//   position: relative;
+// }
 
-.highlight__link:hover,
-.highlight__link:focus {
-  color: var(--primary-text);
-}
+// .highlight__link:hover,
+// .highlight__link:focus {
+//   color: var(--primary-text);
+// }
 
-.highlight__link::before {
-  bottom: 0;
-  content: "";
-  display: block;
-  height: 3px;
-  position: absolute;
-  transition: all 0.25s ease-in-out;
-  width: 0%;
-}
+// .highlight__link::before {
+//   bottom: 0;
+//   content: "";
+//   display: block;
+//   height: 3px;
+//   position: absolute;
+//   transition: all 0.25s ease-in-out;
+//   width: 0%;
+// }
 
-.highlight__link::before {
-  background-color: var(--primary);
-}
+// .highlight__link::before {
+//   background-color: var(--primary);
+// }
 
-.highlight__link:hover::before,
-.highlight__link:focus::before {
-  opacity: 1;
-  width: 100%;
-}
+// .highlight__link:hover::before,
+// .highlight__link:focus::before {
+//   opacity: 1;
+//   width: 100%;
+// }
 
-.highlight__link.active::before {
-  opacity: 1;
-  width: 100%;
-}
+// .highlight__link.active::before {
+//   opacity: 1;
+//   width: 100%;
+// }
 
 
 

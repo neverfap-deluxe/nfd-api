@@ -20,7 +20,3 @@ googleAnalytics = "UA-123-45"
   title = "My cool site"
 
 
-
-{{ template "_internal/google_analytics_async.html" . }}
-{{ template "_internal/opengraph.html" . }}
-  {{ template "_internal/twitter_cards.html" . }}
