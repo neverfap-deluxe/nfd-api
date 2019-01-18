@@ -1,160 +1,187 @@
 <!DOCTYPE html>
 <html>
-    {{- partial "head.html" . -}}
-    <body>
-        {{- partial "header.html" . -}}
-        <div class="homepage__content">
-          <div class="homepage__hero">
-            <h1>NeverFap <span class="deluxe">Deluxe</span></h1><h2>The easiest way to never fap again.</h2>
-          </div>
+  {{- partialCached "head.html" . -}}
+  <body>
+    {{- partialCached "header.html" . -}}
+    <div class="homepage__content">
+      <div class="homepage__hero">
+        <h1>NeverFap <span class="deluxe">Deluxe</span></h1>
+        <h2>The easiest way to never fap again.</h2>
+      </div>
 
-          <div class="homepage__section">
-            <!-- <p>So, you're porn addict and you're looking for a comprehensive guide to help you with your journey?</p> -->
-            <p>My name is Julius and I'm a recovered porn addict. <i class="em em-blush"></i></p>
-            <ul>
-              <li>I no longer watch porn.</li>
-              <li>I no longer crave porn.</li>
-              <li>I don't think about porn, at all. </li>
-              <li>I no longer obsess over women in public.</li>
-              <li>I no longer view women differently to men.</li>
-              <!-- <li>I refrain from judging others, including myself. </li> -->
-              <li>I have control over my mind and my thoughts. </li>
-              <li>I'm conscious of my feelings and emotions. </li>
-              <li>I'm happy with myself and accept who I am.</li>
-              <li>I'm comfortable with my emotions, both positive and negative. </li>
-              <li>I don’t engage in self-harm.</li>
-              <li>I'm motivated, confident and ambitious.</li>
-              <li>I'm not afraid to be vulnerable.</li>
-              <li>I'm committed to my mental health.</li>
-            </ul>
+      <div class="homepage__section">
+        <!-- <p>So, you're porn addict and you're looking for a comprehensive guide to help you with your journey?</p> -->
+        <p>
+          My name is Julius and I'm a recovered porn addict.
+          <i class="em em-blush"></i>
+        </p>
+        <ul>
+          <li>I no longer watch porn.</li>
+          <li>I no longer crave porn.</li>
+          <li>I don't think about porn, at all.</li>
+          <li>I no longer obsess over women in public.</li>
+          <li>I no longer view women differently to men.</li>
+          <!-- <li>I refrain from judging others, including myself. </li> -->
+          <li>I have control over my mind and my thoughts.</li>
+          <li>I'm conscious of my feelings and emotions.</li>
+          <li>I'm happy with myself and accept who I am.</li>
+          <li>I'm comfortable with my emotions, both positive and negative.</li>
+          <li>I don’t engage in self-harm.</li>
+          <li>I'm motivated, confident and ambitious.</li>
+          <li>I'm not afraid to be vulnerable.</li>
+          <li>I'm committed to my mental health.</li>
+        </ul>
 
-            <p>...so in a sense, this website has nothing to do with porn addiction at all.</p>
-            <h3>Because becoming a better person has nothing to do with porn.</h3>
-          </div>
+        <p>
+          ...so in a sense, this website has nothing to do with porn addiction
+          at all.
+        </p>
+        <h3>Because becoming a better person has nothing to do with porn.</h3>
+      </div>
 
-          <div class="homepage__hero">
-            <h1>Here's what I do.</h1>
-            <h2>I explain step-by-step exactly how to give up porn.</h2>
-          </div>
+      <div class="homepage__hero">
+        <h1>Here's what I do.</h1>
+        <h2>I explain step-by-step exactly how to give up porn.</h2>
+      </div>
 
-          <div class="homepage__section">
-            <h3>With our NeverFap method of eliminating porn addiction, I explain exactly how and why these steps work.</h3>
-            <p>Because once you intuitively understand how something works, you will <u>commit to it forever</u> <i class="em em-v"></i></p>
-            <h2>Comprised of five fundamental principles, the NeverFap method makes addressing your porn addiction a breeze:</h2>
-            <ul class="homepage__five__principles">
-              <span class="highlight__underline"><li>Choice over mind</li></span>
-              <span class="highlight__underline"><li>Balance over reward</li></span>
-              <span class="highlight__underline"><li>Struggle over none</li></span>
-              <span class="highlight__underline"><li>Awareness over all</li></span>
-              <span class="highlight__underline"><li>Uncondition over judgement</li></span>
-            </ul>
-            <div class="homepage__button__wrapper">
-              <a class="homepage__button" href="guide/the-five-fundamental-principles-of-neverfap">Learn more about the five principles.</a>
-            </div>
-          </div>
-
-          <div class="homepage__hero">
-            <h1>The NeverFap Deluxe Guide.</h1>
-            <h2>A series of articles to help explain the NeverFap method.</h2>
-          </div>
-  
-          <div class="homepage__section">
-            <h2>Here are some of our most popular posts to get you started:</h2>
-            <div class='popular__latest__title'>
-              <h3 id='popular'>Popular posts.</h3>
-              <h3 id='latest'>Latest posts.</h3>
-            </div>
-            <div id='popular__posts'>
-              {{- partial "popular_posts.html" . -}}
-            </div>
-            <div id='latest__posts'>
-              {{- partial "latest_posts.html" . -}}
-            </div>
-          </div>
-
-          <div class="homepage__section">
-            <h2>Warning! <i class="em em-warning"></i></h2>
-            <h3>Chances are that you may have been going about porn recovery the wrong way.</h3>
-            <hr/>
-          </div>
-
-
-          <div class="homepage__hero">
-            <h1>If you believe you have limited control over your mind.</h1>
-            <ul class="homepage__five__principles">
-              <span class="highlight__underline"><li>Choice over mind</li></span>
-            </ul>
-          </div>
-
-          <div class="homepage__section">
-            <h3>You're doing it wrong. <i class="em em-x"></i></h3>
-            <hr/>
-          </div>
-          
-          <div class="homepage__hero">
-            <h1>If you're struggling to get further than two months.</h1>
-            <ul class="homepage__five__principles">
-              <span class="highlight__underline"><li>Balance over reward</li></span>
-            </ul>
-          </div>
-          <div class="homepage__section">
-            <h3>You're doing it wrong. <i class="em em-x"></i></h3>
-            <hr/>
-          </div>
-
-          <div class="homepage__hero">
-            <h1>If you're constantly fighting your emotions.</h1>
-            <ul class="homepage__five__principles">
-              <span class="highlight__underline"><li>Struggle over none</li></span>
-            </ul>
-          </div>
-          <div class="homepage__section">
-            <h3>You're doing it wrong. <i class="em em-x"></i></h3>
-            <hr/>
-          </div>
-  
-  
-          <div class="homepage__hero">
-            <h1>If you're not practicing meditation.</h1>
-            <ul class="homepage__five__principles">
-              <span class="highlight__underline"><li>Awareness over all</li></span>
-            </ul>
-          </div>
-          <div class="homepage__section">
-            <h3>You're doing it wrong. <i class="em em-x"></i></h3>
-            <hr/>
-          </div>
-  
-
-
-          <div class="homepage__hero">
-            <h1>If you're critical of yourself and others.</h1>
-            <ul class="homepage__five__principles">
-              <span class="highlight__underline"><li>Uncondition over judgement</li></span>
-            </ul>
-          </div>
-          <div class="homepage__section">
-            <h3>You get the drift. <i class="em em-anguished"></i></h3>
-            <hr/>
-          </div>
-
-          <div class="homepage__section">
-            <h3>Listen...</h3>
-            <h1>I've spent most my life doing it wrong.</h1>
-            <h2>Now, I don't even have to think about it. <i class="em em-innocent"></i></h2>
-            <hr/>
-            <p>Click on the link below to get started with your NeverFap journey:</p>
-
-            <div class="homepage__hero homepage__guide__wrapper">
-              <a class="homepage__guide" href="/guide">NeverFap Deluxe Guide</a>
-            </div>
-          </div>
-
+      <div class="homepage__section">
+        <h3>
+          With our NeverFap method of eliminating porn addiction, I explain
+          exactly how and why these steps work.
+        </h3>
+        <p>
+          Because once you intuitively understand how something works, you will
+          <u>commit to it forever</u> <i class="em em-v"></i>
+        </p>
+        <h2>
+          Comprised of five fundamental principles, the NeverFap method makes
+          addressing your porn addiction a breeze:
+        </h2>
+        <ul class="homepage__five__principles">
+          <span class="highlight__underline"><li>Choice over mind</li></span>
+          <span class="highlight__underline"><li>Balance over reward</li></span>
+          <span class="highlight__underline"><li>Struggle over none</li></span>
+          <span class="highlight__underline"><li>Awareness over all</li></span>
+          <span class="highlight__underline"
+            ><li>Uncondition over judgement</li></span
+          >
+        </ul>
+        <div class="homepage__button__wrapper">
+          <a
+            class="homepage__button"
+            href="guide/the-five-fundamental-principles-of-neverfap"
+            >Learn more about the five principles.</a
+          >
         </div>
-        {{- partial "footer.html" . -}}
-    </body>
+      </div>
+
+      <div class="homepage__hero">
+        <h1>The NeverFap Deluxe Guide.</h1>
+        <h2>A series of articles to help explain the NeverFap method.</h2>
+      </div>
+
+      <div class="homepage__section">
+        <h2>Here are some of our most popular posts to get you started:</h2>
+        <div class="popular__latest__title">
+          <h3 id="popular">Popular posts.</h3>
+          <h3 id="latest">Latest posts.</h3>
+        </div>
+        <div id="popular__posts">
+          {{- partialCached "popular_posts.html" . -}}
+        </div>
+        <div id="latest__posts">
+          {{- partialCached "latest_posts.html" . -}}
+        </div>
+      </div>
+
+      <div class="homepage__section">
+        <h2>Warning! <i class="em em-warning"></i></h2>
+        <h3>
+          Chances are that you may have been going about porn recovery the wrong
+          way.
+        </h3>
+        <hr />
+      </div>
+
+      <div class="homepage__hero">
+        <h1>If you believe you have limited control over your mind.</h1>
+        <ul class="homepage__five__principles">
+          <span class="highlight__underline"><li>Choice over mind</li></span>
+        </ul>
+      </div>
+
+      <div class="homepage__section">
+        <h3>You're doing it wrong. <i class="em em-x"></i></h3>
+        <hr />
+      </div>
+
+      <div class="homepage__hero">
+        <h1>If you're struggling to get further than two months.</h1>
+        <ul class="homepage__five__principles">
+          <span class="highlight__underline"><li>Balance over reward</li></span>
+        </ul>
+      </div>
+      <div class="homepage__section">
+        <h3>You're doing it wrong. <i class="em em-x"></i></h3>
+        <hr />
+      </div>
+
+      <div class="homepage__hero">
+        <h1>If you're constantly fighting your emotions.</h1>
+        <ul class="homepage__five__principles">
+          <span class="highlight__underline"><li>Struggle over none</li></span>
+        </ul>
+      </div>
+      <div class="homepage__section">
+        <h3>You're doing it wrong. <i class="em em-x"></i></h3>
+        <hr />
+      </div>
+
+      <div class="homepage__hero">
+        <h1>If you're not practicing meditation.</h1>
+        <ul class="homepage__five__principles">
+          <span class="highlight__underline"><li>Awareness over all</li></span>
+        </ul>
+      </div>
+      <div class="homepage__section">
+        <h3>You're doing it wrong. <i class="em em-x"></i></h3>
+        <hr />
+      </div>
+
+      <div class="homepage__hero">
+        <h1>If you're critical of yourself and others.</h1>
+        <ul class="homepage__five__principles">
+          <span class="highlight__underline"
+            ><li>Uncondition over judgement</li></span
+          >
+        </ul>
+      </div>
+      <div class="homepage__section">
+        <h3>You get the drift. <i class="em em-anguished"></i></h3>
+        <hr />
+      </div>
+
+      <div class="homepage__section">
+        <h3>Listen...</h3>
+        <h1>I've spent most my life doing it wrong.</h1>
+        <h2>
+          Now, I don't even have to think about it.
+          <i class="em em-innocent"></i>
+        </h2>
+        <hr />
+        <p>
+          Click on the link below to get started with your NeverFap journey:
+        </p>
+
+        <div class="homepage__hero homepage__guide__wrapper">
+          <a class="homepage__guide" href="/guide">NeverFap Deluxe Guide</a>
+        </div>
+      </div>
+    </div>
+    {{- partialCached "footer.html" . -}}
+  </body>
 </html>
-<!-- 
+<!--
 
 <ul>
     <li>Learning to value my mental health above all. </li>

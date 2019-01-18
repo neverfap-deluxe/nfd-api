@@ -3,6 +3,24 @@ languageCode = "en-us"
 title = "NeverFap Deluxe: How to overcome porn addiction without killing yourself"
 theme = "Deluxe_theme"
 
+enableRobotsTXT = true
+canonifyURLs = true
+googleAnalytics = "UA-123-45"
+
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+[permalinks]
+    post = "/guide/:slug"
+
+[params]
+  description = "Text about my cool site"
+  images = ["site-feature-image.jpg"]
+  title = "My cool site"
+
+
+
+{{ template "_internal/google_analytics_async.html" . }}
+{{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}

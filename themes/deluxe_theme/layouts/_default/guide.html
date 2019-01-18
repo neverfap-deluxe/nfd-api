@@ -1,19 +1,18 @@
 {{ define "main" }}
-  <main class="single__wrapper">
-    <div class="single__content">
-      <h2>Welcome to the NeverFap Deluxe Guide!</h2>
-      <p>Here are just a few of the skills you will learn from this website:</p>
-      <ul>
-        <li>Learn to value your mental health above all. </li>
-        <li>Develop the ability to quiet and focus your mind. </li>
-        <li>Learn to love and accept myself and others unconditionally.</li>
-        <li>Change the way you think about sex and women.</li>
-        <li>Understand the value of commitment and long-term thinking. </li>
-      </ul>
+<main class="single__wrapper">
+  <div class="single__content">
+    <h2>Welcome to the NeverFap Deluxe Guide!</h2>
+    <p>Here are just a few of the skills you will learn from this website:</p>
+    <ul>
+      <li>Learn to value your mental health above all.</li>
+      <li>Develop the ability to quiet and focus your mind.</li>
+      <li>Learn to love and accept myself and others unconditionally.</li>
+      <li>Change the way you think about sex and women.</li>
+      <li>Understand the value of commitment and long-term thinking.</li>
+    </ul>
 
-      <h2>Article List</h2>
-      {{- partial "latest_posts.html" . -}}
-
-    </div>
-  </main>
+    <h2>Article List</h2>
+    {{- partialCached "latest_posts.html" . -}}
+  </div>
+</main>
 {{ end }}
