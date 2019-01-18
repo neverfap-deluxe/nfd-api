@@ -27,18 +27,18 @@ No more excuses. No more compromises. This is the real deal.
 Compromising of five fundamental principles, the NeverFap method of eliminating porn addiction, addressing porn addiction could honestly not be simpler. 
 
 These principles are:
-
+****
 <div class="homepage__section" style="margin-top: 0;">
-  <ul class="homepage__five__principles">
-    <span class="highlight__underline"><li>Choice over mind</li></span>
-    <span class="highlight__underline"><li>Balance over reward</li></span>
-    <span class="highlight__underline"><li>Struggle over none</li></span>
-    <span class="highlight__underline"><li>Awareness over all</li></span>
-    <span class="highlight__underline"><li>Uncondition over judgement</li></span>
+  <ul class="five__principles__list">
+    <span class="five__principles__item__wrapper"><li class="five__principles__item">Choice over mind</li></span>
+    <span class="five__principles__item__wrapper"><li class="five__principles__item">Balance over reward</li></span>
+    <span class="five__principles__item__wrapper"><li class="five__principles__item">Struggle over none</li></span>
+    <span class="five__principles__item__wrapper"><li class="five__principles__item">Awareness over all</li></span>
+    <span class="five__principles__item__wrapper"><li class="five__principles__item">Uncondition over judgement</li></span>
   </ul>
 </div>
 
-<div class="homepage__button__wrapper">
-  <a class="homepage__button" href="/guide/the-five-fundamental-principles-of-neverfap">Learn more about the five principles.</a>
+<div class="button__wrapper">
+  <a class="button" href="/guide/the-five-fundamental-principles-of-neverfap">Learn more about the five principles.</a>
 </div>
 

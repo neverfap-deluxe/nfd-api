@@ -13,10 +13,10 @@
     display: none;
   }
 
-  ul {
+  .footer__links {
     display: flex;
     flex-direction: column;
-    li {
+    .footer__link {
       margin-right: 16px;
       list-style: none;
     }
@@ -25,8 +25,7 @@
 
 @media screen and (min-width: 420px) {
   .footer {
-
-    ul {
+    .footer__links {
       flex-direction: row;
     }
   }

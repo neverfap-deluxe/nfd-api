@@ -18,7 +18,7 @@
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E39802', endColorstr='#FF2EB6',GradientType=1 ); /* ie6-9 */
   color: white;
 
-  h1 {
+  .homepage__hero__title {
     box-shadow: -5px 5px 0px 0px black;
 
     color: white;
@@ -30,16 +30,16 @@
     font-size: 2.9rem;
   }
   
-  h2 {
+  .homepage__hero__title__secondary {
     width: 100%;
     text-align: center;
   }
 
-  .deluxe {
+  .deluxe__font {
     font-size: 3.3rem;
   }
 
-  .homepage__five__principles {
+  .five__principles__list {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -48,7 +48,7 @@
     border-bottom: 5px solid black;
     padding-top: 5px;
     background: white;
-    li {
+    .five__principles__item {
       color: white;
       color: rgb(21, 21, 21);
     }
@@ -86,19 +86,19 @@
 
 
   margin: 1rem;
-  .homepage__five__principles {
-    li {
+  .five__principles__list {
+    .five__principles__item {
       color: rgb(21, 21, 21);
     }
   }
 }
 
-.homepage__five__principles {
+.five__principles__list {
   display: flex;
   flex-direction: column;
   padding-left: 0;
 
-  li {
+  .five__principles__item {
     list-style: none;
     font-size: 1.5rem;
 
@@ -114,7 +114,7 @@
     background: none;
   }
 
-  li::before {
+  .five__principles__item::before {
       content: "";
       position: absolute;
       left: -5%;
@@ -126,11 +126,11 @@
   }
 }
 
-.homepage__button__wrapper {
+.button__wrapper {
   margin-top: 4rem; 
   margin-bottom: 4rem;
 
-  .homepage__button {
+  .button {
     background: -moz-linear-gradient(45deg, rgba(255,46,182,1) 0%, rgba(227,152,2,1) 100%); /* ff3.6+ */
     background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(255,46,182,1)), color-stop(100%, rgba(227,152,2,1))); /* safari4+,chrome */
     background: -webkit-linear-gradient(45deg, rgba(255,46,182,1) 0%, rgba(227,152,2,1) 100%); /* safari5.1+,chrome10+ */
@@ -151,13 +151,13 @@
     transition: .3s box-shadow;
   }
   
-  .homepage__button:hover {
+  .button:hover {
     box-shadow: -10px 10px 0px 0px black;
     bottom: -5px;
     left: -5px;
   }
   
-  .homepage__button:focus {
+  .button:focus {
     outline: 0;
   }
 }
@@ -180,7 +180,7 @@
   }
 
   .homepage__hero {
-    h2 {
+    .homepage__hero__title__secondary {
       margin: 0 auto;
       width: 900px;
     }
@@ -193,8 +193,8 @@
     margin-bottom: 2rem;
   }  
 
-  .homepage__five__principles {
-    li {
+  .five__principles__list {
+    .five__principles__item {
       font-size: 2rem;
     }
   }  
@@ -202,10 +202,9 @@
 
 @media screen and (min-width: 1280px) {
   .homepage__hero {
-    h2 {
+    .homepage__hero__title__secondary {
       margin: 0 auto;
       width: 900px;
     }
   }
-
 }

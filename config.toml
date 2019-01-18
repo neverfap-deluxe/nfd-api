@@ -15,9 +15,4 @@ googleAnalytics = "UA-123-45"
 [permalinks]
     post = "/guide/:slug"
 
-[params]
-  description = "Text about my cool site"
-  images = ["site-feature-image.jpg"]
-  title = "My cool site"
-
 
