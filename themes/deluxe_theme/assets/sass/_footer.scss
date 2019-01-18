@@ -16,9 +16,11 @@
   .footer__links {
     display: flex;
     flex-direction: column;
-    .footer__link {
-      margin-right: 16px;
+    .footer__link__wrapper {
       list-style: none;
+      .footer__link {
+        margin-right: 16px;
+      }  
     }
   }
 }
