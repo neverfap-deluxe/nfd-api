@@ -1,7 +1,12 @@
 ---
-title: "The Five Fundamental Principles of NeverFap"
-date: 2019-01-15T18:01:10+11:00
-draft: false
+  title: "The Five Fundamental Principles of NeverFap"
+  description: ""
+  date: 2019-01-15T18:01:10+11:00
+  draft: false
+  tags: [ "popular" ]
+  categories: [ "introduction" ]
+  # image: "/images/face.jpg"
+  slug: "the-five-fundamental-principles-of-neverfap"
 ---
 
 The NeverFap method of addressing porn addiction comprises of five core principles. 
@@ -42,7 +47,8 @@ For example, there are no fundamental NeverFap principles along the lines of "Ne
 
 A large part of the reason why this is the case is because porn addiction has very little to do with porn, nor even masturbation itself. 
 
-Rather, porn addiction is merely a superficial symptom of a wider range of personality traits which NeverFap aims to address.
+Rather, porn addiction is 
+merely a superficial symptom of a wider range of personality traits which NeverFap aims to address.
 
 Without further ado, here are the five fundmental principles of NeverFap: 
 

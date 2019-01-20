@@ -8,6 +8,6 @@
   </div>
 
   <h2>Latest Posts</h2>
-  {{ partialCached "latest_posts.html" . }}
+  {{ partialCached "latest_posts.html" (dict "page" . "post_category" "introduction") }}
 </main>
 {{ end }}

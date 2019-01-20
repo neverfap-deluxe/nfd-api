@@ -1,7 +1,12 @@
 ---
-title: "NeverFap: A Best Case Scenario"
-date: 2019-01-15T18:01:10+11:00
-draft: false
+  title: "NeverFap: A Best Case Scenario"
+  description: ""
+  date: 2019-01-15T18:01:10+11:00
+  draft: false
+  tags: [ "" ]
+  categories: [ "introduction" ]
+  # image: "/images/face.jpg"
+  slug: "neverfap-a-best-case-scenario"
 ---
 
 Originally this article was going to be about my upbringing. I wanted to write about my past, my previous trauma and help you understand how that may have contributed towards my porn addiction. However, halfway through writing it, I came to the realisation that everything I’d experienced before is completely irrelevant to who I am today. Largely, because the skills you end up learning have absolutely nothing to do with your past, hence why you don’t have those skills to begin with.

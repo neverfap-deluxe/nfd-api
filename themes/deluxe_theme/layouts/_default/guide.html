@@ -29,15 +29,55 @@
 
       <div class="button__wrapper">
         <a
-          class="button button__cyan"
+          class="button" 
           href="/guide/the-five-fundamental-principles-of-neverfap"
           >Learn more about the five principles.</a
         >
       </div>
-      <hr/>
+  
+      <h2>Article Types</h2>
+      <p>Articles are organised into two types.</p>
+      <p>There are contextual articles, which are designed to provide perspective and knowlege so you can better understand yourself.</p>
+      <p>In addition there are practice articles, which focus solely on actual things you can do on a daily basis to help you progress towards learning the skills to end porn addiction.</p>
+      <p>In creating this website I wanted to place specific emphasis on creating content you can actually use and explore on a daily basis, because that's where you'll find the most value.</p>
+      <p>You know, you can't become an amazing pianist or the world's best guitarist by staring at sheet music all day.</p>
+      <p>The same goes for your porn addiction. Without training your brain and learning through targeted exercises, you can only hope to succumb yourself to the excess of trial and error.</p>
+      
       <h2>Article List</h2>
-      {{ partialCached "latest_posts.html" . }}
+      <div class="popular__latest__title">
+        <h3 class="popular__latest__title--guide" id="introduction_click">Introduction</h3>
+        <h3 class="popular__latest__title--guide" id="choice_over_mind_click">Choice over mind</h3>
+        <h3 class="popular__latest__title--guide" id="balance_over_reward_click">Balance over reward</h3>
+        <h3 class="popular__latest__title--guide" id="struggle_over_none_click">Struggle over none</h3>
+        <h3 class="popular__latest__title--guide" id="awareness_over_all_click">Awareness over all</h3>
+        <h3 class="popular__latest__title--guide" id="uncondition_over_judgement_click">Uncondition over judgement</h3>
+      </div>
+     
+      <div class="posts--guide" id="introduction_posts">
+        {{ partial "latest_posts.html" (dict "page" . "post_category" "introduction") }}
+      </div>
+
+      <div class="posts--guide" id="choice_over_mind_posts">
+        {{ partial "latest_posts.html" (dict "page" . "post_category" "choice-over-mind") }}
+      </div>
+
+      <div class="posts--guide" id="balance_over_reward_posts">
+        {{ partial "latest_posts.html" (dict "page" . "post_category" "balance-over-reward") }}
+      </div>
+
+      <div class="posts--guide" id="strugle_over_none_posts">
+        {{ partial "latest_posts.html" (dict "page" . "post_category" "struggle-over-none") }}
+      </div>
+
+      <div class="posts--guide" id="awareness_over_all_posts">
+        {{ partial "latest_posts.html" (dict "page" . "post_category" "awareness-over-all") }}
+      </div>
+
+      <div class="posts--guide" id="uncondition_over_judgement_posts">
+        {{ partial "latest_posts.html" (dict "page" . "post_category" "unconditional-over-judgement") }}
+      </div>
     </div>
   </main>
+  <script src='/js/guide.js'></script>
 
 {{ end }}

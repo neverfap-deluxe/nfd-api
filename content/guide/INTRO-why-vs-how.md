@@ -1,7 +1,12 @@
 ---
-title: "Why vs How"
-date: 2019-01-15T18:01:10+11:00
-draft: false
+  title: "Why vs How"
+  description: ""
+  date: 2019-01-15T18:01:10+11:00
+  draft: false
+  tags: [ "" ]
+  categories: [ "introduction" ]
+  # image: "/images/face.jpg"
+  slug: "why-vs-how"
 ---
 
 “Why am I a porn addict?”

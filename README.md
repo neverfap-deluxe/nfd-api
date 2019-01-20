@@ -5,27 +5,23 @@
 - formspree plugin
 - comments plugin
 
-## Hugo Config
-
-- Change generated URLs
-- Images in posts (incorporation images into post Icons)
-
 ## app build
 
 - create categories/tags
-- related posts
-- popular posts
-- Maybe a white to fade in when you go on a page.
 - Contact Form placeholder styling.
 
 ## Types of categories
 
 - popular
 
+- Context
+- Practice
+- Introduction
+
+
+
 Google Analytics
 Google Search Console
-formspree
-Fix up css logic into composable things.
 Netlify stuff
 
 {{ range .Pages.ByDate }}
