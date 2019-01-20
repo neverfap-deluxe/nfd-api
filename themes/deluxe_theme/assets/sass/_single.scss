@@ -1,6 +1,11 @@
 
 .single__wrapper {
   margin: 10px;
+
+  .single__content {
+    border-bottom: 5px solid black;
+    padding-bottom: 5rem;
+  }
 }
 
 @media screen and (min-width: 420px) {
@@ -13,7 +18,7 @@
   .single__wrapper {
     display: flex;
     flex-direction: column;
-    margin-left: 80px;
+    margin-left: 160px;
     width: 600px;
   }
 }
@@ -23,6 +28,6 @@
   .single__wrapper {
     display: flex;
     flex-direction: column;
-    margin-left: 160px;
+    margin-left: 240px;
   }
 }

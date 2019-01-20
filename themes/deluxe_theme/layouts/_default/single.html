@@ -3,7 +3,9 @@
   <h1 class="homepage__hero__title">{{ .Title }}</h1>
 </div>
 <main class="single__wrapper">
-  <div class="single__content">{{ .Content }}</div>
+  <div class="single__content">
+    {{ .Content }}
+  </div>
 
   <h2>Latest Posts</h2>
   {{ partialCached "latest_posts.html" . }}

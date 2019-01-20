@@ -4,6 +4,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   {{ .Hugo.Generator }}
 
+  <meta name="author" content="Julius Reade">
+  <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}"/>
+  <meta name="robots" content="noodp"/>
+  <link rel="canonical" href="{{ .Permalink }}" />
+
+  <!-- Emoji CSS -->
   <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
   <!-- <script src='https://www.google.com/recaptcha/api.js'></script> -->
 
@@ -26,66 +32,65 @@
   <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
 
+  <!-- SCSS -->
   {{ $style := resources.Get "sass/index.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">
-  <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
 
-  <meta name="author" content="Julius Reade">
-  <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}"/>
-  <meta name="robots" content="noodp"/>
-  <link rel="canonical" href="{{ .Permalink }}" />
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Parisienne|Montserrat|Noto+Sans" rel="stylesheet">
 
+  <!-- Open Graph Schema -->
   {{ if .IsPage }}
-      <script type="application/ld+json">
-      {{if eq .Section "post"}}
-      {
-        "@context" : "http://schema.org",
-        "@type" : "BlogPosting",
-        "mainEntityOfPage": {
-             "@type": "WebPage",
-             "@id": "{{ .Site.BaseURL }}"
-        },
-        "articleSection" : "{{ .Section }}",
-        "name" : "{{ .Title }}",
-        "headline" : "{{ .Title }}",
-        {{ if .IsHome -}}
-          "description": "{{ .Description }}",
-          "description" : "{{ .Site.Params.description }}", 
-        {{- else -}}
-          "description" : "{{ default .Summary .Description }}",
-        {{- end }}
-        "inLanguage" : "en-US",
-        "author" : "{{ .Site.Author.name }}",
-        "creator" : "{{ .Site.Author.name }}",
-        "publisher": "{{ .Site.Author.name }}",
-        "accountablePerson" : "{{ .Site.Author.name }}",
-        "copyrightHolder" : "{{ .Site.Author.name }}",
-        "copyrightYear" : "{{ .Date.Format "2006" }}",
-        "datePublished": "{{ time .Date }}",
-        "dateModified" : "{{ .Date }}",
-        "url" : "{{ .Permalink }}",
-        "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }} ]
-        "genre": "{{ range .Params.categories }}{{ . }}{{ end }}",
-      }
-      {{ else }}
-      {
-        "@context": "http://schema.org",
-        "@type": "WebSite",
-        "url": "{{ .Permalink }}",
-        "name": "{{ .Title }}",
-        "author": {
-            "@type": "Person",
-            "name": "{ .Site.Params.author }}"
+    <script type="application/ld+json">
+      {{ if eq .Section "post" }}
+        {
+          "@context" : "http://schema.org",
+          "@type" : "BlogPosting",
+          "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "{{ .Site.BaseURL }}"
           },
-        "description": "{ .Site.Params.description }}",
-      }
-      </script>
+          "articleSection" : "{{ .Section }}",
+          "name" : "{{ .Title }}",
+          "headline" : "{{ .Title }}",
+          {{ if .IsHome -}}
+            "description": "{{ .Description }}",
+            "description" : "{{ .Site.Params.description }}", 
+          {{- else -}}
+            "description" : "{{ default .Summary .Description }}",
+          {{- end }}
+          "inLanguage" : "en-US",
+          "author" : "{{ .Site.Author.name }}",
+          "creator" : "{{ .Site.Author.name }}",
+          "publisher": "{{ .Site.Author.name }}",
+          "accountablePerson" : "{{ .Site.Author.name }}",
+          "copyrightHolder" : "{{ .Site.Author.name }}",
+          "copyrightYear" : "{{ .Date.Format "2006" }}",
+          "datePublished": "{{ time .Date }}",
+          "dateModified" : "{{ .Date }}",
+          "url" : "{{ .Permalink }}",
+          "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }} ]
+          "genre": "{{ range .Params.categories }}{{ . }}{{ end }}",
+        }
+      {{ else }}
+        {
+          "@context": "http://schema.org",
+          "@type": "WebSite",
+          "url": "{{ .Permalink }}",
+          "name": "{{ .Title }}",
+          "author": {
+            "@type": "Person",
+            "name": "{{ .Site.Params.author }}"
+          },
+          "description": "{{ .Site.Params.description }}",
+        }
       {{ end }}
+    </script>
   {{ end }}
 
+  <!-- Internal Templates -->
   {{ template "_internal/google_analytics_async.html" . }}
-  {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/opengraph.html" . }} <!-- Is this something I need ?-->
   {{ template "_internal/twitter_cards.html" . }}
-
 </head>
 

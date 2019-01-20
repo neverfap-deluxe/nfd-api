@@ -2,20 +2,11 @@
   title: "Introduction to the NeverFap Deluxe Guide"
   date: 2019-01-15T18:01:10+11:00
   draft: false
-  tags: ["popular"]
-  categories: ["cat1"]
+  tags: [ "popular" ]
+  categories: [ "introduction" ]
   image: "/images/face.jpg"
-  slug: ""
+  slug: "introduction-to-the-neverfap-deluxe-guide"
 ---
-
-<!-- So, you're convinced that porn is a bad thing and that you want to kick the habit for good?
-
-Excellent, well, that's good news!
-
-At this point, you've probably already attempted to give up porn in some capacity. You've probably tried, and failed, and you're seeking help to better understand how to make the process a lot easier.
-
-The first thing I would like to say is to not lose hope, and to forget about previous experiences.  -->
-
 
 Today I’m here to talk to you about porn addiction.
 
@@ -80,7 +71,13 @@ I didn’t up successfully give up pornography by fighting my emotions and cravi
 
 Essentially, the moral of the story, is that If you’re really struggling with giving up porn, then there’s some aspect of your personality that you’re not yet familiar with. And it’s not until you fully understand who you are, that you can build up the confidence to commit to your goals. That’s what we’re here to discover.
 
-So sit back. Relax. Laugh. Cry. Relapse. We’re not here to fight ourselves any longer. We’re here to understand who we are, what we have to do to change, as well as how we can improve as human beings.
+So sit back. 
+
+Relax. Laugh. Cry. 
+
+We’re not here to fight ourselves any longer. 
+
+We’re here to understand who we are, what we have to do to change, as well as how we can improve as people.
 
 
 

@@ -1,18 +1,43 @@
 {{ define "main" }}
-<main class="single__wrapper">
-  <div class="single__content">
-    <h2>Welcome to the NeverFap Deluxe Guide!</h2>
-    <p>Here are just a few of the skills you will learn from this website:</p>
-    <ul>
-      <li>Learn to value your mental health above all.</li>
-      <li>Develop the ability to quiet and focus your mind.</li>
-      <li>Learn to love and accept myself and others unconditionally.</li>
-      <li>Change the way you think about sex and women.</li>
-      <li>Understand the value of commitment and long-term thinking.</li>
-    </ul>
+  <main class="single__wrapper">
+    <div class="single__content">
+      <h2>Welcome to the NeverFap Deluxe Guide!</h2>
+      
+      <p>Thank you for choosing to take a deeper look into the NeverFap method of overcoming porn addiction.</p>
+      <p>Coming to the realisation that you're a porn addict, and making the decision to overcome your porn addiction, is arguably one of the most profound things you will ever do.</p>
+      <p>And in the process of overcoming this addiction, will completely change the way you feel, think and perceive yourself and others, in ways that you will have never experienced before.</p>
+      <p>Here are just a few of the skills you will learn from our guide:</p>
+      
+      <ul class="five__principles__guide">
+        <span class="five__principles__item__wrapper"><li class="five__principles__item">Learn to value your mental health above all.</li></span>
+        <span class="five__principles__item__wrapper"><li class="five__principles__item">Develop the ability to quiet and focus your mind.</li></span>
+        <span class="five__principles__item__wrapper"><li class="five__principles__item">Accept yourself and others unconditionally.</li></span>
+        <span class="five__principles__item__wrapper"><li class="five__principles__item">Change the way you think about sex and women.</li></span>
+        <span class="five__principles__item__wrapper"><li class="five__principles__item">Commit to long-term thinking.</li></span>
+      </ul>
+      <ul class="five__principles__guide--mobile">
+        <h3>Learn to value your mental health above all.</h3>
+        <h3>Develop the ability to quiet and focus your mind.</h3>
+        <h3>Accept yourself and others unconditionally.</h3>
+        <h3>Change the way you think about sex and women.</h3>
+        <h3>Commit to long-term thinking.</h3>
+      </ul>
+      
+      <h2>Getting Started</h2>
+      <p>Before you begin, I highly recommend becoming familiar with The Five Fundamental Principles of NeverFap.</p>
+      <p>These principles will form the basis of everything you will learn, and each article will focus on a particular principle.</p>
 
-    <h2>Article List</h2>
-    {{ partialCached "latest_posts.html" . }}
-  </div>
-</main>
+      <div class="button__wrapper">
+        <a
+          class="button button__cyan"
+          href="/guide/the-five-fundamental-principles-of-neverfap"
+          >Learn more about the five principles.</a
+        >
+      </div>
+      <hr/>
+      <h2>Article List</h2>
+      {{ partialCached "latest_posts.html" . }}
+    </div>
+  </main>
+
 {{ end }}
