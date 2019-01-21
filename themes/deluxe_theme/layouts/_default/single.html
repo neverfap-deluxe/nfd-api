@@ -1,13 +1,13 @@
 {{ define "main" }}
-<div class="homepage__hero homepage__guide__wrapper">
-  <h1 class="homepage__hero__title">{{ .Title }}</h1>
-</div>
-<main class="single__wrapper">
-  <div class="single__content">
-    {{ .Content }}
+  <div class="homepage__hero homepage__guide__wrapper">
+    <h1 class="homepage__hero__title">{{ .Title }}</h1>
   </div>
+  <main class="single__wrapper">
+    <div class="single__content">
+      {{ .Content }}
+    </div>
 
-  <h2>Latest Posts</h2>
-  {{ partial "latest_posts.html" . }}
-</main>
+    <h2>Latest Posts</h2>
+    {{ partial "latest_posts.html" . }}
+  </main>
 {{ end }}

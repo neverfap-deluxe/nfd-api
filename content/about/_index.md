@@ -18,7 +18,11 @@ Everything I've read online offers seemingly vague, and to be quite frank, terri
 
 You wouldn't get financial advice from someone with a gambling problem, so why should porn addiction recovery advice be any different?
 
-In fact, not once did I read about the significance of meditation, arguably the most important thing you can do to help overcome porn addiction.
+Not once did I read about the significance of meditation, arguably the most important thing you can do to help overcome porn addiction.
+
+<div class="button__wrapper">
+  <a class="button" href="/guide/my-personal-porn-recovery-journey">My Personal Porn Recovery Journey.</a>
+</div>
 
 That's when I knew there was an opportunity to create a website that could save people years trying to overcome their porn addiction. 
 

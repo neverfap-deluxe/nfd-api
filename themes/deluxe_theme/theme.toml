@@ -5,13 +5,13 @@ name = "deluxe_theme"
 license = "MIT"
 licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
 description = ""
-homepage = "http://example.com/"
+homepage = "https://neverfapdeluxe.com/"
 tags = []
 features = []
 min_version = "0.41"
 
 [author]
-  name = ""
+  name = "Julius Reade"
   homepage = ""
 
 # If porting an existing theme

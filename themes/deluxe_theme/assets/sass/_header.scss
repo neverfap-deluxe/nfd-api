@@ -24,8 +24,6 @@
         color: black;
         margin-left: 8px;
         margin-right: 8px;
-        padding-left: 8px;
-        padding-right: 8px;
       }  
     }
     .header__link__wrapper:hover {
@@ -60,11 +58,13 @@
   }
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 420px) {
   .header {
     .header__links {
       .header__link__wrapper {
         .header__link {
+          padding-left: 8px;
+          padding-right: 8px;  
         }
       }
     }
