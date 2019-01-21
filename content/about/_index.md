@@ -21,7 +21,7 @@ You wouldn't get financial advice from someone with a gambling problem, so why s
 Not once did I read about the significance of meditation, arguably the most important thing you can do to help overcome porn addiction.
 
 <div class="button__wrapper">
-  <a class="button" href="/guide/my-personal-porn-recovery-journey">My Personal Porn Recovery Journey.</a>
+  <a class="button button__secondary" href="/guide/my-personal-porn-recovery-journey">My Personal Porn Recovery Journey.</a>
 </div>
 
 That's when I knew there was an opportunity to create a website that could save people years trying to overcome their porn addiction. 
@@ -33,7 +33,8 @@ No more excuses. No more compromises. This is the real deal.
 Compromising of five fundamental principles, the NeverFap method of eliminating porn addiction, addressing porn addiction could honestly not be simpler. 
 
 These principles are:
-<div class="homepage__section" style="margin-top: 0;">
+
+<div class="homepage__section">
   <ul class="five__principles__list">
     <span class="five__principles__item__wrapper"><li class="five__principles__item">Choice over mind</li></span>
     <span class="five__principles__item__wrapper"><li class="five__principles__item">Balance over reward</li></span>
@@ -44,6 +45,6 @@ These principles are:
 </div>
 
 <div class="button__wrapper">
-  <a class="button" href="/guide/the-five-fundamental-principles-of-neverfap">Learn more about the five principles.</a>
+  <a class="button button__secondary" href="/guide/the-five-fundamental-principles-of-neverfap">Learn more about the five principles.</a>
 </div>
 

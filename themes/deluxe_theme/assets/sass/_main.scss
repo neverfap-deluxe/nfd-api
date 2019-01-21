@@ -20,7 +20,7 @@ h1 {
 
 h2 {
   font-size: 2.3rem;
-  line-height: 2.9rem;
+  line-height: 3rem;
 }
 
 h3 {
@@ -41,6 +41,18 @@ hr {
   font-family: 'Parisienne', cursive; 
 }
 
+.em {
+  position: relative;
+  top: -0.1rem;
+}
+
+.em-innocent {
+  top: 0;
+}
+
+.em-x {
+  top: 0;
+}
 
 // @media screen and (min-width: 768px) {
 

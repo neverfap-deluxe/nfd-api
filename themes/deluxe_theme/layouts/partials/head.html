@@ -55,7 +55,6 @@
           "name" : "{{ .Title }}",
           "headline" : "{{ .Title }}",
           {{ if .IsHome -}}
-            "description": "{{ .Description }}",
             "description" : "{{ .Site.Params.description }}", 
           {{- else -}}
             "description" : "{{ default .Summary .Description }}",

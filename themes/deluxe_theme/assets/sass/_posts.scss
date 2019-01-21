@@ -31,6 +31,7 @@
         .five__principles__item {
           left: -1rem;
           font-size: 1.2rem;
+          height: 26px;
         }
         .five__principles__item::before {
           background-color: rgba(255,46,182,1);
@@ -53,7 +54,8 @@
         }
 
         .five__principles__item--awareness-over-all {
-          color: rgb(116, 101, 255); 
+          // color: rgb(116, 101, 255); 
+          color: white; 
         }
 
         .five__principles__item--unconditional-over-judgement {

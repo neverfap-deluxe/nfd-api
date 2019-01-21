@@ -2,9 +2,9 @@
   title: "The Importance of Meditation and NeverFap"
   description: ""
   date: 2019-01-15T18:01:10+11:00
-  draft: false
+  draft: true
   tags: [ "context" ]
-  categories: [ "balance-over-reward" ]
+  categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
   slug: "the-importance-of-meditation-and-neverfap"
 ---
