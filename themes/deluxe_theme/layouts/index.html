@@ -23,18 +23,14 @@
           <!-- <li class="homepage__recovered__porn__addict__item">I refrain from judging others, including myself. </li> -->
           <li class="homepage__recovered__porn__addict__item">I have control over my mind and my thoughts.</li>
           <li class="homepage__recovered__porn__addict__item">I'm conscious of my feelings and emotions.</li>
-          <li class="homepage__recovered__porn__addict__item">I'm happy with myself and accept who I am.</li>
           <li class="homepage__recovered__porn__addict__item">I'm comfortable with my emotions, both positive and negative.</li>
+          <li class="homepage__recovered__porn__addict__item">I'm happy with myself and accept who I am.</li>
           <li class="homepage__recovered__porn__addict__item">I don’t engage in self-harm.</li>
           <li class="homepage__recovered__porn__addict__item">I'm motivated, confident and ambitious.</li>
           <li class="homepage__recovered__porn__addict__item">I'm not afraid to be vulnerable.</li>
           <li class="homepage__recovered__porn__addict__item">I'm committed to my mental health.</li>
         </ul>
-
-        <p>
-          ...so in a sense, this website has nothing to do with porn addiction
-          at all.
-        </p>
+        <p>...so in a sense, this website has nothing to do with porn addiction at all.</p>
         <h3>Because becoming a better person has nothing to do with porn.</h3>
       </div>
 
@@ -86,10 +82,10 @@
           <h3 id="latest">Latest posts.</h3>
         </div>
         <div id="popular__posts">
-          {{ partialCached "popular_posts.html" . }}
+          {{ partial "popular_posts.html" . }}
         </div>
         <div id="latest__posts">
-          {{ partialCached "latest_posts.html" (dict "page" . "post_category" "introduction") }}
+          {{ partial "latest_posts.html" . }}
         </div>
       </div>
 

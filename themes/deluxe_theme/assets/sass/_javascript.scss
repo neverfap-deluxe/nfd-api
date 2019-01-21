@@ -53,13 +53,16 @@
   }
 }
 
-.display__block {
+#popular__posts, #introduction_posts {
   display: block;
 }
 
-.display__none {
+#latest__posts, #choice_over_mind_posts, #balance_over_reward_posts, #strugle_over_none_posts, #awareness_over_all_posts, #uncondition_over_judgement_posts {
   display: none;
 }
+
+
+
 
 // .buttonIsClicked {
 //   color: black!important;

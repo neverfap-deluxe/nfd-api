@@ -5,6 +5,13 @@
   .single__content {
     border-bottom: 5px solid black;
     padding-bottom: 5rem;
+
+    .link {
+      color: rgba(255,46,182,1);
+      text-decoration-line: underline;
+      text-decoration-color: cyan;
+      border-bottom: 2px solid cyan;
+    }
   }
 }
 

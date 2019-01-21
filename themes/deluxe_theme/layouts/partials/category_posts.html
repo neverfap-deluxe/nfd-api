@@ -1,30 +1,32 @@
 <div class="posts">
-  {{ range .Pages }}
+  {{ $cat := .post_category }}  
+  {{ range .page.Pages }}
+    {{ if in .Params.categories $cat }}
     <a class="post" href="{{.Permalink}}">
       <div class="post__left">
         <ul class="five__principles__post">
           <span class="five__principles__item__wrapper">
-            {{ if in .Params.categories "introduction" }}
+            {{ if eq $cat "introduction" }}
               <li class="five__principles__item five__principles__item--introduction">
                 Introduction
               </li>
-            {{ else if in .Params.categories "choice-over-mind" }}
+            {{ else if eq $cat "choice-over-mind" }}
               <li class="five__principles__item five__principles__item--choice-over-mind">
                 Choice over mind
               </li>
-            {{ else if in .Params.categories "balance-over-reward" }} 
+            {{ else if eq $cat "balance-over-reward" }} 
               <li class="five__principles__item five__principles__item--balance-over-reward">
                 Balance over reward
               </li>
-            {{ else if in .Params.categories "struggle-over-none" }} 
+            {{ else if eq $cat "struggle-over-none" }} 
               <li class="five__principles__item five__principles__item--struggle-over-none">
                 Struggle over none
               </li>
-            {{ else if in .Params.categories "awareness-over-all" }} 
+            {{ else if eq $cat "awareness-over-all" }} 
               <li class="five__principles__item five__principles__item--awareness-over-all">
                 Awareness over all
               </li>
-            {{ else if in .Params.categories "unconditional-over-judgement" }} 
+            {{ else if eq $cat "unconditional-over-judgement" }} 
               <li class="five__principles__item">
                   Uncondition over judgement
               </li>
@@ -37,7 +39,7 @@
       <!-- <div class="post__right">
         <img class="post__image" src="{{ .Params.image }}" />      
       </div> -->
-    </a>
+    </a>    
+    {{ end }}
   {{ end }}
 </div>
-  

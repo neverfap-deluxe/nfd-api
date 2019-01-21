@@ -4,9 +4,9 @@
       <h2>Welcome to the NeverFap Deluxe Guide!</h2>
       
       <p>Thank you for choosing to take a deeper look into the NeverFap method of overcoming porn addiction.</p>
-      <p>Coming to the realisation that you're a porn addict, and making the decision to overcome your porn addiction, is arguably one of the most profound things you will ever do.</p>
-      <p>And in the process of overcoming this addiction, will completely change the way you feel, think and perceive yourself and others, in ways that you will have never experienced before.</p>
-      <p>Here are just a few of the skills you will learn from our guide:</p>
+      <p>Coming to the realisation that you're a porn addict, as well as making the decision to overcome your porn addiction is arguably one of the most profound things you can ever do.</p>
+      <p>It will completely change the way you feel, think and perceive yourself and others.</p>
+      <p>To begin here are just a few of the skills you will learn from our guide:</p>
       
       <ul class="five__principles__guide">
         <span class="five__principles__item__wrapper"><li class="five__principles__item">Learn to value your mental health above all.</li></span>
@@ -35,15 +35,16 @@
         >
       </div>
   
-      <h2>Article Types</h2>
+      <!-- <h2>Article Types</h2> -->
       <p>Articles are organised into two types.</p>
-      <p>There are contextual articles, which are designed to provide perspective and knowlege so you can better understand yourself.</p>
-      <p>In addition there are practice articles, which focus solely on actual things you can do on a daily basis to help you progress towards learning the skills to end porn addiction.</p>
-      <p>In creating this website I wanted to place specific emphasis on creating content you can actually use and explore on a daily basis, because that's where you'll find the most value.</p>
-      <p>You know, you can't become an amazing pianist or the world's best guitarist by staring at sheet music all day.</p>
-      <p>The same goes for your porn addiction. Without training your brain and learning through targeted exercises, you can only hope to succumb yourself to the excess of trial and error.</p>
+      <p>There are contextual articles, which are designed to provide you with perspective and knowlege in order for you to gain a better understand of yourself.</p>
+      <p>In addition there are practice articles, which focus solely on verifiable steps you can take on a daily basis to help you progress towards learning the skills to end porn addiction.</p>
+      <p>You know, you can't become an amazing pianist or the world's best guitarist by staring at sheet music all day, and the same goes for overcoming porn addiction.</p>
+      <p>Without training your mind and learning new skills through targeted exercises, you can only hope to succumb yourself to the excesses of trial and error.</p>
       
       <h2>Article List</h2>
+      <p>Once you're ready, and after you've read <a class="link" href="/guide/the-five-fundamental-principles-of-neverfap">The Five Fundamental Principles of NeverFap</a>, feel free to explore the range of guides available on the website.</p>
+
       <div class="popular__latest__title">
         <h3 class="popular__latest__title--guide" id="introduction_click">Introduction</h3>
         <h3 class="popular__latest__title--guide" id="choice_over_mind_click">Choice over mind</h3>
@@ -54,27 +55,27 @@
       </div>
      
       <div class="posts--guide" id="introduction_posts">
-        {{ partial "latest_posts.html" (dict "page" . "post_category" "introduction") }}
+        {{ partial "category_posts.html" (dict "page" . "post_category" "introduction") }}
       </div>
 
       <div class="posts--guide" id="choice_over_mind_posts">
-        {{ partial "latest_posts.html" (dict "page" . "post_category" "choice-over-mind") }}
+        {{ partial "category_posts.html" (dict "page" . "post_category" "choice-over-mind") }}
       </div>
 
       <div class="posts--guide" id="balance_over_reward_posts">
-        {{ partial "latest_posts.html" (dict "page" . "post_category" "balance-over-reward") }}
+        {{ partial "category_posts.html" (dict "page" . "post_category" "balance-over-reward") }}
       </div>
 
       <div class="posts--guide" id="strugle_over_none_posts">
-        {{ partial "latest_posts.html" (dict "page" . "post_category" "struggle-over-none") }}
+        {{ partial "category_posts.html" (dict "page" . "post_category" "struggle-over-none") }}
       </div>
 
       <div class="posts--guide" id="awareness_over_all_posts">
-        {{ partial "latest_posts.html" (dict "page" . "post_category" "awareness-over-all") }}
+        {{ partial "category_posts.html" (dict "page" . "post_category" "awareness-over-all") }}
       </div>
 
       <div class="posts--guide" id="uncondition_over_judgement_posts">
-        {{ partial "latest_posts.html" (dict "page" . "post_category" "unconditional-over-judgement") }}
+        {{ partial "category_posts.html" (dict "page" . "post_category" "unconditional-over-judgement") }}
       </div>
     </div>
   </main>
