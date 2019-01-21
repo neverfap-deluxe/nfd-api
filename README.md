@@ -19,6 +19,8 @@
 - Introduction
 
 
+Privacy and Disclaimer files
+
 
 Google Analytics
 Google Search Console
@@ -102,3 +104,4 @@ Netlify stuff
   <meta property="og:site_name" content="{{ .Site.Title }}" />
   {{ range .Params.categories }}<meta property="article:section" content="{{ . }}" />{{ end }}
   {{ if isset .Params "date" }}<meta property="article:published_time" content="{{ time .Date }}" />{{ end }} -->
+
