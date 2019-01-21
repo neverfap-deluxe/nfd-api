@@ -35,6 +35,7 @@
   <!-- SCSS -->
   {{ $style := resources.Get "sass/index.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">
+  <link rel="stylesheet" href="/css/normalize.css">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Parisienne|Montserrat|Noto+Sans" rel="stylesheet">

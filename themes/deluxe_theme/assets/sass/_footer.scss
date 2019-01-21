@@ -15,12 +15,23 @@
 
   .footer__links {
     display: flex;
-    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    margin: 0;
+    height: 100%;
+    
     .footer__link__wrapper {
+      display: flex;
+      align-items: center;  
+      height: 100%;
       list-style: none;
       .footer__link {
         color: black;
-        margin-right: 16px;
+        margin-left: 8px;
+        margin-right: 8px;
+        padding-left: 8px;
+        padding-right: 8px;
       }  
     }
   }
