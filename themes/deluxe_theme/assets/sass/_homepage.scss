@@ -29,32 +29,16 @@
   }
   
   .homepage__hero__title__secondary {
-    width: 100%;
+    width: 95%;
     margin-left: 1rem;
     margin-right: 1rem;
+    font-size: 2.1rem;
     text-align: center;
   }
 
   .deluxe__font {
     font-size: 3.3rem;
   }
-
-  .five__principles__list {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    border-top: 5px solid black;
-    border-bottom: 5px solid black;
-    padding-top: 5px;
-    background: white;
-  }
-
-  .five__principles__item {
-    color: rgb(21, 21, 21);
-    position: relative;
-    top: 0.5rem;
-  }  
 }
 
 .homepage__recovered__porn__addict__list {
@@ -99,118 +83,18 @@
 
 .homepage__section {
   margin: 1rem;
-  .five__principles__item {
-    font-size: 1.4rem;
-    color: rgb(21, 21, 21);
-  }
 }
-
-.five__principles__list--homepage {
-  margin-top: 3rem;
-  margin-bottom: 4rem;
-}
-
-.five__principles__list {
-  display: flex;
-  flex-direction: column;
-  padding-left: 0;
-}
-
-.five__principles__item {
-  list-style: none;
-  font-size: 1.5rem;
-
-  border-bottom: 5px solid black;
-  margin-bottom: 1.8rem; 
-  
-  position: relative;
-  left: 1rem;
-  display: inline-block;
-  transform: scale(1) rotate(-2deg) skew(-20deg);
-  z-index: 300; // was -1
-  
-  background: none;
-}
-
-.five__principles__item::before {
-    content: "";
-    position: absolute;
-    left: -5%;
-    bottom: -1px;
-    width: 110%;
-    height: 16px;
-    background-color: yellow;
-    z-index: -1;
-}
-
-.button__wrapper {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-top: 4rem; 
-  margin-bottom: 4rem;
-
-  .button__cyan {
-    background: -moz-linear-gradient(45deg, purple 0%, cyan 100%)!important; /* ff3.6+ */
-    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, purple), color-stop(100%, cyan))!important; /* safari4+,chrome */
-    background: -webkit-linear-gradient(45deg, purple 0%, cyan 100%)!important; /* safari5.1+,chrome10+ */
-    background: -o-linear-gradient(45deg, purple 0%, cyan 100%)!important; /* opera 11.10+ */
-    background: -ms-linear-gradient(45deg, purple 0%, cyan 100%)!important; /* ie10+ */
-    background: linear-gradient(45deg, purple 0%, cyan 100%)!important; /* w3c */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E39802', endColorstr='#FF2EB6',GradientType=1 )!important; /* ie6-9 */
-  }
-  
-  .button {
-    background: -moz-linear-gradient(45deg, rgba(255,46,182,1) 0%, rgba(227,152,2,1) 100%); /* ff3.6+ */
-    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(255,46,182,1)), color-stop(100%, rgba(227,152,2,1))); /* safari4+,chrome */
-    background: -webkit-linear-gradient(45deg, rgba(255,46,182,1) 0%, rgba(227,152,2,1) 100%); /* safari5.1+,chrome10+ */
-    background: -o-linear-gradient(45deg, rgba(255,46,182,1) 0%, rgba(227,152,2,1) 100%); /* opera 11.10+ */
-    background: -ms-linear-gradient(45deg, rgba(255,46,182,1) 0%, rgba(227,152,2,1) 100%); /* ie10+ */
-    background: linear-gradient(45deg, rgba(255,46,182,1) 0%, rgba(227,152,2,1) 100%); /* w3c */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E39802', endColorstr='#FF2EB6',GradientType=1 ); /* ie6-9 */
-    color: white;
-  
-    box-shadow: -5px 5px 0px 0px black;
-  
-    color: white;
-    border: 4px solid white;
-  
-    padding: 0.5rem; 
-    font-size: 1rem;     
-    cursor: pointer;
-  
-    transition: .3s box-shadow;
-  }
-
-  .button__secondary {
-    font-size: 1.4rem;
-  }
-  
-  .button:hover {
-    box-shadow: -10px 10px 0px 0px black;
-    bottom: -5px;
-    left: -5px;
-  }
-  
-  .button:focus {
-    outline: 0;
-  }
-}
-
-
-
-
 
 @media screen and (min-width: 420px) {
+  .homepage__hero {
+    .homepage__hero__title__secondary {
+      font-size: 2.3rem;
+    }
+  }
+
   .homepage__section {
     margin: 2rem;
   }    
-  .button__wrapper {
-    .button {
-      padding: 1rem; 
-      font-size: 2rem;  
-    }
-  }
 }
 
 
@@ -240,10 +124,6 @@
     margin-top: 2rem;
     margin-bottom: 2rem;
   }  
-
-  .five__principles__item {
-    font-size: 2rem;
-  }
 }
 
 @media screen and (min-width: 1280px) {

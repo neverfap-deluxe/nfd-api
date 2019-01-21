@@ -77,7 +77,7 @@ This is why I came up with the Five Fundamental Principles of NeverFap, to help 
   <a
     class="button"
     href="/guide/the-five-fundamental-principles-of-neverfap"
-    >Learn more about the five principles.</a
+    >Learn More About The Five Principles.</a
   >
 </div>
 

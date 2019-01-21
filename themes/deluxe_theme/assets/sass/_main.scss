@@ -10,8 +10,9 @@ a {
 
 body {
   width: 100%;
+  box-sizing: border-box;
   border: 5px solid black;
-  margin: 0.5rem!important;
+  margin: 0!important;
   background: rgb(253, 253, 253);
 }
 
@@ -55,6 +56,8 @@ hr {
   top: 0;
 }
 
-// @media screen and (min-width: 768px) {
-
-// }
+@media screen and (min-width: 420px) {
+  body {
+    margin: 0.5rem!important;
+  }
+}

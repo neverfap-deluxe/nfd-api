@@ -1,7 +1,12 @@
 ---
-title: "About"
-date: 2019-01-15T18:01:10+11:00
-draft: false
+  title: "About"
+  description: ""
+  date: 2019-01-15T18:01:10+11:00
+  draft: false
+  tags: [ "" ]
+  categories: [ "" ]
+  # image: "/images/face.jpg"
+  slug: "about"
 ---
 
 Welcome to NeverFap Deluxe.
@@ -30,6 +35,12 @@ Enter NeverFap Deluxe: A comprehensive online step-by-step how-to guide which ex
 
 No more excuses. No more compromises. This is the real deal.
 
+I've written about how NeverFap approaches things differently, especially from a philosophical point of view. 
+
+<div class="button__wrapper">
+  <a class="button button__secondary" href="/guide/what-makes-neverfap-so-different/">What Makes NeverFap So Different.</a>
+</div>
+
 Compromising of five fundamental principles, the NeverFap method of eliminating porn addiction, addressing porn addiction could honestly not be simpler. 
 
 These principles are:
@@ -45,6 +56,6 @@ These principles are:
 </div>
 
 <div class="button__wrapper">
-  <a class="button button__secondary" href="/guide/the-five-fundamental-principles-of-neverfap">Learn more about the five principles.</a>
+  <a class="button button__secondary" href="/guide/the-five-fundamental-principles-of-neverfap">Learn More About The Five Principles.</a>
 </div>
 
