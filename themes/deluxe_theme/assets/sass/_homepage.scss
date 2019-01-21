@@ -54,7 +54,7 @@
     color: rgb(21, 21, 21);
     position: relative;
     top: 0.5rem;
-  }
+  }  
 }
 
 .homepage__recovered__porn__addict__list {
@@ -100,6 +100,7 @@
 .homepage__section {
   margin: 1rem;
   .five__principles__item {
+    font-size: 1.4rem;
     color: rgb(21, 21, 21);
   }
 }
@@ -143,6 +144,9 @@
 }
 
 .button__wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   margin-top: 4rem; 
   margin-bottom: 4rem;
 
@@ -171,7 +175,7 @@
     border: 4px solid white;
   
     padding: 0.5rem; 
-    font-size: 1.2rem;     
+    font-size: 1rem;     
     cursor: pointer;
   
     transition: .3s box-shadow;
