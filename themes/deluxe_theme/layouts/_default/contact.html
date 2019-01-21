@@ -1,26 +1,25 @@
 {{ define "main" }}
-  <main class="single__wrapper">    
-    <h1 class="single__title">{{ .Title }}</h1>
+  <!-- <div class="homepage__hero homepage__guide__wrapper">
+    <h1 class="homepage__hero__title">{{ .Title }}</h1>
+  </div> -->
+  <main class="single__wrapper">   
+    <h2>{{ .Title }}</h2>
     <div class="single__content">
       {{ .Content }}
-    </div>
-
-    <div class="form__wrapper">
-      <form class="form">  
-        <!-- <h4 class="form__title">THE FORM</h4> -->
-  
+      <div class="form__wrapper">
+        <form class="form" action="https://formspree.io/julius_dott@hotmail.com" method="POST">  
+          <!-- <h4 class="form__title">THE FORM</h4> -->
         <div class="form__input__container">
           <input class="form__input" type="text" placeholder="Name" name='name'/>
-          <input class="form__input" type="email" placeholder="Email" name='email'/>
-          <textarea class="form__input form__textarea" type="text" placeholder="Subject" name='subject'></textarea>
+          <input class="form__input" type="email" placeholder="Email" name='_replyTo'/>
+          <textarea class="form__input form__textarea" type="text" placeholder="Message" name='message'></textarea>
         </div>
-  
+      
         <div class="form__submission__container">
-          <button type="submit" class="form__buton">Send</button>
+          <button class="form__button" type="submit" value="Send">Send</button>
         </div>
-      </form>
+        </form>
+      </div>    
     </div>
-
-
   </main>
 {{ end }}

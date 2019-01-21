@@ -8,7 +8,9 @@ Welcome to NeverFap Deluxe.
 
 I decided to create this website in 2019 to help people overcome porn addiction.
 
-Not only have I personally overcome porn addiction, to a point that I literally do not think about porn nor struggle with it in any way, however I want to help you do the same too. 
+Not only have I personally overcome porn addiction, to a point that I literally do not think about porn nor struggle with it in any way.
+
+However I want to help you do the same too. 
 
 While everyone is seemingly aware of the NoFap movement, and while there are thousands of support groups and networks, no one actually seems to be able to  effectively explain how to achieve NoFap with any sort of consistency.
 
@@ -27,7 +29,6 @@ No more excuses. No more compromises. This is the real deal.
 Compromising of five fundamental principles, the NeverFap method of eliminating porn addiction, addressing porn addiction could honestly not be simpler. 
 
 These principles are:
-****
 <div class="homepage__section" style="margin-top: 0;">
   <ul class="five__principles__list">
     <span class="five__principles__item__wrapper"><li class="five__principles__item">Choice over mind</li></span>

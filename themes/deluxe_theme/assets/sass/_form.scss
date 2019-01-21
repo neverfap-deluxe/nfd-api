@@ -49,6 +49,7 @@
 
       .form__textarea {
         height: 400px;
+        padding-top: 1rem;
       }
     }
 
@@ -70,11 +71,17 @@
         padding: 0.2rem;
         
         box-shadow: -3px 3px 0px 0px black;
+        cursor: pointer;
       }
 
       .form__button:focus {
         outline: 0;
       }
+
+      .form__button:hover {
+        box-shadow: -6px 6px 0px 0px black;
+      }
+
   
       .form__button__faded__false {
         background: white;

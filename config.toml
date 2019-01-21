@@ -6,7 +6,7 @@ theme = "deluxe_theme"
 
 enableRobotsTXT = true
 canonifyURLs = true
-googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-132863786-1"
 
 [taxonomies]
   category = "categories"
