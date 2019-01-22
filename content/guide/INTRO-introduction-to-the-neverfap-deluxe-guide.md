@@ -11,27 +11,82 @@
 
 Today I’m here to talk to you about porn addiction.
 
-Porn addiction itself can be a very complex topic. We can spend hours discussing the intricacies of how particular cultural upbringings affect the way we view women. We can bore over the details of our past trauma in order to extract why exactly we’re so obsessed with certain types of porn. We can do all sorts of things to try and understand why we humans are the way we are, and to be quite frank... it’s all very exhausting.
+Porn addiction itself can be a very complex topic. We can spend hours discussing the intricacies of how particular cultural upbringings affect the way we view women. 
 
-Because the truth is, overcoming pornography addiction can be deceptively simple. In fact, it is deceptively simple. I spend around thirty minutes each day practicing meditation, and that’s literally it. With consistency you can basically knock it out of the park and regain control over yourself within a few months.
+We can bore over the details of our past trauma in order to extract why exactly we’re so obsessed with certain types of porn. 
 
-Sounds dumb? Well guess what. As someone who was once obsessed with pornography like cannot believe, I no longer think about porn. I no longer crave porn. I wouldn’t even want to masturbate to porn if you put it in front of me. Porn itself doesn’t trigger me and I really could care less about it. That, I would say is not very dumb.
+We can do all sorts of things to try and understand why we humans are the way we are, and to be quite frank... it’s all very exhausting.
 
-And this is coming from someone who suffers from Bipolar Disorder, which should traditionally make something like overcoming porn addiction almost impossible.
+Because the truth is, overcoming pornography addiction is deceptively simple.
 
-Well, I’m here to show you that it’s not, even if you do suffer from extreme mood ds
+Personally speaking I spend around thirty minutes each day practicing meditation, and that’s literally all I need to maintain control over my mind. 
 
-You see, the actual process of obtaining something isn’t all that difficult. Becoming a body builder or a world class artist requires nothing more than constant practice. You know it. I know it. Everyone knows it. There are thousands of tutorials on the internet which describe in excruciating detail, how to achieve those things. And with enough practice, you are guaranteed to get there.
+With consistency you can basically knock it out of the park, regain control over yourself and forget the fact that you ever were a porn addict within a few months.
 
-What’s difficult is a) Figuring out how to actually convince yourself to commit to those goals and b) Figuring out in the first place, what will work and what will not.
+I no longer think about porn. I no longer crave porn. I wouldn’t even want to masturbate to porn if you put it in front of me. Porn itself doesn’t trigger me and I really could care less about it.
 
-And yet, even with this knowledge in mind, making informed decisions as to what those steps should be can be an almost impossible task. Everyone has a different opinion of everything. Everyone is coming from a different point of view. Most of them coming from people who are currently addicts, and inevitably you’re going to get lost. Which is why we end up running around in circles for years before getting anywhere, spending a lot of energy sabotaging ourselves and making things worse.
+It's just not how my mind works anymore.
 
-So what hope is left?
+Not to mention, this is coming from someone who suffers from Bipolar Disorder, which should traditionally make something like overcoming porn addiction almost impossible.
 
-Well, that’s why I decided to write this guide. My intention is to help you fill in all the gaps, so you don’t have to run around like a headless chook, the same way that I did for five years.
+<hr/>
 
-In this guide, I hope to talk about every single aspect of how to successfully become porn free. What you’ll need to learn. How you can learn those things. How not to fall into certain traps. The whole works.
+### The point is that overcoming porn addiction is totally achievable.
+
+<hr/>
+
+And I want to show you how.
+
+To do this, we need to look not only at porn recovery, but just obtaining general goals within itself.
+
+We have one rule here at NeverFap: 
+
+**Practice. Practice. Practice.**
+
+The thing that matters is practicing the core skills which will help you become better at your goals.
+
+It's no different whether you want to become a successful body builder or a world class artist. Practice is the bridge which helps get you there.
+
+You know it. I know it. Everyone knows it. 
+
+There are thousands of tutorials on the internet which describe in excruciating detail, how to achieve those things. And with enough practice, you are guaranteed to get there.
+
+So what's stopping you?
+
+<hr/>
+
+### The problem is that you're fighting yourself on a daily basis, and you don't even know it.
+
+<hr/>
+
+Which is to say there's some kind of great misunderstand which is preventing you from doing what you want in your mind. 
+
+Perhaps it's a self-limiting belief. Perhaps you haven't developed your awareness to a point that you can act with intention. Perhaps you simply don't know how. 
+
+That's why I came up with <a class="link" href="/guide/the-five-fundamental-principles-of-neverfap">The Five Fundamental Principles of NeverFap</a> in order to figure how the source of this misunderstanding. 
+
+Otherwise known as denial. 
+
+In more common terms, what people tend to find difficult is a) Figure out how to actually convince themselves to commit to those goals and b) Figure out what will work and what will not.
+
+And yet, even if you did realise that you had to do those two things, making informed decisions as to what will and does work can be an almost impossible task. 
+
+Everyone has a different opinion of everything, most of them coming from existing porn addicts.
+
+Which is why we end up running around in circles for years before getting anywhere, potentially sabotaging ourselves in the process and making the situation worse.
+
+<hr/>
+
+### Well, that’s why I decided to create NeverFap Deluxe.  
+
+<hr/>
+
+
+My intention is to help you fill in all the gaps, so you don’t have to run around like a headless chook, the same way that I did for five years.
+
+In this guide, I hope to talk about every single aspect of how to successfully become porn free. What you’ll need to learn. How you can learn those things. How not to fall into certain traps.
+
+Everything.
 
 Ultimately it comes down to a number of core skills and understandings that I have come to learn over the past five years in my NeverFap journey, and in each chapter I want to go into detail as to what these skills and understandings are, how I spent years doing it wrong, as well as how you can do it right.
 

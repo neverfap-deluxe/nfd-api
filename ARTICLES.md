@@ -19,6 +19,7 @@ __TODO__
 - Practice: Redefining our perception of women.
 - Practice: How not to stare at women.
 - Practice: Demonstrating focus.
+- Practice: Developing routine.
 - Context: Porn is not who you are, it is your addiction.
 
 __Created/Done__
