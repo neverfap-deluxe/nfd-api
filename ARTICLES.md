@@ -1,5 +1,10 @@
 ## NeverFap Introduction
 
+__TODO__
+- The problem with NoFap 
+- The futility of the NoFap reddit forumns
+- NoFap needs a serious overhaul
+
 __Created/Done__
 - Introduction to the NeverFap Deluxe Guide
 - NeverFap: A Best Case Scenario
@@ -8,13 +13,7 @@ __Created/Done__
 - My Personal Porn Recovery Journey
 - Why vs How
 
-__TODO__
-
-
 ## Choice over mind - COM
-
-__Created/Done__
-
 
 __TODO__
 - Practice: Redefining our perception of women.
@@ -22,53 +21,43 @@ __TODO__
 - Practice: Demonstrating focus.
 - Context: Porn is not who you are, it is your addiction.
 
+__Created/Done__
 
 ## Uncondition over judgement - UOJ
 
-__Created/Done__
-
-__TODO__
+__TODO__ 
 - Practice: Discovering empathy
 - Practice: Accept, don't judge
 - The fallacy of judgement as an effective means
 - The benefits of a quiet mind 
 
+__Created/Done__
+
 ## Struggle over none - SON
 
-Your porn recovery really shouldn't be a struggle
+__TODO__
+- Porn Recovery shouldn't be a struggle
+- Creating healthy NeverFap expectations
+- Practice: What makes something easy?
 
-Coming to terms with our NeverFap expectations
-
-The Perfect NeverFap Outcome
-
-Practice: What makes something easy?
-
-The futility of the NoFap Reddit forumns
+__Created/Done__
 
 ## Awareness over all - AOA
 
-Context: The Importance of Meditation and NeverFap
+__TODO__
+- The Myth of Awareness (how awareness is a practice, not something you already have).
+- Practice: Keeping on top of your emotions.
 
-Practice: Keeping on top of your emotions.
+__Created/Done__
+- Context: The Importance of Meditation and NeverFap
 
 ## Balance over reward - BOR
 
-Paying the NeverFap Maintenance Tax
+__TODO__
+- Redefining our metrics for productivity. 
+- The fallacy of excessive effort and productivity
+- Practice: Pursuing balance
+- Context: Why balance is critical for regular function
 
-Redefining our metrics for productivity. 
-
-The fallacy of excessive effort and productivity
-
-Practice: Pursuing balance
-
-Context: Why balance is critical for regular function
-
-
-
-**Introduction**
-
-The problem with NoFap 
-
-The helplessnes of the NoFap reddit forumn
-
-NoFap needs a serious overhaul
+__Created/Done__
+- Paying the NeverFap Maintenance Tax

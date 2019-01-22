@@ -8,6 +8,7 @@
 
 - create categories/tags
 - Get logo images
+- Figure out twitter https://twitter.com/
 
 ## Types of categories
 

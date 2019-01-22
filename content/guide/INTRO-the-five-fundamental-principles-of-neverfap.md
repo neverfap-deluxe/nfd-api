@@ -185,37 +185,47 @@ Which means either you're not understanding it intuitively (making it simple), o
 
 Understand that porn recovery isn't about fighting your emotions or violently pushing yourself to become something you're not.
 
-### It's about understanding who you are so that you no longer need to fight. 
+### It's about understanding who you are so that you no longer need to fight yourself on a daily basis. 
 
 Because life without porn isn't a struggle.
 
 It's one of the most liberating and empowering things you can do.
 
-And if you think about it further, the only reason why you're a porn addict is because you're constantly fighting yourself mentally in some aspect.
+The only reason why you're a porn addict is because you're constantly fighting yourself in some regard.
 
 The takeaway is that life only becomes a chore when we act against it or neglect it. 
 
-Target the root cause of this misundesrtanding and all those negative feelings and emotions will literally melt away.
-
-Of course, this isn't to say there isn't a lot of work involved in figuring out what's wrong, nor even how to address it.
-
-However the idea still stands.
+Target the root cause of this misunderstanding and all those negative feelings and emotions will literally melt away.
 
 <ul class="five__principles__list">
   <span class="five__principles__item__wrapper"><li class="five__principles__item">Uncondition over judgement</li></span>
 </ul>
 
-This idea relates to how we should think.
+Much like Balance over reward, this is one of those principles that people tend to ignore, because they don't quite understand the ramifications of ignoring it.
 
-<u>Uncondition over judgement</u> is this idea that critical judgement of any kind is detrimental.
-
-Not only the act of judgement itself, but also how it changes the way you think about things.
+<u>Uncondition over judgement</u> is about pursing acceptance over judgement under all circumstances.
 
 What a lot of people don't realise is that judgement is a mental trap.
 
-Quite a lot of things happen in your mind when you engage in the act of judgement.
+Because when you make a judgement, you essentially trap yourself into a limited point of view. 
 
-For starters, you exchanging your ability to be aware, because when you make a judgement, you also place your faith into that idea.
+The reason why it doesn't seem like a trap is because they don't realise that the negative effects of making judgements is accumulative.
+
+Making one judgement isn't going to kill you. But humans never just make one judgement.
+
+We make thousands of judgements each and every day, each time moulding our perception and changing the way we think.
+
+Judgements are not harmless. 
+
+Not only do you exchange your awareness when you make a judgement, however you also place your faith into that idea as well.
+
+It is a destructive habit that feeds into itself. 
+
+The more judgements you make, the more awareness you trade, the more faith that gets placed into ideas you may not even have cared about initially, and it becomes this trap that people become oblivious to. 
+
+Because guess what happens when you invest all your faith in a bunch of pointless ideas?
+
+You have none left to address actual problems in your life, like your porn addiction. 
 
 <hr/>
 
@@ -228,3 +238,9 @@ If ever you get confused about anything, it can help to come back to these five 
 Because at the end of the day it is not impossible to overcome porn addiction.
 
 You just have to know exactly what you're doing and why.
+
+I recommend checking out our article index in order to browse content which you believe will assist you.
+
+<div class="button__wrapper">
+  <a class="button button__secondary" href="/articles">NeverFap Deluxe Article Index.</a>
+</div>
