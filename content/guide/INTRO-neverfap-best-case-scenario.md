@@ -9,11 +9,9 @@
   slug: "neverfap-a-best-case-scenario"
 ---
 
-Originally this article was going to be about my upbringing. I wanted to write about my past, my previous trauma and help you understand how that may have contributed towards my porn addiction. However, halfway through writing it, I came to the realisation that everything I’d experienced before is completely irrelevant to who I am today. Largely, because the skills you end up learning have absolutely nothing to do with your past, hence why you don’t have those skills to begin with.
+What's a NeverFap best case scenario? 
 
-So instead, I’m going to write about the present. Who I am today, and how I’ve changed over the years. 
-
-With all this in mind, what does a successful NeverFap outcome look like?
+Well, below I've gathered a list of metrics that reflect a very healthy attitude towards life and porn addiction.
 
 - You no longer watch porn.
 - You no longer crave watching porn.
@@ -26,36 +24,58 @@ With all this in mind, what does a successful NeverFap outcome look like?
 - You’re happy with yourself and accept every single aspect of who you are.
 - You’re comfortable with your emotions, both positive and negative. 
 - You’re confident because you understand yourself. 
-- You don’t engage in any self-harm activities.
+- You don’t engage in self-harm of any kind.
 - You’re motivated and ambitious.
 - You’re committed to your mental health.
 
-While I’m certainly no angel when it comes to all aspects of my life, I can confirm that I tick most of the boxes above. 
+Fancy pants.
 
-One important point that I would like to emphasise is that a lot of those things actually have nothing to do with porn addiction. For example,  you don’t necessarily require a porn addiction in order to be unmotivated. You can certain be unmotivated without a porn addiction. 
+### If it weren't for the fact that lists like these are utterly meaningless.
 
-Which is also to say that a lot of the skills we will be developing have nothing to do with porn addiction at all. 
+Here's the deal, soldier.
 
-In a sense, pornography addiction has very little to do with pornography itself. 
+We're going to try something a little different here at NeverFap Deluxe.
 
-While pornography itself is an addictive behaviour, much in the same way that alcohol, gambling and video games can be addictive, this doesn’t help explain why some of us find pornography to be so terribly destructive. 
+Rather than concern ourselves with ideals and goals, what we're going to do is instead focus on processes.
 
-To answer that question, we instead need to take a look at some of the beliefs that we may have developed throughout our lives, which may have influenced the way we feel about sex, women, pornography and most importantly, ourselves. 
+In other words, we're going to focus on the things we can do everyday in order to improve as a person. 
 
-In reality, porn addiction is a symptom of something greater. It is the result of misunderstanding on multiple levels. We are misunderstanding what women are. We are misunderstanding what happiness is. We are misunderstanding the value of time and in a lot cases, misunderstanding . 
+Because at the end of the day, there really is no such thing as an 'ideal outcome' or 'best case scenario' when it comes to addressing porn addiction.
 
-Only by correctly these things can we 
+There is only you and the improvements that you make each and every single day.
+
+That is why much of the content on this website is built around verifiable practices, so that you can actively improve and make changes to your life.
+
+For example, a big trap that a lot of people make is concerning themselves with the number of days it's been since they last relapsed. 
+
+Now, what on earth does this have to do with porn recovery? How is worrying about your past failures going to help you be a better person?
+
+On the otherhand, concerning yourself with what you personally did that day to improve your resistance to watching porn, is wonderful.
+
+The primary reason why it's wonderful is because it builds your awareness on the things you did right, which helps you make future correct decisions.
+
+This is why it's important to journal your efforts and which practices you did that day, so you can acknowledge on a daily basis what you achieved and how it made you feel.
+
+Remember.
+
+Practice. Practice. Practice.
+
+### Consistent hard work and practice are the only ideals which you should strive towards. 
+
+Everything else is pure fluff, no matter how impressive it may sound in a list of achievements.
+
+Because I can assure you that I don't live my life according to a list of ideals that my brain is in constant surveillance of.
+
+Instead, I follow fundamental principles. I work towards them on a daily basis. 
+
+And seemingly everything just appears to work somewhat magically.
+
+That's the magic of simplicity.
 
 
-Struggle sport
 
-An important point I want to bring up, that I think is often misunderstood, is that if porn addiction is something that you consistently struggle with, then you’re most likely doing something wrong. 
+<!-- List of practices. -->
 
-
-
-
-
-
-
+<!-- Mention the application. -->
 
 

@@ -1,5 +1,5 @@
 ---
-  title: "What makes NeverFap so different"
+  title: "What Makes NeverFap So different"
   description: ""
   date: 2018-11-23
   draft: false

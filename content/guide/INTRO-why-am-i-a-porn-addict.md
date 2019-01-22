@@ -1,12 +1,12 @@
 ---
-  title: "Why vs How"
+  title: "\"Why Am I A Porn Addict?\""
   description: ""
   date: 2018-11-13
   draft: false
   tags: [ "" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
-  slug: "why-vs-how"
+  slug: "why-am-i-am-porn-addict"
 ---
 
 “Why am I a porn addict?”

@@ -11,7 +11,7 @@ __Created/Done__
 - The Five Fundamental Principles of NeverFap
 - How does NeverFap approach things differently?
 - My Personal Porn Recovery Journey
-- Why vs How
+- "Why Am I A Porn Addict?"
 
 ## Choice over mind - COM
 
