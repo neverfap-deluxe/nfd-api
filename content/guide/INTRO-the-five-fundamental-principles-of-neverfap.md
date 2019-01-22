@@ -11,9 +11,9 @@
 
 The NeverFap method of addressing porn addiction comprises of five core principles. 
 
-Each principle maintains a purpose, along with a range of associated skills which you must develop in order to address your porn addiction.
+Each principle maintains a purpose, along with a range of associated skills which you must develop in order to successfully address your porn addiction.
 
-Without mastery of all five of these principles, we cannot consistently (nor easily) hope to manage the emotions, thoughts, feelings and beliefs which contribute towards our behaviour.
+Without mastery of all five of these principles, we cannot hope to consistently manage the emotions, thoughts and  behaviours which may be contributing towards our porn addiction.
 
 Before we begin however, we must ask ourselves a very important question: 
 
@@ -23,17 +23,33 @@ A fundamental principle is a hard truth. It is something which remains true irre
 
 It simply is.
 
-Sure, you may attempt to dispute it or argue otherwise, but doing so won't help you overcome porn addiction. Which is the reason why you're here, is it not?
+You may attempt to dispute these fundamental truths or argue against their validity, which is perfectly fine if that is what you want to do.
 
-A key thing to understand is that fundamental principles are not open to thinking such as: "Well, my mind doesn't work like that" or "While that may be true, I personally don't allow it to affect me in any way". 
+However it certainly won't help you overcome porn addiction, which is probably the reason why you're here.
 
-### This is called denial.
+You know, to receive help with a problem that you fundamentally misunderstand, for otherwise you wouldn't have a problem to begin with.
 
-This is what these five fundamental principles aim to address:
+## Avoiding denial
 
-The fact that you are in denial about some aspect of your life, which is causing you to misunderstand yourself and result in obsession with porn.
+The key thing to understand about fundamental principles is that they are not subject to open-ended thinking.
 
-They are designed to expose the fact that there is something wrong with the way you currently think.
+Thinking such as:
+
+**"Well, my mind doesn't work like that"**
+
+**"While that may be true, I don't personally allow it to affect me in any way".**
+
+This is not how fundamental principles operate. 
+
+Hard truths are not open to subjective questioning. Certainly, you're more than welcome to question them if you like, however it won't help you with your porn addiction.
+
+In fact, there's a word used to describe when we refuse to accept reality.
+
+### This word is called denial.
+
+Whether you realise it or not, the reason why you are a porn addict is because you are in denial about some aspect of your life, which is causing you to misunderstand yourself and result in your current obsession with porn.
+
+Ultimately, the aim of these five fundamental principles is to help you expose the fact that there is something wrong with the way you currently think.
 
 As a former porn addict, I encourage you to embrace the idea that everything you know about yourself is wrong, and to not fight the unfamiliar.
 
@@ -47,10 +63,9 @@ For example, there are no fundamental NeverFap principles along the lines of "Ne
 
 A large part of the reason why this is the case is because porn addiction has very little to do with porn, nor even masturbation itself. 
 
-Rather, porn addiction is 
-merely a superficial symptom of a wider range of personality traits which NeverFap aims to address.
+Rather, porn addiction is merely a symptom of a wider range of personality traits which NeverFap aims to address.
 
-Without further ado, here are the five fundmental principles of NeverFap: 
+So without further ado, here are the five fundmental principles of NeverFap: 
 
 <ul class="five__principles__list">
   <span class="five__principles__item__wrapper"><li class="five__principles__item">Choice over mind</li></span>
@@ -58,63 +73,65 @@ Without further ado, here are the five fundmental principles of NeverFap:
 
 While all these principles are important in their own right, this is perhaps the one that people tend to struggle with most.
 
-Essentially what <u>*Choice over mind*</u> relates to is the fact that you have complete control over your mind.
+Or rather, it is a way of thinking and understanding which is completely foreign to most of us, and even those of us who do not have a porn addiction.
 
-Remember, as a fundamental principle, this is irrespective of whether you currently feel in control of your mind, whether you agree it's possible to have full control over your mind, or even if you've never experienced being fully in control of your experience.
+What <u>*Choice over mind*</u> iterates is the fact that you have complete control over your mind.
 
-The way this is achieved is through controlled meditation, which this website will draw upon heavily. 
+This is irrespective of whether you currently feel in control of your mind, whether you agree it's possible to have full control over your mind, or even if you've never experienced being full control over your mind. 
 
-<!-- Of course, truly understanding that you have choice over your mind is a fundamental shift in what you believe.  -->
+Your mind is fundamentally capable of being controlled.
 
-For example, many porn addicts (particularly male porn addicts) have a tendency to stare at hot women in public. 
+I would say this fundamental principle is both equal parts understanding, as it is practice.
 
-It's something porn addicts struggle with because they feel as if they don't have a choice but to stare. 
+And the way this is achieved is through controlled meditation and perspective training.
 
-Well, this is simply not true. 
+For example, many porn addicts (particularly male porn addicts) have a tendency to stare at women they find attractive in public. 
+
+It's something porn addicts (as well as men in general) struggle with because they feel as if they don't have a choice but to stare. 
+
+Well, this simply is not true. 
 
 With daily practice, we can learn to develop control over our mind, and we can learn to completely filter out women in public altogether.
 
-Now imagine how powerful that would be?
-
-Because I can let you know from first hand experience, that the freedom is pretty awesome. 
+Now imagine how awesome that would be?
 
 <ul class="five__principles__list">
   <span class="five__principles__item__wrapper"><li class="five__principles__item">Balance over reward</li></span>
 </ul>
 
-This is one of those concepts that people think they understand, and yet refutely do not because they're not actually aware of how unbalanced they are to begin with.
+This is one of those concepts that people think they understand, and yet refutely misunderstand, because of how oblivious they are to how unbalanced they really are to begin with.
 
-In fact, it's something most people outright ignore because they don't believe it's that big of a deal.
+In fact, it's something most people outright ignore because they don't believe it's that big of a deal, not quite understanding the consequences of their actions.
 
-Which again, is a behaviour which can only be described as denial.
+### Which again, is behaviour which can only be described as denial.
 
-What <u>*Balance over reward*</u> maintains is this idea that we must prioritise balance over our goals.
+What <u>*Balance over reward*</u> maintains is this idea that we must prioritise balance over our immediate wants and goals.
 
 Often when we become affixated with something, either through obsession or neglect, we fail to consider the wider ramifications of our actions.
 
-So we cut corners in order to achieve what we want quicker, only to face the consequences of our actions later. 
+So we cut corners in order to achieve or experience what we want, only to face the consequences of our actions later. 
+
+Often not realising that the reason why we're struggling is because of the corners that we've cut. 
+
+Overworking is a prominent example of disrespecting this fundamental principle. 
+
+We stay up late to finish what we're working on, only to find ourselves struggling to fall asleep because our minds are so preoccupied with work. 
+
+I even used to get coding nightmares because of how much time I would spend writing code.
+
+And yet, I didn't quite realise that I was necessarily doing anything wrong, because I felt justified in my actions. Even though a) It made me less productive overall than if I were functioning normally and b) Engaged my desire to watch porn due to all the stress it was causing me.
+
+Instead, by learning to respect balance in my life, I've been able to live my life more effectively, without the constant emotional volatility and stress.
 
 I think part of the problem is that people fall into the trap of believing they're inherently unique when it comes to certain aspects of life.
 
 They think they can somehow "cheat" the system and come out ahead.
 
-In regards to porn addiction, we can think that porn and masturbation will make us happy, at the cost of our emotional and mental stability.
+When it's both physically and mentally impossible to do so. 
 
-And when we're addicted to something, we only ever focus on that "reward", rather than maintaining wider happiness through emotional stability. 
+The point is that if we are to overcome our porn addiction, we must begin to not only understand that there are hard consequences to everything we do, but also that immediate rewards are often a poor indicator of what is best for us long term.
 
-This kind of thinking also applies to other areas in our life. 
-
-A huge example (which I can personally relate to) is pushing yourself too hard. 
-
-I am the kind of person who will overwork themselves to death, and in the past I didn't quite realise that I was necessarily doing anything wrong in doing so. 
-
-Now, I realise that it was a key factor in the reason why I struggled with porn addiction so much.
-
-Instead, by learning to respect balance in my life, I've been able to live my life more effectively, without any of the downsides.
-
-The point is that there are hard consequences to everything we do, whether we truly understand it or not. 
-
-And learning to value and respect these boundaries, will pay you dividends in the amount of control you will gain over your porn addiction.
+And learning to value and respect these boundaries, will pay you dividends in the amount of control you will gain over your porn addiction, as well as your life in general.
 
 <ul class="five__principles__list">
   <span class="five__principles__item__wrapper"><li class="five__principles__item">Awareness over all</li></span>
@@ -122,59 +139,67 @@ And learning to value and respect these boundaries, will pay you dividends in th
 
 Awareness is absolutely fundamental to everything we do.
 
-It is what allows us to identify and address the destructive patterns in our life.
+It is what allows us to identify and address the destructive patterns in our life, as well as serve as a stop-gap between our thoughts and our actions.
 
-What <u>*Awareness over all*</u> maintains is that you must have awareness in absolutely everything you do.
+What <u>*Awareness over all*</u> maintains is that having awareness over our actions is critical to not only understanding them, but also learning to control them.
 
-Without full awareness, we simply cannot hope to act with any amount of intention.
+Without full awareness, we simply cannot hope to act with any amount of intention, nor understand the responsibility we have over them.
 
-Instead, our habitual thoughts, emotions and beliefs take over and they continue the self-destructive behaviours we are trying to address.
+Instead, we allow our habitual thoughts, emotions and beliefs to take over and continue their self-destructive patterns.
 
-What awareness truly does is act as a stop-gap between you and your actions. 
+I think the reason why most people struggle with this concept of awareness is because a) They're not currently aware, nor understand how to be aware because it's not something they've ever practiced and b) Most people struggle to even undesrtand what awareness actually is. 
 
-The way we develop awareness, much like 
+In reality, awareness is actually really simple.
 
-If I had to describe what awareness actually is, I would say it encompasses your ability to stop being human.
+### Awareness is nothing more than your ability to sense the world around you. 
 
-Which is to say that you can only be truly aware of something if you are personally detached from it.
+That's literally it.
 
-Therefore, it is impossible to be both a porn addict and aware.
+In fact, all meditation essentially comes down to sitting there, and just following your senses.
+
+It's not about focusing or about trying really hard not to think or even empty your mind (although these things can definitely be useful). 
+
+It's simply about being present with our senses.
+
+Which of course, we can expand to developing our focus and empty our mind. 
 
 <ul class="five__principles__list">
   <span class="five__principles__item__wrapper"><li class="five__principles__item">Struggle over none</li></span>
 </ul>
 
-This one is real simple.
+Essentially, the simplest path is often the most efficient.
 
-Essentially, the easiest path is often the most efficient.
+And as humans, we instinctly do what we find most simple, either for better or worse.
 
-And humans instinctly we do what they find easiest, either for better or worse.
+Therefore, solutions which are simple by design are going to be more effective than solutions which are convoluted.
 
-Therefore, solutions which are simple and easy by design, are going to be the ones that we adopt.
+It's the reason why I personally follow the paleo diet and only eat one meal a day. 
 
-What <u>*Struggle over none*</u> relates to is this idea that if you're really struggling with someone, you're probably not doing it right.
+Doing this is vastly more simple than counting calories, obsessing over when I can eat and organising three meals a day.
 
-Because living a life without porn shouldn't be a struggle.
+In other words, simple is often easy. 
 
-It should be one of the most liberating and empowering things you can do.
+What <u>*Struggle over none*</u> relates to is this idea that if you're really struggling with someone, then you're probably not doing it right.
 
-And if you're really struggling with it, then it suggests that there's some aspect which you're misunderstanding or going about the wrong way.
+Which means either you're not understanding it intuitively (making it simple), or what you're trying to understand is convoluted.  
 
-Porn recovery isn't about fighting your emotions or violently pushing yourself to become something you're not.
+Understand that porn recovery isn't about fighting your emotions or violently pushing yourself to become something you're not.
 
-Instead, it's the complete opposite. It's about understanding who you are so that you no longer need to fight. 
+### It's about understanding who you are so that you no longer need to fight. 
 
-Because when you actually think about it, the only reason why you're a porn addict is because you're constantly fighting yourself mentally.
+Because life without porn isn't a struggle.
 
-Not necessarily in regards to porn itself, but in regards to some other aspect of your life which is resulting in you watching porn. 
+It's one of the most liberating and empowering things you can do.
 
-The point is that the normal, natural state of being human isn't a chore.
+And if you think about it further, the only reason why you're a porn addict is because you're constantly fighting yourself mentally in some aspect.
 
-It's only becomes a chore because we are either acting or neglecting upon some aspect of misunderstanding in our life.
+The takeaway is that life only becomes a chore when we act against it or neglect it. 
 
-Target the root cause and you won't even have to do anything. Your cravings and desires will literally melt away. 
+Target the root cause of this misundesrtanding and all those negative feelings and emotions will literally melt away.
 
-Of course, this isn't to say there isn't a lot of work involved in targeting that root cause and addressing it in an appropiate manner. 
+Of course, this isn't to say there isn't a lot of work involved in figuring out what's wrong, nor even how to address it.
+
+However the idea still stands.
 
 <ul class="five__principles__list">
   <span class="five__principles__item__wrapper"><li class="five__principles__item">Uncondition over judgement</li></span>

@@ -1,43 +1,49 @@
 ## NeverFap Introduction
 
-Introduction to the NeverFap Deluxe Guide
+__Created/Done__
+- Introduction to the NeverFap Deluxe Guide
+- NeverFap: A Best Case Scenario
+- The Five Fundamental Principles of NeverFap
+- How does NeverFap approach things differently?
+- My Personal Porn Recovery Journey
+- Why vs How
 
-How does NeverFap approach things differently? (Essentially, it doesn't focus on porn addiction itself.)
+__TODO__
 
-NeverFap: A Best Case Scenario
-The Five Fundamental Principles of NeverFap
-
-Who I am?
 
 ## Choice over mind - COM
 
-Practice: Redefining our perception of women.
+__Created/Done__
 
-Practice: How not to stare at women.
 
-Practice: Demonstrating focus.
+__TODO__
+- Practice: Redefining our perception of women.
+- Practice: How not to stare at women.
+- Practice: Demonstrating focus.
+- Context: Porn is not who you are, it is your addiction.
 
-Context: Porn is not who you are, it is your addiction.
 
 ## Uncondition over judgement - UOJ
 
-Practice: Discovering empathy (think about how other people feel) Empathy is an important skill. In the article, I provide a few examples for you to practice on.
+__Created/Done__
 
-Practice: Accept, don't judge
-
-The fallacy of judgement as an effective means
-
-The benefits of a quiet mind 
+__TODO__
+- Practice: Discovering empathy
+- Practice: Accept, don't judge
+- The fallacy of judgement as an effective means
+- The benefits of a quiet mind 
 
 ## Struggle over none - SON
 
-Practice: What makes something easy?
+Your porn recovery really shouldn't be a struggle
 
 Coming to terms with our NeverFap expectations
 
 The Perfect NeverFap Outcome
 
-Killing NeverFap Cravezilla
+Practice: What makes something easy?
+
+The futility of the NoFap Reddit forumns
 
 ## Awareness over all - AOA
 
@@ -57,3 +63,12 @@ Practice: Pursuing balance
 
 Context: Why balance is critical for regular function
 
+
+
+**Introduction**
+
+The problem with NoFap 
+
+The helplessnes of the NoFap reddit forumn
+
+NoFap needs a serious overhaul

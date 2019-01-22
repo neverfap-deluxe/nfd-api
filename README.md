@@ -2,13 +2,12 @@
 
 ### 3rd party
 
-- formspree plugin
 - comments plugin
 
 ## app build
 
 - create categories/tags
-- Contact Form placeholder styling.
+- Get logo images
 
 ## Types of categories
 
