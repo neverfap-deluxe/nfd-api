@@ -1,7 +1,7 @@
 ---
   title: "The Five Fundamental Principles of NeverFap"
   description: ""
-  date: 2019-01-15T18:01:10+11:00
+  date: 2018-10-29
   draft: false
   tags: [ "popular" ]
   categories: [ "introduction" ]
@@ -29,7 +29,7 @@ However it certainly won't help you overcome porn addiction, which is probably t
 
 You know, to receive help with a problem that you fundamentally misunderstand, for otherwise you wouldn't have a problem to begin with.
 
-## Avoiding denial
+## Keeping Your Mind In Check
 
 The key thing to understand about fundamental principles is that they are not subject to open-ended thinking.
 
@@ -125,7 +125,7 @@ Instead, by learning to respect balance in my life, I've been able to live my li
 
 I think part of the problem is that people fall into the trap of believing they're inherently unique when it comes to certain aspects of life.
 
-They think they can somehow "cheat" the system and come out ahead.
+### They think they can somehow "cheat" the system and come out ahead.
 
 When it's both physically and mentally impossible to do so. 
 

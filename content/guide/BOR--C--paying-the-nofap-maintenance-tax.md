@@ -1,7 +1,7 @@
 ---
   title: "Paying the NeverFap Maintenance Tax"
   description: ""
-  date: 2019-01-15T18:01:10+11:00
+  date: 2018-12-02
   draft: true
   tags: [ "context" ]
   categories: [ "balance-over-reward" ]

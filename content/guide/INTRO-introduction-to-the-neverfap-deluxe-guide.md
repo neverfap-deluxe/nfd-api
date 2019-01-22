@@ -1,7 +1,7 @@
 ---
   title: "Introduction to the NeverFap Deluxe Guide"
   description: ""
-  date: 2019-01-15T18:01:10+11:00
+  date: 2018-10-15
   draft: false
   tags: [ "popular" ]
   categories: [ "introduction" ]
