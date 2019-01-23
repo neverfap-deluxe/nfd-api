@@ -47,11 +47,11 @@ These principles are:
 
 <div class="homepage__section">
   <ul class="five__principles__list">
-    <span class="five__principles__item__wrapper"><li class="five__principles__item">Choice over mind</li></span>
-    <span class="five__principles__item__wrapper"><li class="five__principles__item">Balance over reward</li></span>
-    <span class="five__principles__item__wrapper"><li class="five__principles__item">Struggle over none</li></span>
-    <span class="five__principles__item__wrapper"><li class="five__principles__item">Awareness over all</li></span>
-    <span class="five__principles__item__wrapper"><li class="five__principles__item">Uncondition over judgement</li></span>
+    <li class="five__principles__item">Choice over mind</li>
+    <li class="five__principles__item">Balance over reward</li>
+    <li class="five__principles__item">Struggle over none</li>
+    <li class="five__principles__item">Awareness over all</li>
+    <li class="five__principles__item">Uncondition over judgement</li>
   </ul>
 </div>
 

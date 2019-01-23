@@ -37,7 +37,7 @@ Not to mention, this is coming from someone who suffers from Bipolar Disorder, w
 
 And I want to show you how.
 
-To do this, we need to look not only at porn recovery, but just obtaining general goals within itself.
+To do this, we need to look not only at porn recovery, but also how us humans obtain goals in general.
 
 We have one rule here at NeverFap: 
 
@@ -55,13 +55,17 @@ So what's stopping you?
 
 <hr/>
 
-### The problem is that you're fighting yourself on a daily basis, and you don't even know it.
+### The problem is that you keep fighting yourself on a daily basis.
 
 <hr/>
 
-Which is to say there's some kind of great misunderstand which is preventing you from doing what you want in your mind. 
+Cravings. Doubt. Fear. Anxiety. Addiction.
 
-Perhaps it's a self-limiting belief. Perhaps you haven't developed your awareness to a point that you can act with intention. Perhaps you simply don't know how. 
+Which is to say there's some kind of internal misunderstanding which is preventing you from doing what you want in your mind. 
+
+Yes, a misunderstanding. 
+
+Perhaps it's a self-limiting belief. Perhaps you haven't developed your awareness to a point that you can act with intention. Perhaps you have no idea what you're doing. 
 
 That's why I came up with <a class="link" href="/guide/the-five-fundamental-principles-of-neverfap">The Five Fundamental Principles of NeverFap</a> in order to figure how the source of this misunderstanding. 
 
@@ -81,51 +85,43 @@ Which is why we end up running around in circles for years before getting anywhe
 
 <hr/>
 
-
 My intention is to help you fill in all the gaps, so you don’t have to run around like a headless chook, the same way that I did for five years.
 
-In this guide, I hope to talk about every single aspect of how to successfully become porn free. What you’ll need to learn. How you can learn those things. How not to fall into certain traps.
+In this website, I hope to talk about every single aspect of how to successfully become porn free. What you’ll need to learn. How you can learn those things. How not to fall into certain traps.
 
 Everything.
 
-Ultimately it comes down to a number of core skills and understandings that I have come to learn over the past five years in my NeverFap journey, and in each chapter I want to go into detail as to what these skills and understandings are, how I spent years doing it wrong, as well as how you can do it right.
+I want to teach and explain all the core skills that I have come to learn over the past five years over <a class="link" href="/guide/my-personal-porn-recovery-journey">My Personal Porn Recovery Journey</a>, and I want to go into detail as to what these skills and understandings are.
 
-Ahem.
+So what exactly are these core skills?
 
-These core skills exactly?
+To provide a non-exhaustive list, here are some of the things which you will learn which will help you overcome porn addiction:
 
-- Learning to focus on the how, not the why.
-- Valuing the time spent improving my mental health above all.
-- Developing the ability to quiet and focus my mind.
-- Learning to love and accept myself and others unconditionally.
-- Coming out about your addiction.
-- Learning to invest in myself.
-- Changing the way I think about sex and women.
-- The value of commitment and long-term thinking.
-- Identifying and understanding my various mental disorders.
-- Properly understanding what life without porn is.
+<hr/>
 
-In each chapter I will explore each of these aspects in detail, as well as why they are so crucial for in regards to successfully overcoming porn addiction.
+- Learn to focus on the how, not the why.
+- Value the time spent improving your mental health above all.
+- Develop the ability to quiet and focus your mind.
+- Learn to love and accept yourself and others unconditionally.
+- Learn to invest in yourself.
+- Change the way you think about sex and women.
+- Value commitment and long-term thinking.
+- Identify and understanding any potential mental disorders.
+- Properly understand how to live life without porn.
 
-Of course, you don’t necessarily need to do all these things. However let me tell you, without most of these skills and learnings, you won’t be able to do it comfortably, nor necessarily with any amount of certainty. And without certainty, you may end up developing an unhealthy relationship with inherently healthy processes, just like I did.
+<hr/>
 
-And in order to do this, I’m going to dare to be transparent. I want to talk about my story from my point of view, and from there you can decide whether you think it’s something that will work for you.
+I explore each of these aspects (and more) in detail, as well as why they are so crucial for in regards to successfully overcoming porn addiction.
 
-Because ultimately, we’re all different people with different experiences in life, and my experiences may not reflect yours.
+Of course, the main thing is that overcoming your porn addiction is doable, so long as you follow the steps and do the practices.
 
-That’s okay too. This is just one of many resources and perspectives, and I dearly hope it can be of value to you.
+Personally speaking it took me around 5 years of trial and error before everything finally clicked in my head, and now I’m at a point where porn has no control over me. 
 
-The good news is that it’s doable and that as long as you follow every single step within this guide, and take the time to practice the skills you’re weakest at, then you can learn to comfortably become porn free. The bad news is that you’re also an addict, and you’ll probably end up spending more time fighting yourself, rather than committing to your recovery.
+Realistically, you could probably achieve the same thing in a few short months, but I also maintain that humans simply aren’t like that. 
 
-It took me around 5 years of trial and error before everything finally clicked in my head, and now I’m at a it has no control over me. Realistically, you could probably achieve the same thing in a few short months, but I also maintain that humans simply aren’t like that. Some of us are driven by failure and by experiencing things first-hand, and that’s okay too.
+Some of us are driven by failure and by experiencing things the hard way, and that’s okay too.
 
-You are human. You are vulnerable. We all are.
-
-I hope in reading this website that you discover a fundamental theme in all my posts: Overcoming porn addiction should be simple and effortless.
-
-I didn’t up successfully give up pornography by fighting my emotions and cravings. It was only once I was able to detach myself from what I was feeling, that I was able to break through and commit to a life without porn.
-
-Essentially, the moral of the story, is that If you’re really struggling with giving up porn, then there’s some aspect of your personality that you’re not yet familiar with. And it’s not until you fully understand who you are, that you can build up the confidence to commit to your goals. That’s what we’re here to discover.
+You are human. We all are.
 
 So sit back. 
 
@@ -133,14 +129,6 @@ Relax. Laugh. Cry.
 
 We’re not here to fight ourselves any longer. 
 
-We’re here to understand who we are, what we have to do to change, as well as how we can improve as people.
-
-
-
-
-
-
-
-
+We’re here to understand who we are, what we have to do to change, as well as understand how we can improve as people.
 
 

@@ -25,6 +25,12 @@ An important point I want to bring up, that I think is often misunderstood, is t
 
 
 
+I hope in reading this website that you discover a fundamental theme in all my posts: Overcoming porn addiction should be simple and effortless.
+
+I didn’t up successfully give up pornography by fighting my emotions and cravings. It was only once I was able to detach myself from what I was feeling, that I was able to break through and commit to a life without porn.
+
+Essentially, the moral of the story, is that If you’re really struggling with giving up porn, then there’s some aspect of your personality that you’re not yet familiar with. And it’s not until you fully understand who you are, that you can build up the confidence to commit to your goals. That’s what we’re here to discover.
+
 
 
 

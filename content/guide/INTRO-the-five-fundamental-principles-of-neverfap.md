@@ -67,9 +67,9 @@ Rather, porn addiction is merely a symptom of a wider range of personality trait
 
 So without further ado, here are the five fundmental principles of NeverFap: 
 
-<ul class="five__principles__list">
+<div class="five__principles__list">
   <span class="five__principles__item__wrapper"><li class="five__principles__item">Choice over mind</li></span>
-</ul>
+</div>
 
 While all these principles are important in their own right, this is perhaps the one that people tend to struggle with most.
 
@@ -95,9 +95,9 @@ With daily practice, we can learn to develop control over our mind, and we can l
 
 Now imagine how awesome that would be?
 
-<ul class="five__principles__list">
+<div class="five__principles__list">
   <span class="five__principles__item__wrapper"><li class="five__principles__item">Balance over reward</li></span>
-</ul>
+</div>
 
 This is one of those concepts that people think they understand, and yet refutely misunderstand, because of how oblivious they are to how unbalanced they really are to begin with.
 
@@ -133,9 +133,9 @@ The point is that if we are to overcome our porn addiction, we must begin to not
 
 And learning to value and respect these boundaries, will pay you dividends in the amount of control you will gain over your porn addiction, as well as your life in general.
 
-<ul class="five__principles__list">
+<div class="five__principles__list">
   <span class="five__principles__item__wrapper"><li class="five__principles__item">Awareness over all</li></span>
-</ul>
+</div>
 
 Awareness is absolutely fundamental to everything we do.
 
@@ -163,9 +163,9 @@ It's simply about being present with our senses.
 
 Which of course, we can expand to developing our focus and empty our mind. 
 
-<ul class="five__principles__list">
+<div class="five__principles__list">
   <span class="five__principles__item__wrapper"><li class="five__principles__item">Struggle over none</li></span>
-</ul>
+</div>
 
 Essentially, the simplest path is often the most efficient.
 
@@ -197,9 +197,9 @@ The takeaway is that life only becomes a chore when we act against it or neglect
 
 Target the root cause of this misunderstanding and all those negative feelings and emotions will literally melt away.
 
-<ul class="five__principles__list">
+<div class="five__principles__list">
   <span class="five__principles__item__wrapper"><li class="five__principles__item">Uncondition over judgement</li></span>
-</ul>
+</div>
 
 Much like Balance over reward, this is one of those principles that people tend to ignore, because they don't quite understand the ramifications of ignoring it.
 

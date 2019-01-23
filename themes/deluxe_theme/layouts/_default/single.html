@@ -7,6 +7,19 @@
       {{ .Content }}
     </div>
 
+    <div class="single__next__prev">
+      {{ if .PrevInSection }}
+        <div class="button__wrapper">
+          <a class="button button__black_and_white" href="{{.PrevInSection.Permalink}}">Previous Post</a>
+        </div>
+      {{ end }}
+      {{ if .NextInSection }}
+        <div class="button__wrapper">
+          <a class="button button__black_and_white" href="{{.NextInSection.Permalink}}">Next Post</a>
+        </div>
+      {{ end }}
+    </div>
+    
     <h2>Latest Posts</h2>
     {{ partial "latest_posts.html" . }}
   </main>
