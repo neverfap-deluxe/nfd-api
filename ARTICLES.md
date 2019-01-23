@@ -1,9 +1,13 @@
-## NeverFap Introduction
+****## NeverFap Introduction
 
 __TODO__
 - The problem with NoFap 
-- The futility of the NoFap reddit forumns
+- The **futility** of the NoFap reddit forumns
 - NoFap needs a serious overhaul
+
+__WRITING__
+- Creating Your First NeverFap Schedule
+- You can always find time for your mental health
 
 __Created/Done__
 - Introduction to the NeverFap Deluxe Guide
@@ -46,11 +50,13 @@ __Created/Done__
 ## Awareness over all - AOA
 
 __TODO__
-- The Myth of Awareness (how awareness is a practice, not something you already have).
+- The Myth of Awareness (how awareness is a practice, not something you already have). 
 - Practice: Keeping on top of your emotions.
 
-__Created/Done__
+__WRITING__
 - Context: The Importance of Meditation and NeverFap
+
+__Created/Done__
 
 ## Balance over reward - BOR
 
@@ -60,5 +66,7 @@ __TODO__
 - Practice: Pursuing balance
 - Context: Why balance is critical for regular function
 
-__Created/Done__
+__WRITING__
 - Paying the NeverFap Maintenance Tax
+
+__Created/Done__
