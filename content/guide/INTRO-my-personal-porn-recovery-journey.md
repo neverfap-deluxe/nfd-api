@@ -106,7 +106,7 @@ The second catalyst, which in part came about from the first catalyst, was perha
 
 <hr />
 
-### You see, I'd discovered this little thing called 'meditation'.
+### What happened was that I'd discovered this little thing called 'meditation'.
 
 <hr />
 
