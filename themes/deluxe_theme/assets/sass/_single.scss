@@ -22,17 +22,27 @@
     }
 
     ul {
+      margin-bottom: 3rem;
+      margin-top: 3rem;
       li {
         font-size: 1.1rem;
         margin-bottom: 0.4rem;
       }
     }
+
+    // .button__wrapper {
+    //   justify-content: center!important;
+    // }
   }
 
   .single__next__prev {
     display: flex;
     justify-content: space-between;
     width: 100%;
+
+    .button__wrapper {
+      justify-content: center!important;
+    }
   }
 }
 

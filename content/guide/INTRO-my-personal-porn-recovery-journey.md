@@ -11,61 +11,82 @@
 
 So you're probably wondering.
 
+
 ### Who on earth is this kid?
 
-I'm a writer, marketer, designer (as I'm sure you can tell by the website), web developer, as well as an avid entrepeneur.
+<hr/>
 
-Probably much like yourself, I came across porn at a very young age. In fact, from the very moment I figured out how to masturbate at the ripe age of 10.
+I'm a writer, a web developer, and avid entrepeneur.
 
-I'm not exactly sure when I decided that I wanted to give up porn, but there have been various serious attempts through out my life.
+<hr/>
 
-My very first attempt at giving up porn began at age 16, when I thought I'd just try it for the hell of it.
+I came across porn at a very young age, perhaps no different to yourself. 
 
-I managed to not watch porn for approximately 3 weeks, which was pretty amazing at the time.
+In fact, I started watching porn from the very moment I figured out how to masturbate at the age of 10.
+
+Again, nothing out of the ordinary.
+
+I'm not exactly sure when I decided that I wanted to give up porn, but I suppose there have been a variety of serious attempts through out my life.
+
+My very first attempt at giving up porn began at age 16, where I thought I'd try to give up porn for the hell of it.
+
+I managed to abstain for approximately 3 weeks, which was pretty amazing at the time.
 
 It then wasn't until I was around 20 years old that I began to recognise that porn was an actual problem. 
 
 A problem which I was determined to understand and overcome. 
 
+Fast forward a few years and...
+
+<hr/>
+
 <h3>Age 25. October 20th 2018.</h3>
 
-That is the last time I have and ever will masturbate or watch porn again.
+<hr/>
 
-You know when you have that moment when everything clicks in your head, and absolutely everything comes together and makes sense? 
+This is the last time I have (and ever will) masturbate to or watch porn ever again.
 
-Well, that day actually came a few weeks after that day in October (which I will explain soon).
+You know when you have that moment when everything clicks, and absolutely everything comes together and makes sense? 
 
-So changed over the years?
+I had that moment and it was awesome.
 
-It's hard to say exactly why I had that moment, but up until that point I was:
+So what changed?
 
-- Did the whole Paleo diet thing
+It's hard to say exactly why I experienced that moment, but up until then I'd:
+
+- Done the whole Paleo diet thing
 - Studied various books and perspective course on mental health
 - Took cold showers everyday before bed
 - Ate only one meal a day (via intermittent fasting)
-- Did Leangains and lifting weights three times a week
+- Was doing Leangains and lifting weights three times a week
 - Was in an amazing, supportive relationship
 - Worked obscenely hard to get a job as a programmer
 
-Like, I was essentially do everything I could have done right, and yet probably 90% of that had nothing to do with why I managed to successfully give up porn.
+Like, I was essentially do everything I could have done right. 
+
+...and yet probably 90% of that had nothing to do with why I'd managed to successfully give up porn.
 
 ## The truth of giving up porn addiction
 
-I suppose there were two actual verifiable reasons why I'd managed to successfully give up porn. 
+I suppose there were two main catalysts as to why I've remained porn free since.
 
 And it all happened within the space of a few weeks. 
 
+<hr />
+
 ### For starters I had a breakdown. 
+
+<hr />
 
 You see, I suffer from a condition from Bipolar Disorder and I hadn't told my partner about it. 
 
-In part, because I thought she already knew, yet one day I was feeling particularly vulnerable and it all came flooding out, because I felt as if I had to tell SOMEONE.
+In part, because I thought she already knew (since then I've learnt to never assume), because I refused to acknowledge it myself and because it wasn't something I ever felt comfortable talking. 
 
-She had no idea. 
+However one day I was feeling particularly vulnerable and I felt like I had to talk to someone about it. 
 
-Even though we'd been together for around four years up until that point.
+What I learnt was that she had no idea, even though we'd been together for around four years up until that point.
 
-Coming out about my disorder was an incredibly important thing for me to do for a variety of reasons.
+A few things happened as a result.
 
 Now that she was aware of my disorder, I could now be honest about all the things I was hiding from her, including my porn addiction.
 
@@ -73,42 +94,44 @@ Because let me tell you, it's really hard to overcome something when you're hidi
 
 Not only does the guilt eat away at you, but without having someone to talk about it with, it's hard to ask for help when you need it most. 
 
-Understanding and recognising my disorder, which I'd previously dismissed, helped me better understand my emotions and therefore, not take them personally in the worst of times and 
+In addition, I'd hit a point in my life where I could no longer cope, and in talking about it with someone, decided to take it seriously. 
 
-The main benefit however was the sense of confidence it gave me to actually approach my problems.
+Understanding and recognising my disorder, which I'd previously dismissed, helped me better understand my emotions and therefore, manage them a lot more easily. 
 
-It's like I finally felt free to just move on with my life.
+The main benefit however, was the sense of confidence it gave me to actually approach my problems.
 
-### The second thing which fundamentally changed my ability to handle my porn addiction was meditation.
+I finally felt free to just move on with my life.
 
-I'd literally only started meditating a few weeks after my last attempt at quiting porn.
+The second catalyst, which in part came about from the first catalyst, was perhaps more profound. 
 
-And yet, I can say that within two weeks of meditating <u>I'd learnt more about how to manage my porn addiction than in absolutely everything I'd done in the past five years to try and curb my addiction</u>.
+<hr />
+
+### You see, I'd discovered this little thing called 'meditation'.
+
+<hr />
+
+The funny thing about meditation is that I'd tried doing it through out various phases of my life to no avail.
+
+It didn't seem to help. It didn't really seem to do anything at all.
+
+However following my break down, I'd decided to take my mental health seriously and consider practices which would help me better manage my emotions.
+
+I'd literally only started meditating a few weeks after my last attempt at quiting porn, and I can say that within two weeks of meditating...
+
+I'd learnt more about how to manage my porn addiction than in absolutely everything I'd done in the past five years to try and curb my addiction.
 
 Absolutely incredible. 
 
 If I had one piece of advice to anyone wanting to seriously overcome porn addiction, **start meditating today**.
 
-Of course, it's foolish to claim that everything else I did up until then didn't have any impact on my ability to address my porn addiction.
+Of course, it'd be almost foolish to claim that everything I'd done up until then didn't have any impact on my life.
 
-Because it did.
+But man, meditating gave me super powers. 
 
-## Let me help you
+It provided me with the ability to fully control my mind, something which I hadn't experienced before. 
 
+And I want to help you experience that to.
 
-
-
-
-
-
-
-Certainly, it's hard to deny all the prior effort that went into my
-
-
-
-
-
-
-
+<a class="link" href="/guide">Get started</a> today.
 
 
