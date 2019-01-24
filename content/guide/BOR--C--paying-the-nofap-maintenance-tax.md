@@ -9,9 +9,7 @@
   slug: "paying-the-neverfap-maintenance-tax"
 ---
 
-While I’ve provided some context into what porn addiction is, let’s really get into the meat of things and discover some of the lessons I’ve personally had to learn in order to deal with my pornography addiction in a controlled and comfortable matter. 
-
-So what exactly is this maintenance tax?
+What exactly is this maintenance tax?
 
 Well, aside from the fact that it's a term I've more-or-less made up on the spot, the maintenance tax refers to the time and effort required in order to maintain our physical and mental health. It includes things like showering, exercising, relaxing, studying, meditating, eating and brushing our teeth. Everything that helps us keep regular. 
 

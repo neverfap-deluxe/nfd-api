@@ -9,4 +9,4 @@
   slug: "contact"
 ---
 
-My name is Julius and I am the founder of NeverFap. If you would like to get in contact, please provide your name, email and message, and I will get back to you as soon as possible!
+My name is Julius and I am the founder of NeverFap Deluxe. If you would like to get in contact, please provide your name, email and message, and I will get back to you as soon as possible!

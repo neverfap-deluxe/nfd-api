@@ -1,12 +1,12 @@
 ---
-  title: "Practice: Slowing Down Our Minds"
+  title: "Practice: Slow It Down"
   description: ""
-  date: 2018-12-12
+  date: 2018-01-27
   draft: true
   tags: [ "practice" ]
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
-  slug: "slowing-down-our-minds"
+  slug: "slow-it-down"
 ---
 
 This exercise is one of the easiest ways to start building your awareness. 
@@ -66,6 +66,12 @@ For example, when I'm walking down the street, aside from slowing down my though
 The idea is to prove control over yourself, even when you have other intentions, such as getting to a destination on time. 
 
 An idea that will prove very important in following exercises.
+
+## Moving Forward
+
+Once you've practiced this for a few weeks, I highly recommend checking out: 
+
+<a class="link" href="/guide/dissolve-it-down">Dissolve it down</a>
 
 <!-- 
 ## Additional Resources  -->

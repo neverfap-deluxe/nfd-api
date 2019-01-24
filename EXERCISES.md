@@ -31,7 +31,8 @@ __Created/Done__
 ## Awareness over all - AOA
 
 __TODO__
-- Practice: Slow it down.
+- Practice: Slow it down
+- Practice: Dissolve it down
 
 __Created/Done__
 

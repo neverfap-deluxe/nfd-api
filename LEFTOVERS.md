@@ -34,3 +34,12 @@ Essentially, the moral of the story, is that If you’re really struggling with 
 
 
 
+
+
+While I’ve provided some context into what porn addiction is, let’s really get into the meat of things and discover some of the lessons I’ve personally had to learn in order to deal with my pornography addiction in a controlled and comfortable matter. 
+
+
+
+
+
+
