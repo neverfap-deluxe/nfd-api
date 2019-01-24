@@ -57,12 +57,15 @@ But also to become a more calm and relaxed person.
 
 When you have a moment, just slow down your mind. 
 
-This tends to work best when you're in the middle of doing something, because that's usually when your mind is engaged and requires relaxing. 
+This tends to work best when you're in the middle or inbetween of doing something, because that's usually when your mind is engaged and requires relaxing. 
 
-Of course, you can also practice it when you have the time, however 
+Keep in mind that there are two different aspects to this exercise: Mental and physical.
 
+For example, when I'm walking down the street, aside from slowing down my thoughts, I will also sometimes physically slow down, sometimes even stopping where I stand.
 
+The idea is to prove control over yourself, even when you have other intentions, such as getting to a destination on time. 
 
+An idea that will prove very important in following exercises.
 
 <!-- 
 ## Additional Resources  -->
