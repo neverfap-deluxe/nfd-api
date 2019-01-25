@@ -24,47 +24,6 @@
     padding: 1rem;      
     cursor: pointer;
 
-    .five__principles__post {
-      position: absolute;
-      right: 0;
-      .five__principles__item__wrapper {
-        .five__principles__item {
-          left: -1rem;
-          font-size: 1.35rem;
-          height: 26px;
-        }
-        .five__principles__item::before {
-          background-color: rgba(255,46,182,1);
-        }
-
-        .five__principles__item--introduction {
-          color: rgb(0, 255, 0);
-        }
-
-        .five__principles__item--choice-over-mind {
-          color: yellow;
-        }
-
-        .five__principles__item--balance-over-reward {
-          color: cyan;
-        }
-
-        .five__principles__item--struggle-over-none {
-          color: rgb(255, 203, 106); 
-        }
-
-        .five__principles__item--awareness-over-all {
-          // color: rgb(116, 101, 255); 
-          color: white; 
-        }
-
-        .five__principles__item--uncondition-over-judgement {
-          color: rgb(255, 0, 0); 
-        }
-
-      }
-    }
-
     .post__left {
       .post__date {
 

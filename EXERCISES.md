@@ -35,6 +35,7 @@ __TODO__
 - Practice: Dissolve it down
 - Practice: Focus it forward
 - Practice: Stop it all
+- Practice: Point to point
 
 __Created/Done__
 
@@ -44,6 +45,7 @@ __Created/Done__
 __TODO__
 - Practice: Setting hard time limits
 - Practice: Developing routine.
+- Practice: Journalling your progress.
 
 __Created/Done__
 - Paying the NeverFap Maintenance Tax

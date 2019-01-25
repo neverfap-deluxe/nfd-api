@@ -1,6 +1,6 @@
 ---
-  title: "NeverFap Deluxe Guide Article Index"
-  description: "NeverFap Deluxe Guide Article Index"
+  title: "Article Index"
+  description: "Article Index"
   date: 2018-12-30
   draft: false
   tags: [ "" ]
