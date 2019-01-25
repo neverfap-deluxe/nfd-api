@@ -1,7 +1,7 @@
 ---
   title: "Practice: Slow It Down"
   description: ""
-  date: 2018-01-27
+  date: 2018-01-25
   draft: true
   tags: [ "practice" ]
   categories: [ "awareness-over-all" ]
