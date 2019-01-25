@@ -4,12 +4,11 @@
   align-items: center;
   justify-content: space-between;
 
-  height: 3.4rem;
-
   .header__links {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    flex-wrap: wrap;
+    // align-items: center;
+    // justify-content: center;
     
     margin: 0;
     padding: 0;
@@ -18,7 +17,10 @@
     .header__link__wrapper {
       display: flex;
       align-items: center;  
-      height: 100%;
+      justify-content: center;
+      height: 3.4rem;
+      min-width: 6.5rem;
+      // height: 100%;
       list-style: none;
 
       .header__link {
@@ -62,6 +64,7 @@
 @media screen and (min-width: 420px) {
   .header {
     .header__links {
+
       .header__link__wrapper {
         .header__link {
           padding-left: 8px;
@@ -71,6 +74,19 @@
     }
   }
 }
+
+@media screen and (min-width: 768px) {
+  .header {
+    .header__links {
+      .header__link__wrapper {
+        .header__link {
+        }
+      }
+    }
+  }
+}
+
+
 
 // .header__link__wrapper {
 //   position: relative;

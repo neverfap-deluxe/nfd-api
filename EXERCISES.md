@@ -33,6 +33,8 @@ __Created/Done__
 __TODO__
 - Practice: Slow it down
 - Practice: Dissolve it down
+- Practice: Focus it forward
+- Practice: Stop it all
 
 __Created/Done__
 

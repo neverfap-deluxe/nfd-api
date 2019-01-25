@@ -88,6 +88,8 @@
     </script>
   {{ end }}
 
+  <title>{{ if .IsHome }}{{ .Site.Params.title }}{{ else }}NeverFap Deluxe | {{ .Title }}{{ end }}</title>
+
   <!-- Internal Templates -->
   {{ template "_internal/google_analytics_async.html" . }}
   {{ template "_internal/opengraph.html" . }} <!-- Is this something I need ?-->

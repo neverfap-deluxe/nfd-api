@@ -1,6 +1,5 @@
 baseURL = "https://neverfapdeluxe.com/"
 languageCode = "en-us"
-title = "NeverFap Deluxe: How to overcome porn addiction without killing yourself"
 theme = "deluxe_theme"
 
 enableRobotsTXT = true
@@ -19,4 +18,5 @@ googleAnalytics = "UA-132863786-1"
 
 [params]
   author = "Julius Reade"
+  title = "NeverFap Deluxe | The World's Most Comprehensive Porn Addiction Recovery Solution."
   description = "NeverFap Deluxe | The World's Most Comprehensive Porn Addiction Recovery Solution."
