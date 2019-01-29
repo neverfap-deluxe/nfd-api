@@ -52,8 +52,8 @@
                 "@id": "{{ .Site.BaseURL }}"
           },
           "articleSection" : "{{ .Section }}",
-          "name" : "{{ .Title }}",
-          "headline" : "{{ .Title }}",
+          "name" : "{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}",
+          "headline" : "{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}",
           {{ if .IsHome -}}
             "description" : "{{ .Site.Params.description }}", 
           {{- else -}}
@@ -77,7 +77,7 @@
           "@context": "http://schema.org",
           "@type": "WebSite",
           "url": "{{ .Permalink }}",
-          "name": "{{ .Title }}",
+          "name": "{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}",
           "author": {
             "@type": "Person",
             "name": "{{ .Site.Params.author }}"
