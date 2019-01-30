@@ -1,6 +1,6 @@
 ---
   title: "Practice: Focus It Forward"
-  description: ""
+  description: "Focus Your Attention And Learn To Gain Control Over What Our Minds Pay Attention To. It Is An Ability Anyone Can Develop Through Practice."
   date: 2018-01-27
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
@@ -9,13 +9,16 @@
   slug: "focus-it-forward"
 ---
 
+Although learning to focus our attention is an important aspect of the mind, when it comes to developing our awareness, it's often an exercise which can create more confusion than clarity.
 
+I recommend mastering other awareness exercises before attempting this one, although I'll explain exactly why it's confusing and perhaps that will be enough for us to understand it. 
 
 <hr />
 
 ## Context
 
 <hr />
+
 
 
 <hr />

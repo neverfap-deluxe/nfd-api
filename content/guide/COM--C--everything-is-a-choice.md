@@ -9,8 +9,6 @@
   slug: "everything-is-a-choice"
 ---
 
-
-
 I want to talk about choice.
 
 Specifically, how it relates to one of our Five Fundamental Principles of NeverFap: Choice over mind.

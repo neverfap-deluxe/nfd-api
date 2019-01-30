@@ -4,6 +4,16 @@ __TODO__
 - The problem with NoFap 
 - The **futility** of the NoFap reddit forumns
 - NoFap needs a serious overhaul
+- The key thing to understand about practice. It's not so much about whether you're aware of what you're learning, because often for the first few weeks, this can be oblivious to us. What it's truly about is commiting our brain to the motiosn of practice, which provides physical changes which isn't oblivious in a real sense.
+
+Simply by engaging in these positive activities, we change the brain.
+
+The game here is to change the brain, one step at a time. Each step we make changes our brain. Gradually over time, it will all make sense. 
+
+The question is, are you willing to commit? 
+
+
+
 
 __WRITING__
 - Creating Your First NeverFap Schedule

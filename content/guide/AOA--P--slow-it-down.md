@@ -1,6 +1,6 @@
 ---
   title: "Practice: Slow It Down"
-  description: ""
+  description: "Slow Down Your Perception Of Reality. This Is A Great Exercise To Teach You To Manually Override What Your Mind Is Doing, And Exert Control Over It."
   date: 2018-01-25
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]

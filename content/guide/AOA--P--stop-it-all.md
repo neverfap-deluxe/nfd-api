@@ -1,6 +1,6 @@
 ---
   title: "Practice: Stop It All"
-  description: ""
+  description: "Like Flicking Off A Switch, Attempt To Completely Deactive Your Mind. This Is One Quick Way We Can Learn To Break Our Perception Of Reality And Dissolve Our Ego."
   date: 2018-01-27
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
