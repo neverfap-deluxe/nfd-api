@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  {{ partialCached "head.html" . }}
+  {{ partial "head.html" . }}
   <body>
     {{ partialCached "header.html" . }}
     <div id="content">{{ block "main" . }}{{ end }}</div>

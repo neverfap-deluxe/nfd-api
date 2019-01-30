@@ -1,4 +1,5 @@
 baseURL = "https://neverfapdeluxe.com/"
+title = "NeverFap Deluxe | The World's Most Comprehensive Porn Addiction Recovery Solution."
 languageCode = "en-us"
 theme = "deluxe_theme"
 
@@ -16,7 +17,3 @@ googleAnalytics = "UA-132863786-1"
 [author]
   name = "Julius Reade"
 
-[params]
-  author = "Julius Reade"
-  title = "NeverFap Deluxe | The World's Most Comprehensive Porn Addiction Recovery Solution."
-  description = "NeverFap Deluxe | The World's Most Comprehensive Porn Addiction Recovery Solution."

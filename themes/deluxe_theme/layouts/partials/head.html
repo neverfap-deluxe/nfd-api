@@ -4,8 +4,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   {{ .Hugo.Generator }}
 
-  <meta name="author" content="Julius Reade">
-  <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}"/>
+  <meta name="author" content="{{ .Site.Author.name }}">
+  <meta name="description" content="{{ .Description }}"/>
   <meta name="robots" content="noodp"/>
   <link rel="canonical" href="{{ .Permalink }}" />
 
@@ -52,13 +52,9 @@
                 "@id": "{{ .Site.BaseURL }}"
           },
           "articleSection" : "{{ .Section }}",
-          "name" : "{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}",
-          "headline" : "{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}",
-          {{ if .IsHome -}}
-            "description" : "{{ .Site.Params.description }}", 
-          {{- else -}}
-            "description" : "{{ default .Summary .Description }}",
-          {{- end }}
+          "name" : "{{ .Title }}",
+          "headline" : "{{ .Title }}",
+          "description" : "{{ .Description }}", 
           "inLanguage" : "en-US",
           "author" : "{{ .Site.Author.name }}",
           "creator" : "{{ .Site.Author.name }}",
@@ -77,18 +73,18 @@
           "@context": "http://schema.org",
           "@type": "WebSite",
           "url": "{{ .Permalink }}",
-          "name": "{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}",
+          "name": "{{ .Title }}",
           "author": {
             "@type": "Person",
-            "name": "{{ .Site.Params.author }}"
+            "name": "{{ .Site.Author.name }}"
           },
-          "description": "{{ .Site.Params.description }}",
+          "description": "{{ .Description }}",
         }
       {{ end }}
     </script>
   {{ end }}
 
-  <title>{{ if .IsHome }}{{ .Site.Params.title }}{{ else }}NeverFap Deluxe | {{ .Title }}{{ end }}</title>
+  <title>NeverFap Deluxe | {{ .Title }}</title>
 
   <!-- Internal Templates -->
   {{ template "_internal/google_analytics_async.html" . }}
