@@ -2,8 +2,8 @@
   title: "Practice: Dissolve It Down"
   description: ""
   date: 2018-01-30
-  draft: true
-  tags: [ "practice" ]
+  draft: false
+  tags: [ "practice", "meditation", "visual meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
   slug: "dissolve-it-down"

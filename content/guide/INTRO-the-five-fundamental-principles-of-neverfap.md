@@ -3,7 +3,7 @@
   description: ""
   date: 2018-10-29
   draft: false
-  tags: [ "popular" ]
+  tags: [ "popular", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "the-five-fundamental-principles-of-neverfap"

@@ -3,7 +3,7 @@
   description: ""
   date: 2018-11-13
   draft: false
-  tags: [ "" ]
+  tags: [ "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap alternative" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "why-am-i-am-porn-addict"

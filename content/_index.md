@@ -1,9 +1,9 @@
 ---
-  title: "Home"
-  description: "The World's Most Comprehensive Porn Addiction Recovery Solution."
+  title: "The NoFap Alternative"
+  description: "The World's Most Comprehensive Porn Addiction Recovery Solution. Start Your Porn Recovery Journey Today And Get A Hold Of Your Addiction. The NoFap Alternative."
   date: 2018-01-07
   draft: false
-  tags: [ "" ]
+  tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "nofap alternative", "neverfap deluxe", "nofap guide", "neverfap basics" ]
   categories: [ "" ]
   slug: "/"
 ---

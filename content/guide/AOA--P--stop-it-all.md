@@ -2,8 +2,8 @@
   title: "Practice: Stop It All"
   description: ""
   date: 2018-01-27
-  draft: true
-  tags: [ "practice" ]
+  draft: false
+  tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
   slug: "stop-it-all"

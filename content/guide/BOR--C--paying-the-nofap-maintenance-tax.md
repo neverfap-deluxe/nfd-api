@@ -2,8 +2,8 @@
   title: "Paying the NeverFap Maintenance Tax"
   description: ""
   date: 2018-12-02
-  draft: true
-  tags: [ "context" ]
+  draft: false
+  tags: [ "context", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
   # image: "/images/face.jpg"
   slug: "paying-the-neverfap-maintenance-tax"

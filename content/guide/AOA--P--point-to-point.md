@@ -2,8 +2,8 @@
   title: "Practice: Point To Point"
   description: ""
   date: 2018-02-02
-  draft: true
-  tags: [ "practice" ]
+  draft: false
+  tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
   slug: "point-to-point"

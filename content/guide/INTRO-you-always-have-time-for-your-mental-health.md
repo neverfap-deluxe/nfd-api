@@ -3,7 +3,7 @@
   description: ""
   date: 2018-01-21
   draft: false
-  tags: [ "" ]
+  tags: [ "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "you-always-have-time-for-your-mental-health"

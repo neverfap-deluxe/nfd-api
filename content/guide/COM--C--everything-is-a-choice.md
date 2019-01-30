@@ -2,12 +2,14 @@
   title: "Everything Is A Choice"
   description: ""
   date: 2018-12-12
-  draft: true
-  tags: [ "context" ]
+  draft: false
+  tags: [ "context", "understanding choice", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
   slug: "everything-is-a-choice"
 ---
+
+
 
 I want to talk about choice.
 

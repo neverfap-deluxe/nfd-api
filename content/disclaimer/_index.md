@@ -1,9 +1,9 @@
 ---
   title: "Disclaimer"
-  description: ""
+  description: "NeverFap Deluxe Disclaimer. This Website May Be Used As A Tool For Self-Improvement, However Personal Outcomes Are Up To You To Decide. NoFap Alternative."
   date: 2018-01-14
   draft: false
-  tags: [ "" ]
+  tags: [ "disclaimer", "privacy", "porn addiction", "porn recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "" ]
   # image: "/images/face.jpg"
   slug: "disclaimer"

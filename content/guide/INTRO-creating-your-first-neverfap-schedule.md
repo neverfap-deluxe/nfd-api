@@ -3,7 +3,7 @@
   description: ""
   date: 2018-11-13
   draft: false
-  tags: [ "" ]
+  tags: [ "context", "neverfap schedule", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "creating-your-first-neverfap-schedule"

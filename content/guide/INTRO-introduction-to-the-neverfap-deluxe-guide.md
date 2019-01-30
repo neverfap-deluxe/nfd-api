@@ -3,7 +3,7 @@
   description: ""
   date: 2018-10-15
   draft: false
-  tags: [ "popular" ]
+  tags: [ "popular", "neverfap basics", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap deluxe guide", "neverfap basics" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "introduction-to-the-neverfap-deluxe-guide"

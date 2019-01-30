@@ -3,7 +3,7 @@
   description: ""
   date: 2018-11-23
   draft: false
-  tags: [ "" ]
+  tags: [ "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "nofap alternative" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "what-makes-neverfap-so-different"
