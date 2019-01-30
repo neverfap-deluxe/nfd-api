@@ -1,6 +1,6 @@
 ---
   title: "Everything Is A Choice"
-  description: ""
+  description: "Everything You Do, From How You Think In Every Moment To What You Believe Today Or Tomorrow, Is Completely At Your Discretion. You Just Have To Realise It."
   date: 2018-12-12
   draft: false
   tags: [ "context", "understanding choice", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
