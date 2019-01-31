@@ -1,6 +1,6 @@
 ---
   title: "My Personal Porn Recovery Journey"
-  description: ""
+  description: "In This Article I Talk About My Personal Porn Recovery Journey, Along With Some Of The Realisations I Had Along The Way In Regards To Key Lessons Learnt."
   date: 2018-10-22
   draft: false
   tags: [ "popular", "porn recovery", "neverfap basics", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
