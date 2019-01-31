@@ -1,6 +1,6 @@
 ---
   title: "Introduction to the NeverFap Deluxe Guide"
-  description: ""
+  description: "The NeverFap Deluxe Guide Is Designed To Help You Overcome Porn Addiction In The Most Effective Way Possible. Treat The Cause, Not The Symptom."
   date: 2018-10-15
   draft: false
   tags: [ "popular", "neverfap basics", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap deluxe guide", "neverfap basics" ]
