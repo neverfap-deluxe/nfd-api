@@ -3,7 +3,7 @@
   description: "The NeverFap Deluxe Guide Is Designed To Help You Overcome Porn Addiction In The Most Effective Way Possible. Treat The Cause, Not The Symptom."
   date: 2018-10-15
   draft: false
-  tags: [ "popular", "neverfap basics", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap deluxe guide", "neverfap basics" ]
+  tags: [ "context", "popular", "neverfap basics", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap deluxe guide", "neverfap basics" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "introduction-to-the-neverfap-deluxe-guide"
@@ -41,7 +41,11 @@ To do this, we need to look not only at porn recovery, but also how us humans ob
 
 We have one rule here at NeverFap: 
 
+<hr/>
+
 **Practice. Practice. Practice.**
+
+<hr/>
 
 The thing that matters is practicing the core skills which will help you become better at your goals.
 

@@ -3,7 +3,7 @@
   description: "When We're Desperate We Can Find Ourselves Asking Irrational Questions And Attempting To Try And Understand Why We May Be A Porn Addict Is One Of Them."
   date: 2018-11-13
   draft: false
-  tags: [ "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap alternative" ]
+  tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap alternative" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "why-am-i-am-porn-addict"

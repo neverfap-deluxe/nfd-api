@@ -2,7 +2,7 @@
   title: "Everything Is A Choice"
   description: "Everything You Do, From How You Think In Every Moment To What You Believe Today Or Tomorrow, Is Completely At Your Discretion. You Just Have To Realise It."
   date: 2018-12-12
-  draft: false
+  draft: true
   tags: [ "context", "understanding choice", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
@@ -43,15 +43,16 @@ I'm here to convince you otherwise.
 
 And it's so powerful, it effective overrides every other choice that you've made, or have had made for you. 
 
+
+You can choose how you want to respond.
+
+And I really cannot emphasise how powerful this choice really is, because in effect, it is the only choice you as an individual actually have in life. 
+
 <hr />
-
-That is, you have choice in how you want to respond.
-
-<hr />
-
-I really cannot emphasise this enough. 
 
 ## The Victim Mindset
+
+<hr />
 
 When you truly understand what Choice over mind means, it complete changes the way you look at things. 
 
@@ -81,7 +82,11 @@ As you can tell, the overwhelming theme is that we have control over our mind.
 
 And when you realise that your mind consists of almost everything relating to your human existence, you realise that you actually are fully incontrol of who you are, irrespective of all the other choices that you may have had made for you.
 
+<hr />
+
 ## Making Choices
+
+<hr />
 
 The reason why I emphasise Choice over mind is because it's a principle which I can strongly relate to in my own life. 
 

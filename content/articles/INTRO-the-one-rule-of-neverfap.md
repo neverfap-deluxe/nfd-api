@@ -3,7 +3,7 @@
   description: "NeverFap Has One Very Important Rule: Practice And Spending The Time To Practice Is The Only Thing That Matters To Your Porn Recovery."
   date: 2018-11-06
   draft: false
-  tags: [ "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
+  tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "the-one-rule-of-neverfap"
@@ -12,6 +12,8 @@
 Let's discuss a NeverFap best case scenario.
 
 Here are a list of metrics that reflect a very healthy attitude towards life and porn addiction.
+
+<hr/>
 
 - You no longer watch porn.
 - You no longer crave watching porn.
@@ -28,7 +30,11 @@ Here are a list of metrics that reflect a very healthy attitude towards life and
 - You’re motivated and ambitious.
 - You’re committed to your mental health.
 
+<hr/>
+
 Fancy pants.
+
+Go out there and buy yourself a Golden Globe. Now that you fully understand what you must achieve, you absolutely deserve it.
 
 <hr/>
 

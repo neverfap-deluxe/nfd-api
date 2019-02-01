@@ -2,7 +2,7 @@
   title: "Practice: Point To Point"
   description: "Pay Attention And Become Aware Of The Things You Do Throughout Your Day. The Intention Is To Allow You To Engage Your Mind In A Non-Reactive Way."
   date: 2018-02-02
-  draft: false
+  draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"

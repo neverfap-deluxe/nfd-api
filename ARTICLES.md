@@ -65,6 +65,7 @@ __TODO__
 
 __WRITING__
 - Context: The Importance of Meditation and NeverFap
+- Context: Everything is a choice
 
 __Created/Done__
 

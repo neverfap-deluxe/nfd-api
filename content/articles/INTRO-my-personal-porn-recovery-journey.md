@@ -3,7 +3,7 @@
   description: "In This Article I Talk About My Personal Porn Recovery Journey, Along With Some Of The Realisations I Had Along The Way In Regards To Key Lessons Learnt."
   date: 2018-10-22
   draft: false
-  tags: [ "popular", "porn recovery", "neverfap basics", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
+  tags: [ "context", "popular", "porn recovery", "neverfap basics", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "my-personal-porn-recovery-journey"
@@ -66,7 +66,15 @@ Like, I was essentially do everything I could have done right.
 
 ...and yet probably 90% of that had nothing to do with why I'd managed to successfully give up porn.
 
+<hr/>
+
 ## The truth of giving up porn addiction
+
+<hr/>
+
+In retrospect, giving up porn is actually a relatively simple, straight forward process.
+
+Ha.
 
 I suppose there were two main catalysts as to why I've remained porn free since.
 

@@ -25,9 +25,13 @@ You wouldn't get financial advice from someone with a gambling problem, so why s
 
 Not once did I read about the significance of meditation, arguably the most important thing you can do to help overcome porn addiction.
 
+<hr/>
+
 <div class="button__wrapper">
   <a class="button button__secondary" href="/guide/my-personal-porn-recovery-journey">My Personal Porn Recovery Journey.</a>
 </div>
+
+<hr/>
 
 That's when I knew there was an opportunity to create a website that could save people years trying to overcome their porn addiction. 
 
@@ -37,9 +41,13 @@ No more excuses. No more compromises. This is the real deal.
 
 I've written about how NeverFap approaches things differently, especially from a philosophical point of view. 
 
+<hr/>
+
 <div class="button__wrapper">
   <a class="button button__secondary" href="/guide/what-makes-neverfap-so-different/">What Makes NeverFap So Different.</a>
 </div>
+
+<hr/>
 
 Compromising of five fundamental principles, the NeverFap method of eliminating porn addiction, addressing porn addiction could honestly not be simpler. 
 

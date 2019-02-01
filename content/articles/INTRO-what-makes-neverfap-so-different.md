@@ -3,7 +3,7 @@
   description: "Unlike NoFap, NeverFap Is A Comprehensive Porn Recovery Solution. With The Five Fundamental Principles Of Neverfap We Can Easily Give Up Porn."
   date: 2018-11-23
   draft: false
-  tags: [ "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "nofap alternative" ]
+  tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "nofap alternative" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "what-makes-neverfap-so-different"
@@ -17,15 +17,23 @@ Which is like saying: "Hey buddy, you have a severe problem, but I won't actuall
 
 Ultimately, there were two kinds of resources that I frequently came across:
 
+<hr/>
+
 - Incomplete advice from existing porn addicts, usually in the form of forum posts, which were desperately hopeful at best.
 
 - Scientific descriptions as to what porn addiction is and how it affects various aspects of our mind and physical bodies.
+
+<hr/>
 
 While it's great to understand what happens under the hood from a scientific point of view, in no way does it actually help me deal with the day-to-day of being a porn addict.
 
 So lieu of all this.
 
+<hr/>
+
 <h3>I decided to create NeverFap.</h3>
+
+<hr/>
 
 NeverFap has one very clear purpose that other websites lack: 
 
@@ -37,7 +45,11 @@ Using these practices, I have personally overcome porn addiction to a point that
 
 In addition, the NeverFap method of overcoming porn addiction has been built around Five Fundamental Principles, which serve to help you not only better understand yourself, but cut through the denial of being a porn addict.
 
+<hr/>
+
 ## Porn is not the problem 
+
+<hr/>
 
 Aside from the fact that NeverFap is a complete solution that aims to take you from porn addict to regular human being, we also take a very unique approach towards addressing porn addiction.
 
@@ -57,7 +69,11 @@ Rather, I believe that porn addicts are addicted to porn because of some sort of
 
 Not only is this a reflection of my own experience, but a reflection on the actual practices and solutions out there which work to help address porn addiction.
 
-## Addressing the misunderstanding
+<hr/>
+
+### What are we misunderstanding?
+
+<hr/>
 
 When you think about it, no one wants to be an addict. 
 
@@ -75,7 +91,7 @@ This is why I came up with the Five Fundamental Principles of NeverFap, to help 
 
 <div class="button__wrapper">
   <a
-    class="button"
+    class="button button__secondary"
     href="/guide/the-five-fundamental-principles-of-neverfap"
     >Learn More About The Five Principles.</a
   >

@@ -9,6 +9,7 @@
 - create categories/tags
 - Get logo images
 - Figure out twitter https://twitter.com/
+- Practices to show 
 
 ## Types of categories
 

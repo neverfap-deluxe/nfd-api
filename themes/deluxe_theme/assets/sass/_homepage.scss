@@ -42,6 +42,8 @@
     top: -1rem;
     
     .header__links {
+      position: relative;
+      top: -0.2rem;
       .header__link__wrapper {
         border-bottom: 5px solid white;
         // background: grey;
@@ -87,15 +89,54 @@
 }
 
 .homepage__recovered__porn__addict__list {
-  .homepage__recovered__porn__addict__item {
-    font-size: 1.1rem;
-    margin-bottom: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  margin-top: 3rem;
 
+  .homepage__recovered__porn__addict__item__lead {
+    font-size: 1.4rem;
+    font-weight: 900;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid black;
+    display: inline-block;
+  }
+
+  .homepage__recovered__porn__addict__item {
+    // font-size: 1.1rem;
+    font-size: 0.9rem;
+    margin-bottom: 0.4rem;
+    display: inline-block;
+    margin-left: 1.4rem;
     // color: rgba(255,46,182,1);
     // text-decoration-line: underline;
     // text-decoration-color: cyan;
     // border-bottom: 2px solid cyan;
   }
+
+  .homepage__recovered__porn__addict__item::before {
+    content: "";
+    position: absolute;
+    // left: -5%;
+    bottom: -1px;
+    width: 100%;
+    height: 2px;
+    // background-color: rgb(255, 187, 0);
+    opacity: 0.4;
+    z-index: -1;  
+  }
+
+  .orange__item::before {
+    background-color: rgb(255, 187, 0);
+  }
+
+  .pink__item::before {
+    background-color: rgb(247, 0, 255);
+  }
+
+  .cyan__item::before {
+    background-color: rgb(0, 247, 255);
+  }
+
 }
 
 .homepage__guide__wrapper {

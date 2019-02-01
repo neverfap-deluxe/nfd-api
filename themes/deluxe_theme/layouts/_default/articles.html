@@ -4,7 +4,6 @@
     <h2>{{ .Title }}</h2>
 <!-- 
     <p>This page contains a list of all the articles on this website.</p> -->
-
     
     <div class="index__container">
       <ul class="five__principles__list__page">
@@ -14,9 +13,11 @@
       <div class="articles__list">
         {{ range .Site.RegularPages }}
           {{ if in .Params.categories "introduction" }}
-            <div class="article__item__wrapper">
-              <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-            </div>  {{/* index (.Params.categories) 0 */}}
+            {{ if in .Params.tags "context" }}
+              <div class="article__item__wrapper">
+                <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+              </div>  {{/* index (.Params.categories) 0 */}}
+            {{ end }}
           {{ end }}
         {{ end }}
       </div>
@@ -27,9 +28,11 @@
       <div class="articles__list">
         {{ range .Site.RegularPages }}
           {{ if in .Params.categories "choice-over-mind" }}
-            <div class="article__item__wrapper">
-              <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-            </div>
+            {{ if in .Params.tags "context" }}
+              <div class="article__item__wrapper">
+                <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+              </div>
+            {{ end }}
             </div>          
           {{ end }}
         {{ end }}
@@ -42,9 +45,11 @@
       <div class="articles__list">
         {{ range .Site.RegularPages }}
           {{ if in .Params.categories "balance-over-reward" }}
-            <div class="article__item__wrapper">
-              <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-            </div>
+            {{ if in .Params.tags "context" }}
+              <div class="article__item__wrapper">
+                <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+              </div>
+            {{ end }}
           {{ end }}
         {{ end }}
       </div>
@@ -56,9 +61,11 @@
       <div class="articles__list">
         {{ range .Site.RegularPages }}
           {{ if in .Params.categories "struggle-over-none" }}
-            <div class="article__item__wrapper">
-              <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-            </div>
+            {{ if in .Params.tags "context" }}
+              <div class="article__item__wrapper">
+                <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+              </div>
+            {{ end }}
           {{ end }}
         {{ end }}
       </div>
@@ -70,9 +77,11 @@
       <div class="articles__list">
         {{ range .Site.RegularPages }}
           {{ if in .Params.categories "awareness-over-all" }}
-            <div class="article__item__wrapper">
-              <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-            </div>
+            {{ if in .Params.tags "context" }}
+              <div class="article__item__wrapper">
+                <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+              </div>
+            {{ end }}
           {{ end }}
         {{ end }}
       </div>
@@ -83,9 +92,11 @@
       <div class="articles__list">
         {{ range .Site.RegularPages }}
           {{ if in .Params.categories "uncondition-over-judgement" }}
-            <div class="article__item__wrapper">
-              <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-            </div>
+            {{ if in .Params.tags "context" }}
+              <div class="article__item__wrapper">
+                <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+              </div>
+            {{ end }}
           {{ end }}
         {{ end }}
       </div>
