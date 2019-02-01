@@ -37,6 +37,30 @@
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#E39802', endColorstr='#FF2EB6',GradientType=1 ); /* ie6-9 */
   color: white;
 
+  .header {
+    position: relative;
+    top: -1rem;
+    
+    .header__links {
+      .header__link__wrapper {
+        border-bottom: 5px solid white;
+        // background: grey;
+        .header__link {
+          color: white;
+          // color: black;
+        }
+      }
+
+      .header__link__wrapper:hover {
+        background: lighten(orange, 10%);
+      }  
+
+      .header__link__wrapper:hover .header__link {
+        // color: black;
+      }
+    }
+  }
+
   .homepage__hero__title {
     box-shadow: -5px 5px 0px 0px black;
 

@@ -1,5 +1,5 @@
 ---
-  title: "The NoFap Alternative"
+  title: "The Comprehensive NoFap Alternative"
   description: "The World's Most Comprehensive Porn Addiction Recovery Solution. Start Your Porn Recovery Journey Today. The Effective NoFap Alternative."
   date: 2018-01-07
   draft: false

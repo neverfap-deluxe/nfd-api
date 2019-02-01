@@ -52,6 +52,22 @@
 
 
 
+// PAGE CATEGORY
+.five__principles__list__page {
+  @include principle__wrapper();
+
+  .five__principles__item__page {
+    @include principle__item();
+    left: 0rem;
+
+  }
+  
+  .five__principles__item__page::before {
+    @include principle__item__before();
+  }  
+}
+
+
 
 
 // HOMEPAGE HERO

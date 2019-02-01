@@ -3,10 +3,12 @@
     
     <h2>{{ .Title }}</h2>
 
-    <p>This page contains a list of all the exercises and practices on this website.</p>
+    <!-- <p>This page contains a list of all the exercises and practices on this website.</p> -->
     
     <div class="index__container">
-      <h3>Choice Over Mind</h3>
+      <ul class="five__principles__list__page">
+        <span><li class="five__principles__item__page">Choice Over Mind</li></span>
+      </ul>
       <div class="articles__list">
         {{ range .Site.RegularPages }}
           {{ if in .Params.categories "choice-over-mind" }}
@@ -20,7 +22,9 @@
         {{ end }}
       </div>
   
-      <h3>Balance Over Reward</h3>
+      <ul class="five__principles__list__page">
+        <span><li class="five__principles__item__page">Balance Over Reward</li></span>
+      </ul>
       <div class="articles__list">
         {{ range .Site.RegularPages }}
           {{ if in .Params.categories "balance-over-reward" }}
@@ -33,7 +37,9 @@
         {{ end }}
       </div>
   
-      <h3>Struggle Over None</h3>
+      <ul class="five__principles__list__page">
+        <span><li class="five__principles__item__page">Struggle Over None</li></span>
+      </ul>
       <div class="articles__list">
         {{ range .Site.RegularPages }}
           {{ if in .Params.categories "struggle-over-none" }}
@@ -46,7 +52,9 @@
         {{ end }}
       </div>
   
-      <h3>Awareness Over All</h3>
+      <ul class="five__principles__list__page">
+        <span><li class="five__principles__item__page">Awareness Over All</li></span>
+      </ul>
       <div class="articles__list">
         {{ range .Site.RegularPages }}
           {{ if in .Params.categories "awareness-over-all" }}
@@ -59,7 +67,9 @@
         {{ end }}
       </div>
   
-      <h3>Uncondition Over Judgement</h3>
+      <ul class="five__principles__list__page">
+        <span><li class="five__principles__item__page">Uncondition Over Judgement</li></span>
+      </ul>
       <div class="articles__list">
         {{ range .Site.RegularPages }}
           {{ if in .Params.categories "uncondition-over-judgement" }}
