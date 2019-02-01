@@ -1,6 +1,12 @@
+.index__container {
+  margin-top: 4rem;
+}
+
 .articles__list {
   display: flex;
   flex-direction: column;
+
+  margin-bottom: 3rem;
   .article__item__wrapper {
     width: 100%;
     margin-bottom: 1rem;
@@ -10,6 +16,13 @@
   }
 }
 
+.list__wrapper {
+  margin: 1rem;
+  .list {
+    display: flex;
+    flex-direction: column;
+  }  
+}
 
 @media screen and (min-width: 420px) {
   .articles__list {

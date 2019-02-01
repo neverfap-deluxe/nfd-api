@@ -3,76 +3,74 @@
     
     <h2>{{ .Title }}</h2>
 
-    {{/*  <div class="single__content">
-      {{ .Content }}
-    </div>  */}}
-
     <p>This page contains a list of all the exercises and practices on this website.</p>
     
-    <h3>Choice Over Mind</h3>
-    <div class="articles__list">
-      {{ range .Site.RegularPages }}
-        {{ if in .Params.categories "choice-over-mind" }}
-          {{ if in .Params.tags "practice" }}
-            <div class="article__item__wrapper">
-              <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-            </div>
-            </div>          
+    <div class="index__container">
+      <h3>Choice Over Mind</h3>
+      <div class="articles__list">
+        {{ range .Site.RegularPages }}
+          {{ if in .Params.categories "choice-over-mind" }}
+            {{ if in .Params.tags "practice" }}
+              <div class="article__item__wrapper">
+                <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+              </div>
+              </div>          
+            {{ end }}
           {{ end }}
         {{ end }}
-      {{ end }}
-    </div>
-
-    <h3>Balance Over Reward</h3>
-    <div class="articles__list">
-      {{ range .Site.RegularPages }}
-        {{ if in .Params.categories "balance-over-reward" }}
-          {{ if in .Params.tags "practice" }}
-            <div class="article__item__wrapper">
-              <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-            </div>
+      </div>
+  
+      <h3>Balance Over Reward</h3>
+      <div class="articles__list">
+        {{ range .Site.RegularPages }}
+          {{ if in .Params.categories "balance-over-reward" }}
+            {{ if in .Params.tags "practice" }}
+              <div class="article__item__wrapper">
+                <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+              </div>
+            {{ end }}
           {{ end }}
         {{ end }}
-      {{ end }}
-    </div>
-
-    <h3>Struggle Over None</h3>
-    <div class="articles__list">
-      {{ range .Site.RegularPages }}
-        {{ if in .Params.categories "struggle-over-none" }}
-          {{ if in .Params.tags "practice" }}
-            <div class="article__item__wrapper">
-              <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-            </div>
+      </div>
+  
+      <h3>Struggle Over None</h3>
+      <div class="articles__list">
+        {{ range .Site.RegularPages }}
+          {{ if in .Params.categories "struggle-over-none" }}
+            {{ if in .Params.tags "practice" }}
+              <div class="article__item__wrapper">
+                <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+              </div>
+            {{ end }}
           {{ end }}
         {{ end }}
-      {{ end }}
-    </div>
-
-    <h3>Awareness Over All</h3>
-    <div class="articles__list">
-      {{ range .Site.RegularPages }}
-        {{ if in .Params.categories "awareness-over-all" }}
-          {{ if in .Params.tags "practice" }}
-            <div class="article__item__wrapper">
-              <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-            </div>
+      </div>
+  
+      <h3>Awareness Over All</h3>
+      <div class="articles__list">
+        {{ range .Site.RegularPages }}
+          {{ if in .Params.categories "awareness-over-all" }}
+            {{ if in .Params.tags "practice" }}
+              <div class="article__item__wrapper">
+                <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+              </div>
+            {{ end }}
           {{ end }}
         {{ end }}
-      {{ end }}
-    </div>
-
-    <h3>Uncondition Over Judgement</h3>
-    <div class="articles__list">
-      {{ range .Site.RegularPages }}
-        {{ if in .Params.categories "uncondition-over-judgement" }}
-          {{ if in .Params.tags "practice" }}
-            <div class="article__item__wrapper">
-              <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-            </div>
+      </div>
+  
+      <h3>Uncondition Over Judgement</h3>
+      <div class="articles__list">
+        {{ range .Site.RegularPages }}
+          {{ if in .Params.categories "uncondition-over-judgement" }}
+            {{ if in .Params.tags "practice" }}
+              <div class="article__item__wrapper">
+                <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+              </div>
+            {{ end }}
           {{ end }}
         {{ end }}
-      {{ end }}
+      </div>
     </div>
   </main>
 {{ end }}

@@ -2,34 +2,32 @@
   {{ range .Site.RegularPages.ByDate }}
     <a class="post" href="{{.Permalink}}">
       <div class="post__left">
-        <ul class="five__principles__post">
-          <span class="five__principles__item__wrapper">
-            {{ if in .Params.categories "introduction" }}
-              <li class="five__principles__item five__principles__item--link five__principles__item--introduction">
-                Introduction
-              </li>
-            {{ else if in .Params.categories "choice-over-mind" }}
-              <li class="five__principles__item five__principles__item--link five__principles__item--choice-over-mind">
-                Choice over mind
-              </li>
-            {{ else if in .Params.categories "balance-over-reward" }} 
-              <li class="five__principles__item five__principles__item--link five__principles__item--balance-over-reward">
-                Balance over reward
-              </li>
-            {{ else if in .Params.categories "struggle-over-none" }} 
-              <li class="five__principles__item five__principles__item--link five__principles__item--struggle-over-none">
-                Struggle over none
-              </li>
-            {{ else if in .Params.categories "awareness-over-all" }} 
-              <li class="five__principles__item five__principles__item--link five__principles__item--awareness-over-all">
-                Awareness over all
-              </li>
-            {{ else if in .Params.categories "uncondition-over-judgement" }} 
-              <li class="five__principles__item">
-                  Uncondition over judgement
-              </li>
-            {{ end }}
-          </span>
+        <ul class="post__five__principles">
+          {{ if in .Params.categories "introduction" }}
+            <li class="post__five__principles__item  post__five__principles__item--introduction">
+              Introduction
+            </li>
+          {{ else if in .Params.categories "choice-over-mind" }}
+            <li class="post__five__principles__item  post__five__principles__item--choice-over-mind">
+              Choice over mind
+            </li>
+          {{ else if in .Params.categories "balance-over-reward" }} 
+            <li class="post__five__principles__item  post__five__principles__item--balance-over-reward">
+              Balance over reward
+            </li>
+          {{ else if in .Params.categories "struggle-over-none" }} 
+            <li class="post__five__principles__item  post__five__principles__item--struggle-over-none">
+              Struggle over none
+            </li>
+          {{ else if in .Params.categories "awareness-over-all" }} 
+            <li class="post__five__principles__item  post__five__principles__item--awareness-over-all">
+              Awareness over all
+            </li>
+          {{ else if in .Params.categories "uncondition-over-judgement" }} 
+            <li class="post__five__principles__item post__five__principles__item--uncondition-over-judgement">
+                Uncondition over judgement
+            </li>
+          {{ end }}
         </ul>
         <h5 class="post__date">{{.Date.Format "2006-01-02"}}</h5>
         <h4 class="post__title">{{.LinkTitle}}</h4>    

@@ -46,12 +46,12 @@ Compromising of five fundamental principles, the NeverFap method of eliminating 
 These principles are:
 
 <div class="homepage__section">
-  <ul class="five__principles__list">
-    <li class="five__principles__item">Choice over mind</li>
-    <li class="five__principles__item">Balance over reward</li>
-    <li class="five__principles__item">Struggle over none</li>
-    <li class="five__principles__item">Awareness over all</li>
-    <li class="five__principles__item">Uncondition over judgement</li>
+  <ul class="five__principles__list__main">
+    <span><li class="five__principles__item__main">Choice over mind</li></span>
+    <span><li class="five__principles__item__main">Balance over reward</li></span>
+    <span><li class="five__principles__item__main">Struggle over none</li></span>
+    <span><li class="five__principles__item__main">Awareness over all</li></span>
+    <span><li class="five__principles__item__main">Uncondition over judgement</li></span>
   </ul>
 </div>
 
