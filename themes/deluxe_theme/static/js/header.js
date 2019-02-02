@@ -34,3 +34,11 @@ switch(pathnameProper) {
     link__contact.style.borderBottom = '5px solid orange';
     break;
 }
+
+var good_choice = document.querySelector('.header__link__wrapper--guide--good-choice');
+
+if (pathnameProper === 'guide') {
+  good_choice.style.display = 'block';
+} else {
+  good_choice.style.display = 'none';
+}

@@ -53,10 +53,15 @@
       }
 
       #link__guide:hover .header__link__wrapper--guide {
-        font-size: 1rem;
+        font-size: 0.95rem;
       }
 
+      // .header__link__wrapper--guide--good-choice {
+      //   display: none;
+      // }
+
       .header__link__wrapper--guide {
+        display: none;
         position: absolute;
         // top: -0.6rem;
         top: -1.8rem;
@@ -252,6 +257,14 @@
     .homepage__hero__title__secondary {
       margin: 0 auto;
       width: 700px;
+    }
+
+    .header {
+      .header__links {
+        .header__link__wrapper--guide {
+          display: block;
+        }    
+      }
     }
   }
 

@@ -1,3 +1,4 @@
+
 // guide post categories
 
 var introduction_click = document.querySelector('#introduction_click');
