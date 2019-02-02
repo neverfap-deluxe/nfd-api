@@ -3,6 +3,9 @@
   align-items: center;
   justify-content: center;
 
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+
   .button__cyan {
     background: -moz-linear-gradient(45deg, purple 0%, cyan 100%)!important; /* ff3.6+ */
     background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, purple), color-stop(100%, cyan))!important; /* safari4+,chrome */
@@ -58,11 +61,11 @@
 @media screen and (min-width: 420px) {
   .button__wrapper {
     justify-content: left;
-    margin-top: 3rem; 
-    margin-bottom: 3rem;  
+    margin-top: 3rem;
+    margin-bottom: 3rem;
     .button {
       padding: 1rem; 
-      font-size: 1.8rem;  
+      font-size: 1.4rem;  
     }
 
     .button__secondary {
@@ -73,9 +76,14 @@
 }
 
 
-// @media screen and (min-width: 768px) {
-
-// }
+@media screen and (min-width: 768px) {
+  .button__wrapper {
+    .button {
+      font-size: 1.7rem;  
+      padding: 1.5rem;
+    }
+  }
+}
 
 // @media screen and (min-width: 1280px) {
 

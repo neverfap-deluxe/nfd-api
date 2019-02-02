@@ -32,13 +32,15 @@ h3 {
   line-height: 2rem;
 }
 
+
 p, b { 
   font-size: 1.1rem;
   line-height: 1.6rem;    
 }
 
 hr {
-  background: black;
+  border: 0;
+  border-bottom: 1px solid black;
 }
 
 .deluxe__font {

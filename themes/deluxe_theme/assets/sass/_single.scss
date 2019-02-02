@@ -31,10 +31,13 @@
 
 .single__wrapper {
   margin: 10px;
+  margin-top: 3rem;
 
   .single__content {
-    // border-bottom: 5px solid black;
-    padding-bottom: 5rem;
+    
+    h2 {
+      margin-bottom: 1.6rem;
+    }
 
     p {      
       margin-bottom: 1.2rem;
@@ -55,14 +58,16 @@
     }
 
     ul {
-      margin-bottom: 3rem;
-      margin-top: 3rem;
+      margin-bottom: 1.4rem;
+      margin-top: 1.4rem;
+      padding-left: 0.5rem;
+
       li {
+        list-style: none;
         font-size: 1.1rem;
         margin-bottom: 0.4rem;
       }
     }
-
   }
 
   .single__next__prev {
@@ -77,8 +82,23 @@
 }
 
 @media screen and (min-width: 420px) {
+
+  ul {
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+    li {
+      font-size: 1.1rem;
+      margin-top: 0.4rem;
+      margin-bottom: 0.4rem;
+    }
+  }
+
   .single__wrapper {
     margin: 40px;
+    margin-top: 40px;
+
+    .single__content {
+    }
   }
 }
 

@@ -9,7 +9,7 @@
   slug: "what-makes-neverfap-so-different"
 ---
 
-NeverFap aims to be a comprehensive solution towards addressing your porn addiction. 
+NeverFap Deluxe aims to be a comprehensive solution towards addressing your porn addiction. 
 
 While there are many resources out there on the internet which accurate describe what porn addiction is and how it functions, I couldn't find a single resource that could accurately tell me <u>exactly what I needed to do</u> in order stop being a porn addict.
 

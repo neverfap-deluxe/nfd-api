@@ -3,33 +3,33 @@
     {{ if in .Params.tags "popular" }}
       <a class="post" href="{{.Permalink}}">
         <div class="post__left">
-          <ul class="post__five__principles">
+          <div class="post__five__principles">
             {{ if in .Params.categories "introduction" }}
-              <li class="post__five__principles__item post__five__principles__item--introduction">
+              <div class="post__five__principles__item post__five__principles__item--introduction">
                 Introduction
-              </li>
+              </div>
             {{ else if in .Params.categories "choice-over-mind" }}
-              <li class="post__five__principles__item post__five__principles__item--choice-over-mind">
+              <div class="post__five__principles__item post__five__principles__item--choice-over-mind">
                 Choice over mind
-              </li>
+              </div>
             {{ else if in .Params.categories "balance-over-reward" }} 
-              <li class="post__five__principles__item post__five__principles__item--balance-over-reward">
+              <div class="post__five__principles__item post__five__principles__item--balance-over-reward">
                 Balance over reward
-              </li>
+              </div>
             {{ else if in .Params.categories "struggle-over-none" }} 
-              <li class="post__five__principles__item post__five__principles__item--struggle-over-none">
+              <div class="post__five__principles__item post__five__principles__item--struggle-over-none">
                 Struggle over none
-              </li>
+              </div>
             {{ else if in .Params.categories "awareness-over-all" }} 
-              <li class="post__five__principles__item post__five__principles__item--awareness-over-all">
+              <div class="post__five__principles__item post__five__principles__item--awareness-over-all">
                 Awareness over all
-              </li>
+              </div>
             {{ else if in .Params.categories "uncondition-over-judgement" }} 
-              <li class="post__five__principles__item post__five__principles__item--uncondition-over-judgement">
-                  Uncondition over judgement
-              </li>
+              <div class="post__five__principles__item post__five__principles__item--uncondition-over-judgement">
+                Uncondition over judgement
+              </div>
             {{ end }}
-          </ul>
+          </div>
           <h5 class="post__date">{{.Date.Format "2006-01-02"}}</h5>
           <h4 class="post__title">{{.LinkTitle}}</h4>    
         </div>

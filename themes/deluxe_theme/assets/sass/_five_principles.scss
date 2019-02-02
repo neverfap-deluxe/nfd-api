@@ -51,7 +51,7 @@
 
   .five__principles__item__main__judgement {
     @include principle__item();
-    font-size: 1.3rem;
+    font-size: 1.2rem;
   }
 
   .five__principles__item__main__judgement::before {
@@ -64,18 +64,17 @@
 // PAGE CATEGORY
 .five__principles__list__page {
   @include principle__wrapper();
+  padding-left: 0.6rem;
 
   .five__principles__item__page {
     @include principle__item();
     left: 0rem;
-
   }
   
   .five__principles__item__page::before {
     @include principle__item__before();
   }  
 }
-
 
 
 
@@ -110,6 +109,8 @@
 
 // PRINCIPLES GUIDE
 .five__principles__guide {
+  margin-top: 3rem!important;
+  margin-bottom: 3rem!important;
   display: none;
   padding: 0;
 
@@ -147,7 +148,8 @@
 // POST PRINCIPLE
 .post__five__principles {
   position: absolute;
-  right: 0;
+  right: 0.5rem;
+  top: 1.5rem;
   
   .post__five__principles__item {
     @include principle__item();
@@ -193,6 +195,10 @@
 
 
 @media screen and (min-width: 420px) {
+  .five__principles__list__page {
+    padding-left: 0;
+  }
+
   .five__principles__guide--mobile {
     display: none;
   }
@@ -204,11 +210,27 @@
       font-size: 1.1rem!important;
     }  
   }
+
+  .five__principles__list__main {
+    .five__principles__item__main__judgement {
+      @include principle__item();
+      font-size: 1.5rem;
+    }
+  }
+
+  .post__five__principles {
+    right: 1rem;
+  }
+
+  .homepage__hero__principle__item {
+    top: 0.5rem;
+  }
 }
 
 @media screen and (min-width: 768px) {
   .homepage__hero__principle__item {
-    font-size: 2rem;
+    top: 0.4rem;
+    font-size: 1.9rem;
   }
 
   .five__principles__guide {
@@ -218,8 +240,15 @@
     }  
   }
 
-  .five__principles__item__main {
-    font-size: 2rem;
+  .five__principles__list__main {
+
+    .five__principles__item__main {
+      font-size: 1.75rem;
+      margin-bottom: 2.1rem;
+    }  
+    .five__principles__item__main__judgement {
+      font-size: 1.75rem;
+    }
   }
 }
 
