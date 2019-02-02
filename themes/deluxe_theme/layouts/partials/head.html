@@ -52,8 +52,8 @@
                 "@id": "{{ .Site.BaseURL }}"
           },
           "articleSection" : "{{ .Section }}",
-          "name" : "{{ .Title }}",
-          "headline" : "{{ .Title }}",
+          "name" : "NeverFap Deluxe | {{ .Title }}",
+          "headline" : "NeverFap Deluxe | {{ .Title }}",
           "description" : "{{ .Description }}", 
           "inLanguage" : "en-US",
           "author" : "{{ .Site.Author.name }}",
@@ -73,7 +73,7 @@
           "@context": "http://schema.org",
           "@type": "WebSite",
           "url": "{{ .Permalink }}",
-          "name": "{{ .Title }}",
+          "name": "NeverFap Deluxe | {{ .Title }}",
           "author": {
             "@type": "Person",
             "name": "{{ .Site.Author.name }}"
@@ -88,7 +88,7 @@
 
   <!-- Internal Templates -->
   {{ template "_internal/google_analytics_async.html" . }}
-  {{ template "_internal/opengraph.html" . }} <!-- Is this something I need ?-->
+  <!-- {{ template "_internal/opengraph.html" . }} // Is this something I need ? -->
   {{ template "_internal/twitter_cards.html" . }}
 </head>
 
