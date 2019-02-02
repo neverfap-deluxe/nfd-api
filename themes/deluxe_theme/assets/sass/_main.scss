@@ -57,11 +57,25 @@ hr {
 }
 
 .em-x {
+  position: relative;
+  left: 0.2rem;
   top: 0;
 }
 
 .em-rainbow {
   display: none;
+}
+
+.em-white_check_mark {
+  position: relative;
+  left: 0.7rem;
+  width: 30px;
+}
+
+.em-blush {
+  position: relative;
+  left: 0.24rem;
+  width: 30px;
 }
 
 @media screen and (min-width: 420px) {
