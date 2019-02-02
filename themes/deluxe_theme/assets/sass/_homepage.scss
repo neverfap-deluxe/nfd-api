@@ -35,7 +35,7 @@
 
   .header {
     position: relative;
-    top: -1.41rem;
+    top: -2.13rem;
 
     margin-bottom: 0rem;
     margin-top: 0rem;
@@ -44,12 +44,28 @@
       top: 0;
       
       .header__link__wrapper {
+        position: relative;
         border-bottom: 5px solid white;
         // background: grey;
         .header__link {
           color: white;
         }
       }
+
+      #link__guide:hover .header__link__wrapper--guide {
+        font-size: 1rem;
+      }
+
+      .header__link__wrapper--guide {
+        position: absolute;
+        // top: -0.6rem;
+        top: -1.8rem;
+        left: 3.9rem;
+        width: 5rem;
+        transform: rotate(-20deg);
+        font-size: 0.8rem;
+        transition: .1s ease-out;
+      } 
 
       .header__link__wrapper:hover {
         background: lighten(orange, 10%);

@@ -33,6 +33,10 @@
   margin: 10px;
   margin-top: 3rem;
 
+  h2 {
+    font-size: 2
+  }
+  
   .single__content {
     
     h2 {
@@ -98,6 +102,7 @@
     margin-top: 40px;
 
     .single__content {
+      margin-top: 5.5rem;
     }
   }
 }
@@ -108,6 +113,9 @@
     flex-direction: column;
     margin-left: 160px;
     width: 600px;
+    .single__content {
+      margin-top: 0;
+    }
   }
 }
 
