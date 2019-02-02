@@ -39,15 +39,24 @@
 .five__principles__list__main {
   @include principle__wrapper();
   margin-top: 3rem;
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
 
   .five__principles__item__main {
     @include principle__item();
   }
-  
+
   .five__principles__item__main::before {
     @include principle__item__before();
-  }  
+  }
+
+  .five__principles__item__main__judgement {
+    @include principle__item();
+    font-size: 1.3rem;
+  }
+
+  .five__principles__item__main__judgement::before {
+    @include principle__item__before();
+  }
 }
 
 
