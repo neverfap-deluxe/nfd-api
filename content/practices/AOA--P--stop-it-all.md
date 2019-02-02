@@ -11,7 +11,7 @@
 
 I love this exercise.
 
-I can't quite tell if this exercise is an analogue to <a class="link" href="/guide/slow-it-down">Slow it down</a> or a percursor to it.
+I can't quite tell if this exercise is an analogue to <a class="link" href="/articles/slow-it-down">Slow it down</a> or a percursor to it.
 
 However, I would like to say that this is arguably the easier of the two, but still, they're both before and unique skills within themselves.
 
@@ -63,11 +63,11 @@ And see how that makes you feel and how that changes the way you perceive realit
 
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 
-<a class="link" href="/guide/dissolve-it-down">Dissolve it down</a>
+<a class="link" href="/articles/dissolve-it-down">Dissolve it down</a>
 
-<a class="link" href="/guide/slow-it-down">Slow it down</a>
+<a class="link" href="/articles/slow-it-down">Slow it down</a>
 
-<a class="link" href="/guide/focus-it-forward">Focus it forward</a>
+<a class="link" href="/articles/focus-it-forward">Focus it forward</a>
 
 <!-- 
 ## Additional Resources  -->

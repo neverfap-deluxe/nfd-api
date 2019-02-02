@@ -28,7 +28,7 @@ Not once did I read about the significance of meditation, arguably the most impo
 <hr/>
 
 <div class="button__wrapper">
-  <a class="button button__secondary" href="/guide/my-personal-porn-recovery-journey">My Personal Porn Recovery Journey.</a>
+  <a class="button button__secondary" href="/articles/my-personal-porn-recovery-journey">My Personal Porn Recovery Journey.</a>
 </div>
 
 <hr/>
@@ -44,7 +44,7 @@ I've written about how NeverFap approaches things differently, especially from a
 <hr/>
 
 <div class="button__wrapper">
-  <a class="button button__secondary" href="/guide/what-makes-neverfap-so-different/">What Makes NeverFap So Different.</a>
+  <a class="button button__secondary" href="/articles/what-makes-neverfap-so-different/">What Makes NeverFap So Different.</a>
 </div>
 
 <hr/>
@@ -64,6 +64,6 @@ These principles are:
 </div>
 
 <div class="button__wrapper">
-  <a class="button button__secondary" href="/guide/the-five-fundamental-principles-of-neverfap">Learn More About The Five Principles.</a>
+  <a class="button button__secondary" href="/articles/the-five-fundamental-principles-of-neverfap">Learn More About The Five Principles.</a>
 </div>
 

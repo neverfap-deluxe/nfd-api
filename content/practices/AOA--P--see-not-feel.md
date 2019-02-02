@@ -51,11 +51,11 @@ Seeing is not a feeling. The feeling is what we do with what we see.
 
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 
-<a class="link" href="/guide/dissolve-it-down">Dissolve it down</a>
+<a class="link" href="/articles/dissolve-it-down">Dissolve it down</a>
 
-<a class="link" href="/guide/slow-it-down">Slow it down</a>
+<a class="link" href="/articles/slow-it-down">Slow it down</a>
 
-<a class="link" href="/guide/focus-it-forward">Focus it forward</a>
+<a class="link" href="/articles/focus-it-forward">Focus it forward</a>
 
 <!-- 
 ## Additional Resources  -->

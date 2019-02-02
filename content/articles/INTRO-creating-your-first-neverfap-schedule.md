@@ -25,7 +25,7 @@ That is approximately 4% of your day. 5.5% of your day if you don't include slee
 
 It may seem like a lot of time, but what people don't realise is that you gain more time back than you invest in.
 
-I talk more about it in my article <a class="link" href="/guide/you-always-have-time-for-your-mental-health">You Always Have Time For Your Mental Health</a>.
+I talk more about it in my article <a class="link" href="/articles/you-always-have-time-for-your-mental-health">You Always Have Time For Your Mental Health</a>.
 
 In essence, these exercises are basic thought and perspective exercises that you can do each day. 
 

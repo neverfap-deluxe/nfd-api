@@ -19,7 +19,7 @@ In fact, all awareness exercises are designed to help dissolve our ego to some e
 
 <hr />
 
-Much like the <a class="link" href="/guide/slow-it-down">Slow it down</a> exercise, Dissolve it down is about manipulating our perception of reality, in order to exercise control over what our mind thinks and perceive. 
+Much like the <a class="link" href="/articles/slow-it-down">Slow it down</a> exercise, Dissolve it down is about manipulating our perception of reality, in order to exercise control over what our mind thinks and perceive. 
 
 When you come to think about it, learning to define and describe reality is an essential part of what it means to be human.
 
@@ -73,4 +73,4 @@ All concepts which we will explore in future once we've mastered simpler exercis
 
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 
-<a class="link" href="/guide/slow-it-down">Slow it down</a>
+<a class="link" href="/articles/slow-it-down">Slow it down</a>

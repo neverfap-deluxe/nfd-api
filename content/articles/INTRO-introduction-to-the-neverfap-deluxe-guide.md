@@ -71,7 +71,7 @@ Yes, a misunderstanding.
 
 Perhaps it's a self-limiting belief. Perhaps you haven't developed your awareness to a point that you can act with intention. Perhaps you have no idea what you're doing. 
 
-That's why I came up with <a class="link" href="/guide/the-five-fundamental-principles-of-neverfap">The Five Fundamental Principles of NeverFap</a> in order to figure how the source of this misunderstanding. 
+That's why I came up with <a class="link" href="/articles/the-five-fundamental-principles-of-neverfap">The Five Fundamental Principles of NeverFap</a> in order to figure how the source of this misunderstanding. 
 
 Otherwise known as denial. 
 
@@ -95,7 +95,7 @@ In this website, I hope to talk about every single aspect of how to successfully
 
 Everything.
 
-I want to teach and explain all the core skills that I have come to learn over the past five years over <a class="link" href="/guide/my-personal-porn-recovery-journey">My Personal Porn Recovery Journey</a>, and I want to go into detail as to what these skills and understandings are.
+I want to teach and explain all the core skills that I have come to learn over the past five years over <a class="link" href="/articles/my-personal-porn-recovery-journey">My Personal Porn Recovery Journey</a>, and I want to go into detail as to what these skills and understandings are.
 
 So what exactly are these core skills?
 

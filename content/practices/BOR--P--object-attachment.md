@@ -9,7 +9,7 @@
   slug: "object-attachment"
 ---
 
-the idea behind this exercises is to further understand why we get attached to certain thing.
+The idea behind this exercises is to further understand why we get attached to certain things in our life.
 
 First we start with objects. 
 
@@ -41,7 +41,7 @@ Then we move onto people and concepts.
 
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 
-<a class="link" href="/guide/dissolve-it-down">Dissolve it down</a>
+<a class="link" href="/articles/dissolve-it-down">Dissolve it down</a>
 
 <!-- 
 ## Additional Resources  -->

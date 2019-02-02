@@ -70,6 +70,10 @@
         transform: rotate(-20deg);
         font-size: 0.8rem;
         transition: .1s ease-out;
+
+        color: yellow;
+        text-decoration: underline;
+        text-decoration-color: cyan;
       } 
 
       .header__link__wrapper:hover {

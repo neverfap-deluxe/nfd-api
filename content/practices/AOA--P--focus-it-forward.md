@@ -37,7 +37,7 @@ I recommend mastering other awareness exercises before attempting this one, alth
 
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 
-<a class="link" href="/guide/dissolve-it-down">Dissolve it down</a>
+<a class="link" href="/articles/dissolve-it-down">Dissolve it down</a>
 
 <!-- 
 ## Additional Resources  -->

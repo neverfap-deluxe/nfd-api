@@ -92,7 +92,7 @@ This is why I came up with the Five Fundamental Principles of NeverFap, to help 
 <div class="button__wrapper">
   <a
     class="button button__secondary"
-    href="/guide/the-five-fundamental-principles-of-neverfap"
+    href="/articles/the-five-fundamental-principles-of-neverfap"
     >Learn More About The Five Principles.</a
   >
 </div>

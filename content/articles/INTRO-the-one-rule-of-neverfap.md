@@ -48,7 +48,7 @@ We're going to try something a little different here at NeverFap.
 
 Rather than concern ourselves with goals and ideals, what we're going to do is instead is focus on processes and practices.
 
-This is something I talk about extensively in my <a class="link" href="/guide/why-am-I-a-porn-addict">"Why Am I A Porn Addict?"</a> article.
+This is something I talk about extensively in my <a class="link" href="/articles/why-am-I-a-porn-addict">"Why Am I A Porn Addict?"</a> article.
 
 <hr/>
 
