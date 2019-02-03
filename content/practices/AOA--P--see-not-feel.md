@@ -49,6 +49,10 @@ Seeing is not a feeling. The feeling is what we do with what we see.
 
 <hr />
 
+
+
+
+
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 
 <a class="link" href="/articles/dissolve-it-down">Dissolve it down</a>
