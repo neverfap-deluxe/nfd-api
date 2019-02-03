@@ -80,7 +80,7 @@ With that said, what exactly can we choose?
 
 As you can tell, the overwhelming theme is that we have control over our mind.
 
-And when you realise that your mind consists of almost everything relating to your human existence, you realise that you actually are fully incontrol of who you are, irrespective of all the other choices that you may have had made for you.
+And when you realise that your mind consists of almost everything relating to your human existence, you realise that you actually are fully in control of who you are, irrespective of all the other choices that you may have had made for you.
 
 <hr />
 

@@ -9,9 +9,13 @@
   slug: "dissolve-it-down"
 ---
 
-This is a great exercise to do, which is designed to help dissolve our ego. 
+<!-- VERY HAPPY WITH THIS -->
 
-In fact, all awareness exercises are designed to help dissolve our ego to some extent, however this one does it particularly well for reasons I'll outline below. 
+This exercise is designed to help dissolve your ego by reinterpretting our visual understanding of reality. 
+
+In fact, all awareness exercises are designed to help dissolve your ego to some extent, however this one does it particularly well.
+
+Excellent.
 
 <hr />
 
@@ -19,15 +23,25 @@ In fact, all awareness exercises are designed to help dissolve our ego to some e
 
 <hr />
 
-Much like the <a class="link" href="/articles/slow-it-down">Slow it down</a> exercise, Dissolve it down is about manipulating our perception of reality, in order to exercise control over what our mind thinks and perceive. 
+Much like the <a class="link" href="/articles/slow-it-down">Slow it down</a> exercise, Dissolve it down is about changing our interpretation of reality.
 
-When you come to think about it, learning to define and describe reality is an essential part of what it means to be human.
+In order to understand why, we need to focus on how humans interpret reality to begin with. 
 
-It's what helps us gauge social situations, learn new theoretical concepts and better understand the world around us.
+The way humans largely relate to the world is through language. We use words and symbols in order to define and describe reality, which forms an essential part of the human experience.
 
-And yet although we live in this predefined world of assumptions based on what we understand, none of it is actually real.
+It's what helps us gauge social and survival situations, learn new theoretical concepts and better understand the world around us.
 
-These are just rules that we have come to appreciate over time, which although serve a wonderful purpose, also distorts how we understand reality. 
+And yet although we live in this predefined world of assumptions based on what we understand, none of it is actually 'real'.
+
+Just like how some cultures prefering bowing to shaking hands as a preferred method of greeting, it says nothing about what humans are. 
+
+Extending this further, some cultures view certain people as being more important and more significant than others. 
+
+Yet inspite of this perception, we are all merely people.
+
+Essentially, what we intend to do with this exercise is help us distinguish between the rules and descriptions of reality, with actual reality itself. 
+
+While these rules serve a purpose, they can also serve to distort how we understand reality. 
 
 Take what you see in your visual field for example.
 
@@ -35,17 +49,17 @@ Instinctively we create visual depth. We identify objects. We identify how far a
 
 <hr />
 
-### The takeaway is that with all this additional mental processing, are we even seeing reality?
+### Yet what information do we lose with all this additional mental processing?
 
 <hr />
 
-Is it possible to truly 'see' when our minds are consisently processing our visual field with a particular bias in mind?
+Can we even call it reality?
 
-What this exercise attempts to do is remove this bias from our visual understanding of reality. 
+Is it possible to truly 'see' when our minds are in a constant state of evaluation?
 
-Not only to see a 'clearer' picture of reality, but to learn to understand what we're experiencing from a different point of view.
+What this exercise attempts to do is exercise our ability to remove this bias from our visual understanding of reality. 
 
-And perhaps there is no better way to dissolve your ego than to completely dissolve everything it's used to seeing. 
+Not only to see a 'clearer' picture of reality, but to better understand what we're actually experiencing on a day to day basis.
 
 <hr />
 
@@ -55,17 +69,23 @@ And perhaps there is no better way to dissolve your ego than to completely disso
 
 For this exercise, what we want to do is attempt to treat our visual field as a simple plane of a light and colour. 
 
-No objects. No descriptions. No focusing on certain details over another.
+No objects. No descriptions. No focusing on certain details over another. No intepretation.
 
-Instead, treat what you see as just a non-descript arrangement of light and colour.
+Nuthin'.
 
-Another way of thinking of it is of having 'wide awareness' of what you see. Our aim isn't to focus, but rather to just relax and see what happens when you stop this visual processing. 
+Instead, what we want to do is treat our visual field as a non-descript arrangement of light and colour.
+
+It usually helps to imagine everything as a cloud of sensation, and that is all there is.
+
+Certainly, don't try to focus. Keep your attention wide and merely feel as if you're intaking the visual information around you, rather than you trying to actively 'change' how you perceive. 
+
+Relax.
 
 While you can do this anywhere, I personally find it works best when I have a good few minutes alone, where I can really explore this idea uninterupted.
 
-For extra pointers, try and understand where you're experiencing this visual field from. Is it from your mind? Does your mind even exist if it is not processing?
+If you want to take it a step further, ask yourself this question: Who or what is intepreting this vision? Does it exist within this cloud of sensation? 
 
-All concepts which we will explore in future once we've mastered simpler exercises such as these. 
+A more advanced concept we will explore in future once we've mastered these more simpler exercises. 
 
 <!-- Recommend period  -->
 
