@@ -9,6 +9,8 @@
   slug: "observe-it-all"
 ---
 
+<!-- VERY HAPPY WITH THIS -->
+
 This exercise encompasses one of the most fundamental skills in meditation: 
 
 <hr />

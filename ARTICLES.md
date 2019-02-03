@@ -13,7 +13,7 @@ The game here is to change the brain, one step at a time. Each step we make chan
 The question is, are you willing to commit? 
 
 - Is porn fundamentally wrong? No, but that blah blah blah
-
+- Should I orgasm on NeverFap? 
 
 __WRITING__
 - Creating Your First NeverFap Schedule
