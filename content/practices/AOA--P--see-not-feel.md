@@ -9,7 +9,7 @@
   slug: "see-not-feel"
 ---
 
-This is an exercise that porn addicts benefit from greatly.
+Porn addicts benefit greatly from this exercise.
 
 It is designed to help you change the way you understand what you see right in front of you.
 
