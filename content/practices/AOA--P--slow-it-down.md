@@ -9,9 +9,11 @@
   slug: "slow-it-down"
 ---
 
+<!-- WILL DEFINITELY NEED A REWRITE -->
+
 This exercise is one of the easiest ways to start building your awareness. 
 
-Essentially, it involves slowing down your mind so that you can have the opportunity to be aware.
+Essentially, it involves slowing down your mind so that you can open yourself to the opportunity of being aware.
 
 <hr />
 
@@ -22,6 +24,9 @@ Essentially, it involves slowing down your mind so that you can have the opportu
 One of the most common ways we weaken our ability to be aware, is by losing control over our thoughts.
 
 And the reason why we lose control over our thoughts, is because it can become incredibly difficult to even notice their existence when they're zooming around in our head.
+
+<!-- 
+And a largely part of the reason why we lose control over our thoughts, is because it can become incredibly difficult to even notice we are overthinking, when we've committed all this energy towards generating and maintaining them. -->
 
 Which inevitably after a while, become part of our subconscious, and a merely instinctual reaction - which is the exact opposite to control.
 

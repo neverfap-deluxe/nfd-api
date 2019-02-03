@@ -10,8 +10,7 @@
   "
 ---
 
-Observe it all (a key component to this is to understand that you are just consciousness and everythign is happening around you. You don't need to focus on something to observe it. You are already observing it. Once you understand that you, realise that observation does not have to be active, and by definition cannot be.)
-
+A crucial awareness exercise.
 
 
 <hr />

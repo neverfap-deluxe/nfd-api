@@ -9,11 +9,13 @@
   slug: "stop-it-all"
 ---
 
+<!-- VERY HAPPY WITH THIS -->
+
 I love this exercise.
 
-I can't quite tell if this exercise is an analogue to <a class="link" href="/articles/slow-it-down">Slow it down</a> or a percursor to it.
+I can't quite tell if this exercise is an analogue to <a class="link" href="/articles/slow-it-down">Slow it down</a> or a percursor to it, however they're both different approaches to the same thing. 
 
-However, I would like to say that this is arguably the easier of the two, but still, they're both before and unique skills within themselves.
+Usually you end up using both in conjunction, but it's arguably easier to learn them as separate, unique skills.
 
 <hr />
 
@@ -23,21 +25,27 @@ However, I would like to say that this is arguably the easier of the two, but st
 
 All awareness exercises essentially come down to finding different ways to break our perception of who we are.
 
-This is important because our perception of who we are, isn't actually who we are.
+This is a very important task because our perception of who we are, isn't actually who we are.
 
-It is merely an identity we carry to help us navigate through life.
+It is merely an identity we carry to help us navigate through life. 
 
-And when we don't realise this, or aren't aware of it consciousness, then we can become ransom to this persona.
+And when we don't realise this, or aren't consciously aware of this label that we prescribe to ourselves on a daily basis, then we can become ransom to this persona.
 
-By learning to control this identity, we provide ourselves with the opportunity to be able to effectively control how we feel about ourselves.
+By learning to control this identity, we provide ourselves with the opportunity to be able to directly control how we feel, without relying on the expectations of this persona.
 
-Of course, if this is all new to you, then you're going to have start out small and develop the ability through time and practice.
+<hr />
 
-And I must say, this is a really good one to start out with.
+#### What this exercise attempts to do is help you better disassociate yourself from this persona.
 
-Essentially what it teaches you is to learn to let go.
+<hr />
 
-So a key focus here is to put your attention into how you feel both mentally and physically when you do this activity. 
+The end goal isn't necessarily to completely dissolve this persona (not that there's anything wrong with pursuing that; it's simply impractical for most people, including myself).
+
+However to be able to dissolve it at will, as well keep on top of when it may be beginning to get out of hand so we can dissolve it on the spot.
+
+Essentially, what this exercise teaches you is to learn to let go from a very physical perspective in the sense of stopping your thinking altogether.
+
+A very important skill in any case.
 
 <hr />
 
@@ -45,15 +53,33 @@ So a key focus here is to put your attention into how you feel both mentally and
 
 <hr />
 
-Essentially the idea behind this exercise is to turn off your mind completely. 
+This exercise generally only works while you're doing something.
 
-As if you were a robot that just had it's power supply cut off, shut down your thoughts, feelings and emotions. 
+It could be some sort of activity. You could be walking down the street in an attempt to get somewhere. 
 
-Make them disappear.
+Some sort of action where you're intent of achieving or getting something done. 
 
-Empty your mind. Literally let it all go.
+<hr />
 
-And see how that makes you feel and how that changes the way you perceive reality. 
+#### During that activity, what you want to do is turn off your mind completely.
+
+<hr />
+
+Like, just shut it off. 
+
+It can help to pretend as if you're a robot that's just had it's power supply cut off.
+
+One thing to keep in mind is that it's an exercice that's largely conceptual and based on feeling.
+
+Obviously it's impossible to actually 'shut off' completely, however the idea is to really embrace the feeling of it you really could. 
+
+Really explore the idea. 
+
+What does shutting off entail? Are there any steps towards shutting down, or is it literally instant? 
+
+What does it feel like to be shut down? Are there any feelings at all? 
+
+Play with it and see where it takes you.
 
 <hr />
 
