@@ -71,17 +71,20 @@ You can even choose to acknowledge and categorise the different kinds of judgeme
 
 It's really up to you. I personally recommend starting out with negative judgements and seeing where that takes you. 
 
-Now remember, a key thing here isn't to react to the fact that you may, or may not have made a judgement.
 
-What's key is merely acknowledging and seeing what happens when you make that acknowledgement.
+Remember, all we're merely doing is acknowledging that we've made a judgement, and taking notice of what happens afterwards.
 
-Does it make you feel compelled to make more judgements? Does the acknowledgement itself feel like a judgement? Is there a difference? 
+<hr />
+
+#### Ultimately, this is an exercise of observation, and observation is the skill we're building.
+
+<hr />
+
+Do you feel compelled to make more judgements? Does the acknowledgement itself feel like a judgement? Is there a difference? 
 
 Again, there are no right or wrong answers. 
 
-All we're doing with this exercise is building up our ability to observe.
-
-
+We are merely attempting to better understaning our own conscious experience.
 
 <hr />
 
