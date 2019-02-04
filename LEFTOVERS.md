@@ -43,3 +43,62 @@ While I’ve provided some context into what porn addiction is, let’s really g
 
 
 
+
+
+
+
+
+
+
+Of course, it's also a change in mindset, from being a victim (where you believe the world is choosing for you) verse to becoming the creator (where you dictate how you move forward).
+
+And when you realise that you can become anything you want, it changes the way you think about who and what you are. 
+
+<!-- up to here -->
+
+With that said, what exactly can we choose?
+
+<hr />
+
+- We can choose what we want to think, and whether we want to think at all. 
+- We can choose what we want to believe, and whether we want to believe at all. 
+- We can choose how we want to feel, and whether we want to feel at all.
+
+<hr />
+
+As you can tell, the overwhelming theme is that we have control over our mind.
+
+And when you realise that your mind consists of almost everything relating to your human existence, you realise that you actually are fully in control of who you are, irrespective of all the other choices that you may have had made for you.
+
+<hr />
+
+## Making Choices
+
+<hr />
+
+The reason why I emphasise Choice over mind is because it's a principle which I can strongly relate to in my own life. 
+
+I didn't really have it great growing up.
+
+I didn't have a supportive family, let alone much of a family at all. 
+
+I didn't really have a lot of friends, and I didn't really get to experience many of the things that a lot of people generally get to experience growing up. 
+
+And sure, a lot of that was influenced by my own actions and mental health, but it simply was my human experience.
+
+Which made me sad.
+
+And yet when you realise that you don't have to 
+
+
+Break ups are a perfect example. 
+
+
+
+
+
+
+<!-- Instead of being obsessed with "I work out constantly and yet I don't have the genetics for a six pack" the narrative becomes something more along the lines of "I cannot believe how amazingly strong I've become."
+
+Which is to say that the victim mindset is just a filter over what you see and perceive.  -->
+

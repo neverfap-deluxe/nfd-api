@@ -87,10 +87,10 @@ In fact, it wasn't until I began adding meditation to my routine that I was fina
 
 So it's quite possible that all you need to do to overcome porn addiction is to learn to control your mind through meditation. 
 
-<hr/>
+<!-- <hr/>
 
 ##### NOTE: Add link here to post.
 
-<hr/>
+<hr/> -->
 
 In my next post 'The Importance of Routine Self-care' I go into each aspect of my routine and extrapolate what I find essential. 

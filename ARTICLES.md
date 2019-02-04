@@ -16,7 +16,6 @@ The question is, are you willing to commit?
 - Should I orgasm on NeverFap? 
 
 
-
 __WRITING__
 - Creating Your First NeverFap Schedule
 - You can always find time for your mental health
@@ -32,19 +31,13 @@ __Created/Done__
 ## Choice over mind - COM
 
 __TODO__
-- Practice: Redefining our perception of women.
-- Practice: How not to stare at women.
-- Practice: Demonstrating focus.
-- Practice: Developing routine.
 - Context: Porn is not who you are, it is your addiction.
 
 __Created/Done__
 
 ## Uncondition over judgement - UOJ
 
-__TODO__ 
-- Practice: Discovering empathy
-- Practice: Accept, don't judge
+__TODO__
 - The fallacy of judgement as an effective means
 - The benefits of a quiet mind 
 
@@ -53,7 +46,8 @@ __Created/Done__
 ## Struggle over none - SON
 
 __TODO__
-- Porn Recovery shouldn't be a struggle
+
+- It's hard to struggle with what you understand
 - Creating healthy NeverFap expectations
 - Practice: What makes something easy?
 
@@ -77,7 +71,6 @@ __Created/Done__
 __TODO__
 - Redefining our metrics for productivity. 
 - The fallacy of excessive effort and productivity
-- Practice: Pursuing balance
 - Context: Why balance is critical for regular function
 
 __WRITING__

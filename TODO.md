@@ -20,6 +20,12 @@
 - Introduction
 
 
+## DESIGN
+
+Wow, I never knew it before I designed the website, but css-tricks seems to have adopted a similar colour scheme. I could definitely learn a few things from it.
+https://css-tricks.com/archives/
+
+
 Privacy and Disclaimer files
 
 Google Search Console

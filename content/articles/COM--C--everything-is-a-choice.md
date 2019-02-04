@@ -2,7 +2,7 @@
   title: "Everything Is A Choice"
   description: "Everything You Do, From How You Think In Every Moment To What You Believe Today Or Tomorrow, Is Completely At Your Discretion. You Just Have To Realise It."
   date: 2018-12-12
-  draft: true
+  draft: false
   tags: [ "context", "understanding choice", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
@@ -11,100 +11,170 @@
 
 I want to talk about choice.
 
-Specifically, how it relates to one of our Five Fundamental Principles of NeverFap: Choice over mind.
+Specifically, how it relates to the Five Fundamental Principles of NeverFap.
+
+Choice over mind is the first principle that I usually introduce to people, because it is the one principle that porn addicts usually find the most profound.
 
 <hr />
 
-### What Choice over mind relates to is this idea that we have the ability to choose how we react to our circumstances. 
+### Choice over mind relates to this idea that we have full control over how we react to life.
 
 <hr />
 
-To break this down even further: 
+It's an important idea to understand, because once you fully embrace the power of choice in life, you can learn to overcome life's most difficult challenges.
 
-Firstly, it conveys this idea that everything in life is a choice.
+Of course, there's a flipside to this. 
 
-Choice in how we feel. Choice in what we want to think. Choice in how we live and what we want to eat.
+Rather than understand, a lot of people tend to misunderstand this idea of choice and this is where most porn addicts are situated. 
 
-And yet, just because choice exists, doesn't necessarily mean that we get to choose nor that there may be many choices for us to begin with.
+In a state of misunderstanding over what choice is and what rights they have over it.
 
-Now some people would say that the fact that we don't get to choose everything in life, if not most the things in our life, means that we do not have choice. 
+So let's consider this your formal re-education.
 
-We don't have choice over our genetic makeup. We don't have choice over how others act and treat us. We don't have choice over what the weather will be.
+<hr/>
 
-Some might even say, that we are victims to the world around us. 
+## What is choice?
 
-I'm here to convince you otherwise.
+<hr/>
 
-<hr />
+It begs to state that everything in life is a choice.
 
-### You see, you have one very important choice you can make.
+There's choice in how we feel. Choice in what we want to think. Choice in how we live, and what we want to eat. 
 
-<hr />
+In fact, there's choice in almost everything that happens in life.
 
-And it's so powerful, it effective overrides every other choice that you've made, or have had made for you. 
+And yet, this doesn't mean that we necessarily get to choose in all these circumstances. 
 
+We don't get to choose our race. We don't have choice over how others live their lives. Hell, we certainly don't have choice over the weather. 
 
-You can choose how you want to respond.
-
-And I really cannot emphasise how powerful this choice really is, because in effect, it is the only choice you as an individual actually have in life. 
-
-<hr />
-
-## The Victim Mindset
+And that's okay.
 
 <hr />
 
-When you truly understand what Choice over mind means, it complete changes the way you look at things. 
-
-You no longer become victim, or rather you realise that you never were victim over the things you cannot choose.
-
-And to top it off, it also makes you realise that those things you thought you couldn't choose, you absolutely could all along.
-
-Because when you break out of the victim mindset, what happens is that you no longer start focusing on what you cannot change, but instead begin focusing on what you can become.
-
-And when you realise that you can become anything you want, it changes the way you think about who and what you are. 
-
-Instead of being obsessed with "I work out constantly and yet I don't have the genetics for a six pack" the narrative becomes something more along the lines of "I cannot believe how amazingly strong I've become."
-
-Which is to say that the victim mindset is just a filter over what you see and perceive. 
-
-With that said, what exactly can we choose?
+#### Because I'm here to tell you that none of that matters.
 
 <hr />
 
-- We can choose what we want to think, and whether we want to think at all. 
-- We can choose what we want to believe, and whether we want to believe at all. 
-- We can choose how we want to feel, and whether we want to feel at all.
+Here's the thing... 
+
+...you do have one choice which is so powerful that it effectively overrides every other choice in life.
+
+
+<hr/>
+
+### Ultimately, you get to choose how you want to respond. 
+
+<hr/>
+
+eh.
+
+Big deal.
+
+I'm sure you're already aware of this fact. I mean, it's silly to think otherwise.
+
+Of course you have the ability to react to life's circumstances.
+
+Yet perhaps you don't quite understand the significance of what this actually means, because if you did you'd most likely not be a porn addict, and you'd most likely not be reading this article.
+
+I guarantee it.
+
+If you understood choice like the way I did, you would be in a very different position with how you perceive your own feelings, emotions and ability to change.
+
+So something is missing from your understanding. 
+
+Or perhaps you're misinterpretating what being able to respond actually means, so let's explore that idea.
 
 <hr />
 
-As you can tell, the overwhelming theme is that we have control over our mind.
-
-And when you realise that your mind consists of almost everything relating to your human existence, you realise that you actually are fully in control of who you are, irrespective of all the other choices that you may have had made for you.
+## The great equaliser
 
 <hr />
 
-## Making Choices
+When you truly understand what Choice over mind means, it completely changes the way you look at things. 
+
+You no longer become victim, or rather you realise that you never were victim, over that which you cannot choose.
+
+So what does it being able to respond actually mean?
+
+To help understand this question, we need to understand why it's the most powerful choice you have.
 
 <hr />
 
-The reason why I emphasise Choice over mind is because it's a principle which I can strongly relate to in my own life. 
+#### Put simply, your ability to respond is the most powerful choice you have, because it is the only choice you as an individual can actually make.
 
-I didn't really have it great growing up.
+<hr/>
 
-I didn't have a supportive family, let alone much of a family at all. 
+At no point do you have absolute certainty over any outcome in life. Instead, what you do have is certainty over the actions you take.
 
-I didn't really have a lot of friends, and I didn't really get to experience many of the things that a lot of people generally get to experience growing up. 
+This is quite profound for a few reasons. 
 
-And sure, a lot of that was influenced by my own actions and mental health, but it simply was my human experience.
+If all you control is your ability to respond, then it signifies that you have full control over your life.
 
-Which made me sad.
+But how? 
 
-And yet when you realise that you don't have to 
+Well, humans respond with their actions. 
+
+And how else does one actively change, otherwise not for their own actions? 
+
+<hr/>
+
+#### Which really is to say that you have full control over who you want to become. 
+
+<hr/>
+
+Although, there's a more significant reason which a lot of people don't realise. 
+
+The fact that our ability to respond is the only choice we have, ultimately signifies that we are all equal in terms of our ability to take action.
+
+<hr />
+
+#### What it means is that we all have that exact same opportunity to become, because we all have the same ability to take action.
+
+<hr />
+
+In order to understand this, we need to understand what actions are, and more importantly how we use them to create outcomes.
+
+<hr />
+
+## Success and your actions
+
+<hr />
+
+You see, success doesn't happen at a high level.
+
+It happens on an emotional and physical level. 
+
+Success is the difference between choosing to remain calm in a tense situation, as opposed to losing our cool. 
+
+Success is acknowledging that our cravings for porn are merely habitual, and not to be taken personally. 
+
+<hr />
+
+#### The only difference between someone who has successfully overcome porn addiction and someone who continually fails, is that the person who overcame it took those right actions to get there.
+
+<hr />
+
+Every porn addict goes through the same feelings and emotions. 
+
+The helplessness. The guilt. The depression.
+
+The only difference was how they chose to respond to those feelings and emotions. 
+
+Now, I'm not suggesting that you'll be able to face these feelings and emotions with the knowledge contained in this article.
 
 
-Break ups are a perfect example. 
+<hr />
 
+#### However, what I am suggesting is that with the right guidance and practice, you can develop the ability to be able to.
 
+<hr />
+
+And in order to do that, you must first discover which actions to take and this is precisely why I created NeverFap Deluxe.
+
+To summarise:
+
+- Your ability to respond is the only choice you have in life. 
+- It means you have the same ability to respond as anyone else in life.
+- How you choose to respond is ultimately what differentiates you with anyone else.
 
 
