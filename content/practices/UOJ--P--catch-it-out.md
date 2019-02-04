@@ -6,8 +6,7 @@
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]
   # image: "/images/face.jpg"
-  slug: "catch-it-out
-  "
+  slug: "catch-it-out"
 ---
 
 This exercise is great for helping us understand when and why we make judgements throughout our day.
