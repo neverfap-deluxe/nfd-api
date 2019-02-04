@@ -10,8 +10,9 @@
   "
 ---
 
-A crucial awareness exercise.
+This exercise is great for helping us understand when and why we make judgements throughout our day.
 
+Furthermore, it's relatively straight forward, so get excited! 
 
 <hr />
 
@@ -19,12 +20,68 @@ A crucial awareness exercise.
 
 <hr />
 
+Ah, the humble judgement. 
+
+First of all, I want to start off by saying that there's nothing necessarily wrong with making judgements. 
+
+What often happens when people do this exercise, is freak out at the true extent to which they're being judgemental.
+
+Sure, being excessively judgemental isn't the best thing for your mental health.
+
+However negatively reacting to it (and as I'm sure, making more judgements as a result) is not going to help.
+
+<!-- NOTE: TODO To understand this exercise, you need to understand the impct of being judgemental on willpower etc. LINK TO ARTICLE -->
+
+Much like with the <a class="link" href="/practices/observe-it-all">Observe it all</a> exercise, all we really want to do is acknowledge and observe how our mind works.
+
+We're not trying to change, and especially not condemn our current behaviour.
+
+<hr />
+
+### In fact, the entire purpose of this exercise is to practice our ability to observe.
+
+<hr />
+
+Not to change who or what we are. 
+
+That can come later once we've mastered observation and often, can be a direct result of month's of observation itself.
+
+Of course, one thing to keep in mind is that if you are the kind of person who generally reacts with judgement, then trying not to change or condemn your own behaviour may be difficult.
+
+Again, that's okay too. 
+
+It merely becomes another reference point for you to observe. 
+
+Where you mentally go: "Ah, so that's what my mind does. Cool beans."
 
 <hr />
 
 ## Exercise
 
 <hr />
+
+All we want to do with this exercise is catch ourselves and acknowledge when we've made a judgement. 
+
+Now, there's a few ways you can approach this.
+
+You can choose to acknowledge any amount of judgement you've made. 
+
+You can choose to acknowledge judgements which you believe are negative.
+
+You can even choose to acknowledge and categorise the different kinds of judgements you make.
+
+It's really up to you. I personally recommend starting out with negative judgements and seeing where that takes you. 
+
+Now remember, a key thing here isn't to react to the fact that you may, or may not have made a judgement.
+
+What's key is merely acknowledging and seeing what happens when you make that acknowledgement.
+
+Does it make you feel compelled to make more judgements? Does the acknowledgement itself feel like a judgement? Is there a difference? 
+
+Again, there are no right or wrong answers. 
+
+All we're doing with this exercise is building up our ability to observe.
+
 
 
 <hr />

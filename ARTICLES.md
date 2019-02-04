@@ -15,6 +15,8 @@ The question is, are you willing to commit?
 - Is porn fundamentally wrong? No, but that blah blah blah
 - Should I orgasm on NeverFap? 
 
+
+
 __WRITING__
 - Creating Your First NeverFap Schedule
 - You can always find time for your mental health
@@ -62,6 +64,7 @@ __Created/Done__
 __TODO__
 - The Myth of Awareness (how awareness is a practice, not something you already have). 
 - Practice: Keeping on top of your emotions.
+- Observation is a skill. 
 
 __WRITING__
 - Context: The Importance of Meditation and NeverFap
