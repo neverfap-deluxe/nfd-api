@@ -1,5 +1,5 @@
 ---
-  title: "Paying the NeverFap Maintenance Tax"
+  title: "Paying The NeverFap Maintenance Tax"
   description: "Many People Treat Maintainance As An Unnecessary Step, Like A Tax. Instead, We Need To View Physical And Mental Maintenance As A Necessity Throughout Our Day."
   date: 2018-12-02
   draft: false

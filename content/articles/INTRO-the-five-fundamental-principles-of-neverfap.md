@@ -1,5 +1,5 @@
 ---
-  title: "The Five Fundamental Principles of NeverFap"
+  title: "The Five Fundamental Principles Of NeverFap"
   description: "NeverFap Deluxe Comprises Of Five Fundamental Principles In Order To Help You Easily Efficiently And Efficiently Address Your Porn Addiction."
   date: 2018-10-29
   draft: false
