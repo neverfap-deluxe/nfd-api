@@ -17,7 +17,6 @@ The question is, are you willing to commit?
 
 __WRITING__
 - Creating Your First NeverFap Schedule
-- You can always find time for your mental health
 
 __Created/Done__
 - Introduction to the NeverFap Deluxe Guide
@@ -26,6 +25,7 @@ __Created/Done__
 - How does NeverFap approach things differently?
 - My Personal Porn Recovery Journey
 - "Why Am I A Porn Addict?"
+- You can always find time for your mental health
 
 ## Choice over mind - COM
 
@@ -61,6 +61,8 @@ __TODO__
 
 __WRITING__
 
+
+
 __Created/Done__
 - Context: The Importance of Meditation and NeverFap
 - Context: Everything is a choice
@@ -69,7 +71,7 @@ __Created/Done__
 
 __TODO__
 - Redefining our metrics for productivity. 
-- The fallacy of excessive effort and productivity
+- Context: Balance is the reward
 - Context: Why balance is critical for regular function
 
 __WRITING__
