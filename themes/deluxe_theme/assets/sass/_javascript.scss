@@ -20,8 +20,15 @@
     font-size: 1.2rem; 
     margin-right: 1rem;
   }
+  
+  
 
-  #popular, #introduction_click {
+  #popular, 
+  #introduction_click, 
+  #articles_latest_click, 
+  #articles_category_click,
+  #practices_latest_click, 
+  #practices_category_click {
     margin-right: 1.4rem;
 
     bottom: 0;
@@ -34,13 +41,25 @@
     transition: .2s;
   }
 
-  #popular:hover, #introduction_click:hover {
+  #popular:hover, 
+  #introduction_click:hover, 
+  #articles_latest_click:hover, 
+  #articles_category_click:hover, 
+  #practices_latest_click:hover, 
+  #practices_category_click:hover {
     box-shadow: -10px 10px 0px 0px black;
     bottom: -5px;
     left: -5px;
   }
 
-  #latest, #choice_over_mind_click, #balance_over_reward_click, #struggle_over_none_click, #awareness_over_all_click, #uncondition_over_judgement_click {
+  #latest, 
+  #choice_over_mind_click, 
+  #balance_over_reward_click, 
+  #struggle_over_none_click, 
+  #awareness_over_all_click, 
+  #uncondition_over_judgement_click,
+  #articles_category_click,
+  #pratices_category_click {
     bottom: 0;
     left: 0;
     position: relative;
@@ -51,18 +70,34 @@
     transition: .2s;
   }
 
-  #latest:hover, #choice_over_mind_click:hover, #balance_over_reward_click:hover, #struggle_over_none_click:hover, #awareness_over_all_click:hover, #uncondition_over_judgement_click:hover {
+  #latest:hover, 
+  #choice_over_mind_click:hover, 
+  #balance_over_reward_click:hover, 
+  #struggle_over_none_click:hover, 
+  #awareness_over_all_click:hover, 
+  #uncondition_over_judgement_click:hover {
     box-shadow: -10px 10px 0px 0px black;
     bottom: -5px;
     left: -5px;
   }
 }
 
-#popular__posts, #introduction_posts {
+
+#popular__posts, 
+#introduction_posts, 
+#articles_latest_posts, 
+#practices_category_posts {
   display: block;
 }
 
-#latest__posts, #choice_over_mind_posts, #balance_over_reward_posts, #strugle_over_none_posts, #awareness_over_all_posts, #uncondition_over_judgement_posts {
+#latest__posts, 
+#choice_over_mind_posts, 
+#balance_over_reward_posts, 
+#strugle_over_none_posts, 
+#awareness_over_all_posts, 
+#uncondition_over_judgement_posts,
+#articles_category_posts,
+#practices_category_posts {
   display: none;
 }
 

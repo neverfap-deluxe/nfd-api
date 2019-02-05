@@ -2,105 +2,19 @@
   <main class="single__wrapper">   
     
     <h2 class="single__title">{{ .Title }}</h2>
-<!-- 
-    <p>This page contains a list of all the articles on this website.</p> -->
+
+    <div class="popular__latest__title">
+      <h3 class="button__click popular__latest__title--guide" id="articles_latest_click">By Latest</h3>
+      <h3 class="button__click popular__latest__title--guide" id="articles_category_click">By Category</h3>
+    </div>
     
-    <div class="index__container">
-      <ul class="five__principles__list__page">
-        <span><li class="five__principles__item__page">Introduction</li></span>
-      </ul>
-      <!-- <h3>Introduction</h3> -->
-      <div class="articles__list">
-        {{ range .Site.RegularPages }}
-          {{ if in .Params.categories "introduction" }}
-            {{ if in .Params.tags "context" }}
-              <div class="article__item__wrapper">
-                <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-              </div>  {{/* index (.Params.categories) 0 */}}
-            {{ end }}
-          {{ end }}
-        {{ end }}
-      </div>
-  
-      <ul class="five__principles__list__page">
-        <span><li class="five__principles__item__page">Choice Over Mind</li></span>
-      </ul>
-      <div class="articles__list">
-        {{ range .Site.RegularPages }}
-          {{ if in .Params.categories "choice-over-mind" }}
-            {{ if in .Params.tags "context" }}
-              <div class="article__item__wrapper">
-                <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-              </div>
-            {{ end }}
-            </div>          
-          {{ end }}
-        {{ end }}
-      </div>
-  
-        
-      <ul class="five__principles__list__page">
-        <span><li class="five__principles__item__page">Balance Over Reward</li></span>
-      </ul>
-      <div class="articles__list">
-        {{ range .Site.RegularPages }}
-          {{ if in .Params.categories "balance-over-reward" }}
-            {{ if in .Params.tags "context" }}
-              <div class="article__item__wrapper">
-                <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-              </div>
-            {{ end }}
-          {{ end }}
-        {{ end }}
-      </div>
-  
-        
-      <ul class="five__principles__list__page">
-        <span><li class="five__principles__item__page">Struggle Over None</li></span>
-      </ul>
-      <div class="articles__list">
-        {{ range .Site.RegularPages }}
-          {{ if in .Params.categories "struggle-over-none" }}
-            {{ if in .Params.tags "context" }}
-              <div class="article__item__wrapper">
-                <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-              </div>
-            {{ end }}
-          {{ end }}
-        {{ end }}
-      </div>
-  
-              
-      <ul class="five__principles__list__page">
-        <span><li class="five__principles__item__page">Awareness Over All</li></span>
-      </ul>
-      <div class="articles__list">
-        {{ range .Site.RegularPages }}
-          {{ if in .Params.categories "awareness-over-all" }}
-            {{ if in .Params.tags "context" }}
-              <div class="article__item__wrapper">
-                <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-              </div>
-            {{ end }}
-          {{ end }}
-        {{ end }}
-      </div>
-  
-      <ul class="five__principles__list__page">
-        <span><li class="five__principles__item__page">Uncondition Over Judgement</li></span>
-      </ul>
-      <div class="articles__list">
-        {{ range .Site.RegularPages }}
-          {{ if in .Params.categories "uncondition-over-judgement" }}
-            {{ if in .Params.tags "context" }}
-              <div class="article__item__wrapper">
-                <a class="article__item" href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-              </div>
-            {{ end }}
-          {{ end }}
-        {{ end }}
-      </div>
+    <div class="posts--guide" id="articles_latest_posts">
+      {{ partial "articles_latest.html" (dict "page" . "tag_type" "context") }}
     </div>
 
+    <div class="posts--guide" id="articles_category_posts">
+      {{ partial "articles_category.html" (dict "page" . "tag_type" "context") }}
+    </div>
   </main>
+  <script src='/js/articles.js'></script>
 {{ end }}

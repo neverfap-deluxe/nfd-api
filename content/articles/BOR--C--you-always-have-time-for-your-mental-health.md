@@ -1,7 +1,7 @@
 ---
   title: "You Always Have Time For Your Mental Health"
   description: "It Is Fundamental That You Take The Time To Practice Awareness And Perspective Exercises Which Will Help You Overcome Porn. Otherwise, You Don't Stand A Chance."
-  date: 2018-01-21
+  date: 2019-01-21
   draft: false
   tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "balance-over-reward" ]
