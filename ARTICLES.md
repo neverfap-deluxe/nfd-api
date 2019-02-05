@@ -58,7 +58,7 @@ __Created/Done__
 __TODO__
 - The Myth of Awareness (how awareness is a practice, not something you already have). 
 - Practice: Keeping on top of your emotions.
-- Observation is a skill. 
+- The power of observation.
 
 __WRITING__
 - Context: The Importance of Meditation and NeverFap
