@@ -30,6 +30,8 @@ __Created/Done__
 
 __TODO__
 - Practice: Understand how you fight
+- Practice: Relax it out
+
 
 __Created/Done__
 

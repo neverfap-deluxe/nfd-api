@@ -37,12 +37,13 @@
     font-size: 2rem;
   }
 
+  .single__title {
+    margin-top: 1rem;
+    margin-bottom: 1.6rem;
+  }
+
   .single__content {
     
-    .single__title {
-      margin-bottom: 1.6rem;
-    }
-
     p {      
       margin-bottom: 1.2rem;
     }
@@ -101,6 +102,9 @@
     margin: 40px;
     margin-top: 40px;
 
+    .single__title {
+      margin-top: 3.6rem;
+    }
     .single__content {
       margin-top: 2.5rem;
     }

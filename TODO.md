@@ -6,6 +6,7 @@
 
 ## app build
 
+- Create similar practices on practices page.
 - create categories/tags
 - Get logo images
 - Figure out twitter https://twitter.com/
@@ -110,3 +111,6 @@ Netlify stuff
   {{ range .Params.categories }}<meta property="article:section" content="{{ . }}" />{{ end }}
   {{ if isset .Params "date" }}<meta property="article:published_time" content="{{ time .Date }}" />{{ end }} -->
 
+
+
+    <!-- {{ if in .Params.tags "popular" }} -->

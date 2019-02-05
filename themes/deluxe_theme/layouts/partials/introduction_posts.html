@@ -1,6 +1,6 @@
 <div class="posts">
   {{ range .Pages }}
-    {{ if in .Params.tags "popular" }}
+    {{ if in .Params.categories "introduction" }}
       <a class="post" href="{{.Permalink}}">
         <div class="post__left">
           <div class="post__five__principles">
