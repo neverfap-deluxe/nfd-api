@@ -16,25 +16,25 @@ First we start with objects.
 Then we move onto people and concepts. 
 
 
-<hr />
+<hr class="hr2"/>
 
 ## Context
 
-<hr />
+<hr class="hr2"/>
 
 
-<hr />
+<hr class="hr3"/>
 
 ### Because when we're in control of our mind, it's almost as if everything is moving in slow motion.
 
-<hr />
+<hr class="hr3"/>
 
 
-<hr />
+<hr class="hr2"/>
 
 ## Exercise
 
-<hr />
+<hr class="hr2"/>
 
 
 ## Moving Forward

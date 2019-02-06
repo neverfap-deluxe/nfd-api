@@ -13,11 +13,11 @@ This exercise is great for helping us understand when and why we make judgements
 
 Furthermore, it's relatively straight forward, so get excited! 
 
-<hr />
+<hr class="hr2"/>
 
 ## Context
 
-<hr />
+<hr class="hr2"/>
 
 Ah, the humble judgement. 
 
@@ -35,11 +35,11 @@ Much like with the <a class="link" href="/practices/observe-it-all">Observe it a
 
 We're not trying to change, and especially not condemn our current behaviour.
 
-<hr />
+<hr class="hr3"/>
 
 ### In fact, the entire purpose of this exercise is to practice our ability to observe.
 
-<hr />
+<hr class="hr3"/>
 
 Not to change who or what we are. 
 
@@ -53,11 +53,11 @@ It merely becomes another reference point for you to observe.
 
 Where you mentally go: "Ah, so that's what my mind does. Cool beans."
 
-<hr />
+<hr class="hr2"/>
 
 ## Exercise
 
-<hr />
+<hr class="hr2"/>
 
 All we want to do with this exercise is catch ourselves and acknowledge when we've made a judgement. 
 
@@ -74,11 +74,11 @@ It's really up to you. I personally recommend starting out with negative judgeme
 
 Remember, all we're merely doing is acknowledging that we've made a judgement, and taking notice of what happens afterwards.
 
-<hr />
+<hr class="hr4"/>
 
 #### Ultimately, this is an exercise of observation, and observation is the skill we're building.
 
-<hr />
+<hr class="hr4"/>
 
 Do you feel compelled to make more judgements? Does the acknowledgement itself feel like a judgement? Is there a difference? 
 
@@ -86,11 +86,11 @@ Again, there are no right or wrong answers.
 
 We are merely attempting to better understaning our own conscious experience.
 
-<hr />
+<hr class="hr2"/>
 
 ## Moving Forward
 
-<hr />
+<hr class="hr2"/>
 
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 

@@ -13,11 +13,11 @@ A lot of people find this exercise super useful, because it can help us identify
 
 It's a great thinking exercise, which makes you realise how well optimised our minds truly are when it comes to filtering information. 
 
-<hr />
+<hr class="hr2"/>
 
 ## Context
 
-<hr />
+<hr class="hr2"/>
 
 Judgement by function is conditional.
 
@@ -36,11 +36,11 @@ Which for a lot people, is a lot simpler than trying to identify the things whic
 In addition, it can help them understand more about themselves, by merely identifying the things which they don't care about. 
 
 
-<hr />
+<hr class="hr2"/>
 
 ## Exercise
 
-<hr />
+<hr class="hr2"/>
 
 The exercise is simple.
 
@@ -64,11 +64,11 @@ Try and discover some common themes. Perhaps you might discover something. Perha
 
 We're all here to learn more about how our individual minds work.
 
-<hr />
+<hr class="hr2"/>
 
 ## Moving Forward
 
-<hr />
+<hr class="hr2"/>
 
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 

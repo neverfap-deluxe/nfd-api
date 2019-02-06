@@ -15,11 +15,11 @@ And the only way you're going to practice effectively is if you have a consisten
 
 This means finding the time.
 
-<hr />
+<hr class="hr3"/>
 
 ### I recommend spending approximately one hour each day towards developing your mental health.
 
-<hr />
+<hr class="hr3"/>
 
 That is approximately 4% of your day. 5.5% of your day if you don't include sleep. 10% of your day if you don't include work. 
 

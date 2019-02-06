@@ -15,11 +15,11 @@ This exercise is designed to help you keep on top of your awareness throughout t
 
 By becoming more conscious of the events throughout our day within time, we can become more conscious of the things we do within it.
 
-<hr />
+<hr class="hr2"/>
 
 ## Context
 
-<hr />
+<hr class="hr2"/>
 
 There are quite a few things that one can become aware of, and part of the reason is because awareness is all relative.
 
@@ -45,11 +45,12 @@ Becoming aware is not easy when you haven't consciously made an effort in the pa
 
 Of course, practice makes perfect.
 
-<hr />
+<hr class="hr2"/>
 
 ## Exercise
 
-<hr />
+<hr class="hr2"/>
+
 
 Essentially this is an exercise of acknowledgement.
 
@@ -77,11 +78,11 @@ This is a truly fantastic exercise that I do everyday and it serves as an amazin
 
 You engage your awareness from the very moment you wake up, and it just gives you such a strong foothold over how you feel throughout the day.
 
-<hr />
+<hr class="hr2"/>
 
 ## Moving Forward
 
-<hr />
+<hr class="hr2"/>
 
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 

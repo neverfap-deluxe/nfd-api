@@ -17,11 +17,11 @@ I can't quite tell if this exercise is an analogue to <a class="link" href="/art
 
 Usually you end up using both in conjunction, but it's arguably easier to learn them as separate, unique skills.
 
-<hr />
+<hr class="hr2"/>
 
 ## Context
 
-<hr />
+<hr class="hr2"/>
 
 All awareness exercises essentially come down to finding different ways to break our perception of who we are.
 
@@ -33,11 +33,11 @@ And when we don't realise this, or aren't consciously aware of this label that w
 
 By learning to control this identity, we provide ourselves with the opportunity to be able to directly control how we feel, without relying on the expectations of this persona.
 
-<hr />
+<hr class="hr4"/>
 
 #### What this exercise attempts to do is help you better disassociate yourself from this persona.
 
-<hr />
+<hr class="hr4"/>
 
 The end goal isn't necessarily to completely dissolve this persona (not that there's anything wrong with pursuing that; it's simply impractical for most people, including myself).
 
@@ -47,11 +47,11 @@ Essentially, what this exercise teaches you is to learn to let go from a very ph
 
 A very important skill in any case.
 
-<hr />
+<hr class="hr2"/>
 
 ## Exercise
 
-<hr />
+<hr class="hr2"/>
 
 This exercise generally only works while you're doing something.
 
@@ -59,11 +59,11 @@ It could be some sort of activity. You could be walking down the street in an at
 
 Some sort of action where you're intent of achieving or getting something done. 
 
-<hr />
+<hr class="hr4"/>
 
 #### During that activity, what you want to do is turn off your mind completely.
 
-<hr />
+<hr class="hr4"/>
 
 Like, just shut it off. 
 
@@ -81,11 +81,11 @@ What does it feel like to be shut down? Are there any feelings at all?
 
 Play with it and see where it takes you.
 
-<hr />
+<hr class="hr2"/>
 
 ## Moving Forward
 
-<hr />
+<hr class="hr2"/>
 
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 

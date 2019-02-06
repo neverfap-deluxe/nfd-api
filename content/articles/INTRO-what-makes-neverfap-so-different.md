@@ -17,23 +17,23 @@ Which is like saying: "Hey buddy, you have a severe problem, but I won't actuall
 
 Ultimately, there were two kinds of resources that I frequently came across:
 
-<hr/>
+<hr class="hrul"/>
 
 - Incomplete advice from existing porn addicts, usually in the form of forum posts, which were desperately hopeful at best.
 
 - Scientific descriptions as to what porn addiction is and how it affects various aspects of our mind and physical bodies.
 
-<hr/>
+<hr class="hrul"/>
 
 While it's great to understand what happens under the hood from a scientific point of view, in no way does it actually help me deal with the day-to-day of being a porn addict.
 
 So lieu of all this.
 
-<hr/>
+<hr class="hr3"/>
 
-<h3>I decided to create NeverFap.</h3>
+### I decided to create NeverFap.
 
-<hr/>
+<hr class="hr3"/>
 
 NeverFap has one very clear purpose that other websites lack: 
 
@@ -45,11 +45,12 @@ Using these practices, I have personally overcome porn addiction to a point that
 
 In addition, the NeverFap method of overcoming porn addiction has been built around Five Fundamental Principles, which serve to help you not only better understand yourself, but cut through the denial of being a porn addict.
 
-<hr/>
+<hr class="hr2"/>
 
 ## Porn is not the problem 
 
-<hr/>
+<hr class="hr2"/>
+
 
 Aside from the fact that NeverFap is a complete solution that aims to take you from porn addict to regular human being, we also take a very unique approach towards addressing porn addiction.
 
@@ -69,11 +70,11 @@ Rather, I believe that porn addicts are addicted to porn because of some sort of
 
 Not only is this a reflection of my own experience, but a reflection on the actual practices and solutions out there which work to help address porn addiction.
 
-<hr/>
+<hr class="hr3"/>
 
 ### What are we misunderstanding?
 
-<hr/>
+<hr class="hr3"/>
 
 When you think about it, no one wants to be an addict. 
 

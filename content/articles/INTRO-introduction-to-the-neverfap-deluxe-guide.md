@@ -29,11 +29,11 @@ It's just not how my mind works anymore.
 
 Not to mention, this is coming from someone who suffers from Bipolar Disorder, which should traditionally make something like overcoming porn addiction almost impossible.
 
-<hr/>
+<hr class="hr3"/>
 
 ### The point is that overcoming porn addiction is totally achievable.
 
-<hr/>
+<hr class="hr3"/>
 
 And I want to show you how.
 
@@ -41,11 +41,11 @@ To do this, we need to look not only at porn recovery, but also how us humans ob
 
 We have one rule here at NeverFap: 
 
-<hr/>
+<hr class="hr3"/>
 
 **Practice. Practice. Practice.**
 
-<hr/>
+<hr class="hr3"/>
 
 The thing that matters is practicing the core skills which will help you become better at your goals.
 
@@ -57,11 +57,11 @@ There are thousands of tutorials on the internet which describe in excruciating 
 
 So what's stopping you?
 
-<hr/>
+<hr class="hr3"/>
 
 ### The problem is that you keep fighting yourself on a daily basis.
 
-<hr/>
+<hr class="hr3"/>
 
 Cravings. Doubt. Fear. Anxiety. Addiction.
 
@@ -83,11 +83,11 @@ Everyone has a different opinion of everything, most of them coming from existin
 
 Which is why we end up running around in circles for years before getting anywhere, potentially sabotaging ourselves in the process and making the situation worse.
 
-<hr/>
+<hr class="hr3"/>
 
 ### Well, that’s why I decided to create NeverFap Deluxe.  
 
-<hr/>
+<hr class="hr3"/>
 
 My intention is to help you fill in all the gaps, so you don’t have to run around like a headless chook, the same way that I did for five years.
 
@@ -101,7 +101,7 @@ So what exactly are these core skills?
 
 To provide a non-exhaustive list, here are some of the things which you will learn which will help you overcome porn addiction:
 
-<hr/>
+<hr class="hrul"/>
 
 - Learn to focus on the how, not the why.
 - Value the time spent improving your mental health above all.
@@ -113,7 +113,7 @@ To provide a non-exhaustive list, here are some of the things which you will lea
 - Identify and understanding any potential mental disorders.
 - Properly understand how to live life without porn.
 
-<hr/>
+<hr class="hrul"/>
 
 I explore each of these aspects (and more) in detail, as well as why they are so crucial for in regards to successfully overcoming porn addiction.
 

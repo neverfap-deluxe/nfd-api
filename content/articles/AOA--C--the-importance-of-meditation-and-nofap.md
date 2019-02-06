@@ -11,11 +11,11 @@
 
 If I had to describe the most important thing you could do for your porn addiction, I would say that practicing meditation on a daily basis is what will help you the most.
 
-<hr />
+<hr class="hr4"/>
 
 #### In fact, ten minutes of meditation a night is probably enough for most porn addicts to overcome their addiction.
 
-<hr />
+<hr class="hr4"/>
 
 Of course, this is a lot easier said than done.
 
@@ -25,11 +25,11 @@ Which isn't going to happen unless if you understand all the context behind how 
 
 Although, the rational is simple.
 
-<hr />
+<hr class="hr2"/>
 
 ## Why meditation?
 
-<hr />
+<hr class="hr2"/>
 
 Without going too deep into the intricate details of how to meditate, nor necessarily what meditation is, let's talk about what meditation effectively achieves. 
 
@@ -41,11 +41,11 @@ Here's the deal, being a porn addict has changed the way your brain works.
 
 It's no longer stable.
 
-<hr />
+<hr class="hr3"/>
 
 ### What meditation allows you to do is develop the ability to maintain control over your mind. 
 
-<hr />
+<hr class="hr3"/>
 
 Yet, even if porn has influenced the way your brain functions on an emotional level.
 
@@ -57,11 +57,11 @@ Well, meditation is your ticket out of this mess.
 
 Meditation teaches you control.
 
-<hr />
+<hr class="hr2"/>
 
 ## Meditation and Porn addiction
 
-<hr />
+<hr class="hr2"/>
 
 Overcoming porn addiction is actually a relatively straight forward process.
 
@@ -73,11 +73,11 @@ In terms of developing control over your emotions, it means remaining calm when 
 
 In terms of understanding your emotions, it means not taking your emotions personally when craving porn, and acknowledging that it's merely your brain respond how it should under a state of addiction.
 
-<hr />
+<hr class="hr4"/>
 
 #### Honestly, if you can manage to do those things, you'll be 90% of the way there.
 
-<hr />
+<hr class="hr4"/>
 
 Yet most people struggle.
 
@@ -85,11 +85,11 @@ Because they don't meditate on a frequent basis, because they don't understand t
 
 That's why meditation is important, because it provides you with that control in order to face these challenges without hesitation or fear.
 
-<hr />
+<hr class="hr4"/>
 
 #### When you have control over your emotions, it makes situations where you don't necessarily feel in control manageable.
 
-<hr />
+<hr class="hr4"/>
 
 Yes. 
 
@@ -103,11 +103,11 @@ So what exactly are some of the skills and practices of meditation?
 
 For starters, there is observation. 
 
-<hr />
+<hr class="hr4"/>
 
 #### Observation is perhaps the most fundamental skill in regards to meditation and developing awareness.
 
-<hr />
+<hr class="hr4"/>
 
 It is the skill we will learn and develop most throughout the practices here on NeverFap Deluxe.
 

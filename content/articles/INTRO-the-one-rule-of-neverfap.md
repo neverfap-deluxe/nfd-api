@@ -13,7 +13,7 @@ Let's discuss a NeverFap best case scenario.
 
 Here are a list of metrics that reflect a very healthy attitude towards life and porn addiction.
 
-<hr/>
+<hr class="hrul"/>
 
 - You no longer watch porn.
 - You no longer crave watching porn.
@@ -30,17 +30,17 @@ Here are a list of metrics that reflect a very healthy attitude towards life and
 - You’re motivated and ambitious.
 - You’re committed to your mental health.
 
-<hr/>
+<hr class="hrul"/>
 
 Fancy pants.
 
 Go out there and buy yourself a Golden Globe. Now that you fully understand what you must achieve, you absolutely deserve it.
 
-<hr/>
+<hr class="hr3"/>
 
 ### If it weren't for the fact that lists like these are utterly meaningless.
 
-<hr/>
+<hr class="hr3"/>
 
 Here's the deal, soldier.
 
@@ -50,11 +50,11 @@ Rather than concern ourselves with goals and ideals, what we're going to do is i
 
 This is something I talk about extensively in my <a class="link" href="/articles/why-am-I-a-porn-addict">"Why Am I A Porn Addict?"</a> article.
 
-<hr/>
+<hr class="hr3"/>
 
 ### What we're going to do is focus on the things we can do everyday in order to improve as a person. 
 
-<hr/>
+<hr class="hr3"/>
 
 Because at the end of the day, there really is no such thing as an 'ideal outcome' or a 'best case scenario' when it comes to addressing porn addiction.
 
@@ -70,11 +70,11 @@ That is why much of the content on this website is built around verifiable pract
 
 So let's keep it simple:
 
-<hr/>
+<hr class="hr3"/>
 
 ### The only rule of NeverFap is that you practice everyday.
 
-<hr/>
+<hr class="hr3"/>
 
 Everything else is just noise.
 
@@ -92,11 +92,11 @@ Remember.
 
 Practice. Practice. Practice.
 
-<hr/>
+<hr class="hr3"/>
 
 ### Consistent hard work and practice are the only ideals which you should strive towards. 
 
-<hr/>
+<hr class="hr3"/>
 
 Everything else is pure fluff, no matter how impressive it may sound in a list of glorified achievements.
 

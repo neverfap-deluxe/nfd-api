@@ -13,19 +13,19 @@
 
 This exercise encompasses one of the most fundamental skills in meditation: 
 
-<hr />
+<hr class="hr4"/>
 
 #### To become aware of our senses.
 
-<hr />
+<hr class="hr4"/>
 
 It is a skill which will form the foundation of almost all awareness-related exercises.
 
-<hr />
+<hr class="hr2"/>
 
 ## Context
 
-<hr />
+<hr class="hr2"/>
 
 This is the kind of exercise that people struggle with for years, only because they attempt it without proper context as to how it should be done. 
 
@@ -39,11 +39,11 @@ You're breathing. You're blinking. You're seeing.
 
 You simply haven't applied that extra step of making yourself aware of all those things which you are currently doing. 
 
-<hr />
+<hr class="hr3"/>
 
 ### Observation is nothing more than paying attention to your senses.
 
-<hr />
+<hr class="hr3"/>
 
 It's literally that simple. 
 
@@ -59,11 +59,11 @@ Notice if you have a particular reaction to those thoughts and feelings.
 
 Literally, it's about sitting there (or standing, or walking, or whatever you happen to be doing) and paying attention to what you're feeling and thinking. 
 
-<hr/>
+<hr class="hr4"/>
 
 #### Where I personally feel a lot of people explaining this go wrong, is that they focus on this whole "really try to empty your thoughts" or "attempt to refrain from judgement" angle. 
 
-<hr/>
+<hr class="hr4"/>
 
 Because it essentially implies that you have to do "more" to somehow achieve these states of mind.
 
@@ -79,11 +79,11 @@ So don't worry about trying to prevent your thoughts, or getting frustrating if 
 
 You're not doing anything wrong. 
 
-<hr />
+<hr class="hr4"/>
 
 #### Another important thing to keep in mind is that there is no 'ideal' state of mind that we are attempting to achieve.
 
-<hr />
+<hr class="hr4"/>
 
 Instead, what we're doing is exploring. 
 
@@ -93,11 +93,11 @@ Ultimately, you can choose to be frustrated, sad or even outright anxious.
 
 Only you can decide how you want to feel in life, and the responsibility is entirely in your hands.
 
-<hr />
+<hr class="hr2"/>
 
 ## Exercise
 
-<hr />
+<hr class="hr2"/>
 
 This exercise is simple.
 
@@ -105,11 +105,11 @@ Simply, observe.
 
 Observe what you're feeling. Observe what you're thinking. 
 
-<hr />
+<hr class="hr4"/>
 
 #### Observe all the various interactions that are taking place in your mind. 
 
-<hr />
+<hr class="hr4"/>
 
 Remember, you're not attempting to change anything. Instead you're merely keeping note and acknowledging what your mind is doing. 
 
@@ -121,11 +121,11 @@ So don't be alarmed if you find simply observing your senses to be difficult.
 
 There's always a first for everything.
 
-<hr />
+<hr class="hr2"/>
 
 ## Moving Forward
 
-<hr />
+<hr class="hr2"/>
 
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 

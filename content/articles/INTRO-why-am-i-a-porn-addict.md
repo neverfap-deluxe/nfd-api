@@ -21,11 +21,11 @@ Why you exist has no correlation to what purpose you have in life. You can have 
 
 Here's a tip:
 
-<hr/>
+<hr class="hr3"/>
 
 ### If you want to figure out your life purpose, just do a heap of things.
 
-<hr/>
+<hr class="hr3"/>
 
 You don't figure out what you want in life by thinking about it. You figure out what you want by experiencing it, and then evaluating that experience.
 
@@ -43,11 +43,11 @@ Good luck with that.
 
 In fact, there’s a word used to describe what it means to ask ‘why’ all the time. 
 
-<hr/>
+<hr class="hr3"/>
 
 ### It’s called rumination, and I personally consider it a form of self-harm. 
 
-<hr/>
+<hr class="hr3"/>
 
 Rumination is when you continually spur over your thoughts, without actually pursuing any hard actions as a result.
 
@@ -63,17 +63,17 @@ In the case of basketball, it’s learning to dribble, shoot, block and run with
 
 Sure, understanding why dribbling is important is something which may help you better understand those skills, however the core skills themselves are undeniable.
 
-<hr/>
+<hr class="hr3"/>
 
 ### Another way of putting it is that we must focus on the how, rather than the why. 
 
-<hr/>
+<hr class="hr3"/>
 
 The understanding is the why, while the core skills are the how.
 
 When we focus on how to achieve something, we no longer become concerned with trying to define our reality. Instead, we become actively focused on the actions which help us change our reality for the better. 
 
-<hr/>
+<hr class="hrul"/>
 
 **"How am I a porn addict?"** 
 
@@ -81,7 +81,7 @@ When we focus on how to achieve something, we no longer become concerned with tr
 
 **"What do I have to do in order to avoid porn addiction?"**
 
-<hr/>
+<hr class="hrul"/>
 
 By changing the way you think from trying to understand reason, to trying to understand tangible processes, you also completely change the way you think about your problems. 
 
@@ -97,17 +97,17 @@ And this is precisely what we are trying to avoid.
 
 To be a little bit more precise, here are a list of the why’s which you don’t need to worry about:
 
-<hr/>
+<hr class="hrul"/>
 
 **"Why am I a porn addict?"**
 
 **"Why do I find overcoming porn addiction so difficult?"**
 
-<hr/>
+<hr class="hrul"/>
 
 These are all meaningless questions. Instead, these are the types of questions we need to be thinking about:
 
-<hr/>
+<hr class="hrul"/>
 
 **"What can I do to influence my porn addiction?"**
 
@@ -117,7 +117,7 @@ These are all meaningless questions. Instead, these are the types of questions w
 
 **"How do I fall into the trap of believing that it’s okay to watch porn?"**
 
-<hr/>
+<hr class="hrul"/>
 
 Aside from the rest of the introductory articles on this website, I highly recommend taking a look at some of the practices on offer, so you can begin to make actual changes to your life today.
 

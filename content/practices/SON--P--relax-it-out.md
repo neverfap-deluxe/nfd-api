@@ -13,27 +13,28 @@ This exercise is incredibly effective, especially for those new to meditation an
 
 In essence, because it doesn't require you to think.
 
-<hr />
+<hr class="hr2"/>
 
 ## Context
 
-<hr />
+<hr class="hr2"/>
 
 I really cannot emphasise how much I love this exercise.
 
 
-<hr />
+<hr class="hr2"/>
 
 ## Exercise
 
-<hr />
+<hr class="hr2"/>
 
 
-<hr />
+
+<hr class="hr2"/>
 
 ## Moving Forward
 
-<hr />
+<hr class="hr2"/>
 
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 

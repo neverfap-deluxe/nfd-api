@@ -15,11 +15,11 @@ This exercise is one of the easiest ways to start building your awareness.
 
 Essentially, it involves slowing down your mind so that you can open yourself to the opportunity of being aware.
 
-<hr />
+<hr class="hr2"/>
 
 ## Context
 
-<hr />
+<hr class="hr2"/>
 
 One of the most common ways we weaken our ability to be aware, is by losing control over our thoughts.
 
@@ -38,11 +38,11 @@ We're simply going to focus on the raw process of thinking and how we can slow t
 
 In doing so, we can learn the physical sensation of what it actually means to be in control of our mind, and use this as a strong foundation for being able to control what we think. 
 
-<hr />
+<hr class="hr3"/>
 
 ### Because when we're in control of our mind, it's almost as if everything is moving in slow motion.
 
-<hr />
+<hr class="hr3"/>
 
 The key thing to understand here is that having control over our minds isn't necessarily about being able to react to what's in front of us, but instead, prepare us for what will happen ahead of time 
 
@@ -54,11 +54,11 @@ What you will learn by practicing to slow your mind down on a regular basis, is 
 
 But also to become a more calm and relaxed person. 
 
-<hr />
+<hr class="hr2"/>
 
 ## Exercise
 
-<hr />
+<hr class="hr2"/>
 
 When you have a moment, just slow down your mind. 
 

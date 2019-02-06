@@ -17,11 +17,11 @@ In fact, all awareness exercises are designed to help dissolve your ego to some 
 
 Excellent.
 
-<hr />
+<hr class="hr2"/>
 
 ## Context
 
-<hr />
+<hr class="hr2"/>
 
 Much like the <a class="link" href="/articles/slow-it-down">Slow it down</a> exercise, Dissolve it down is about changing our interpretation of reality.
 
@@ -47,11 +47,11 @@ Take what you see in your visual field for example.
 
 Instinctively we create visual depth. We identify objects. We identify how far away they are. We identify those objects which are living. We identify dangers, and so forth.
 
-<hr />
+<hr class="hr3"/>
 
 ### Yet what information do we lose with all this additional mental processing?
 
-<hr />
+<hr class="hr3"/>
 
 Can we even call it reality?
 
@@ -61,11 +61,11 @@ What this exercise attempts to do is exercise our ability to remove this bias fr
 
 Not only to see a 'clearer' picture of reality, but to better understand what we're actually experiencing on a day to day basis.
 
-<hr />
+<hr class="hr2"/>
 
 ## Exercise
 
-<hr />
+<hr class="hr2"/>
 
 For this exercise, what we want to do is attempt to treat our visual field as a simple plane of a light and colour. 
 
