@@ -2,8 +2,8 @@
 .header {
   display: flex;
   align-items: center;
-  // justify-content: space-between;
-  justify-content: center;
+  justify-content: space-between;
+  // justify-content: center;
 
   position: relative;
   top: 2.9rem;
@@ -26,7 +26,7 @@
       min-width: 6.5rem;
       // height: 100%;
       list-style: none;
-      border-bottom: 5px solid black;
+      // border-bottom: 5px solid black;
       
       .header__link {
         color: black;
@@ -111,11 +111,11 @@
   .header {
     // top: 0;
     .header__links {
-      border-right: 5px solid black;
-      border-left: 5px solid black;
+      // border-right: 5px solid black;
+      // border-left: 5px solid black;
   
       .header__link__wrapper {
-        border-bottom: 5px solid black;
+        // border-bottom: 5px solid black;
 
         .header__link {
         }

@@ -54,6 +54,6 @@ These principles are:
 </div>
 
 <div class="button__wrapper">
-  <a class="button button__secondary" href="/articles/the-five-fundamental-principles-of-neverfap">Learn More About The Five Principles.</a>
+  <a class="button button__secondary" href="/articles/the-five-fundamental-principles-of-neverfap">The Five Fundamental Principles Of NeverFap.</a>
 </div>
 
