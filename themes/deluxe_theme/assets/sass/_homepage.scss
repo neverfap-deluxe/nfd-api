@@ -40,8 +40,11 @@
     margin-bottom: 0rem;
     margin-top: 0rem;
 
+
     .header__links {
       top: 0;
+      border-right: none;
+      border-left: none;
       
       .header__link__wrapper {
         position: relative;
