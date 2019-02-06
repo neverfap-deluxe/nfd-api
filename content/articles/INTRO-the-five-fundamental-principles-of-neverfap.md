@@ -17,7 +17,9 @@ Without mastery of all five of these principles, we cannot hope to consistently 
 
 Before we begin however, we must ask ourselves a very important question: 
 
-{{< hr3 What is a fundamental principle and what makes it fundamental? >}}
+
+{{< hr3 "What is a fundamental principle and what makes it fundamental?" >}}
+
 
 A fundamental principle is a hard truth. It is something which remains true irrespective of whether you agree with it, how you feel about it, nor even how you understand or interpret it.
 
@@ -30,9 +32,7 @@ However it certainly won't help you overcome porn addiction, which is probably t
 You know, to receive help with a problem that you fundamentally misunderstand, for otherwise you wouldn't have a problem to begin with.
 
 
-
-{{< hr2 Keeping Your Mind In Check >}}
-
+{{< hr2 "Keeping Your Mind In Check" >}}
 
 
 The key thing to understand about fundamental principles is that they are not subject to open-ended thinking.
@@ -54,9 +54,7 @@ Hard truths are not open to subjective questioning. Certainly, you're more than 
 In fact, there's a word used to describe when we refuse to accept reality.
 
 
-
-{{< hr3 This word is called denial. >}}
-
+{{< hr3 "This word is called denial." >}}
 
 
 Whether you realise it or not, the reason why you are a porn addict is because you are in denial about some aspect of your life, which is causing you to misunderstand yourself and result in your current obsession with porn.
@@ -68,9 +66,7 @@ As a former porn addict, I encourage you to embrace the idea that everything you
 You cannot get better if you cannot first recognise that you have a problem. 
 
 
-
-{{< hr2 The Five Fundamental Principles of NeverFap >}}
-
+{{< hr2 "The Five Fundamental Principles of NeverFap" >}}
 
 
 On a superficial level, none of these principles seem to have anything to do with addressing porn addiction. 
@@ -120,9 +116,7 @@ This is one of those concepts that people think they understand, and yet refutel
 In fact, it's something most people outright ignore because they don't believe it's that big of a deal, not quite understanding the consequences of their actions.
 
 
-
-{{< hr3 Which again, is behaviour which can only be described as denial. >}}
-
+{{< hr3 "Which again, is behaviour which can only be described as denial." >}}
 
 
 What <u>*Balance over reward*</u> maintains is this idea that we must prioritise balance over our immediate wants and goals.
@@ -146,9 +140,7 @@ Instead, by learning to respect balance in my life, I've been able to live my li
 I think part of the problem is that people fall into the trap of believing they're inherently unique when it comes to certain aspects of life.
 
 
-
-{{< hr3 They think they can somehow "cheat" the system and come out ahead. >}}
-
+{{< hr3 "They think they can somehow \"cheat\" the system and come out ahead." >}}
 
 
 When it's both physically and mentally impossible to do so. 
@@ -177,8 +169,7 @@ I think the reason why most people struggle with this concept of awareness is be
 In reality, awareness is actually really simple.
 
 
-
-{{< hr3 Awareness is nothing more than your ability to sense the world around you. >}}
+{{< hr3 "Awareness is nothing more than your ability to sense the world around you." >}}
 
 
 That's literally it.
@@ -215,9 +206,7 @@ Which means either you're not understanding it intuitively (making it simple), o
 Understand that porn recovery isn't about fighting your emotions or violently pushing yourself to become something you're not.
 
 
-
-{{< hr3 It's about understanding who you are so that you no longer need to fight yourself on a daily basis. >}}
-
+{{< hr3 "It's about understanding who you are so that you no longer need to fight yourself on a daily basis." >}}
 
 
 Because life without porn isn't a struggle.

@@ -26,9 +26,7 @@ In other words, if you’re struggling with porn addiction, it’s because you�
 In order to demonstrate this, I’m first going to talk about where I personally was making compromises in my life and what effect that was having on my life, in addition to how to successfully pay the maintenance tax.
 
 
-
-{{< hr3 Facing the consequences of imbalance
-
+{{< hr3 "Facing the consequences of imbalance" >}}
 
 
 Prior to this realisation, I was under the impression that I was relatively functional and healthy. I was exercising three times a week. I was eating healthily. I was in a fantastic relationship. I was incredibly passionate about studying (I was studying to become a coder) and I was full of ambition, ready to take on the world. 
@@ -44,9 +42,7 @@ Of course, you may have an opposite problem. You may not be motivated enough.
 Instead, I treated all the negative aspects of 
 
 
-
-{{< hr3 The key take away 
-
+{{< hr3 "The key take away" >}}
 
 
 Embracing self-care requires a change in attitude. 
@@ -60,9 +56,7 @@ Only by paying the maintanence tax can we
 The key takeaway from this article is that self-care exists above all and that self-care is not optional. From now on, it is a hard requirement. By avoiding self-care, we delay the inevitable. 
 
 
-
-{{< hr3 Self-care routine
-
+{{< hr3 "Self-care routine" >}}
 
 
 So after all this, you're probably wondering what an optimal self-care routine is? 
@@ -91,10 +85,8 @@ In fact, it wasn't until I began adding meditation to my routine that I was fina
 
 So it's quite possible that all you need to do to overcome porn addiction is to learn to control your mind through meditation. 
 
-<!-- <hr/>
 
-{{< hr4 # NOTE: Add link here to post.
+<!-- # NOTE: Add link here to post. -->
 
-<hr/> -->
 
 In my next post 'The Importance of Routine Self-care' I go into each aspect of my routine and extrapolate what I find essential. 
