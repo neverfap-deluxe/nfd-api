@@ -12,7 +12,7 @@
 So you're probably wondering.
 
 
-### Who on earth is this kid?
+{{< hr3 "Who on earth is this kid?" >}}
 
 <hr/>
 
@@ -38,11 +38,11 @@ A problem which I was determined to understand and overcome.
 
 Fast forward a few years and...
 
-<hr class="hr3"/>
 
-### Age 25. October 20th 2018.
 
-<hr class="hr3"/>
+{{< hr3 "Age 25. October 20th 2018." >}}
+
+
 
 This is the last time I have (and ever will) masturbate to or watch porn ever again.
 
@@ -66,11 +66,11 @@ Like, I was essentially do everything I could have done right.
 
 ...and yet probably 90% of that had nothing to do with why I'd managed to successfully give up porn.
 
-<hr class="hr2"/>
 
-## The truth of giving up porn addiction
 
-<hr class="hr2"/>
+{{< hr2 "The truth of giving up porn addiction" >}}
+
+
 
 In retrospect, giving up porn is actually a relatively simple, straight forward process.
 
@@ -80,11 +80,9 @@ I suppose there were two main catalysts as to why I've remained porn free since.
 
 And it all happened within the space of a few weeks. 
 
-<hr class="hr3"/>
 
-### For starters I had a breakdown. 
+{{< hr3 "For starters I had a breakdown." >}}
 
-<hr class="hr3"/>
 
 You see, I suffer from a condition from Bipolar Disorder and I hadn't told my partner about it. 
 
@@ -112,11 +110,11 @@ I finally felt free to just move on with my life.
 
 The second catalyst, which in part came about from the first catalyst, was perhaps more profound. 
 
-<hr class="hr3"/>
 
-### What happened was that I'd discovered this little thing called 'meditation'.
 
-<hr class="hr3"/>
+{{< hr3 "What happened was that I'd discovered this little thing called 'meditation'." >}}
+
+
 
 The funny thing about meditation is that I'd tried doing it through out various phases of my life to no avail.
 

@@ -1,10 +1,10 @@
-## TODO
+{{< hr2 TODO
 
-### 3rd party
+{{< hr3 3rd party
 
 - comments plugin
 
-## app build
+{{< hr2 app build
 
 - Create shortcodes for <hr/> with class. 
 - Create similar practices on practices page.
@@ -13,7 +13,7 @@
 - Figure out twitter https://twitter.com/
 - Practices to show 
 
-## Types of categories
+{{< hr2 Types of categories
 
 - popular
 
@@ -22,7 +22,7 @@
 - Introduction
 
 
-## DESIGN
+{{< hr2 DESIGN
 
 Wow, I never knew it before I designed the website, but css-tricks seems to have adopted a similar colour scheme. I could definitely learn a few things from it.
 https://css-tricks.com/archives/

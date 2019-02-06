@@ -36,11 +36,11 @@ Fancy pants.
 
 Go out there and buy yourself a Golden Globe. Now that you fully understand what you must achieve, you absolutely deserve it.
 
-<hr class="hr3"/>
 
-### If it weren't for the fact that lists like these are utterly meaningless.
 
-<hr class="hr3"/>
+{{< hr3 "If it weren't for the fact that lists like these are utterly meaningless" >}}.
+
+
 
 Here's the deal, soldier.
 
@@ -50,11 +50,11 @@ Rather than concern ourselves with goals and ideals, what we're going to do is i
 
 This is something I talk about extensively in my <a class="link" href="/articles/why-am-I-a-porn-addict">"Why Am I A Porn Addict?"</a> article.
 
-<hr class="hr3"/>
 
-### What we're going to do is focus on the things we can do everyday in order to improve as a person. 
 
-<hr class="hr3"/>
+{{< hr3 "What we're going to do is focus on the things we can do everyday in order to improve as a person." >}}
+
+
 
 Because at the end of the day, there really is no such thing as an 'ideal outcome' or a 'best case scenario' when it comes to addressing porn addiction.
 
@@ -70,11 +70,11 @@ That is why much of the content on this website is built around verifiable pract
 
 So let's keep it simple:
 
-<hr class="hr3"/>
 
-### The only rule of NeverFap is that you practice everyday.
 
-<hr class="hr3"/>
+{{< hr3 "The only rule of NeverFap is that you practice everyday." >}}
+
+
 
 Everything else is just noise.
 
@@ -92,11 +92,9 @@ Remember.
 
 Practice. Practice. Practice.
 
-<hr class="hr3"/>
 
-### Consistent hard work and practice are the only ideals which you should strive towards. 
+{{< hr3 "Consistent hard work and practice are the only ideals which you should strive towards." >}}
 
-<hr class="hr3"/>
 
 Everything else is pure fluff, no matter how impressive it may sound in a list of glorified achievements.
 

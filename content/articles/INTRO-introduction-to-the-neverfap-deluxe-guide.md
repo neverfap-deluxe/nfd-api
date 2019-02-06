@@ -29,11 +29,11 @@ It's just not how my mind works anymore.
 
 Not to mention, this is coming from someone who suffers from Bipolar Disorder, which should traditionally make something like overcoming porn addiction almost impossible.
 
-<hr class="hr3"/>
 
-### The point is that overcoming porn addiction is totally achievable.
 
-<hr class="hr3"/>
+{{< hr3 "The point is that overcoming porn addiction is totally achievable." >}}
+
+
 
 And I want to show you how.
 
@@ -41,11 +41,11 @@ To do this, we need to look not only at porn recovery, but also how us humans ob
 
 We have one rule here at NeverFap: 
 
-<hr class="hr3"/>
+
 
 **Practice. Practice. Practice.**
 
-<hr class="hr3"/>
+
 
 The thing that matters is practicing the core skills which will help you become better at your goals.
 
@@ -57,11 +57,9 @@ There are thousands of tutorials on the internet which describe in excruciating 
 
 So what's stopping you?
 
-<hr class="hr3"/>
 
-### The problem is that you keep fighting yourself on a daily basis.
+{{< hr3 "The problem is that you keep fighting yourself on a daily basis." >}}
 
-<hr class="hr3"/>
 
 Cravings. Doubt. Fear. Anxiety. Addiction.
 
@@ -83,11 +81,11 @@ Everyone has a different opinion of everything, most of them coming from existin
 
 Which is why we end up running around in circles for years before getting anywhere, potentially sabotaging ourselves in the process and making the situation worse.
 
-<hr class="hr3"/>
 
-### Well, that’s why I decided to create NeverFap Deluxe.  
 
-<hr class="hr3"/>
+{{< hr3 "Well, that’s why I decided to create NeverFap Deluxe." >}}
+
+
 
 My intention is to help you fill in all the gaps, so you don’t have to run around like a headless chook, the same way that I did for five years.
 

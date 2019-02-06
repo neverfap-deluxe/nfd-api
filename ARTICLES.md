@@ -1,4 +1,4 @@
-****## NeverFap Introduction
+****{{< hr2 NeverFap Introduction
 
 __TODO__
 - The problem with NoFap 
@@ -27,14 +27,14 @@ __Created/Done__
 - "Why Am I A Porn Addict?"
 - You can always find time for your mental health
 
-## Choice over mind - COM
+{{< hr2 Choice over mind - COM
 
 __TODO__
 - Context: Porn is not who you are, it is your addiction.
 
 __Created/Done__
 
-## Uncondition over judgement - UOJ
+{{< hr2 Uncondition over judgement - UOJ
 
 __TODO__
 - The fallacy of judgement as an effective means
@@ -42,7 +42,7 @@ __TODO__
 
 __Created/Done__
 
-## Struggle over none - SON
+{{< hr2 Struggle over none - SON
 
 __TODO__
 
@@ -52,7 +52,7 @@ __TODO__
 
 __Created/Done__
 
-## Awareness over all - AOA
+{{< hr2 Awareness over all - AOA
 
 __TODO__
 - The Myth of Awareness (how awareness is a practice, not something you already have). 
@@ -67,7 +67,7 @@ __Created/Done__
 - Context: The Importance of Meditation and NeverFap
 - Context: Everything is a choice
 
-## Balance over reward - BOR
+{{< hr2 Balance over reward - BOR
 
 __TODO__
 - Redefining our metrics for productivity. 

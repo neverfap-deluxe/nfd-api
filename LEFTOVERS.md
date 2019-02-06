@@ -72,7 +72,7 @@ And when you realise that your mind consists of almost everything relating to yo
 
 <hr />
 
-## Making Choices
+{{< hr2 Making Choices
 
 <hr />
 

@@ -16,35 +16,25 @@ First we start with objects.
 Then we move onto people and concepts. 
 
 
-<hr class="hr2"/>
-
-## Context
-
-<hr class="hr2"/>
 
 
-<hr class="hr3"/>
-
-### Because when we're in control of our mind, it's almost as if everything is moving in slow motion.
-
-<hr class="hr3"/>
+{{< hr2 "Context" >}}
 
 
-<hr class="hr2"/>
-
-## Exercise
-
-<hr class="hr2"/>
+{{< hr3 "Because when we're in control of our mind, it's almost as if everything is moving in slow motion." >}}
 
 
-## Moving Forward
+{{< hr2 "Exercise" >}}
+
+
+{{< hr2 "Moving Forward" >}}
 
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 
 <a class="link" href="/articles/dissolve-it-down">Dissolve it down</a>
 
 <!-- 
-## Additional Resources  -->
+{{< hr2 "Additional Resources" >}}  -->
 
 <!-- maybe link to other  -->
 

@@ -2,7 +2,7 @@
   title: "Practice: Relax It Out"
   description: "Relax It Out Is All About Taking A Relaxed Approach Towards Dealing With Life. It Is An Incredibly Effective Way To Dissolve Our Feelings And Emotions."
   date: 2018-02-06
-  draft: false
+  draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
   # image: "/images/face.jpg"
@@ -13,28 +13,20 @@ This exercise is incredibly effective, especially for those new to meditation an
 
 In essence, because it doesn't require you to think.
 
-<hr class="hr2"/>
 
-## Context
+{{< hr2 "Context" >}}
 
-<hr class="hr2"/>
 
 I really cannot emphasise how much I love this exercise.
 
 
-<hr class="hr2"/>
-
-## Exercise
-
-<hr class="hr2"/>
+{{< hr2 "Exercise" >}}
 
 
 
-<hr class="hr2"/>
+{{< hr2 "Moving Forward" >}}
 
-## Moving Forward
 
-<hr class="hr2"/>
 
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 
@@ -45,7 +37,7 @@ Once you've practiced this for a few weeks, I highly recommend checking out:
 <a class="link" href="/articles/focus-it-forward">Focus it forward</a>
 
 <!-- 
-## Additional Resources  -->
+{{< hr2 "Additional Resources" >}}  -->
 
 <!-- maybe link to other  -->
 

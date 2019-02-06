@@ -21,11 +21,9 @@ Because in actual fact, as you'll come to realise, focus itself is actually the 
 
 Again, it almost always creates more confusion than clarity, so please do not proceed until you've mastered more passive, basic awareness exercises. 
 
-<hr class="hr2"/>
 
-## Context
+{{< hr2 "Context" >}}
 
-<hr class="hr2"/>
 
 Ah, good ol' focus.
 
@@ -57,11 +55,9 @@ As opposed to merely being openly aware of everything.
 
 In essence, it's easier to be fully attuned to all your senses at once without focus, than it is to be fully attuned to just one of your senses.
 
-<hr class="hr2"/>
 
-## Exercise
+{{< hr2 "Exercise" >}}
 
-<hr class="hr2"/>
 
 Provided this context, there are essentially two key steps towards performing this exercise:
 
@@ -73,18 +69,18 @@ It could be something visual, like on a lamp or a door. It could be a very parti
 
 Just play around with it and see where your mind takes you.
 
-<hr class="hr2"/>
 
-## Moving Forward
 
-<hr class="hr2"/>
+{{< hr2 "Moving Forward" >}}
+
+
 
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 
 <a class="link" href="/articles/dissolve-it-down">Dissolve it down</a>
 
 <!-- 
-## Additional Resources  -->
+{{< hr2 "Additional Resources" >}}  -->
 
 <!-- maybe link to other  -->
 

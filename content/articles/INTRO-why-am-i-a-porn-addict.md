@@ -21,11 +21,9 @@ Why you exist has no correlation to what purpose you have in life. You can have 
 
 Here's a tip:
 
-<hr class="hr3"/>
 
-### If you want to figure out your life purpose, just do a heap of things.
+{{< hr3 "If you want to figure out your life purpose, just do a heap of things." >}}
 
-<hr class="hr3"/>
 
 You don't figure out what you want in life by thinking about it. You figure out what you want by experiencing it, and then evaluating that experience.
 
@@ -43,11 +41,9 @@ Good luck with that.
 
 In fact, there’s a word used to describe what it means to ask ‘why’ all the time. 
 
-<hr class="hr3"/>
 
-### It’s called rumination, and I personally consider it a form of self-harm. 
+{{< hr3 "It’s called rumination, and I personally consider it a form of self-harm." >}}
 
-<hr class="hr3"/>
 
 Rumination is when you continually spur over your thoughts, without actually pursuing any hard actions as a result.
 
@@ -63,11 +59,11 @@ In the case of basketball, it’s learning to dribble, shoot, block and run with
 
 Sure, understanding why dribbling is important is something which may help you better understand those skills, however the core skills themselves are undeniable.
 
-<hr class="hr3"/>
 
-### Another way of putting it is that we must focus on the how, rather than the why. 
 
-<hr class="hr3"/>
+{{< hr3 "Another way of putting it is that we must focus on the how, rather than the why." >}}
+
+
 
 The understanding is the why, while the core skills are the how.
 

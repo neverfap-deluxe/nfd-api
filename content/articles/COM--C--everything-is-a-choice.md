@@ -15,11 +15,9 @@ Specifically, how it relates to the Five Fundamental Principles of NeverFap.
 
 Choice over mind is the first principle that I usually introduce to people, because it is the one principle that porn addicts usually find the most profound.
 
-<hr class="hr3"/>
 
-### Choice over mind relates to this idea that we have full control over how we react to life.
+{{< hr3 "Choice over mind relates to this idea that we have full control over how we react to life." >}}
 
-<hr class="hr3"/>
 
 It's an important idea to understand, because once you fully embrace the power of choice in life, you can learn to overcome life's most difficult challenges.
 
@@ -31,11 +29,9 @@ In a state of misunderstanding over what choice is and what rights they have ove
 
 So let's consider this your formal re-education.
 
-<hr class="hr2"/>
 
-## What is choice?
+{{< hr2 "What is choice?" >}}
 
-<hr class="hr2"/>
 
 It begs to state that everything in life is a choice.
 
@@ -49,22 +45,17 @@ We don't get to choose our race. We don't have choice over how others live their
 
 And that's okay.
 
-<hr class="hr4"/>
 
-#### Because I'm here to tell you that none of that matters.
+{{< hr4 "Because I'm here to tell you that none of that matters." >}}
 
-<hr class="hr4"/>
 
 Here's the thing... 
 
 ...you do have one choice which is so powerful that it effectively overrides every other choice in life.
 
 
-<hr class="hr3"/>
+{{< hr3 "Ultimately, you get to choose how you want to respond." >}}
 
-### Ultimately, you get to choose how you want to respond. 
-
-<hr class="hr3"/>
 
 eh.
 
@@ -84,11 +75,9 @@ So something is missing from your understanding.
 
 Or perhaps you're misinterpretating what being able to respond actually means, so let's explore that idea.
 
-<hr class="hr2"/>
 
-## The great equaliser
+{{< hr2 "The great equaliser" >}}
 
-<hr class="hr2"/>
 
 When you truly understand what Choice over mind means, it completely changes the way you look at things. 
 
@@ -98,11 +87,9 @@ So what does it being able to respond actually mean?
 
 To help understand this question, we need to understand why it's the most powerful choice you have.
 
-<hr class="hr4"/>
 
-#### Put simply, your ability to respond is the most powerful choice you have, because it is the only choice you as an individual can actually make.
+{{< hr4 "Put simply, your ability to respond is the most powerful choice you have, because it is the only choice you as an individual can actually make." >}}
 
-<hr class="hr4"/>
 
 At no point do you have absolute certainty over any outcome in life. Instead, what you do have is certainty over the actions you take.
 
@@ -116,29 +103,23 @@ Well, humans respond with their actions.
 
 And how else does one actively change, otherwise not for their own actions? 
 
-<hr class="hr4"/>
 
-#### Which really is to say that you have full control over who you want to become. 
+{{< hr4 "Which really is to say that you have full control over who you want to become." >}}
 
-<hr class="hr4"/>
 
 Although, there's a more significant reason which a lot of people don't realise. 
 
 The fact that our ability to respond is the only choice we have, ultimately signifies that we are all equal in terms of our ability to take action.
 
-<hr class="hr4"/>
 
-#### What it means is that we all have that exact same opportunity to become, because we all have the same ability to take action.
+{{< hr4 "What it means is that we all have that exact same opportunity to become, because we all have the same ability to take action." >}}
 
-<hr class="hr4"/>
 
 In order to understand this, we need to understand what actions are, and more importantly how we use them to create outcomes.
 
-<hr class="hr2"/>
 
-## Success and your actions
+{{< hr2 "Success and your actions" >}}
 
-<hr class="hr2"/>
 
 You see, success doesn't happen at a high level.
 
@@ -148,11 +129,9 @@ Success is the difference between choosing to remain calm in a tense situation, 
 
 Success is acknowledging that our cravings for porn are merely habitual, and not to be taken personally. 
 
-<hr class="hr4"/>
 
-#### The only difference between someone who has successfully overcome porn addiction and someone who continually fails, is that the person who overcame it took those right actions to get there.
+{{< hr4 "The only difference between someone who has successfully overcome porn addiction and someone who continually fails, is that the person who overcame it took those right actions to get there." >}}
 
-<hr class="hr4"/>
 
 Every porn addict goes through the same feelings and emotions. 
 
@@ -163,11 +142,8 @@ The only difference was how they chose to respond to those feelings and emotions
 Now, I'm not suggesting that you'll be able to face these feelings and emotions with the knowledge contained in this article.
 
 
-<hr class="hr4"/>
+{{< hr4 "However, what I am suggesting is that with the right guidance and practice, you can develop the ability to be able to." >}}
 
-#### However, what I am suggesting is that with the right guidance and practice, you can develop the ability to be able to.
-
-<hr class="hr4"/>
 
 And in order to do that, you must first discover which actions to take and this is precisely why I created NeverFap Deluxe.
 

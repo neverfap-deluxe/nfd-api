@@ -1,10 +1,10 @@
-## NeverFap Introduction
+{{< hr2 NeverFap Introduction
 
 __TODO__
 
 __Created/Done__
 
-## Choice over mind - COM
+{{< hr2 Choice over mind - COM
 
 __TODO__
 - Practice: Redefining your perception of women. (what is a woman?)
@@ -13,7 +13,7 @@ __TODO__
 
 __Created/Done__
 
-## Uncondition over judgement - UOJ
+{{< hr2 Uncondition over judgement - UOJ
 
 __TODO__ 
 - Practice: Developing empathy (think about things from other people's point of view)
@@ -26,7 +26,7 @@ __Created/Done__
 - Practice: The odd judge out
 
 
-## Struggle over none - SON
+{{< hr2 Struggle over none - SON
 
 __TODO__
 - Practice: Understand how you fight
@@ -35,7 +35,7 @@ __TODO__
 
 __Created/Done__
 
-## Awareness over all - AOA
+{{< hr2 Awareness over all - AOA
 
 __TODO__
 
@@ -48,7 +48,7 @@ __Created/Done__
 - Practice: Focus it forward.
 
 
-## Balance over reward - BOR
+{{< hr2 Balance over reward - BOR
 
 __TODO__
 - Practice: Setting hard time limits

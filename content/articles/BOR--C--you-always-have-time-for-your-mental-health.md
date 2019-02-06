@@ -13,11 +13,9 @@
 
 There's one excuse that I often see porn addicts come up with in regards to their addiction. 
 
-<hr class="hr3"/>
 
-### "I don't have enough time."
+{{< hr3 "I don't have enough time." >}}
 
-<hr class="hr3"/>
 
 It's an attitude which ironically, prevents us from actually focusing on what's important in life.
 
@@ -31,11 +29,9 @@ For example, checking our phone every five minutes to see if someone's messaged 
 
 Perhaps we're just too obsessed with our goals and ambitions in life, to a point where we feel obliged to maintain routine. 
 
-<hr class="hr3"/>
 
-### No matter how you choose to interpret it, I'm here to tell you that it's a disorder.
+{{< hr3 "No matter how you choose to interpret it, I'm here to tell you that it's a disorder." >}}
 
-<hr class="hr3"/>
 
 It is a disorder because it's a choice to neglect one's mental health, and there are never any valid reasons why anyone should ever neglect their mental health.
 
@@ -47,11 +43,9 @@ The moment you compromise on your mental health is when you introduce the potent
 
 Of course, with this disorder, time is instead believed to be the most sacred thing of all. 
 
-<hr class="hr4"/>
 
-#### So a question I ask those people is, what is time without your mental health?
+{{< hr4 "So a question I ask those people is, what is time without your mental health?" >}}
 
-<hr class="hr4"/>
 
 Without mental health, time becomes an uncontrollable struggle of judgement, self-criticism and depression. 
 
@@ -61,11 +55,9 @@ Without mental health, days seem like years in situations we may grow to despise
 
 Without mental health, time becomes a infinite struggle without end.
 
-<hr class="hr4"/>
 
-#### Of course, there's a reason why bad mental health is often described as a self-repeating cycle.
+{{< hr4 "Of course, there's a reason why bad mental health is often described as a self-repeating cycle." >}}
 
-<hr class="hr4"/>
 
 We choose to obsess over something which we believe will make us happy i.e. addiction, uncheked ambitions etc.
 
@@ -75,11 +67,9 @@ We end up feeling empty once the obsession wears off, inspite of all the time we
 
 Then we go and repeat the cycle again and again and again. 
 
-<hr class="hr3"/>
 
-### To be honest, it's a bit shit.
+{{< hr3 "To be honest, it's a bit shit." >}}
 
-<hr class="hr3"/>
 
 And I'm sure you know it too.
 
@@ -91,11 +81,11 @@ It's hard when your emotions are out of whack, and you genuinely believe that "t
 
 It's hard when you've got nothing left to lose because you're so emotionally empty that you don't really care what happens next.
 
-<hr class="hr4"/>
 
-#### But there's never a bad time to commit to your mental health.
 
-<hr class="hr4"/>
+{{< hr4 "But there's never a bad time to commit to your mental health." >}}
+
+
 
 One key thing to understand about mental health is that it's accumulative.
 
@@ -107,11 +97,9 @@ That's not how it works at all.
 
 The way mental health works is by commiting a bit of your time each day towards.
 
-<hr class="hr3"/>
 
-### Honestly, spending ten minutes at night before bed meditating is all most people need.
+{{< hr3 "Honestly, spending ten minutes at night before bed meditating is all most people need." >}}
 
-<hr class="hr3"/>
 
 Although I'd like to take it one step further.
 
@@ -123,11 +111,9 @@ Realising that mental health isn't achieved by what you don't do, but rather by 
 
 Ultimately, however.
 
-<hr class="hr3"/>
 
-### If you don't truly believe or understand that your mental health is more important than anything else in your life. 
+{{< hr3 "If you don't truly believe or understand that your mental health is more important than anything else in your life." >}}
 
-<hr class="hr3"/>
 
 Then you're going to continue to pursue activities which will conflict with your mental health.
 
@@ -137,11 +123,9 @@ Which is to say that they will always be compromises, rather than true solutions
 
 Compromises which will always leave you hanging for more, only to repeat the same cycles again, and again and again.
 
-<hr class="hr4"/>
 
-#### From this point of view, you have nothing to gain from neglecting your mental health.
+{{< hr4  "From this point of view, you have nothing to gain from neglecting your mental health." >}}
 
-<hr class="hr4"/>
 
 No matter what other benefits those other achievements may provide.
 
