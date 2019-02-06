@@ -6,6 +6,7 @@
 
 ## app build
 
+- Create shortcodes for <hr/> with class. 
 - Create similar practices on practices page.
 - create categories/tags
 - Get logo images
