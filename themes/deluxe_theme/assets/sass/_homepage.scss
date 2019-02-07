@@ -40,6 +40,8 @@
     margin-bottom: 0rem;
     margin-top: 0rem;
 
+    background: initial;
+
     .header__links {
       top: 0;
       border-right: none;
@@ -49,10 +51,21 @@
         position: relative;
         border-bottom: 5px solid white;
         // background: grey;
+
+        transition: .1s ease-in;
         .header__link {
           color: white;
         }
       }
+
+      .header__link__wrapper:hover {
+        background: lighten(orange, 10%);
+        box-shadow: -5px 5px 0px 0px cyan;
+      }  
+
+      // .header__link__wrapper:hover .header__link {
+      //   color: cyan;
+      // }
 
       #link__guide:hover .header__link__wrapper--guide {
         font-size: 0.95rem;
@@ -77,10 +90,6 @@
         text-decoration: underline;
         text-decoration-color: cyan;
       } 
-
-      .header__link__wrapper:hover {
-        background: lighten(orange, 10%);
-      }  
 
       .header__link__wrapper:hover .header__link {
         // color: black;
