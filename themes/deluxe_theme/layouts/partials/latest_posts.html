@@ -1,5 +1,5 @@
 <div class="posts">
-  {{ range first 10 (.Site.RegularPages.ByDate) }}
+  {{ range first 10 (.Site.RegularPages) }}
     <a class="post" href="{{.Permalink}}">
       <div class="post__left">
         <div class="post__five__principles">

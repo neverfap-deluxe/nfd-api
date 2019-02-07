@@ -42,6 +42,16 @@ p, b {
   line-height: 1.6rem;    
 }
 
+.link {
+  color: rgba(255,46,182,1);
+  text-decoration-line: underline;
+  text-decoration-color: cyan;
+}
+
+.link:hover {
+  border-bottom: 2px solid cyan;
+}
+
 hr {
   border: 0;
   border-bottom: 1px solid black;
