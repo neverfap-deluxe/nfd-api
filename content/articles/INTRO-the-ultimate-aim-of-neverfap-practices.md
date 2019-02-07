@@ -29,7 +29,7 @@ So that you can learn to relax or even embrace those negative feelings and not t
 
 Don't worry, we'll teach you them all, and from there you can decide what you feel most comfortable with.
 
-{{< hr2 "The process of self-discovery" >}}
+{{< hr2 "Encouraging self-discovery" >}}
 
 An important thing to note is that since what we're doing is learning to become comfortable with our feelings and emotions, that this is ultimately a process of self-discovery.
 
