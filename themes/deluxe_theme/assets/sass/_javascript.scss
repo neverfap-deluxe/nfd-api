@@ -41,6 +41,7 @@
     left: 0;
     position: relative;
     border: 5px solid black;
+    box-shadow: -5px 5px 0px 0px cyan;
     color: black;
     padding: 0.6rem;
     cursor: pointer;
@@ -71,6 +72,8 @@
     position: relative;
     border: 5px solid grey;
     color: grey;
+    box-shadow: -5px 5px 0px 0px cyan;
+
     padding: 0.6rem;
     cursor: pointer;
     transition: .2s;
