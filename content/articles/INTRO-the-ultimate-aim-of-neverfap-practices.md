@@ -43,6 +43,14 @@ Because observation is what allows us to engage our brain and think about our fe
 
 Otherwise, we aren't truly being aware of what we're doing, and we have less to gain.
  
-<!-- In fact, a lot of the skills which we will be learning specifically revolve around how we can  -->
+{{< hr3 "Describing the feeling" >}}
 
+What's difficult with these exercises is that what we're ultimately doing is describing how to feel, in part so you can replicate and master those feelings. 
 
+Let me tell you, that's a very difficult thing.
+
+It's like trying to describe what eating chocolate is like, to someone who's never eaten chocoloate before. 
+
+<!-- TODO: We try and mitigate this with the audio course, however  -->
+
+This is why a lot of these exercises are based on conceptual ideas, such as stopping time, manipulating our visual field and so-forth.

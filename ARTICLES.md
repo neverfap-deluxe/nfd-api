@@ -17,6 +17,7 @@ The question is, are you willing to commit?
 
 __WRITING__
 - Creating Your First NeverFap Schedule
+- The Five Principles Of Neverfap As They Relate To My Life
 
 __Created/Done__
 - Introduction to the NeverFap Deluxe Guide
