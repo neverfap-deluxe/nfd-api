@@ -19,11 +19,9 @@ However I want to help you do the same too.
 
 While everyone is seemingly aware of the NoFap movement, and while there are thousands of support groups and networks, no one actually seems to be able to  effectively explain how to achieve NoFap with any sort of consistency.
 
-Everything I've read online offers seemingly vague, and to be quite frank, terrible advice. Most of it from existing porn addicts who have no idea what they're talking about. 
+Everything I could find online ranged from the seemingly vague, including various non-sensical theories about how to manage porn cravings, to just outright terrible advice from existing porn addicts who even admit themselves that they have no idea what they're actually doing.
 
-You wouldn't get financial advice from someone with a gambling problem, so why should porn addiction recovery advice be any different?
-
-Not once did I read about the significance of meditation, arguably the most important thing you can do to help overcome porn addiction.
+I mean, you wouldn't get financial advice from someone with a gambling problem, so why should porn addiction recovery advice be any different?
 
 <div class="button__wrapper">
   <a class="button button__secondary" href="/articles/my-personal-porn-recovery-journey">My Personal Porn Recovery Journey.</a>
@@ -31,9 +29,13 @@ Not once did I read about the significance of meditation, arguably the most impo
 
 That's when I knew there was an opportunity to create a website that could save people years trying to overcome their porn addiction. 
 
-Enter NeverFap Deluxe: A comprehensive online step-by-step how-to guide which explains exactly what you need to do to overcome. 
+Enter NeverFap Deluxe.
+
+A comprehensive online step-by-step how-to guide which explains exactly what you need to do to overcome porn addiction. 
 
 No more excuses. No more compromises. This is the real deal.
+
+<!-- {{< hr3 "I know exactly what you need to do to overcome porn addiction." >}} -->
 
 I've written about how NeverFap approaches things differently, especially from a philosophical point of view. 
 
