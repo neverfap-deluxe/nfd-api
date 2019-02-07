@@ -106,10 +106,13 @@
       </div>
 
       <div class="homepage__section">
-        <h2>Here are a selection of our articles to help get you started:</h2>
+        <h2>Here are a selection of our top articles to help get you started:</h2>
+        <hr style="margin-top: 2.5rem; margin-bottom: 2rem;"/>
+
+        <h3 class="popular__latest__options__title">Sort</h3>
         <div class="popular__latest__options">
-          <h3 class="button__click" id="popular">Introduction posts.</h3>
-          <h3 class="button__click" id="latest">Latest posts.</h3>
+          <h3 class="button__click" id="popular">Introductory</h3>
+          <h3 class="button__click" id="latest">Latest</h3>
         </div>
         <div id="popular__posts">
           {{ partial "introduction_posts.html" . }}

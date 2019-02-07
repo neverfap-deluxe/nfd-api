@@ -43,9 +43,13 @@
     border: 5px solid black;
     box-shadow: -5px 5px 0px 0px cyan;
     color: black;
-    padding: 0.6rem;
+    padding: 0.4rem;
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+
     cursor: pointer;
     transition: .2s;
+    font-size: 1.1rem;
   }
 
   #popular:hover, 
@@ -74,7 +78,10 @@
     color: grey;
     box-shadow: -5px 5px 0px 0px cyan;
 
-    padding: 0.6rem;
+    padding: 0.4rem;
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+    font-size: 1rem;
     cursor: pointer;
     transition: .2s;
   }
