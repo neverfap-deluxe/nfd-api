@@ -9,6 +9,8 @@
   slug: "introduction-to-the-neverfap-deluxe-guide"
 ---
 
+<!-- Very Happy with edit -->
+
 Today I’m here to talk to you about porn addiction.
 
 Porn addiction itself can be a very complex topic. We can spend hours discussing the intricacies of how particular cultural upbringings affect the way we view women. 

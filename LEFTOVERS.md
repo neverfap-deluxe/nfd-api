@@ -102,3 +102,12 @@ Break ups are a perfect example.
 
 Which is to say that the victim mindset is just a filter over what you see and perceive.  -->
 
+
+
+
+No longer would she react and take my moods personally, thinking that it was because I had something against her. 
+
+
+Not only does the guilt eat away at you, but without having someone to talk about it with, it's hard to ask for help when you need it most. 
+
+In addition, I'd hit a point in my life where I could no longer cope, and in talking about it with someone, decided to take it seriously. 
