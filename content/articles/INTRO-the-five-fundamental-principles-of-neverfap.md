@@ -9,13 +9,17 @@
   slug: "the-five-fundamental-principles-of-neverfap"
 ---
 
+<!-- Very happy with edit -->
+
 The NeverFap method of addressing porn addiction comprises of five core principles. 
 
 Each principle maintains a purpose, along with a range of associated skills which you must develop in order to successfully address your porn addiction.
 
 Without mastery of all five of these principles, we cannot hope to consistently manage the emotions, thoughts and  behaviours which may be contributing towards our porn addiction.
 
-Before we begin however, we must ask ourselves a very important question: 
+For more of a relaxed introduction, I highly recommend reading my article <a class="link" href="/articles/the-five-principles-of-neverfap-as-they-relate-to-my-life">The Five Principles Of Neverfap As They Relate To My Life</a> which explains how they apply to my own life.
+
+Before we begin, we must ask ourselves a very important question: 
 
 
 {{< hr3 "What is a fundamental principle and what makes it fundamental?" >}}
@@ -25,25 +29,26 @@ A fundamental principle is a hard truth. It is something which remains true irre
 
 It simply is.
 
-You may attempt to dispute these fundamental truths or argue against their validity, which is perfectly fine if that is what you want to do.
+You may attempt to dispute these fundamental truths or argue against their validity, which is perfectly fine if that is your intention.
 
-However it certainly won't help you overcome porn addiction, which is probably the reason why you're here.
+However it certainly won't help you overcome porn addiction, which is the primary reason why you're here. You know, to receive help for a problem that you cannot do alone.
 
-You know, to receive help with a problem that you fundamentally misunderstand, for otherwise you wouldn't have a problem to begin with.
+My intention on the other hand is very clear. I am here to help you overcome porn addiction.
 
+So in order to do this, we must first set some ground rules and truly understand exactly what we're getting ourselves into.
 
-{{< hr2 "Keeping Your Mind In Check" >}}
+{{< hr2 "Ground rules" >}}
 
 
 The key thing to understand about fundamental principles is that they are not subject to open-ended thinking.
 
-Thinking such as:
+For example:
 
 <hr class="hrul"/>
 
-**"Well, my mind doesn't work like that"**
+**"Well, my mind doesn't really work like that."**
 
-**"While that may be true, I don't personally allow it to affect me in any way".**
+**"While that may be true, I don't personally allow it to affect me in that way."**
 
 <hr class="hrul__bottom"/>
 
@@ -51,13 +56,15 @@ This is not how fundamental principles operate.
 
 Hard truths are not open to subjective questioning. Certainly, you're more than welcome to question them if you like, however it won't help you with your porn addiction.
 
-In fact, there's a word used to describe when we refuse to accept reality.
+In fact, there's a very specific word that is used to describe when people refuse to accept the fundamental basis of reality.
 
 
 {{< hr3 "This word is called denial." >}}
 
 
-Whether you realise it or not, the reason why you are a porn addict is because you are in denial about some aspect of your life, which is causing you to misunderstand yourself and result in your current obsession with porn.
+Whether you realise it or not, the reason why you are a porn addict is because you are in denial about some aspect of your life.
+
+Perhaps it is a misunderstanding of what you are capable of as a human being. Perhaps you have a low opinion of your self-worth. Maybe you never had the chance to develop any healthy coping mechanisms growing up.
 
 Ultimately, the aim of these five fundamental principles is to help you expose the fact that there is something wrong with the way you currently think.
 
@@ -71,11 +78,11 @@ You cannot get better if you cannot first recognise that you have a problem.
 
 On a superficial level, none of these principles seem to have anything to do with addressing porn addiction. 
 
-For example, there are no fundamental NeverFap principles along the lines of "Never visit a porn website ever again" or "Limit orgasming to sex only".
+For example, there is no fundamental principle along the lines of "Never visit a porn website ever again" or "You should never willingly orgasm".
 
-A large part of the reason why this is the case is because porn addiction has very little to do with porn, nor even masturbation itself. 
+A large part of the reason why this is the case is because porn addiction has very little to do with porn itself. 
 
-Rather, porn addiction is merely a symptom of a wider range of personality traits which NeverFap aims to address.
+Rather, porn addiction is merely a symptom of a wider range of problems which NeverFap aims to address.
 
 So without further ado, here are the five fundmental principles of NeverFap: 
 
@@ -89,29 +96,29 @@ Or rather, it is a way of thinking and understanding which is completely foreign
 
 What <u>*Choice over mind*</u> iterates is the fact that you have complete control over your mind.
 
-This is irrespective of whether you currently feel in control of your mind, whether you agree it's possible to have full control over your mind, or even if you've never experienced being full control over your mind. 
+This is irrespective of whether you currently feel in control of your mind, whether you agree it's possible to have full control over your mind, or whether you've even experienced having full control over your mind. 
 
-Your mind is fundamentally capable of being controlled.
 
-I would say this fundamental principle is both equal parts understanding, as it is practice.
+{{< hr3 "What's important to understand is that your mind is fundamentally capable of being controlled." >}}
 
-And the way this is achieved is through controlled meditation and perspective training.
 
-For example, many porn addicts (particularly male porn addicts) have a tendency to stare at women they find attractive in public. 
+I would personally say that this fundamental principle is both equal parts understanding and practice.
 
-It's something porn addicts (as well as men in general) struggle with because they feel as if they don't have a choice but to stare. 
+Certainly while practicing and exercising choice is important, understanding the extent to which we have choice will help us gain the confidence to truly feel comfortable dictating our thoughts, feelings, emotions and behaviour.
 
-Well, this simply is not true. 
+By in large, the way this confidence is achieved is through controlled meditation and perspective training, which is covered extensively throughout the <a class="link" href="/practices">NeverFap Deluxe Practices</a> section. 
 
-With daily practice, we can learn to develop control over our mind, and we can learn to completely filter out women in public altogether.
+For example, a situation where many porn addicts believe they do not have control is in public.
 
-Now imagine how awesome that would be?
+Many porn addicts (particularly male porn addicts) have a tendency to stare at women they find attractive in public. In particular, control over staring at hot women in public.
+
+Well, I'm here to tell you that with daily practice, we can learn to develop control over our mind, and completely filter the women we walk past in public altogether.
 
 <div style="margin-top: 3rem;" class="five__principles__list__page">
   <span><div class="five__principles__item__page">02 - Balance over reward</div></span>
 </div>
 
-This is one of those concepts that people think they understand, and yet refutely misunderstand, because of how oblivious they are to how unbalanced they really are to begin with.
+This is one of those concepts that people think they understand, and yet refutely misunderstand, simply because of how obliviously unbalanced they are to begin with.
 
 In fact, it's something most people outright ignore because they don't believe it's that big of a deal, not quite understanding the consequences of their actions.
 
