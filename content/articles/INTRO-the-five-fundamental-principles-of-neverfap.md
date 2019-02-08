@@ -45,7 +45,7 @@ Thinking such as:
 
 **"While that may be true, I don't personally allow it to affect me in any way".**
 
-<hr class="hrul"/>
+<hr class="hrul__bottom"/>
 
 This is not how fundamental principles operate. 
 

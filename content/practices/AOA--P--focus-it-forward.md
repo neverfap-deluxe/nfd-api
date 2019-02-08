@@ -70,14 +70,12 @@ It could be something visual, like on a lamp or a door. It could be a very parti
 Just play around with it and see where your mind takes you.
 
 
-
 {{< hr2 "Moving Forward" >}}
-
-
 
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 
-<a class="link" href="/articles/dissolve-it-down">Dissolve it down</a>
+{{< similiar_practices "awareness-over-all" >}}
+
 
 <!-- 
 {{< hr2 "Additional Resources" >}}  -->

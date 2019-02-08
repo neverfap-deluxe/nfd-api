@@ -27,11 +27,13 @@ Then we move onto people and concepts.
 {{< hr2 "Exercise" >}}
 
 
+
 {{< hr2 "Moving Forward" >}}
 
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 
-<a class="link" href="/articles/dissolve-it-down">Dissolve it down</a>
+{{< similiar_practices "balance-over-reward" >}}
+
 
 <!-- 
 {{< hr2 "Additional Resources" >}}  -->

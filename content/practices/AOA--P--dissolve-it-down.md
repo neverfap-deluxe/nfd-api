@@ -87,4 +87,5 @@ A more advanced concept we will explore in future once we've mastered these more
 
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 
-<a class="link" href="/articles/slow-it-down">Slow it down</a>
+{{< similiar_practices "awareness-over-all" >}}
+

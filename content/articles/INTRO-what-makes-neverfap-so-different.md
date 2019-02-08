@@ -23,7 +23,7 @@ Ultimately, there were two kinds of resources that I frequently came across:
 
 - Scientific descriptions as to what porn addiction is and how it affects various aspects of our mind and physical bodies.
 
-<hr class="hrul"/>
+<hr class="hrul__bottom"/>
 
 While it's great to understand what happens under the hood from a scientific point of view, in no way does it actually help me deal with the day-to-day of being a porn addict.
 

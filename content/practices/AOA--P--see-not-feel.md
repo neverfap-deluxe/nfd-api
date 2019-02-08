@@ -94,18 +94,12 @@ Can you distinguish any difference between those two things? What are those diff
 Play around with it. Try this exercises in different areas and different places. See if you can discover any common themes.
 
 
-
 {{< hr2 "Moving Forward" >}}
-
-
 
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 
-<a class="link" href="/articles/dissolve-it-down">Dissolve it down</a>
+{{< similiar_practices "awareness-over-all" >}}
 
-<a class="link" href="/articles/slow-it-down">Slow it down</a>
-
-<a class="link" href="/articles/focus-it-forward">Focus it forward</a>
 
 <!-- 
 {{< hr2 "Additional Resources" >}}  -->

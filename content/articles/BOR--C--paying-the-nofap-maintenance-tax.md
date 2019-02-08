@@ -75,7 +75,7 @@ Well, I suppose a good place to start is with what I personally do on a daily/we
 - I brush my teeth in the morning and at night.
 - I have a cold shower every night.
 
-<hr class="hrul"/>
+<hr class="hrul__bottom"/>
 
 These are the things that I do on a daily basis which keep me regular.
 

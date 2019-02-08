@@ -77,15 +77,10 @@ In other words, we are building health coping mechanisms to replace watching por
 
 {{< hr2 "Moving Forward" >}}
 
-
-
 Once you've practiced this for a few weeks, I highly recommend checking out: 
 
-<a class="link" href="/articles/dissolve-it-down">Dissolve it down</a>
+{{< similiar_practices "struggle-over-none" >}}
 
-<a class="link" href="/articles/slow-it-down">Slow it down</a>
-
-<a class="link" href="/articles/focus-it-forward">Focus it forward</a>
 
 <!-- 
 {{< hr2 "Additional Resources" >}}  -->

@@ -30,7 +30,7 @@ Here are a list of metrics that reflect a very healthy attitude towards life and
 - You’re motivated and ambitious.
 - You’re committed to your mental health.
 
-<hr class="hrul"/>
+<hr class="hrul_bottom"/>
 
 Fancy pants.
 

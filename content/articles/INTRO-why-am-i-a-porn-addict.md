@@ -77,7 +77,7 @@ When we focus on how to achieve something, we no longer become concerned with tr
 
 **"What do I have to do in order to avoid porn addiction?"**
 
-<hr class="hrul"/>
+<hr class="hrul__bottom"/>
 
 By changing the way you think from trying to understand reason, to trying to understand tangible processes, you also completely change the way you think about your problems. 
 
@@ -99,7 +99,7 @@ To be a little bit more precise, here are a list of the why’s which you don’
 
 **"Why do I find overcoming porn addiction so difficult?"**
 
-<hr class="hrul"/>
+<hr class="hrul__bottom"/>
 
 These are all meaningless questions. Instead, these are the types of questions we need to be thinking about:
 
@@ -113,7 +113,7 @@ These are all meaningless questions. Instead, these are the types of questions w
 
 **"How do I fall into the trap of believing that it’s okay to watch porn?"**
 
-<hr class="hrul"/>
+<hr class="hrul__bottom"/>
 
 Aside from the rest of the introductory articles on this website, I highly recommend taking a look at some of the practices on offer, so you can begin to make actual changes to your life today.
 
