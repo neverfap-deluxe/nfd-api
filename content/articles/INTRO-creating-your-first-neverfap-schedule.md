@@ -1,7 +1,7 @@
 ---
   title: "Creating Your First NeverFap Schedule"
   description: "NeverFap Provides You With A Number Of Core Exercises To Help You Overcome Your Porn Addiction. With A Schedule In Place, You Can Maximise Your Success."
-  date: 2018-11-13
+  date: 2019-03-13
   draft: true
   tags: [ "context", "neverfap schedule", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]

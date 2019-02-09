@@ -111,3 +111,25 @@ No longer would she react and take my moods personally, thinking that it was bec
 Not only does the guilt eat away at you, but without having someone to talk about it with, it's hard to ask for help when you need it most. 
 
 In addition, I'd hit a point in my life where I could no longer cope, and in talking about it with someone, decided to take it seriously. 
+
+
+
+
+
+
+
+
+
+Sure, you probably feel good that you can count the number of days since your last relapse on two hands. 
+
+But what on earth does this actually have to do with porn recovery? How is comparing yourself to a past failure going to help you become a better person today?
+
+On the otherhand, concerning yourself with what you personally did that day to improve your ability to focus, is wonderful.
+
+The primary reason why it's wonderful is because it builds your awareness of the things you did right, which helps you make correct decisions in the future.
+
+This is why it's important to journal your efforts and note down which practices you did that day, so you can acknowledge what you achieved and how it made you feel.
+
+Remember.
+
+Practice. Practice. Practice.

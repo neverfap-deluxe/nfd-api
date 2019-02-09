@@ -23,6 +23,7 @@ __Created/Done__
 - Introduction to the NeverFap Deluxe Guide
 - NeverFap: A Best Case Scenario
 - The Five Fundamental Principles of NeverFap
+- How The Five Fundamental Principles of NeverFap Apply To My Life
 - How does NeverFap approach things differently?
 - My Personal Porn Recovery Journey
 - "Why Am I A Porn Addict?"

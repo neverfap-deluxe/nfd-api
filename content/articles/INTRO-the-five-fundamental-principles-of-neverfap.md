@@ -59,7 +59,7 @@ Hard truths are not open to subjective questioning. Certainly, you're more than 
 In fact, there's a very specific word that is used to describe when people refuse to accept the fundamental basis of reality.
 
 
-{{< hr3 "This word is called denial." >}}
+{{< hr3 "It's called denial." >}}
 
 
 Whether you realise it or not, the reason why you are a porn addict is because you are in denial about some aspect of your life.

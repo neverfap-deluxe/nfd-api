@@ -9,60 +9,85 @@
   slug: "why-am-i-am-porn-addict"
 ---
 
-“Why am I a porn addict?”
+<!-- Very happy with edit -->
 
-Attempting to gain an understand into why we are the way we are can be interesting. But to be quite honest, it’s a lot less relevant than figuring out how to change it. 
+It's a question you've probably been thinking about for a while.
 
-In fact, trying to understand why something is the way it is, is one of the biggest traps that porn addicts fall into. 
+**“Why am I a porn addict?”**
 
-It’s like trying to figure out your life purpose by asking the question “Why do I exist?” 
+It's undeniable that attempting to gain an understand into why we became porn addicts in the first place can be interesting, if not somewhat fulfilling.
 
-Why you exist has no correlation to what purpose you have in life. You can have purpose for absolutely any reason imaginable, as you can be a porn addict for any number of reasons. 
+Humans are full of questions, and satisfying that curiosity is part of what we do as humans.
 
-Here's a tip:
+However to be quite honest, understanding why we are something is a lot less relevant to figuring out how to change it. 
 
+{{< hr3 "In fact, trying to understand why porn addicts, is one of the biggest traps that porn addicts fall into.">}}
 
-{{< hr3 "If you want to figure out your life purpose, just do a heap of things." >}}
+It’s like trying to figure out your life purpose by asking the question:
 
+**“Why do I exist?”**
 
-You don't figure out what you want in life by thinking about it. You figure out what you want by experiencing it, and then evaluating that experience.
+Well, I can tell you now that why you exist has no correlation to what purpose you have in life. 
+
+You can have purpose for absolutely any reason imaginable, as you can be a porn addict for any number of reasons. 
+
+On the other hand, if you actually want to figure out your life purpose, then I suggest doing a heap of things and seeing what sticks.
+
+{{< hr3 "You see, you don't figure out what you want in life by thinking about it." >}}
+
+You figure out what you want by experiencing it, and then evaluating that experience.
 
 Overcoming porn addiction is no different. 
 
-You do a heap of things and if something works, then you succeed.
+It's also about doing a heap of different things and seeing what works and what does not.
 
-Of course, the great thing about NeverFap is that you no longer have to waste your time doing things that do not work.
+Of course, you obviously don't need to be so brash and uninformed with your approach.
+
+Much like how you don't need to murder someone to realise that you probably don't want to become a full-time murderer. 
+
+You also understand that there are guides and resources out there to help you overcome your porn addiction. 
+
+{{< hr3 "The great thing about NeverFap Deluxe is that you no longer have to waste your time doing things that do not work." >}}
+ 
 
 You can just commit to the practices and exercises on this website, and you'll pretty much be alright. 
 
-Otherwise, the alterative is to continue asking 'why' and hope that we have some sudden spark of awareness which will magically alter our brain to somehow overcome years of bad habits which we seemingly reinforce on a daily basis with our actions.
+Otherwise, the alterative is to continue asking 'why' and hope that we have some sudden spark of awareness which will magically alter our brain.
 
 Good luck with that.
 
-In fact, there’s a word used to describe what it means to ask ‘why’ all the time. 
+In fact, there’s a word used to describe what it means to incessant ask why all the time. 
 
 
-{{< hr3 "It’s called rumination, and I personally consider it a form of self-harm." >}}
+{{< hr3 "It’s called rumination." >}}
 
+And I personally consider it a form of self-harm.
 
 Rumination is when you continually spur over your thoughts, without actually pursuing any hard actions as a result.
 
-Understandably it is an instinctive human response to ask ‘why’. Through reasonable questioning we can create logic and reason, which allows us to paint a clearer picture of the world around us. 
+Understandably, it is an instinctive human response to ask why. 
 
-Which is great for creating an initial assessment, but beyond that, it simply becomes a pointless burden.
+But when we do it excessively, it serves no purpose and it becomes a literally bottleneck in terms of our ability to process and produce information. 
 
-Here's the deal. 
+{{< hr3 "Which is to say that asking why is great for creating an initial assessment, however beyond that it becomes nothing more than a pointless burden." >}}
 
-We are all human and those of us with similar goals, will require to develop the same set of skills, regardless of what we think.
+If we look at something like learning to play basketball, it's clear there are a number of key skills we must learn. 
 
-In the case of basketball, it’s learning to dribble, shoot, block and run with the ball. It doesn’t matter if you’re of Turkish descent, had five siblings, was hit by a car at age 12, can barely speak English etc. Those are the core skills you are going to have to learn, one way or another.  
+For example, there's dribbling, shooting, blocking and learning to run with the ball. 
 
-Sure, understanding why dribbling is important is something which may help you better understand those skills, however the core skills themselves are undeniable.
+It doesn’t matter if you don't understand what materials a basketball is made of, nor even who invented basketball. 
 
+Regardless of what your understanding is of basketball, those are the core skills you are going to have to learn.  
 
+<!-- Which is to say that while dribbling is important, practicing dribbling  -->
+
+<!-- 
+
+ is something which may help you better understand those skills, however the core skills themselves are undeniable.
+
+ -->
 
 {{< hr3 "Another way of putting it is that we must focus on the how, rather than the why." >}}
-
 
 
 The understanding is the why, while the core skills are the how.
