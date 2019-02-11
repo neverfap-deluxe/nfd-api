@@ -2,36 +2,45 @@
   title: "\"Why am I A Porn Addict?\""
   description: "When We're Desperate We Can Find Ourselves Asking Irrational Questions And Attempting To Try And Understand Why We May Be A Porn Addict Is One Of Them."
   date: 2018-11-13
-  draft: true
+  draft: false
   tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap alternative" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "why-am-i-am-porn-addict"
 
-  tldr1: "Asking why has little to do with actually changing who we are."
-  tldr2: "Actions are what help us change, and are much more powerful than rationalisations."
+  tldr1: "Asking why we are has little to do with actually changing who we are."
+  tldr2: "Over asking why is a process called rumination, and it is a form of self-harm"
+  tldr3: "Actions are responsible for helping us change. Rationalisations on the other hand do not help in any way."
 
 ---
+
+<!-- Very Happy With Edit -->
 
 It's a question you've probably been thinking about for a while.
 
 **“Why am I a porn addict?”**
 
-Questioning why we may have become porn addicts in the first place is where a lot of people begin with their porn recovery journey.
+Questioning why we may have become porn addicts within the first place is a place where a lot of people start out with their porn recovery journey.
 
 Usually it entails reasoning along the lines that we must first figure out why we watch porn, and then target that thing which we believe is the root cause of our addiction.
 
 After all, it seems like an incredibly logical and reliable thing to do.
 
-In a lot of cases, this kind of questioning leads us to the conclusion that the reason why we're porn addicts is because porn itself is addictive.
+In a lot of cases, this kind of questioning leads us to the conclusion that the reason why we're porn addicts is because porn itself is an addictive behaviour.
 
-Therefore, the only way to deal with it is to be disciplined, and somehow hope that we get past our cravings long enough that we can forget about them, refrain from relapsing and remain stable.
+Which again, makes sense logically, especially if you spend a lot of time reading up on how porn and masturbation affects our dopamine levels.
 
-And it's these kinds of approaches which form part of the reason why most people don't get far with their porn recovery.
+Therefore, a lot of porn addicts then come to the conclusion that the only way to deal with their addiction is through discipline.
 
-The problem with first trying to understand why we are the way we are, is that it's a lot less relevant to figuring out how to change it. 
+In the hope that they can somehow get past their cravings long enough that they can then refrain from relapsing and end up remaining stable within the process.
 
-{{< hr3 "In fact, trying to understand why we are porn addicts, is one of the biggest traps that recovering porn addicts fall into.">}}
+...and it's these kinds of approaches which form part of the reason why most people don't get very far with their porn recovery.
+
+Which stems solely from first attempting to understand why we are the way we are.
+
+{{< hr3 "In fact, trying to understand why we are porn addicts at all, is one of the biggest traps that recovering porn addicts fall into.">}}
+
+Put simply, the reason why this is the case is because it's a lot less relevant to figuring out how to change it. 
 
 It’s like trying to figure out your life purpose by asking the question:
 
@@ -51,25 +60,25 @@ You figure out what you want by experiencing it, and then evaluating that experi
 
 Overcoming porn addiction is no different. 
 
-It's also about doing a heap of different things and seeing what works and what does not.
+At it's core it's about doing a heap of different things and seeing what works and what does not.
 
 Of course, you obviously don't need to be so brash and uninformed with your approach.
 
-Much like how you don't need to murder someone to realise that you probably don't want to become a full-time murderer. 
+Much like how you don't need to murder someone to realise that you probably don't want to become a full-time murderer.
 
-You also understand that there are guides and resources out there to help you overcome your porn addiction. 
+There are plenty of guides and resources out there to help you overcome your porn addiction. 
 
 
 {{< hr3 "The great thing about NeverFap Deluxe is that you no longer have to waste your time doing things that do not work." >}}
  
 
-You can just commit to the practices and exercises on this website, and you'll pretty much be alright. 
+If you commit to the practices and exercises on this website, and you'll pretty much be alright. 
 
-Otherwise, the alterative is to continue asking 'why' and hope that we have some sudden spark of awareness which will magically alter our brain.
+Otherwise, the alterative is to continue asking 'why' and hope that we have some sudden spark of awareness which will magically alter our brain so as not to pursue the behaviours we've been doing since we were a young child.
 
 Good luck with that.
 
-In fact, there’s a word used to describe what it means to incessant ask why all the time. 
+In fact, there’s a word used to describe what it means to incessantly ask 'why' all the time. 
 
 
 {{< hr3 "It’s called rumination." >}}
@@ -80,10 +89,10 @@ Rumination is when you continually spur over your thoughts, without actually pur
 
 Understandably, it is an instinctive human response to ask why. 
 
-But when we do it excessively, it serves no purpose and it becomes a literally bottleneck in terms of our ability to process and produce information. 
+But when we do it excessively, it serves no purpose and it becomes a literal bottleneck in terms of affecting our ability to process and produce information. 
 
 
-{{< hr3 "Which is to say that asking why is great for creating an initial assessment, however beyond that it becomes nothing more than a pointless burden." >}}
+{{< hr3 "Which is to say that asking why is great for creating an initial assessment, however beyond that it becomes nothing more than a harmful burden." >}}
 
 
 If we look at something like learning to play basketball, it's clear there are a number of key skills we must learn. 
@@ -92,7 +101,7 @@ For example, there's dribbling, shooting, blocking and learning to run with the 
 
 It doesn’t matter if you don't understand what materials a basketball is made of, nor even who invented basketball. 
 
-Regardless of what your understanding is of basketball, those are the core skills you are going to have to learn.  
+Regardless of what your understanding of the sentiment behind basketball, those are the core skills you are going to have to learn.  
 
 <!-- Which is to say that while dribbling is important, practicing dribbling  -->
 
@@ -104,10 +113,13 @@ Regardless of what your understanding is of basketball, those are the core skill
 
 {{< hr3 "Another way of putting it is that we must focus on the how, rather than the why." >}}
 
+If it helps you can think of the understanding is the 'why', while the core skills are the 'how'.
 
-The understanding is the why, while the core skills are the how.
+When we focus on how to achieve something, we no longer become concerned with trying to define our circumstances using pre-existing knowledge. 
 
-When we focus on how to achieve something, we no longer become concerned with trying to define our reality. Instead, we become actively focused on the actions which help us change our reality for the better. 
+Instead, we become actively focused on actions which will help us change our reality for the better. 
+
+Questions such as: 
 
 <hr class="hrul"/>
 
@@ -119,19 +131,17 @@ When we focus on how to achieve something, we no longer become concerned with tr
 
 <hr class="hrul__bottom"/>
 
-By changing the way you think from trying to understand reason, to trying to understand tangible processes, you also completely change the way you think about your problems. 
+From reasons to tangible processes, you also completely change the way you think about your own problems. 
 
-They no longer become about building narratives or perceptions of who you are, and instead become focused on the mechanical details of what makes you drawn to porn.
+No longer do they become about building narratives or perceptions of who you are. Instead, they become about the mechanical details of what makes you a porn addict.
 
 Because at the end of the day, addiction is a process. 
 
-It is something you actively engage in and contribute towards. 
+It is something you actively engage in and contribute towards, whether you quite realise it or not. 
 
-Attempting to understand why this process exists (although helpful in some contexts) is a really indirect way of trying to influence how it functions. 
+And although attempting to understand why you may be engaged in this process may seem useful, it is also a really indirect way of trying to influence how it functions. 
 
-And this is precisely what we are trying to avoid. 
-
-To be a little bit more precise, here are a list of the why’s which you don’t need to worry about:
+To be a little bit more precise, here are a list of the whys which you shouldn't concern yourself with:
 
 <hr class="hrul"/>
 
@@ -141,7 +151,9 @@ To be a little bit more precise, here are a list of the why’s which you don’
 
 <hr class="hrul__bottom"/>
 
-These are all meaningless questions. Instead, these are the types of questions we need to be thinking about:
+These are all meaningless questions. 
+
+Instead, these are the types of questions we need to be thinking about:
 
 <hr class="hrul"/>
 
@@ -156,6 +168,8 @@ These are all meaningless questions. Instead, these are the types of questions w
 <hr class="hrul__bottom"/>
 
 Aside from the rest of the introductory articles on this website, I highly recommend taking a look at some of the practices on offer, so you can begin to make actual changes to your life today.
+
+Hopefully this article clarifies the change of thinking that needs to take place, in order for us to overcome our porn addiction.
 
 
 

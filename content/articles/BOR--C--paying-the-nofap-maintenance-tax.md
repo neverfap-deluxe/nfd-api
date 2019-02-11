@@ -14,40 +14,69 @@
 
 ---
 
-What exactly is this maintenance tax?
+What exactly is the NeverFap Maintenance Tax?
 
-Well, aside from the fact that it's a term I've more-or-less made up on the spot, the maintenance tax refers to the time and effort required in order to maintain our physical and mental health. It includes things like showering, exercising, relaxing, studying, meditating, eating and brushing our teeth. Everything that helps us keep regular. 
+Well, aside from the fact that it's a term I've more-or-less made up on the spot, the NeverFap Maintenance Tax refers to the time and effort required in order to maintain our physical and mental health. 
 
-The reason why I call it a tax, is because it’s something most of us don’t enjoy doing. We don’t view it as a necessity. In fact, most of us can tend to view these things as a burden, despite the positive benefits they provide.
+It includes things like meditation, exercising, relaxing, studying, meditating, eating and brushing our teeth. 
 
-So what ends ups happening is that become selective about what we view as necessary or not. Maybe we don’t exercise, because we’d rather be studying or playing video games. Maybe we work or study too hard, because we don’t see the value in meditating or relaxing.
+Everything that helps us keep regular. 
 
-In doing this, we make significant compromises on our ability to function and what’s really disturbing, is how utterly unaware we are of how much our ability to function is being compromised, even though it may be staring us in the face.
+The reason why I call it a tax is because many of us have the attitude that maintaining these things is simply unnecessary.
 
-Certainly, I’ve been there and it’s only now that I’m paying the maintenance tax in full, do I realise how I was making something like giving up porn addiction, almost impossible due to my own actions and attitudes towards self-care.
+In fact, most of us can tend to view these things as a burden (usually due to the amount of time associated with actually doing them), despite the positive benefits they provide.
 
-In other words, if you’re struggling with porn addiction, it’s because you’re not fully paying the maintenance tax. 
+So what ends ups happening is that become selective about what we view as necessary or not. 
 
-In order to demonstrate this, I’m first going to talk about where I personally was making compromises in my life and what effect that was having on my life, in addition to how to successfully pay the maintenance tax.
+Maybe we don’t exercise, because we’d rather be studying or playing video games. Maybe we work or study too hard, because we don’t see the value in meditating or relaxing.
+
+
+{{< hr3 "In doing this, we make significant compromises to our ability to function." >}}
+
+
+And what’s really disturbing, is how utterly unaware we are of how much we compromise in terms of our ability to function, often without truly being aware of it.
+
+Certainly, I’ve been there.
+
+And only now in retrospect do I realise how I was making something like giving up porn addiction almost impossible due to my own negative attitudes towards self-care.
+
+
+{{< hr2 "In other words, if you’re struggling with your porn addiction it may be because you’re not paying your maintenance tax in full." >}}
+
+
+In order to demonstrate this, I’m first going to talk about where I personally was making those compromises in my life.
+
+And then explain the effect it was having on my ability to cope. 
+
+As well as what successfully paying the maintenance tax actually entails.
 
 
 {{< hr3 "Facing the consequences of imbalance" >}}
 
 
-Prior to this realisation, I was under the impression that I was relatively functional and healthy. I was exercising three times a week. I was eating healthily. I was in a fantastic relationship. I was incredibly passionate about studying (I was studying to become a coder) and I was full of ambition, ready to take on the world. 
+Prior to this realisation, I was under the impression that I was relatively functional and healthy. 
 
-Yet on the other hand, there were other aspects of my life that were severely imbalanced. Aside from being addicted to porn, I would have anxiety attacks over my coding. In fact, I was coding so much that I would have these ‘coding nightmares’ where I would be mentally coding in my sleep, but stuck in a continual indefinite loop given I couldn’t save the progress in my brain. I was obsessed. 
+I was exercising three times a week. I was eating healthily. I was in a fantastic relationship. I was incredibly passionate about studying and I was full of ambition, ready to take on the world. 
 
-Now, please keep in mind that this is also a bit of an extreme. You see, I suffer from bipolar disorder.  
+On the other hand, there were other aspects of my life that were severely imbalanced. 
 
-My problem was that I was pushing myself too hard and I didn’t provide myself with the opportunity to relax. 
+Aside from being severely addicted to porn, I was beginning to suffer from anxiety attacks from my excessive studying.
+
+I was studying so much that it used to induce these kinds of 'coding nightmares' where I would be mentally coding in my sleep, but stuck in an indefinite loop where I would just write the same code again and again and again. 
+
+It was truly awful.
+
+My problem was that I was pushing myself too hard and I didn’t provide myself with the opportunity to relax.
+
+All because I didn't view relaxation as a form of maintenance, in part because I was so obsessed with being productive and not falling behind.
 
 Of course, you may have an opposite problem. You may not be motivated enough.
 
-Instead, I treated all the negative aspects of 
+Everyone is different in this regard.
 
+Once I'd respected this howeveri
 
-{{< hr3 "The key take away" >}}
+{{< hr2 "Change in attitude" >}}
 
 
 Embracing self-care requires a change in attitude. 
