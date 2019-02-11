@@ -8,9 +8,9 @@
   # image: "/images/face.jpg"
   slug: "paying-the-neverfap-maintenance-tax"
 
-  tldr1: "Maintenance of our mental and physical health is equally as important as growing them."
-  tldr2: "Maintenance and self-care are not optional. They are hard requirements."
-  tldr3: "We need to change our attitude of time vs productivity."
+  tldr1: "Maintenance of our mental and physical health is a hard requirement."
+  tldr2: "Compromising on this maintenance significantly affects our ability to function."
+  tldr3: "Respecting balance allows us to have everything we want without compromises."
 
 ---
 
@@ -70,57 +70,38 @@ My problem was that I was pushing myself too hard and I didn’t provide myself 
 
 All because I didn't view relaxation as a form of maintenance, in part because I was so obsessed with being productive and not falling behind.
 
+Once I'd respected this balance however (primarily by not overworking myself to death) I was able function more clearly.
+
+And most importantly, regain control over my emotions so that my cravings for porn could become a thing of the past.
+
 Of course, you may have an opposite problem. You may not be motivated enough.
 
-Everyone is different in this regard.
+Everyone is different in this regard, and this website is designed to help you figure out exactly where your weaknesses are.
 
-Once I'd respected this howeveri
 
 {{< hr2 "Change in attitude" >}}
 
 
 Embracing self-care requires a change in attitude. 
 
-Instead of thinking about our immediate wants, we need to begin thinking holistically and understand that cutting corners of any kind, is going to result in future pain. 
+Instead of thinking about our immediate wants, we need to begin thinking holistically and understand that cutting corners of any kind is going to result in future pain. 
 
-It's going to cost us time in the long run. It's going to cost us emotional stability in the long run. Which exponentially increases the difficulty of everything else we hope to achieve. 
+Certainly, costing us time and emotional stability in the long run. 
 
-Only by paying the maintanence tax can we 
+Which exponentially increases the difficulty of everything else we hope to achieve, regardless of how much time we spend on those pursuits themselves.
 
-The key takeaway from this article is that self-care exists above all and that self-care is not optional. From now on, it is a hard requirement. By avoiding self-care, we delay the inevitable. 
+Only by paying the maintanence tax can we ensure a) Our mental health remains intact and b) We achieve all our ambitions equally.
 
+And that really is the key point people completely miss:
 
-{{< hr3 "Self-care routine" >}}
+{{< hr3 "By respecting balance in our life, we can have everything we want without the compromise." >}}
 
+It simply requires respecting long-term outcomes, as opposed to hesitant, short-term outcomes.
 
-So after all this, you're probably wondering what an optimal self-care routine is? 
+The key takeaway from this article is that self-care exists above all, especially if you care about productivity.
 
-Well, I suppose a good place to start is with what I personally do on a daily/weekly basis. From there, I can extrapolate upon which aspects I believe are most important.
+Furthermore, that self-care is not optional. 
 
-<hr class="hrul"/>
+It is a hard requirement and by avoiding self-care, we delay so many positive aspects of our life. 
 
-- I eat paleo.
-- I do cardio and lift weights three times a week.
-- I have a consistent sleep routine.
-- I work on my hobbies and ambitions in my spare time.
-- I play video games and watch TV to relax.
-- I meditate approximately three times a day.
-- I work a typical nine-to-five job.
-- I brush my teeth in the morning and at night.
-- I have a cold shower every night.
-
-<hr class="hrul__bottom"/>
-
-These are the things that I do on a daily basis which keep me regular.
-
-Now an interesting thing to note is that realistically, in terms of achieving NeverFap, you don't need to do most of those things. In fact, I was personally doing most of those things while still being a pornography addict. 
-
-In fact, it wasn't until I began adding meditation to my routine that I was finally able to overcome my porn addiction. 
-
-So it's quite possible that all you need to do to overcome porn addiction is to learn to control your mind through meditation. 
-
-
-<!-- # NOTE: Add link here to post. -->
-
-
-In my next post 'The Importance of Routine Self-care' I go into each aspect of my routine and extrapolate what I find essential. 
+<!-- Talk about NeverFap Schedule article. -->

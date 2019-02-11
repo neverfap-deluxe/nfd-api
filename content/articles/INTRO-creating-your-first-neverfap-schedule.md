@@ -41,3 +41,40 @@ And they are absolutely fundamental to changing the way you think.
 
 <!-- Maybe have an example of a calendar -->
 
+
+
+
+
+{{< hr3 "Self-care routine" >}}
+
+So after all this, you're probably wondering what an optimal self-care routine is? 
+
+Well, I suppose a good place to start is with what I personally do on a daily/weekly basis. From there, I can extrapolate upon which aspects I believe are most important.
+
+<hr class="hrul"/>
+
+- I eat paleo.
+- I do cardio and lift weights three times a week.
+- I have a consistent sleep routine.
+- I work on my hobbies and ambitions in my spare time.
+- I play video games and watch TV to relax.
+- I meditate approximately three times a day.
+- I work a typical nine-to-five job.
+- I brush my teeth in the morning and at night.
+- I have a cold shower every night.
+
+<hr class="hrul__bottom"/>
+
+These are the things that I do on a daily basis which keep me regular.
+
+Now an interesting thing to note is that realistically, in terms of achieving NeverFap, you don't need to do most of those things. In fact, I was personally doing most of those things while still being a pornography addict. 
+
+In fact, it wasn't until I began adding meditation to my routine that I was finally able to overcome my porn addiction. 
+
+So it's quite possible that all you need to do to overcome porn addiction is to learn to control your mind through meditation. 
+
+
+<!-- # NOTE: Add link here to post. -->
+
+
+In my next post 'The Importance of Routine Self-care' I go into each aspect of my routine and extrapolate what I find essential. 
