@@ -22,9 +22,7 @@ This exercise is designed to help you keep on top of your awareness throughout t
 By becoming more conscious of the events throughout our day within time, we can become more conscious of the things we do within it.
 
 
-
 {{< hr2 "Context" >}}
-
 
 
 There are quite a few things that one can become aware of, and part of the reason is because awareness is all relative.

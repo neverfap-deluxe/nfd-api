@@ -191,6 +191,7 @@
 
   .post__five__principles__item--uncondition-over-judgement {
     color: rgb(44, 255, 157); 
+    font-size: 0.9rem!important;
   }
 }
 
@@ -200,6 +201,7 @@
 
 
 @media screen and (min-width: 420px) {
+
   .five__principles__list__page {
     padding-left: 0;
   }
@@ -233,6 +235,13 @@
 }
 
 @media screen and (min-width: 768px) {
+  .post__five__principles {
+    .post__five__principles__item--uncondition-over-judgement {
+      font-size: 1.15rem!important;
+
+    }
+  }
+
   .homepage__hero__principle__item {
     top: 0.4rem;
     font-size: 1.9rem;
