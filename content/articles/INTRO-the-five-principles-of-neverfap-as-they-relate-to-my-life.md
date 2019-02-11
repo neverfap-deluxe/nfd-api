@@ -7,6 +7,9 @@
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "the-five-principles-of-neverfap-as-they-relate-to-my-life"
+
+  tldr1: "The Five Fundamental Principles of NeverFap have been devised from my own personal approach towards addressing porn addiction."
+
 ---
 
 To be quite honest, the five principles are quite arbitrary.

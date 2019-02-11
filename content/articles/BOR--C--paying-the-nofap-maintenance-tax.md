@@ -7,6 +7,11 @@
   categories: [ "balance-over-reward" ]
   # image: "/images/face.jpg"
   slug: "paying-the-neverfap-maintenance-tax"
+
+  tldr1: "Maintenance of our mental and physical health is equally as important as growing them."
+  tldr2: "Maintenance and self-care are not optional. They are hard requirements."
+  tldr3: "We need to change our attitude of time vs productivity."
+
 ---
 
 What exactly is this maintenance tax?

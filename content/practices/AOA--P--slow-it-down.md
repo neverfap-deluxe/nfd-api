@@ -7,6 +7,12 @@
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
   slug: "slow-it-down"
+
+  what: "Develop awareness by manipulating your perception of time."
+  how: "Imagine if time physically slowed down, but not to a complete halt."
+  duration: "2 - 10 seconds per session."
+  when: "As often as possible throughout the day whilst in the middle of doing something."
+
 ---
 
 <!-- WILL DEFINITELY NEED A REWRITE -->
@@ -68,7 +74,7 @@ An idea that will prove very important in following exercises.
 
 {{< hr2 "Moving Forward" >}}
 
-Once you've practiced this for a few weeks, I highly recommend checking out: 
+ 
 
 {{< similiar_practices "awareness-over-all" >}}
 

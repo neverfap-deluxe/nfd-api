@@ -7,6 +7,25 @@
 
     <h1 class="single__title">{{ .Title }} <img src="/images/logo.png" class="logo__square" alt=""/></h1>
 
+    {{/*  <div class="single__tldr">
+      <h2 class="single__tldr__title">tldr;</h2>
+      {{ .Params.Tldr }}
+    </div>  */}}
+
+    <div class="homepage__process single__homepage__process">
+      <span><h3 class="homepage__process__title">
+        tldr;
+      </h3></span>
+      {{/*  <p class="homepage__process__text">Find out exactly which skills you will need to learn.</p>  */}}
+      {{ if .Params.Tldr1 }}<p class="homepage__process__text homepage__process__text--practice">{{ .Params.Tldr1 }}</p>{{ end }}
+      {{ if .Params.Tldr2 }}<p class="homepage__process__text homepage__process__text--practice">{{ .Params.Tldr2 }}</p>{{ end }}
+      {{ if .Params.Tldr3 }}<p class="homepage__process__text homepage__process__text--practice">{{ .Params.Tldr3 }}</p>{{ end }}
+      {{ if .Params.Tldr4 }}<p class="homepage__process__text homepage__process__text--practice">{{ .Params.Tldr4 }}</p>{{ end }}
+      {{ if .Params.Tldr5 }}<p class="homepage__process__text homepage__process__text--practice">{{ .Params.Tldr5 }}</p>{{ end }}
+    </div>
+    <span><span class="homepage__process__link">{{ .Date.Format "2006-01-02" }}</span></span>
+
+
     <div class="single__content">
       {{ .Content }}
     </div>

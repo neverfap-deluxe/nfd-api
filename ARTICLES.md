@@ -14,6 +14,11 @@ The question is, are you willing to commit?
 
 - Is porn fundamentally wrong? No, but that blah blah blah
 - Should I orgasm on NeverFap?
+- Why do I keep relapsing?
+- You should never rely on your emotions. 
+A lot of people use fear of the consequences to motivate them, but it doesn't work. Because fear just as easily turns into craving, and then what do you do?
+
+
 
 __WRITING__
 - Creating Your First NeverFap Schedule

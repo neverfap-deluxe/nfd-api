@@ -7,11 +7,18 @@
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
   slug: "dissolve-it-down"
+
+
+  what: "Reinterpretation of your visual field in order to help dissolve your ego."
+  how: "Treat your visual field as nothing more than a simple plane of a light and colour."
+  when: "Alone in a calm setting where you're able to reflect."
+  duration: "5 - 10 minutes per session."
+
 ---
 
 <!-- VERY HAPPY WITH THIS -->
 
-This exercise is designed to help dissolve your ego by reinterpretting our visual understanding of reality. 
+This exercise is designed to help dissolve your ego by reinterpreting our visual understanding of reality. 
 
 In fact, all awareness exercises are designed to help dissolve your ego to some extent, however this one does it particularly well.
 
@@ -84,8 +91,6 @@ A more advanced concept we will explore in future once we've mastered these more
 <!-- Recommend period  -->
 
 {{< hr2 "Moving Forward" >}}
-
-Once you've practiced this for a few weeks, I highly recommend checking out: 
 
 {{< similiar_practices "awareness-over-all" >}}
 

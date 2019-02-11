@@ -156,7 +156,8 @@
   
   .post__five__principles__item {
     @include principle__item();
-    left: -1rem;
+    left: -0.5rem;
+    top: -0.5rem;
     // font-size: 1.35rem;
     font-size: 1.15rem;
     height: 26px;

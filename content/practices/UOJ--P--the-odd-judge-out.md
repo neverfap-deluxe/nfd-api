@@ -7,6 +7,12 @@
   categories: [ "uncondition-over-judgement" ]
   # image: "/images/face.jpg"
   slug: "the-odd-judge-out"
+
+  what: "Better understand why we do, and do not make judgements."
+  how: "."
+  when: "."
+  duration: "."
+
 ---
 
 A lot of people find this exercise super useful, because it can help us identify our biases much easier than trying to identify those biases directly.
@@ -62,7 +68,7 @@ We're all here to learn more about how our individual minds work.
 
 {{< hr2 "Moving Forward" >}}
 
-Once you've practiced this for a few weeks, I highly recommend checking out: 
+ 
 
 {{< similiar_practices "uncondition-over-judgement" >}}
 

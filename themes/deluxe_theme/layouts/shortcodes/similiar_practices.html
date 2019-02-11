@@ -1,45 +1,13 @@
 
 {{ $tag := (index .Params 0) }}
+
+<p>Once you've practiced this for a few weeks, I highly recommend checking out:</p>
+
 <div class="index__container posts">
   <div class="articles__list">
     {{ range .Site.RegularPages }}
       {{ if in .Params.categories $tag }}
-
-        <a class="link" href="{{.Permalink}}">{{ .Title }}</a>
-
-        <!-- <a class="post" href="{{.Permalink}}">
-          <div class="post__left">
-            <div class="post__five__principles">
-              {{ if in .Params.categories "introduction" }}
-                <div class="post__five__principles__item post__five__principles__item--introduction">
-                  Introduction
-                </div>
-              {{ else if in .Params.categories "choice-over-mind" }}
-                <div class="post__five__principles__item post__five__principles__item--choice-over-mind">
-                  Choice over mind
-                </div>
-              {{ else if in .Params.categories "balance-over-reward" }} 
-                <div class="post__five__principles__item post__five__principles__item--balance-over-reward">
-                  Balance over reward
-                </div>
-              {{ else if in .Params.categories "struggle-over-none" }} 
-                <div class="post__five__principles__item post__five__principles__item--struggle-over-none">
-                  Struggle over none
-                </div>
-              {{ else if in .Params.categories "awareness-over-all" }} 
-                <div class="post__five__principles__item post__five__principles__item--awareness-over-all">
-                  Awareness over all
-                </div>
-              {{ else if in .Params.categories "uncondition-over-judgement" }} 
-                <div class="post__five__principles__item post__five__principles__item--uncondition-over-judgement">
-                  Uncondition over judgement
-                </div>
-              {{ end }}
-            </div>
-            <h5 class="post__date">{{.Date.Format "2006-01-02"}}</h5>
-            <h4 class="post__title">{{.LinkTitle}}</h4>    
-          </div>
-        </a>    -->
+        <span><a class="link similar__practices__link" href="{{.Permalink}}">{{ .Title }}</a></span>
       {{ end }}
     {{ end }}
   </div>

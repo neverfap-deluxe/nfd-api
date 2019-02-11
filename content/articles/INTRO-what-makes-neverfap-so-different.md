@@ -7,11 +7,16 @@
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "what-makes-neverfap-so-different"
+
+  tldr1: "NeverFap Deluxe describes exactly what you need to do in order to overcome porn addiction."
+  tldr2: "The NeverFap method of overcoming porn addiction is built around verifiable practices that teach you healthy coping mechanisms."
+  tldr3: "Practice. Practice. Practice."
+  
 ---
 
 NeverFap Deluxe aims to be a comprehensive solution towards addressing your porn addiction. 
 
-While there are many resources out there on the internet which accurate describe what porn addiction is and how it functions, I couldn't find a single resource that could accurately tell me <u>exactly what I needed to do</u> in order stop being a porn addict.
+While there are many resources out there on the internet which accurately describe what porn addiction is and how it functions, I couldn't find a single resource that could accurately tell me <u>exactly what I needed to do</u> in order stop being a porn addict.
 
 Which is like saying: "Hey buddy, you have a severe problem, but I won't actually tell you how to address it, however what I'll do instead is make you increasingly aware of it, so that you feel compelled to do something about it, even though I don't exactly know what you need to do to change".
 

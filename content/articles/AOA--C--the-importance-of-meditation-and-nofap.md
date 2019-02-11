@@ -7,6 +7,10 @@
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
   slug: "the-importance-of-meditation-for-porn-addiction"
+
+  tldr1: "Meditation is the single most important thing you can do for your porn recovery."
+  tldr2: "Meditation teaches you to regain control over your thoughts and emotions."
+  tldr3: "Observation is the primary skill of meditation."
 ---
 
 If I had to describe the most important thing you could do for your porn addiction, I would say that practicing meditation on a daily basis is what will help you the most.

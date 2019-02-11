@@ -7,6 +7,12 @@
   categories: [ "balance-over-reward" ]
   # image: "/images/face.jpg"
   slug: "object-attachment"
+
+  what: ""
+  how: ""
+  when: ""
+  duration: ""
+  
 ---
 
 The idea behind this exercises is to further understand why we get attached to certain things in our life.
@@ -30,7 +36,7 @@ Then we move onto people and concepts.
 
 {{< hr2 "Moving Forward" >}}
 
-Once you've practiced this for a few weeks, I highly recommend checking out: 
+ 
 
 {{< similiar_practices "balance-over-reward" >}}
 

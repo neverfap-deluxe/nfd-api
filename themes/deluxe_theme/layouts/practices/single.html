@@ -7,6 +7,30 @@
 
     <h1 class="single__title">{{ .Title }} <img src="/images/logo.png" class="logo__square" alt=""/></h1>
 
+    <div class="homepage__process single__homepage__process">
+      <span><h3 class="homepage__process__title">
+        tldr;
+      </h3></span>
+
+      {{ if .Params.What }}
+        <div class="homepage__process__text homepage__process__text--practice"><b>What</b><p>{{ .Params.What }}</p></div>
+      {{ end }}
+
+      {{ if .Params.How }}
+        <div class="homepage__process__text homepage__process__text--practice"><b>How</b><p>{{ .Params.How }}</p></div>
+      {{ end }}
+
+      {{ if .Params.When }}
+        <div class="homepage__process__text homepage__process__text--practice"><b>When</b><p>{{ .Params.When }}</p></div>
+      {{ end }}
+
+      {{ if .Params.Duration }}
+        <div class="homepage__process__text homepage__process__text--practice"><b>Duration</b><p>{{ .Params.Duration }}</p></div>
+      {{ end }}
+
+    </div>
+    <span><span class="homepage__process__link">{{ .Date.Format "2006-01-02" }}</span></span>  
+
     <div class="single__content">
       {{ .Content }}
     </div>

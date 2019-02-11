@@ -7,6 +7,11 @@
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
   slug: "everything-is-a-choice"
+
+  tldr1: "You have absolute choice in how you react."
+  tldr2: "It is the only true choice that you (or anyone else) has."
+  tldr3: "Success happens at an emotional level, which is dictated by how we react."
+
 ---
 
 I want to talk about choice.

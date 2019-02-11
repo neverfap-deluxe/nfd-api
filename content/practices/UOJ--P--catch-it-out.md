@@ -7,6 +7,12 @@
   categories: [ "uncondition-over-judgement" ]
   # image: "/images/face.jpg"
   slug: "catch-it-out"
+
+  what: "Learn which specific situations cause us to be judgemental."
+  how: "Make a mental note and observe whenever we make a judgement of any kind."
+  when: "When you make a judgement."
+  duration: "2 - 10 seconds per observation."
+
 ---
 
 This exercise is great for helping us understand when and why we make judgements throughout our day.
@@ -81,7 +87,7 @@ We are merely attempting to better understaning our own conscious experience.
 
 {{< hr2 "Moving Forward" >}}
 
-Once you've practiced this for a few weeks, I highly recommend checking out: 
+ 
 
 {{< similiar_practices "uncondition-over-judgement" >}}
 

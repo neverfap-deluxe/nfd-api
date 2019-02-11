@@ -7,6 +7,11 @@
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "introduction-to-the-neverfap-deluxe-guide"
+
+  tldr1: "It is totally possible to overcome porn addiction by following a series of verifiable steps."
+  tldr2: "Practice is the key to achieving success."
+  tldr3: "You're likely struggling with porn addiction because of an internal misunderstanding of some fundamental truth."
+  tldr4: "I created NeverFap Deluxe to help you understand where you may be misunderstanding yourself."
 ---
 
 <!-- Very Happy with edit -->

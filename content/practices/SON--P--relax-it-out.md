@@ -7,6 +7,12 @@
   categories: [ "struggle-over-none" ]
   # image: "/images/face.jpg"
   slug: "relax-it-out"
+  
+  what: "Learn to relax into specific situations."
+  how: "Give up all care and completely let go of everything you're thinking and feeling."
+  when: "As often as possible throughout the day whilst in the middle of doing something."
+  duration: "2 - 10 seconds per situation."
+
 ---
 
 This exercise is incredibly effective, especially for those new to meditation and perspective.
@@ -77,7 +83,7 @@ In other words, we are building health coping mechanisms to replace watching por
 
 {{< hr2 "Moving Forward" >}}
 
-Once you've practiced this for a few weeks, I highly recommend checking out: 
+ 
 
 {{< similiar_practices "struggle-over-none" >}}
 

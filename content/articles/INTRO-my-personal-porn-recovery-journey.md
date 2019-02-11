@@ -7,6 +7,11 @@
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "my-personal-porn-recovery-journey"
+
+  tldr1: "I last watched porn in October 25th 2018."
+  tldr2: "The first main reason why I've managed to succeed is because I came out about my disorder to my partner."
+  tldr3: "The second main reason why I've managed to succeed is because I began practicing meditation."
+
 ---
 
 <!-- Very Happy with edit -->

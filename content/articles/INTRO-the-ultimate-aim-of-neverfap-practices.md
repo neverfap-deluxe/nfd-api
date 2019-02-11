@@ -7,6 +7,10 @@
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "the-ultimate-aim-of-neverfap-practices"
+
+  tldr1: "The practices are designed to help you develop healthy coping mechanisms through self-awareness and perspective exercises."
+  tldr2: "Self-discovery of your feelings and emotions is an important part of this process."
+  
 ---
 
 NeverFap Deluxe consists of a range of exercises which are designed to help you develop the skills in order to help you overcome porn addiction.

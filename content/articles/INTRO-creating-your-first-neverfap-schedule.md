@@ -7,7 +7,14 @@
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "creating-your-first-neverfap-schedule"
+
+  tldr1: "Routines simplify your mental health schedule immensely."
+  tldr2: "Routines are especially useful at cutting through denial."
+
 ---
+
+
+<!-- Talk about how having a plan is part of a good routine. -->
 
 If you're going to have any chance against your porn addiction, you're going to have to practice the core skills involved which will help you regain control over your mind.
 

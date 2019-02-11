@@ -7,6 +7,12 @@
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
   slug: "stop-it-all"
+
+  what: "Develop awareness by manipulating your perception of time."
+  how: "Imagine if you stopped within time, while time itself continued moving."
+  when: "As often as possible throughout the day whilst in the middle of doing something."
+  duration: "2 - 10 seconds per session."
+
 ---
 
 <!-- VERY HAPPY WITH THIS -->
@@ -76,7 +82,7 @@ Play with it and see where it takes you.
 
 {{< hr2 "Moving Forward" >}}
 
-Once you've practiced this for a few weeks, I highly recommend checking out: 
+ 
 
 {{< similiar_practices "awareness-over-all" >}}
 

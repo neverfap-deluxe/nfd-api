@@ -7,6 +7,11 @@
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "the-five-fundamental-principles-of-neverfap"
+
+  tldr1: "Fundamental principles are hard truths, irrespective of how you think about them."
+  tldr2: "These principles have little to do with porn, because porn recovery has nothing to do with porn."
+  tldr3: "There are Five Fundamental Principles of NeverFap."
+
 ---
 
 <!-- Very happy with edit -->

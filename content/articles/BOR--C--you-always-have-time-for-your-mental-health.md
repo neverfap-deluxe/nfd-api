@@ -7,9 +7,18 @@
   categories: [ "balance-over-reward" ]
   # image: "/images/face.jpg"
   slug: "you-always-have-time-for-your-mental-health"
+
+  tldr1: "Your mental health is always a priority, no matter what."
+  tldr2: "If you prioritise your work, ambitions and hobbies over your mental health, then it is likely a disorder."
+  tldr3: "There is never a bad time to start working on your mental health."
+  tldr4: "It's as simple as committing to what you can do today, in this very moment."
+
 ---
 
 <!-- Will probably need edit/revise -->
+
+
+<!-- So, it should probably come here then. -->
 
 There's one excuse that I often see porn addicts come up with in regards to their addiction. 
 
@@ -82,9 +91,7 @@ It's hard when your emotions are out of whack, and you genuinely believe that "t
 It's hard when you've got nothing left to lose because you're so emotionally empty that you don't really care what happens next.
 
 
-
 {{< hr4 "But there's never a bad time to commit to your mental health." >}}
-
 
 
 One key thing to understand about mental health is that it's accumulative.

@@ -7,7 +7,14 @@
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "the-one-rule-of-neverfap"
+
+  tldr1: "Metrics, goals, lists and ideals are meaningless."
+  tldr2: "Hard processes and practices are what count towards helping us move forward."
+  tldr3: "Practicing those processes and practices on a daily basis is key."
+
 ---
+
+
 
 <!-- Very happy with edit -->
 

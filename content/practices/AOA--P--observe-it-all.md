@@ -7,6 +7,12 @@
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
   slug: "observe-it-all"
+
+  what: "Learn to build our observation skills."
+  how: "Pay attention to what you're sensing (i.e. hearing, feeling, seeing etc.)"
+  when: "Anytime during the day."
+  duration: "As long as you want."
+
 ---
 
 <!-- VERY HAPPY WITH THIS -->
@@ -94,9 +100,7 @@ Simply, observe.
 Observe what you're feeling. Observe what you're thinking. 
 
 
-
 {{< hr4 "Observe all the various interactions that are taking place in your mind." >}}
-
 
 
 Remember, you're not attempting to change anything. Instead you're merely keeping note and acknowledging what your mind is doing. 
@@ -110,10 +114,8 @@ So don't be alarmed if you find simply observing your senses to be difficult.
 There's always a first for everything.
 
 
-
 {{< hr2 "Moving Forward" >}}
 
-Once you've practiced this for a few weeks, I highly recommend checking out: 
 
 {{< similiar_practices "awareness-over-all" >}}
 

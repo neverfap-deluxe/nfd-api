@@ -2,26 +2,36 @@
   title: "\"Why am I A Porn Addict?\""
   description: "When We're Desperate We Can Find Ourselves Asking Irrational Questions And Attempting To Try And Understand Why We May Be A Porn Addict Is One Of Them."
   date: 2018-11-13
-  draft: false
+  draft: true
   tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap alternative" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "why-am-i-am-porn-addict"
----
 
-<!-- Very happy with edit -->
+  tldr1: "Asking why has little to do with actually changing who we are."
+  tldr2: "Actions are what help us change, and are much more powerful than rationalisations."
+
+---
 
 It's a question you've probably been thinking about for a while.
 
 **“Why am I a porn addict?”**
 
-It's undeniable that attempting to gain an understand into why we became porn addicts in the first place can be interesting, if not somewhat fulfilling.
+Questioning why we may have become porn addicts in the first place is where a lot of people begin with their porn recovery journey.
 
-Humans are full of questions, and satisfying that curiosity is part of what we do as humans.
+Usually it entails reasoning along the lines that we must first figure out why we watch porn, and then target that thing which we believe is the root cause of our addiction.
 
-However to be quite honest, understanding why we are something is a lot less relevant to figuring out how to change it. 
+After all, it seems like an incredibly logical and reliable thing to do.
 
-{{< hr3 "In fact, trying to understand why porn addicts, is one of the biggest traps that porn addicts fall into.">}}
+In a lot of cases, this kind of questioning leads us to the conclusion that the reason why we're porn addicts is because porn itself is addictive.
+
+Therefore, the only way to deal with it is to be disciplined, and somehow hope that we get past our cravings long enough that we can forget about them, refrain from relapsing and remain stable.
+
+And it's these kinds of approaches which form part of the reason why most people don't get far with their porn recovery.
+
+The problem with first trying to understand why we are the way we are, is that it's a lot less relevant to figuring out how to change it. 
+
+{{< hr3 "In fact, trying to understand why we are porn addicts, is one of the biggest traps that recovering porn addicts fall into.">}}
 
 It’s like trying to figure out your life purpose by asking the question:
 
@@ -33,7 +43,9 @@ You can have purpose for absolutely any reason imaginable, as you can be a porn 
 
 On the other hand, if you actually want to figure out your life purpose, then I suggest doing a heap of things and seeing what sticks.
 
+
 {{< hr3 "You see, you don't figure out what you want in life by thinking about it." >}}
+
 
 You figure out what you want by experiencing it, and then evaluating that experience.
 
@@ -46,6 +58,7 @@ Of course, you obviously don't need to be so brash and uninformed with your appr
 Much like how you don't need to murder someone to realise that you probably don't want to become a full-time murderer. 
 
 You also understand that there are guides and resources out there to help you overcome your porn addiction. 
+
 
 {{< hr3 "The great thing about NeverFap Deluxe is that you no longer have to waste your time doing things that do not work." >}}
  
@@ -69,7 +82,9 @@ Understandably, it is an instinctive human response to ask why.
 
 But when we do it excessively, it serves no purpose and it becomes a literally bottleneck in terms of our ability to process and produce information. 
 
+
 {{< hr3 "Which is to say that asking why is great for creating an initial assessment, however beyond that it becomes nothing more than a pointless burden." >}}
+
 
 If we look at something like learning to play basketball, it's clear there are a number of key skills we must learn. 
 

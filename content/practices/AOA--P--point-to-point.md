@@ -7,6 +7,12 @@
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
   slug: "point-to-point"
+
+  what: "Build your awareness of the common occurrences that happen throughout your day."
+  how: "Remind yourself to enter a state of awareness throughout specific moments during your day."
+  when: "At targeted moments throughout your day."
+  duration: "1 - 10 seconds of awareness per moment."
+
 ---
 
 <!-- VERY HAPPY WITH THIS -->
@@ -81,7 +87,7 @@ You engage your awareness from the very moment you wake up, and it just gives yo
 
 {{< hr2 "Moving Forward" >}}
 
-Once you've practiced this for a few weeks, I highly recommend checking out: 
+ 
 
 {{< similiar_practices "awareness-over-all" >}}
 

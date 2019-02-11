@@ -7,6 +7,12 @@
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
   slug: "see-not-feel"
+
+  what: "Develop awareness by distinguishing our thought/feelings from our visual perception."
+  how: "Look at an object/area and attempt to separate your thought/feelings from what you're actually seeing."
+  duration: "5 - 10 minutes per session."
+  when: "Alone in a calm setting where you're able to reflect."
+
 ---
 
 <!-- Seeing is not a feeling. -->
@@ -46,9 +52,7 @@ As humans, we tend to attach meaning and value to things we can physically see.
 It could be a trinket that belongs to your family. It could be the sight of McDonalds in the distance and the memories that place evokes. It could even be something more conceptual, like a particular scene within a movie. 
 
 
-
 {{< hr4 "With this exercise we want to attempt to separate these two elements of what we see, along with how we feel about that which we see." >}}
-
 
 
 Because what we see is not what we feel. They are two completely separate elements which we've learnt to associate.
@@ -78,9 +82,7 @@ Both exercises focus on manipulating our visual understanding in some way, howev
 Dissolve it down attempts to completely absolve our understanding of reality, while this exercise attempts to rearrange our understanding of it.
 
 
-
 {{< hr2 "Exercise" >}}
-
 
 
 For this exercise, what we want to do is look at some things, and try and figure out the difference between what we're seeing and what we're feeling. 
@@ -96,7 +98,7 @@ Play around with it. Try this exercises in different areas and different places.
 
 {{< hr2 "Moving Forward" >}}
 
-Once you've practiced this for a few weeks, I highly recommend checking out: 
+ 
 
 {{< similiar_practices "awareness-over-all" >}}
 

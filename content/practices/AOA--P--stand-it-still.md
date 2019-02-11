@@ -7,6 +7,12 @@
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
   slug: "stand-it-still"
+
+  what: "Develop awareness by manipulating your perception of time."
+  how: "Imagine if everything including yourself just stood still in time."
+  duration: "2 - 10 seconds per session."
+  when: "As often as possible throughout the day whilst in the middle of doing something."
+
 ---
 
 
@@ -26,7 +32,7 @@ In a lot of ways, this exercise is almost exactly the same as Stop it all, or Sl
 
 {{< hr2 "Moving Forward" >}}
 
-Once you've practiced this for a few weeks, I highly recommend checking out: 
+ 
 
 {{< similiar_practices "awareness-over-all" >}}
 

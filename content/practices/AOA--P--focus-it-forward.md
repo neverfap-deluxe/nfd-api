@@ -7,6 +7,12 @@
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
   slug: "focus-it-forward"
+
+  what: "Placing focus with your attention in order to develop your ability to focus."
+  how: "Focus your attention on some particular aspect (i.e. breath) for the entire duration of the exercise."
+  when: "Alone in a calm setting where you're able to reflect."
+  duration: "5 - 10 minutes per session."
+
 ---
 
 <!-- VERY HAPPY WITH THIS -->
@@ -72,7 +78,7 @@ Just play around with it and see where your mind takes you.
 
 {{< hr2 "Moving Forward" >}}
 
-Once you've practiced this for a few weeks, I highly recommend checking out: 
+ 
 
 {{< similiar_practices "awareness-over-all" >}}
 
