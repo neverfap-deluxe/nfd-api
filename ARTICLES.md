@@ -4,7 +4,7 @@ __TODO__
 - The problem with NoFap 
 - The **futility** of the NoFap reddit forumns
 - NoFap needs a serious overhaul
-- The key thing to understand about practice. It's not so much about whether you're aware of what you're learning, because often for the first few weeks, this can be oblivious to us. What it's truly about is commiting our brain to the motiosn of practice, which provides physical changes which isn't oblivious in a real sense.
+- The key thing to understand about practice. It's not so much about whether you're aware of what you're learning, because often for the first few weeks, this can be oblivious to us. What it's truly about is commiting our brain to the motions of practice, which provides physical changes which isn't oblivious in a real sense.
 
 Simply by engaging in these positive activities, we change the brain.
 
@@ -15,12 +15,11 @@ The question is, are you willing to commit?
 - Is porn fundamentally wrong? No, but that blah blah blah
 - Should I orgasm on NeverFap?
 - Why do I keep relapsing? (Are you meditating? )
-- You should never rely on your emotions.
-A lot of people use fear of the consequences to motivate them, but it doesn't work. Because fear just as easily turns into craving, and then what do you do?
 
 __WRITING__
 - Creating Your First NeverFap Schedule
-- The Five Principles Of Neverfap As They Relate To My Life
+- You should never rely on your emotions.
+
 
 __Created/Done__
 - Introduction to the NeverFap Deluxe Guide
@@ -31,6 +30,8 @@ __Created/Done__
 - My Personal Porn Recovery Journey
 - "Why Am I A Porn Addict?"
 - You can always find time for your mental health
+- The Five Principles Of Neverfap As They Relate To My Life
+
 
 {{< hr2 Choice over mind - COM
 

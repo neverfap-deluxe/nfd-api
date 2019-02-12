@@ -1,14 +1,14 @@
 ---
-  title: "The Biggest Hidden Judgement That Porn Addicts Make"
+  title: "The Biggest Judgement Porn Addicts Make"
   description: "There Is One Hidden Judgement That Porn Addicts Make The Most, Which Leads To Sabotage Of Our Porn Recovery Journey Without Us Knowing It."
   date: 2019-02-12
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]
   # image: "/images/face.jpg"
-  slug: "the-biggest-hidden-judgement-porn-addicts-make"
+  slug: "the-biggest-judgement-porn-addicts-make"
 
-  tldr1: "The biggest hidden judgement we make is when we tell ourselves off for doing something we feel we shouldn't."
+  tldr1: "The biggest judgement we make is when we tell ourselves off for doing something we feel we shouldn't have."
   tldr2: "There is no right or wrong. There is merely your control and understanding of the situation."
 ---
 

@@ -12,6 +12,9 @@
 - Get logo images
 - Figure out twitter https://twitter.com/
 - Practices to show 
+- Figure out meta-titles
+
+
 
 {{< hr2 Types of categories
 
