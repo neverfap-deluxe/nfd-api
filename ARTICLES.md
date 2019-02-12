@@ -1,4 +1,4 @@
-****{{< hr2 NeverFap Introduction
+{{< hr2 NeverFap Introduction
 
 __TODO__
 - The problem with NoFap 
@@ -14,11 +14,9 @@ The question is, are you willing to commit?
 
 - Is porn fundamentally wrong? No, but that blah blah blah
 - Should I orgasm on NeverFap?
-- Why do I keep relapsing?
-- You should never rely on your emotions. 
+- Why do I keep relapsing? (Are you meditating? )
+- You should never rely on your emotions.
 A lot of people use fear of the consequences to motivate them, but it doesn't work. Because fear just as easily turns into craving, and then what do you do?
-
-
 
 __WRITING__
 - Creating Your First NeverFap Schedule
@@ -39,15 +37,22 @@ __Created/Done__
 __TODO__
 - Context: Porn is not who you are, it is your addiction.
 
+
 __Created/Done__
 
 {{< hr2 Uncondition over judgement - UOJ
 
 __TODO__
 - The fallacy of judgement as an effective means
+- Understanding emotional reactions.
 - The benefits of a quiet mind 
 
+__WRITING__
+- The super easy way to identify a judgement (In essence, talk about how it's nothing more than an emotional reaction.)
+- The biggest hidden judgement that porn addicts make
+
 __Created/Done__
+
 
 {{< hr2 Struggle over none - SON
 

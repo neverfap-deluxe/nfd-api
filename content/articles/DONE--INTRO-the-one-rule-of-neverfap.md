@@ -14,8 +14,6 @@
 
 ---
 
-
-
 <!-- Very happy with edit -->
 
 Let's discuss a NeverFap best case scenario.

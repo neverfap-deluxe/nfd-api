@@ -15,6 +15,8 @@
 
 ---
 
+<!-- TODO: Link to The Easiest Way To Identify A Judgement -->
+
 This exercise is great for helping us understand when and why we make judgements throughout our day.
 
 Furthermore, it's relatively straight forward, so get excited! 

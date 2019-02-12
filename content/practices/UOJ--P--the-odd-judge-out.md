@@ -9,7 +9,7 @@
   slug: "the-odd-judge-out"
 
   what: "Better understand why we do, and do not make judgements."
-  how: "."
+  how: "Identify the things which we don't feel compelled to judge."
   when: "."
   duration: "."
 

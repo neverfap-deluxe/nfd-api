@@ -10,22 +10,27 @@
 
   tldr1: "Meditation is the single most important thing you can do for your porn recovery."
   tldr2: "Meditation teaches you to regain control over your thoughts and emotions."
-  tldr3: "Observation is the primary skill of meditation."
+  tldr3: "Observation is the most primary skill of meditation."
 ---
 
-If I had to describe the most important thing you could do for your porn addiction, I would say that practicing meditation on a daily basis is what will help you the most.
+<!-- TO DO -->
+
+If I had to describe the most important thing you can do on a daily basis for your porn addiction, I would say that practicing meditation is that thing.
 
 
 {{< hr4 "In fact, ten minutes of meditation a night is probably enough for most porn addicts to overcome their addiction." >}}
 
+No, seriously. 
 
-Of course, this is a lot easier said than done.
+It really is that simple. 
 
-The reason why we teach you all these other additional skills, is so you can learn to actually stick to some sort of meditation routine. 
+Of course, the reason why this doesn't happen is because most porn addicts are completely oblivious as to why meditating is so crucial for helping them overcome porn addiction. 
 
-Which isn't going to happen unless if you understand all the context behind how we achieve that here at NeverFap Deluxe.
+And that's why the other 99% of this website exists, to help you understand why it's absolutely worth it.
 
-Although, the rational is simple.
+So that something in your brain clicks, and as a result dedicate time towards a developing a meditation routine.
+
+As well as understanding how meditation helps you overcome porn addiction.
 
 
 {{< hr2 "Why meditation?" >}}

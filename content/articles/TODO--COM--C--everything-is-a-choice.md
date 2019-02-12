@@ -4,7 +4,7 @@
   date: 2018-12-12
   draft: false
   tags: [ "context", "understanding choice", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
-  categories: [ "awareness-over-all" ]
+  categories: [ "choice-over-mind" ]
   # image: "/images/face.jpg"
   slug: "everything-is-a-choice"
 

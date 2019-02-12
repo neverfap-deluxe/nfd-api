@@ -10,9 +10,11 @@
 
   tldr1: "Maintenance of our mental and physical health is a hard requirement."
   tldr2: "Compromising on this maintenance significantly affects our ability to function."
-  tldr3: "Respecting balance allows us to have everything we want without compromises."
+  tldr3: "Respecting balance allows us to have everything we want without compromise."
 
 ---
+
+<!-- Very Happy With Edit -->
 
 What exactly is the NeverFap Maintenance Tax?
 
