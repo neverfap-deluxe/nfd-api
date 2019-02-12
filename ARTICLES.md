@@ -45,7 +45,8 @@ __Created/Done__
 __TODO__
 - The fallacy of judgement as an effective means
 - Understanding emotional reactions.
-- The benefits of a quiet mind 
+- The benefits of a quiet mind / Keep your mind quiet (it's )
+- The best thing you can do your wyour mind (keep it quiet)
 
 __WRITING__
 - The super easy way to identify a judgement (In essence, talk about how it's nothing more than an emotional reaction.)
