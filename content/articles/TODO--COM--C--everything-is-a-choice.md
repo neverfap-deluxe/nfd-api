@@ -2,7 +2,7 @@
   title: "Everything Is A Choice"
   description: "Everything you do in life is a choice based on decision. Understanding how to exercise this choice is an important part of overcoming porn addiction."
   date: 2018-12-12
-  draft: false
+  draft: true
   tags: [ "context", "understanding choice", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
   # image: "/images/face.jpg"
