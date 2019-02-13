@@ -133,3 +133,19 @@ This is why it's important to journal your efforts and note down which practices
 Remember.
 
 Practice. Practice. Practice.
+
+
+
+
+
+
+
+
+In order to understand this, we need to understand what actions are, and more importantly how we use them to create outcomes.
+
+
+
+
+
+
+

@@ -1,36 +1,39 @@
 ---
   title: "Everything Is A Choice"
-  description: "Everything you do in life is a choice based on decision. Understanding how to exercise this choice is an important part of overcoming porn addiction."
+  description: "Understanding how to exercise this choice is an important part of overcoming porn addiction."
   date: 2018-12-12
-  draft: true
+  draft: false
   tags: [ "context", "understanding choice", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
   # image: "/images/face.jpg"
   slug: "everything-is-a-choice"
 
-  tldr1: "You have always have choice in how you react."
-  tldr2: "Your ability to react is the only true choice that you (or anyone else) has."
-  tldr3: "Success happens at an emotional level, which is ultimately dictated by how we react."
+  tldr1: "Your ability to respond is the only choice you have in life."
+  tldr2: "You have the same ability respond as anyone else in life from an emotional point of view."
+  tldr3: "How you choose to respond is ultimately what differentiates you with anyone else in life."
 
 ---
+
+<!-- Very Happy With Edit -->
+
 
 I want to talk about choice.
 
 Specifically, how it relates to the Five Fundamental Principles of NeverFap.
 
-Choice over mind is the first principle that I usually introduce to people, because it is the one principle that porn addicts usually find the most profound.
+The first principle that I almost always introduce to people is <u>Choice over mind</u>, because it is the one principle that most porn addicts (usually) find the most profound. 
 
 
-{{< hr3 "Choice over mind relates to this idea that we have full control over how we react to life." >}}
+{{< hr3 "Choice over mind relates to this idea that we have full control over how we react in life." >}}
 
 
-It's an important idea to understand, because once you fully embrace the power of choice in life, you can learn to overcome life's most difficult challenges.
+It's an important concept to understand, because once you fully embrace the power of choice in life, you can learn to overcome life's most difficult challenges.
 
-Of course, there's a flipside to this. 
+Of course, assuming you put in the required practice.
 
-Rather than understand, a lot of people tend to misunderstand this idea of choice and this is where most porn addicts are situated. 
+In this article I want to help you better understand where you may be misunderstanding this idea of choice.
 
-In a state of misunderstanding over what choice is and what rights they have over it.
+Because if you truly understood the power you currently have to change as an individual, you most likely wouldn't be on this website.
 
 So let's consider this your formal re-education.
 
@@ -44,118 +47,108 @@ There's choice in how we feel. Choice in what we want to think. Choice in how we
 
 In fact, there's choice in almost everything that happens in life.
 
-And yet, this doesn't mean that we necessarily get to choose in all these circumstances. 
+And yet, this doesn't mean that we necessarily get to choose all these things.
 
-We don't get to choose our race. We don't have choice over how others live their lives. Hell, we certainly don't have choice over the weather. 
+We don't get to choose our race. We don't get to choose how others live their lives. Hell, we certainly don't get to choose what the weather will be that day. 
 
 And that's okay.
 
 
-{{< hr4 "Because I'm here to tell you that none of that matters." >}}
+{{< hr3 "Because I'm here to tell you that none of this matters." >}}
 
 
-Here's the thing... 
+Here's the thing.
 
-...you do have one choice which is so powerful that it effectively overrides every other choice in life.
+You do have one choice which is so powerful that it effectively overrides every other choice in your life.
 
-
-{{< hr3 "Ultimately, you get to choose how you want to respond." >}}
-
-
-eh.
-
-Big deal.
-
-I'm sure you're already aware of this fact. I mean, it's silly to think otherwise.
-
-Of course you have the ability to react to life's circumstances.
-
-Yet perhaps you don't quite understand the significance of what this actually means, because if you did you'd most likely not be a porn addict, and you'd most likely not be reading this article.
-
-I guarantee it.
-
-If you understood choice like the way I did, you would be in a very different position with how you perceive your own feelings, emotions and ability to change.
-
-So something is missing from your understanding. 
-
-Or perhaps you're misinterpretating what being able to respond actually means, so let's explore that idea.
+In part, because it is the only choice you truly have control over.
 
 
-{{< hr2 "The great equaliser" >}}
+{{< hr2 "You get to choose how you want to respond." >}}
 
 
-When you truly understand what Choice over mind means, it completely changes the way you look at things. 
+And it's a choice which overrides every other choice imaginable. 
+
+Of course, I'm sure you're already aware of this fact. I mean, obviously you have the ability to react to life's circumstances.
+
+Yet perhaps you don't quite understand the significance of what this actually means.
+
+Perhaps you're misinterpretating what having this choice allows you to do, so let's explore that idea.
+
+When you truly understand what <u>Choice over mind</u> means, it completely changes the way you look at things. 
 
 You no longer become victim, or rather you realise that you never were victim, over that which you cannot choose.
 
 So what does it being able to respond actually mean?
 
-To help understand this question, we need to understand why it's the most powerful choice you have.
+
+{{< hr3 "Put simply, your ability to respond is the most powerful choice you have, because it is the only choice you as an individual can actually make." >}}
 
 
-{{< hr4 "Put simply, your ability to respond is the most powerful choice you have, because it is the only choice you as an individual can actually make." >}}
+At no point do you have absolute certainty over any outcome in life. 
 
+Instead, what you do have is absolute certainty over your actions, and this is quite profound for a few reasons.
 
-At no point do you have absolute certainty over any outcome in life. Instead, what you do have is certainty over the actions you take.
+If your ability to respond is the only true choice that you have, then it signifies that you have full control over your life.
 
-This is quite profound for a few reasons. 
-
-If all you control is your ability to respond, then it signifies that you have full control over your life.
-
-But how? 
-
-Well, humans respond with their actions. 
-
-And how else does one actively change, otherwise not for their own actions? 
+Because response happens through actions, and actions are the only means through which we can change as human beings. 
 
 
 {{< hr4 "Which really is to say that you have full control over who you want to become." >}}
 
 
-Although, there's a more significant reason which a lot of people don't realise. 
+In addition, it also signifies that we are all equal in terms of our ability to take action.
 
-The fact that our ability to respond is the only choice we have, ultimately signifies that we are all equal in terms of our ability to take action.
+Which is to say that we all have that exact same opportunity to become, because we all have the same ability to take action.
+
+From this point of view, everything we are today can be viewed as a sum of our actions.
+
+From a potential point of view, we really are no different.
+
+We both have the exact same potential to respond on a low level with our thoughts and emotions.
 
 
-{{< hr4 "What it means is that we all have that exact same opportunity to become, because we all have the same ability to take action." >}}
+{{< hr3 "The only difference between you and me is in the actions that we've taken over time." >}}
+ 
 
-
-In order to understand this, we need to understand what actions are, and more importantly how we use them to create outcomes.
+Which is to say that if you responded in the same way that I did, then you also would not be a porn addict.
 
 
 {{< hr2 "Success and your actions" >}}
 
 
-You see, success doesn't happen at a high level.
+The important thing to understand about success is that it doesn't happen at a high level.
 
 It happens on an emotional and physical level. 
 
 Success is the difference between choosing to remain calm in a tense situation, as opposed to losing our cool. 
 
-Success is acknowledging that our cravings for porn are merely habitual, and not to be taken personally. 
+Success isn't about being wealthy or driving a fast car.
+
+Success is about having control over our feelings and emotions, so we feel indifferent about how much money we or anyone else has.
+
+In the context of porn addiction, success is acknowledging that our cravings for porn are merely habitual, and not to be taken personally. 
+
+Success is meditating daily so that we can learn the skills to properly address our porn addiction.
+
+Remember.
 
 
-{{< hr4 "The only difference between someone who has successfully overcome porn addiction and someone who continually fails, is that the person who overcame it took those right actions to get there." >}}
+{{< hr4 "The only difference between someone who has successfully overcome porn addiction and someone who continually fails, is that the person who overcame porn addiction took the right actions to get there." >}}
 
 
-Every porn addict goes through the same feelings and emotions. 
+Porn addicts really are no different from each other.
 
-The helplessness. The guilt. The depression.
+Every porn addict goes through the same feelings and emotions of helplessness, guilt and depression.
 
-The only difference was how they chose to respond to those feelings and emotions. 
+The only difference is in how they choose to respond to these feelings and emotions, so they don't let them dominate their life. 
 
-Now, I'm not suggesting that you'll be able to face these feelings and emotions with the knowledge contained in this article.
-
-
-{{< hr4 "However, what I am suggesting is that with the right guidance and practice, you can develop the ability to be able to." >}}
+Now, I'm not suggesting that you'll be able to face these feelings and emotions by merely being aware of them.
 
 
-And in order to do that, you must first discover which actions to take and this is precisely why I created NeverFap Deluxe.
+{{< hr3 "However, what I am suggesting is that with the right guidance and practice, you can develop the ability to be able to." >}}
 
-To summarise:
 
-- Your ability to respond is the only choice you have in life. 
-- It means you have the same ability to respond as anyone else in life.
-- How you choose to respond is ultimately what differentiates you with anyone else.
+Moving forward, I recommend checking out our list of <a class="link" href="">NeverFap Deluxe Practices</a> for a list of exercises you can do to develop awareness in your life.
 
 

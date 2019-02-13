@@ -24,6 +24,10 @@
     color: black!important;
     width: 80%;
   }
+
+  .button__secondary {
+    padding: 0.7rem!important; 
+  }
   
   .button {
     background: -moz-linear-gradient(45deg, rgba(255,46,182,1) 0%, rgba(227,152,2,1) 100%); /* ff3.6+ */
@@ -50,7 +54,7 @@
   }
   
   .button:hover {
-    box-shadow: -10px 10px 0px 0px black;
+    box-shadow: -10px 10px 0px 0px cyan;
     bottom: -5px;
     left: -5px;
   }
@@ -71,7 +75,7 @@
     }
 
     .button__secondary {
-      font-size: 1.4rem!important;
+      font-size: 1.1rem!important;
     }
   
   }
