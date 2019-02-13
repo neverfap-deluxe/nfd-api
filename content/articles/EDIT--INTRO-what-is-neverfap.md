@@ -14,7 +14,7 @@
   
 ---
 
-<!-- Future Edit Pending -->
+<!-- Will Need One Edit -->
 
 NeverFap is a comprehensive method of overcoming porn addiction.
 
