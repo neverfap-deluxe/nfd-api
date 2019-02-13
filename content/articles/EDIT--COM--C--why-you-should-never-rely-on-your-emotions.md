@@ -8,8 +8,9 @@
   # image: "/images/face.jpg"
   slug: "why-you-should-never-depend-on-your-emotions"
 
-  tldr1: "We use our emotions to make us feel as if we have meaningfully changed."
-  tldr2: "When our emotions change, our feelings change along with it."
+  tldr1: "Using our emotions to motivate us is a brittle approach towards developing self-control."
+  tldr2: "The alternative is to develop self-control over our mind, so we can dictate what we feel, as well as not take our feelings personally."
+
 ---
 
 <!-- Will Need One Edit -->
