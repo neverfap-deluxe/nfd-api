@@ -1,6 +1,6 @@
 ---
   title: "You Always Have Time For Your Mental Health"
-  description: "Your mental health is always a priority, no matter what. Compromising on that priority results in mental illness and contributes towards your porn addiction."
+  description: "Your mental health should always be a priority, no matter what. Compromising on that priority results in mental illness and contributes towards porn addiction."
   date: 2019-01-21
   draft: false
   tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]

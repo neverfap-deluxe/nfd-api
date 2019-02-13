@@ -1,6 +1,6 @@
 ---
   title: "The Biggest Judgement Porn Addicts Make"
-  description: "There Is One Hidden Judgement That Porn Addicts Make The Most, Which Leads To Sabotage Of Our Porn Recovery Journey Without Us Knowing It."
+  description: "There is one hidden judgement that porn addicts make the most, which leads to sabotage of our porn recovery journey without us knowing it."
   date: 2019-02-12
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]

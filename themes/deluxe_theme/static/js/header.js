@@ -35,10 +35,10 @@ switch(pathnameProper) {
     break;
 }
 
-var good_choice = document.querySelector('.header__link__wrapper--guide--good-choice');
+// var good_choice = document.querySelector('.header__link__wrapper--guide--good-choice');
 
-if (pathnameProper === 'guide') {
-  good_choice.style.display = 'block';
-} else {
-  good_choice.style.display = 'none';
-}
+// if (pathnameProper === 'guide') {
+//   good_choice.style.display = 'block';
+// } else {
+//   good_choice.style.display = 'none';
+// }

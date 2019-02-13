@@ -1,6 +1,6 @@
 ---
   title: "Paying The NeverFap Maintenance Tax"
-  description: "Many People Treat Maintainance As An Unnecessary Step, Like A Tax. Instead, We Need To View Physical And Mental Maintenance As A Necessity Throughout Our Day."
+  description: "When we treat the maintainance of our mental health as an unnecessary burden, we compromise our ability to exert control over our thoughts and emotions."
   date: 2018-12-02
   draft: false
   tags: [ "context", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]

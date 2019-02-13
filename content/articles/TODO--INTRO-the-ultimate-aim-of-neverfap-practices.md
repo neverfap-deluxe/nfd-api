@@ -1,12 +1,12 @@
 ---
-  title: "The Ultimate Aim Of NeverFap Practices"
-  description: "NeverFap Deluxe Practices Are Designed To Help Teach You To Become Comfortable With Yourself And Your Emotions Through Verifiable Actions."
+  title: "The Ultimate Aim Of NeverFap Deluxe Practices"
+  description: "NeverFap Deluxe Practices are designed teach you self-control through verifiable practices."
   date: 2019-02-06
   draft: true
   tags: [ "context", "neverfap schedule", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
-  slug: "the-ultimate-aim-of-neverfap-practices"
+  slug: "the-ultimate-aim-of-neverfap-deluxe-practices"
 
   tldr1: "The practices are designed to help you develop healthy coping mechanisms through self-awareness and perspective exercises."
   tldr2: "Self-discovery of your feelings and emotions is an important part of this process."
