@@ -1,6 +1,6 @@
 ---
   title: "You Always Have Time For Your Mental Health"
-  description: "It Is Fundamental That You Take The Time To Practice Awareness And Perspective Exercises Which Will Help You Overcome Porn. Otherwise, You Don't Stand A Chance."
+  description: "Your mental health is always a priority, no matter what. Compromising on that priority results in mental illness and contributes towards your porn addiction."
   date: 2019-01-21
   draft: false
   tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
@@ -10,15 +10,11 @@
 
   tldr1: "Your mental health is always a priority, no matter what."
   tldr2: "If you prioritise your work, ambitions and hobbies over your mental health, then it is likely a disorder."
-  tldr3: "There is never a bad time to start working on your mental health."
-  tldr4: "It's as simple as committing to what you can do today, in this very moment."
+  tldr3: "Commit to what you can do today, rather than worry about what you haven't yet done."
 
 ---
 
 <!-- Will probably need edit/revise -->
-
-
-<!-- So, it should probably come here then. -->
 
 There's one excuse that I often see porn addicts come up with in regards to their addiction. 
 
@@ -26,20 +22,32 @@ There's one excuse that I often see porn addicts come up with in regards to thei
 {{< hr3 "I don't have enough time." >}}
 
 
-It's an attitude which ironically, prevents us from actually focusing on what's important in life.
+Usually, it means time to spend towards addressing their porn addiction or mental health issues.
 
-So how does it start?
+After all, we're all incredibly busy people. We have things to do. Ambitions to fulfil. I mean, what does any of this have to do with porn addiction? 
 
-Some say the reason why we feel as if we do not have enough time is because we as humans have been sold on this idea that we must be 'productive' with our time.
+It's an attitude which quite ironically, prevents us from actually focusing on what's important in life.
 
-Even if it's only the mere feeling of productivity. 
-
-For example, checking our phone every five minutes to see if someone's messaged us over Facebook.
-
-Perhaps we're just too obsessed with our goals and ambitions in life, to a point where we feel obliged to maintain routine. 
+Which is why we're talking about it today.
 
 
-{{< hr3 "No matter how you choose to interpret it, I'm here to tell you that it's a disorder." >}}
+{{< hr3 "Because if you did have enough time to spend towards addressing your porn addiction, you simply wouldn't be a porn addict." >}}
+
+
+So what exactly does it mean to not have enough time?
+
+Well, that's entirely up to you.
+
+Maybe it's because you feel compelled to always be in a state of constant "productivity", and that time spent working on your mental health doesn't seem productive.
+
+Or perhaps, it's merely the feeling of productivity you crave. 
+
+For example, checking your phone every five minutes to see if someone's messaged you over Facebook.
+
+On the otherhand, you may just be so obsessed with your goals and ambitions, that everything else which sits outside of those goals is seen as being irrelevant.
+
+
+{{< hr3 "Regardless of your interpretation, I'm here to tell you that this perception is a disorder." >}}
 
 
 It is a disorder because it's a choice to neglect one's mental health, and there are never any valid reasons why anyone should ever neglect their mental health.

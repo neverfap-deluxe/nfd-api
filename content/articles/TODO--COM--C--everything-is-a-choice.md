@@ -1,6 +1,6 @@
 ---
   title: "Everything Is A Choice"
-  description: "Everything You Do, From How You Think In Every Moment To What You Believe Today Or Tomorrow, Is Completely At Your Discretion. You Just Have To Realise It."
+  description: "Everything you do in life is a choice based on decision. Understanding how to exercise this choice is an important part of overcoming porn addiction."
   date: 2018-12-12
   draft: false
   tags: [ "context", "understanding choice", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
@@ -8,9 +8,9 @@
   # image: "/images/face.jpg"
   slug: "everything-is-a-choice"
 
-  tldr1: "You have absolute choice in how you react."
-  tldr2: "It is the only true choice that you (or anyone else) has."
-  tldr3: "Success happens at an emotional level, which is dictated by how we react."
+  tldr1: "You have always have choice in how you react."
+  tldr2: "Your ability to react is the only true choice that you (or anyone else) has."
+  tldr3: "Success happens at an emotional level, which is ultimately dictated by how we react."
 
 ---
 
