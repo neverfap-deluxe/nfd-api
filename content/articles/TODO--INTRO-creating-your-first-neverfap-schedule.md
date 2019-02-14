@@ -1,7 +1,7 @@
 ---
   title: "Creating Your First NeverFap Schedule"
-  description: "NeverFap Provides You With A Number Of Core Exercises To Help You Overcome Your Porn Addiction. With A Schedule In Place, You Can Maximise Your Success."
-  date: 2019-03-13
+  description: "NeverFap Deluxe provides you with a schedule of exercises so that you can learn to develop awareness and self-control over your emotions."
+  date: 2019-01-30
   draft: true
   tags: [ "context", "neverfap schedule", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]
@@ -14,25 +14,53 @@
 ---
 
 
+<!-- 
+I talk more about it in my article <a class="link" href="/articles/you-always-have-time-for-your-mental-health">You Always Have Time For Your Mental Health</a>. -->
+
+
 <!-- Talk about how having a plan is part of a good routine. -->
 
-If you're going to have any chance against your porn addiction, you're going to have to practice the core skills involved which will help you regain control over your mind.
+Everything in life revolves around practice. 
 
-And the only way you're going to practice effectively is if you have a consistent schedule of practices in place.
+No matter what you want to do in life, practice is the means through which we get good at something.
 
-This means finding the time.
+Overcoming porn addiction is really no different. 
+
+If you're going to have any chance against addressing your porn addiction, you're going to have to practice the core skills involved to help you regain control over your mind.
+
+And the only way this is going to happen, is if you have an effective routine of practice in place.
+
+This means understanding why these practices are effective.
+
+This means finding the time to actually practie them.
+
+Most importantly, this means actually doing the practices with consistency.
+
+{{< hr3 "To start out, I recommend spending approximately 10 minutes per day practicing observation." >}}
+
+Specifically, the <a class="link" href="/practices/observe-it-all">Observe it all</a> practice which should become the fundamental basis of everything you do.
+
+It's the one practice I do everday, and it can be thought of the most fundamental exercise you can do towards developing your awareness.
+
+It's more-or-less the only one I personally do, in part because I've already practices all the other exercises over the past five years.
+
+Which although incredibly useful, are merely supplementary to your ability to simply remain aware and observe.
+
+What I recommend is doing is <u>Observe it all</u>, along with a supplementary exercise. 
 
 
 
-{{< hr3 "I recommend spending approximately one hour each day towards developing your mental health." >}}
+
+
+{{< hr2 "My Personal Routine" >}}
+
+I have a very basic routine which works well for me.
 
 
 
-That is approximately 4% of your day. 5.5% of your day if you don't include sleep. 10% of your day if you don't include work. 
 
-It may seem like a lot of time, but what people don't realise is that you gain more time back than you invest in.
 
-I talk more about it in my article <a class="link" href="/articles/you-always-have-time-for-your-mental-health">You Always Have Time For Your Mental Health</a>.
+
 
 In essence, these exercises are basic thought and perspective exercises that you can do each day. 
 

@@ -1,7 +1,7 @@
 ---
   title: "Practice: Observe It All"
   description: ""
-  date: 2018-01-27
+  date: 2019-01-27
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]

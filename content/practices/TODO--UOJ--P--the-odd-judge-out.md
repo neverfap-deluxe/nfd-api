@@ -1,7 +1,7 @@
 ---
   title: "Practice: The Odd Judge Out"
   description: "Focusing On What We Don't Judge Can Be Just As Effective As paying Attention To What We Do Judge On A Frequent Basis."
-  date: 2018-02-04
+  date: 2019-02-04
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]

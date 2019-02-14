@@ -1,7 +1,7 @@
 ---
   title: "Practice: Focus It Forward"
   description: "Focus Your Attention And Learn To Gain Control Over What Our Minds Pay Attention To. It Is An Ability Anyone Can Develop Through Practice."
-  date: 2018-01-04
+  date: 2019-01-04
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]

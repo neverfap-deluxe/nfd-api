@@ -1,7 +1,7 @@
 ---
   title: "Practice: Relax It Out"
   description: "Relax It Out Is All About Taking A Relaxed Approach Towards Dealing With Life. It Is An Incredibly Effective Way To Dissolve Our Feelings And Emotions."
-  date: 2018-02-06
+  date: 2019-02-06
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]

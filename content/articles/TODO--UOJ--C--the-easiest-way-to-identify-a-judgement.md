@@ -1,6 +1,6 @@
 ---
   title: "The Easiest Way To Identify A Judgement"
-  description: "There Is One Super Simple Way To Identify A Judgement. It Involves Paying Attention To Our Emotional Reactions."
+  description: "Paying attention to the emotional reactions throughout the day is the easiest way to identify the judgements we have throughout ."
   date: 2019-02-08
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
@@ -36,6 +36,19 @@ When we do something wrong it can make us feel anger or frustration. When we do 
 So the key here is to pay attention to what you're feeling. 
 
 Try and understand why you feel that particular way.  
+
+
+
+The great thing about identifying judgements is that it is that we don't need to go any further than simply acknowledging them.
+
+Often where people feel trapped is that they then feel as if they need to dissect them and get to the root cause of why we're being judgemental. 
+
+Truth is, that judgements don't have any inherent meaning.
+
+After all, if judgements are pointlessly harmful, then what meaning could they actually have outside of the automatic response with which we generate them with?
+
+So really, once you identify a judgement, all that's required is to simply detach from it. 
+
 
 
 

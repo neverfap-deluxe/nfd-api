@@ -1,7 +1,7 @@
 ---
   title: "Practice: Dissolve It Down"
   description: "Learn To Dissolve Your Ego By Manipulating Your Visual Perception Of Reality. Treat Your Visual Field As A Simple Plane Of A Light And Colour."
-  date: 2018-01-30
+  date: 2019-01-30
   draft: false
   tags: [ "practice", "meditation", "visual meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]

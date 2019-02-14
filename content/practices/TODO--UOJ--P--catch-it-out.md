@@ -1,7 +1,7 @@
 ---
   title: "Practice: Catch It Out"
   description: "Catch Yourself Whenever You Find Yourself Making A Judgement. The Idea Is Not To React, But Instead To Acknowledge That You've Made A Judgement And To Move On."
-  date: 2018-01-14
+  date: 2019-01-14
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]

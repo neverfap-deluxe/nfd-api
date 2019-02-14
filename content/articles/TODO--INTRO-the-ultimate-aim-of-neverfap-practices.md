@@ -19,9 +19,9 @@ NeverFap Deluxe consists of a range of exercises which are designed to help you 
 
 The intention really is quite simple:
 
-{{< hr3 "To develop healthy coping mechanisms to help deal with your porn addiction" >}}
+{{< hr3 "To develop healthy coping mechanisms to help deal with your porn addiction." >}}
 
-And the way we achieve this is by learning to become comfortable with ourselves, our feelings and our emotions.
+And the way we achieve this is by learning to become calm and comfortable with ourselves, our feelings and our emotions.
 
 Here's the thing: If you are a porn addict, then in a lot of situations watching porn is your go-to response for a variety of situations.
 
