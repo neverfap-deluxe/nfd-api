@@ -111,13 +111,13 @@
 
         <h3 class="popular__latest__options__title">Articles</h3>
         <div class="popular__latest__options">
-          <h3 class="button__click" id="popular">Introduction</h3>
-          <h3 class="button__click" id="latest">Latest</h3>
+          <h3 class="button__click button__on" id="popular">Introduction</h3>
+          <h3 class="button__click button__off" id="latest">Latest</h3>
         </div>
-        <div id="popular__posts">
+        <div class="post__on" id="popular__posts">
           {{ partial "introduction_posts.html" . }}
         </div>
-        <div id="latest__posts">
+        <div class="post__off" id="latest__posts">
           {{ partial "latest_posts.html" . }}
         </div>
       </div>

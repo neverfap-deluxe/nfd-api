@@ -42,6 +42,19 @@ p, b {
   line-height: 1.6rem;    
 }
 
+.articles__link {
+  display: inline-block;
+  margin-bottom: 1.5rem;
+  transition: .1s;
+  font-size: 1.05rem;
+  line-height: 1.6rem;
+}
+
+.articles__link:hover {
+  border-bottom: none!important;
+  color: lighten(rgba(255,46,182,1), 15%);
+}
+
 .link {
   color: rgba(255,46,182,1);
   text-decoration-line: underline;

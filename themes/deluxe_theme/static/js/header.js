@@ -42,3 +42,27 @@ switch(pathnameProper) {
 // } else {
 //   good_choice.style.display = 'none';
 // }
+
+
+var isClicked = false;
+var articles__click = document.querySelector('#articles__click');
+var articles__dropdown = document.querySelector('#articles__dropdown');
+articles__click.onmouseover = function(event) { 
+  if (isClicked) {
+    articles__dropdown.style.display = 'none';
+    isClicked = false;
+  } else {
+    articles__dropdown.style.display = 'block';
+    isClicked = true;
+  }
+} 
+
+// articles__click.onmouseoff = function(event) { 
+//   if (isClicked) {
+//     articles__dropdown.style.display = 'block';
+//     isClicked = false;
+//   } else {
+//     articles__dropdown.style.display = 'none';
+//     isClicked = true;
+//   }
+// } 

@@ -29,21 +29,23 @@
     height: 100%;
 
     .header__link__wrapper {
-      display: flex;
-      align-items: center;  
-      justify-content: center;
-      height: 3.4rem;
-      min-width: 6.5rem;
+      display: block;
       // height: 100%;
       list-style: none;
       transition: .1s ease-in;
       // border-bottom: 5px solid white;
+      position: relative;
 
       .header__link {
+        display: flex;
+        align-items: center;  
+        justify-content: center;
+  
+        height: 3.4rem;
+        min-width: 6.5rem;
+
         color: white;
         font-size: 1rem;
-        margin-left: 8px;
-        margin-right: 8px;
       }  
     }
     .header__link__wrapper:hover {

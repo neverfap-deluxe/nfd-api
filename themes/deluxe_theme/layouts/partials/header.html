@@ -12,8 +12,16 @@
       <!-- <span class="header__link__wrapper--guide--good-choice">Good choice!</span> -->
     </a>
     <a id="link__articles" class="header__link__wrapper" href="/articles">
-      <li class="header__link">Articles</li>
+      {{/*  <div style="position:relative;">  */}}
+        <li id='articles__click' class="header__link">Articles</li>
+        {{/*  <div id='articles__dropdown'>
+          <a class="header__dropdown__link__wrapper" href="/articles/grid">
+            <li class="header__dropdown__link">Grid</li>
+          </a>
+        </div>      */}}
+      {{/*  </div>  */}}
     </a>
+
     <a id="link__practices" class="header__link__wrapper" href="/practices">
       <li class="header__link">Practices</li>
     </a>
@@ -27,11 +35,3 @@
 </nav>
 <script src='/js/header.js'></script>
 
-
-<!-- <li id='popular__click'>Popular</li>
-<div id='popular__dropdown'>
-  <a href="/introduction">Introduction</a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-</div> -->

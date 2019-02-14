@@ -1,8 +1,67 @@
 // header
 
-// #popular__dropdown {
-//   display: none;
-// }
+#articles__dropdown, #practices__dropdown {
+  // display: none;
+  display: none;
+
+  position: absolute;
+  top: 4rem;
+  left: 0rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 3.4rem;
+  min-width: 6.5rem;
+  background: white;
+}
+
+.header__dropdown__link__wrapper {
+  display: block;
+  list-style: none;
+  transition: .1s ease-in;
+  position: relative;
+
+  .header__dropdown__link {
+    display: flex;
+    align-items: center;  
+    justify-content: center;
+
+    height: 3.4rem;
+    min-width: 6.5rem;
+    background: black;
+    color: white;
+    font-size: 1rem;
+  }  
+}
+
+.header__dropdown__link__wrapper:hover {
+  // background: rgb(243, 243, 243);
+  background: lighten(orange, 10%);
+  box-shadow: -5px 5px 0px 0px cyan;
+}
+
+@media screen and (min-width: 420px) {
+  .header {
+    top: 0;
+    margin-bottom: 0;
+    // top: 2.43rem;
+    // margin-bottom: 2rem;
+    .header__links {
+      top: 0;
+
+      .header__dropdown__link__wrapper {
+        .header__dropdown__link {
+          padding-left: 8px;
+          padding-right: 8px;  
+        }
+      }
+    }
+  }
+}
+
+
 
 // homepage
 
@@ -28,13 +87,7 @@
   }
   
   
-
-  #popular, 
-  #introduction_click, 
-  #articles_latest_click, 
-  #articles_category_click,
-  #practices_latest_click, 
-  #practices_category_click {
+  .button__on {
     margin-right: 1.4rem;
 
     bottom: 0;
@@ -52,25 +105,13 @@
     font-size: 1.1rem;
   }
 
-  #popular:hover, 
-  #introduction_click:hover, 
-  #articles_latest_click:hover, 
-  #articles_category_click:hover, 
-  #practices_latest_click:hover, 
-  #practices_category_click:hover {
+  .button__on:hover {
     box-shadow: -10px 10px 0px 0px black;
     bottom: -5px;
     left: -5px;
   }
 
-  #latest, 
-  #choice_over_mind_click, 
-  #balance_over_reward_click, 
-  #struggle_over_none_click, 
-  #awareness_over_all_click, 
-  #uncondition_over_judgement_click,
-  #articles_category_click,
-  #practices_category_click {
+  .button__off {
     bottom: 0;
     left: 0;
     position: relative;
@@ -86,34 +127,19 @@
     transition: .2s;
   }
 
-  #latest:hover, 
-  #choice_over_mind_click:hover, 
-  #balance_over_reward_click:hover, 
-  #struggle_over_none_click:hover, 
-  #awareness_over_all_click:hover, 
-  #uncondition_over_judgement_click:hover {
+  .button__off:hover {
     box-shadow: -10px 10px 0px 0px black;
     bottom: -5px;
     left: -5px;
   }
+
 }
 
-
-#popular__posts, 
-#introduction_posts, 
-#articles_latest_posts, 
-#practices_category_posts {
+.post__on {
   display: block;
 }
 
-#latest__posts, 
-#choice_over_mind_posts, 
-#balance_over_reward_posts, 
-#strugle_over_none_posts, 
-#awareness_over_all_posts, 
-#uncondition_over_judgement_posts,
-#articles_category_posts,
-#practices_category_posts {
+.posts__off {
   display: none;
 }
 

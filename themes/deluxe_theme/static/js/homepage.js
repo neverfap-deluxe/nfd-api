@@ -24,18 +24,3 @@ popular__post__click.onclick = function(event) {
   latest__posts.style.display = 'none';
   popular__posts.style.display = 'block';
 } 
-
-// // header.html
-
-// var isClicked = false;
-// var popular__click = document.querySelector('#popular__click');
-// var popular__dropdown = document.querySelector('#popular__dropdown');
-// popular__click.onclick = function(event) { 
-//   if (isClicked) {
-//     popular__dropdown.style.display = 'none';
-//     isClicked = false;
-//   } else {
-//     popular__dropdown.style.display = 'block';
-//     isClicked = true;
-//   }
-// } 

@@ -73,35 +73,35 @@
       <p>There is also a much more functional <a class="link" href="/articles">article index</a> if you'd like a greater overview of the written content on this website.</p>
 
       <div class="popular__latest__options">
-        <h3 class="button__click popular__latest__options--guide" id="introduction_click">Introduction</h3>
-        <h3 class="button__click popular__latest__options--guide" id="choice_over_mind_click">Choice over mind</h3>
-        <h3 class="button__click popular__latest__options--guide" id="balance_over_reward_click">Balance over reward</h3>
-        <h3 class="button__click popular__latest__options--guide" id="struggle_over_none_click">Struggle over none</h3>
-        <h3 class="button__click popular__latest__options--guide" id="awareness_over_all_click">Awareness over all</h3>
-        <h3 class="button__click popular__latest__options--guide" id="uncondition_over_judgement_click">Uncondition over judgement</h3>
+        <h3 class="button__click button__on popular__latest__options--guide" id="introduction_click">Introduction</h3>
+        <h3 class="button__click button__off popular__latest__options--guide" id="choice_over_mind_click">Choice over mind</h3>
+        <h3 class="button__click button__off popular__latest__options--guide" id="balance_over_reward_click">Balance over reward</h3>
+        <h3 class="button__click button__off popular__latest__options--guide" id="struggle_over_none_click">Struggle over none</h3>
+        <h3 class="button__click button__off popular__latest__options--guide" id="awareness_over_all_click">Awareness over all</h3>
+        <h3 class="button__click button__off popular__latest__options--guide" id="uncondition_over_judgement_click">Uncondition over judgement</h3>
       </div>
      
-      <div class="posts--guide" id="introduction_posts">
+      <div class="post__on posts--guide" id="introduction_posts">
         {{ partial "category_posts.html" (dict "page" .Site "post_category" "introduction") }}
       </div>
 
-      <div class="posts--guide" id="choice_over_mind_posts">
+      <div class="post__off posts--guide" id="choice_over_mind_posts">
         {{ partial "category_posts.html" (dict "page" .Site "post_category" "choice-over-mind") }}
       </div>
 
-      <div class="posts--guide" id="balance_over_reward_posts">
+      <div class="post__off posts--guide" id="balance_over_reward_posts">
         {{ partial "category_posts.html" (dict "page" .Site "post_category" "balance-over-reward") }}
       </div>
 
-      <div class="posts--guide" id="strugle_over_none_posts">
+      <div class="post__off posts--guide" id="strugle_over_none_posts">
         {{ partial "category_posts.html" (dict "page" .Site "post_category" "struggle-over-none") }}
       </div>
 
-      <div class="posts--guide" id="awareness_over_all_posts">
+      <div class="post__off posts--guide" id="awareness_over_all_posts">
         {{ partial "category_posts.html" (dict "page" .Site "post_category" "awareness-over-all") }}
       </div>
 
-      <div class="posts--guide" id="uncondition_over_judgement_posts">
+      <div class="post__off posts--guide" id="uncondition_over_judgement_posts">
         {{ partial "category_posts.html" (dict "page" .Site "post_category" "uncondition-over-judgement") }}
       </div>
     </div>
