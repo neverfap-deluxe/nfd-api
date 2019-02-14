@@ -13,6 +13,20 @@
 
 ---
 
-One thing porn addicts struggle with is with identifying who they truly are.
+Porn addicts often struggle to dissociate themselves from their addiction.
+
+In part because porn addiction plays on a very primal, and natural human response.
+
+
+{{< hr3 "Otherwise known as attraction." >}}
+
+
+After all, what is the difference between being attracted to someone in real life, as opposed to thousands of hot people on your computer screen doing rather promiscuous things?
+
+According to our brain, there really isn't much of a difference at all. 
+
+
+
+
 
 
