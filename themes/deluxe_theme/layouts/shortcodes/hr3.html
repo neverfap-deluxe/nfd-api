@@ -1,5 +1,5 @@
 <hr class="hr3"/>
 
-<h3>{{ index .Params 0 }}</h3>
+<h3>{{ with index .Params 0 }}{{ . | safeHTML }}{{ end }}</h3>
 
 <hr class="hr3__bottom"/>

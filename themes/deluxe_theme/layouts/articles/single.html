@@ -16,12 +16,13 @@
       <span><h3 class="homepage__process__title">
         tldr;
       </h3></span>
+
       {{/*  <p class="homepage__process__text">Find out exactly which skills you will need to learn.</p>  */}}
-      {{ if .Params.Tldr1 }}<p class="homepage__process__text homepage__process__text--practice">{{ .Params.Tldr1 }}</p>{{ end }}
-      {{ if .Params.Tldr2 }}<p class="homepage__process__text homepage__process__text--practice">{{ .Params.Tldr2 }}</p>{{ end }}
-      {{ if .Params.Tldr3 }}<p class="homepage__process__text homepage__process__text--practice">{{ .Params.Tldr3 }}</p>{{ end }}
-      {{ if .Params.Tldr4 }}<p class="homepage__process__text homepage__process__text--practice">{{ .Params.Tldr4 }}</p>{{ end }}
-      {{ if .Params.Tldr5 }}<p class="homepage__process__text homepage__process__text--practice">{{ .Params.Tldr5 }}</p>{{ end }}
+      {{ if .Params.Tldr1 }}<p class="homepage__process__text homepage__process__text--practice">{{ .Params.Tldr1 | safeHTML }}</p>{{ end }}
+      {{ if .Params.Tldr2 }}<p class="homepage__process__text homepage__process__text--practice">{{ .Params.Tldr2 | safeHTML }}</p>{{ end }}
+      {{ if .Params.Tldr3 }}<p class="homepage__process__text homepage__process__text--practice">{{ .Params.Tldr3 | safeHTML }}</p>{{ end }}
+      {{ if .Params.Tldr4 }}<p class="homepage__process__text homepage__process__text--practice">{{ .Params.Tldr4 | safeHTML }}</p>{{ end }}
+      {{ if .Params.Tldr5 }}<p class="homepage__process__text homepage__process__text--practice">{{ .Params.Tldr5 | safeHTML }}</p>{{ end }}
     </div>
     <span><span class="homepage__process__link">{{ .Date.Format "2006-01-02" }}</span></span>
 
