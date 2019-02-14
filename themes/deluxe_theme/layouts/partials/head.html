@@ -86,9 +86,22 @@
 
   <title>NeverFap Deluxe | {{ .Title }}</title>
 
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132863786-1"></script>
+  <script>
+    if (document.location.hostname.search("neverfapdeluxe.com") !== -1) {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-132863786-1');
+    }
+  </script>
+
   <!-- Internal Templates -->
-  {{ template "_internal/google_analytics_async.html" . }}
-  <!-- {{ template "_internal/opengraph.html" . }} // Is this something I need ? -->
+  {{/* template "_internal/google_analytics_async.html" . */}}
+  <!-- {{/* template "_internal/opengraph.html" . */}} // Is this something I need ? -->
   {{ template "_internal/twitter_cards.html" . }}
 </head>
 

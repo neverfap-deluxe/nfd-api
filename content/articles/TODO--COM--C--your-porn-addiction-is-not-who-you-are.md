@@ -25,7 +25,9 @@ After all, what is the difference between being attracted to someone in real lif
 
 According to our brain, there really isn't much of a difference at all. 
 
+Ultimately, this causes us to question whether we're truly addicted at all.
 
+Which expresses itself into edging, claiming that porn is in fact 'art'
 
 
 
