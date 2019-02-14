@@ -1,6 +1,6 @@
 ---
   title: "The One Rule Of NeverFap"
-  description: "NeverFap Has One Very Important Rule: Practice And Spending The Time To Practice Is The Only Thing That Matters To Your Porn Recovery."
+  description: "Practicing meditation and awareness exercises on a daily basis is the only thing that matters for your porn recovery."
   date: 2018-11-06
   draft: false
   tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]

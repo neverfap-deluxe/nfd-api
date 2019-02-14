@@ -1,6 +1,6 @@
 ---
   title: "What Makes NeverFap So Different"
-  description: "Unlike NoFap, NeverFap Is A Comprehensive Porn Recovery Solution. With The Five Fundamental Principles Of Neverfap We Can Easily Give Up Porn."
+  description: "NeverFap is a comprehensive porn recovery solution that is designed to make overcoming your porn addiction as simple as possible."
   date: 2018-11-23
   draft: false
   tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "nofap alternative" ]

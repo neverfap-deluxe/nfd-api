@@ -14,14 +14,13 @@ The question is, are you willing to commit?
 
 - Is porn fundamentally wrong? No, but that blah blah blah
 - Should I orgasm on NeverFap?
-- Why do I keep relapsing? (Are you meditating? )
+- Why do I keep relapsing? (Are you meditating?)
 
 __WRITING__
-- Creating Your First NeverFap Schedule
-- You should never rely on your emotions.
-
+- The NeverFap State of Mind
 
 __Created/Done__
+- What Is NeverFap?
 - Introduction to the NeverFap Deluxe Guide
 - NeverFap: A Best Case Scenario
 - The Five Fundamental Principles of NeverFap
@@ -31,6 +30,8 @@ __Created/Done__
 - "Why Am I A Porn Addict?"
 - You can always find time for your mental health
 - The Five Principles Of Neverfap As They Relate To My Life
+- Creating Your First NeverFap Schedule
+- You should never rely on your emotions.
 
 
 {{< hr2 Choice over mind - COM
@@ -60,6 +61,7 @@ __Created/Done__
 
 __TODO__
 
+- Killing the complexity monster.
 - It's hard to struggle with what you understand
 - Creating healthy NeverFap expectations
 - Practice: What makes something easy?
@@ -85,10 +87,10 @@ __Created/Done__
 
 __TODO__
 - Redefining our metrics for productivity. 
-- Context: Balance is the reward
 - Context: Why balance is critical for regular function
 
 __WRITING__
-- Paying the NeverFap Maintenance Tax
+- Context: Balance is the reward
 
 __Created/Done__
+- Paying the NeverFap Maintenance Tax

@@ -36,7 +36,7 @@ Expectation being our understanding that, "This is the correct thing to do movin
 Emotion being that push which convinces us that what we're experiencing must be true.
 
 
-{{< hr3 "After all, positive emotions can never lie, right?" >}}
+{{< hr3 "After all, positive emotions never lie, right?" >}}
 
 
 And when you combine those two factors together, what you get is a cocktail of mania so strong, that nothing we do or say can convince us otherwise. 

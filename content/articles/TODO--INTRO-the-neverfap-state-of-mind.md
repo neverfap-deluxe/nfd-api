@@ -1,6 +1,6 @@
 ---
   title: "The NeverFap State Of Mind"
-  description: "NeverFap Deluxe Practices are designed to promote calmness and teach us to intuitively remain calm, as opposed to judgemental in reaction."
+  description: "NeverFap Deluxe Practices are designed to promote calmness and teach you to intuitively remain calm, as opposed to react emotionally with thought and judgement."
   date: 2019-02-06
   draft: true
   tags: [ "context", "neverfap schedule", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]

@@ -1,6 +1,6 @@
 ---
   title: "\"Why am I A Porn Addict?\""
-  description: "When We're Desperate We Can Find Ourselves Asking Irrational Questions And Attempting To Try And Understand Why We May Be A Porn Addict Is One Of Them."
+  description: "Understand why we are addicted to porn has very little in common with figuring out how to overcome porn addiction."
   date: 2018-11-13
   draft: false
   tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap alternative" ]
