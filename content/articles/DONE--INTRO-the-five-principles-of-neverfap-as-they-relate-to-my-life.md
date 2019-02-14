@@ -1,7 +1,7 @@
 ---
   title: "The Five Principles Of Neverfap As They Relate To My Life"
   description: "The Five Principles of NeverFap are a series of guidelines which can help you better handle your porn addiction."
-  date: 2019-02-08
+  date: 2019-02-04
   draft: false
   tags: [ "context", "popular", "neverfap basics", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap deluxe guide", "neverfap basics" ]
   categories: [ "introduction" ]

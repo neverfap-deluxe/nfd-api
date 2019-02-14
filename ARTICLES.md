@@ -1,4 +1,4 @@
-{{< hr2 NeverFap Introduction
+## NeverFap Introduction
 
 __TODO__
 - The problem with NoFap 
@@ -34,17 +34,19 @@ __Created/Done__
 - You should never rely on your emotions.
 
 
-{{< hr2 Choice over mind - COM
-
-
-
+## Choice over mind - COM
 
 __TODO__
 - Context: Porn is not who you are, it is your addiction.
+- The hidden art of not staring at women in public
+
+__WRITING__
 
 __Created/Done__
 
-{{< hr2 Uncondition over judgement - UOJ
+
+
+## Uncondition over judgement - UOJ
 
 __TODO__
 - The fallacy of judgement as an effective means
@@ -59,7 +61,7 @@ __WRITING__
 __Created/Done__
 
 
-{{< hr2 Struggle over none - SON
+## Struggle over none - SON
 
 __TODO__
 
@@ -70,7 +72,7 @@ __TODO__
 
 __Created/Done__
 
-{{< hr2 Awareness over all - AOA
+## Awareness over all - AOA
 
 __TODO__
 - The Myth of Awareness (how awareness is a practice, not something you already have). 
@@ -85,7 +87,7 @@ __Created/Done__
 - Context: The Importance of Meditation and NeverFap
 - Context: Everything is a choice
 
-{{< hr2 Balance over reward - BOR
+## Balance over reward - BOR
 
 __TODO__
 - Redefining our metrics for productivity. 

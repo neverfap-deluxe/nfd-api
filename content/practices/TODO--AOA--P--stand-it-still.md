@@ -1,7 +1,7 @@
 ---
   title: "Practice: Stand It Still"
   description: ""
-  date: 2019-02-08
+  date: 2019-02-21
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]

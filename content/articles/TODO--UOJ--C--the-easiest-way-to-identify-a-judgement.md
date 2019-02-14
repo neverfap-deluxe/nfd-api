@@ -1,7 +1,7 @@
 ---
   title: "The Easiest Way To Identify A Judgement"
   description: "Paying attention to the emotional reactions throughout the day is the easiest way to identify the judgements we have throughout ."
-  date: 2019-02-08
+  date: 2019-02-24
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]

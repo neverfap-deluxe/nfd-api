@@ -1,7 +1,7 @@
 ---
   title: "The Ultimate Aim Of NeverFap Deluxe Practices"
   description: "NeverFap Deluxe Practices are designed teach you self-control through verifiable practices."
-  date: 2019-02-06
+  date: 2019-03-01
   draft: true
   tags: [ "context", "neverfap schedule", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]

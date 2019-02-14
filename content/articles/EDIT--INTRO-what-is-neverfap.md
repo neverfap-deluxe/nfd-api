@@ -1,7 +1,7 @@
 ---
   title: "What Is NeverFap?" # developing self-control with neverfap
   description: "NeverFap is a comprehensive method of overcoming porn addiction. It is a system which is designed to teach you self-control in the easiest way possible."
-  date: 2019-02-12
+  date: 2019-02-16
   draft: false
   tags: [ "context", "neverfap schedule", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]

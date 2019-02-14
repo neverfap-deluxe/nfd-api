@@ -1,7 +1,7 @@
 ---
   title: "Why You Should Never Depend On Your Emotions" # Understanding The Cycle Of Porn Addiction
   description: "Depending on our emotions to motivate us, opens us to being vulnerable when our ."
-  date: 2019-02-12
+  date: 2019-03-10
   draft: false
   tags: [ "context", "understanding choice", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
