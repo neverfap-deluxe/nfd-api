@@ -2,7 +2,7 @@
   title: "Creating Your First NeverFap Schedule"
   description: "NeverFap Deluxe provides you with a schedule of exercises so that you can learn to develop awareness and self-control over your emotions."
   date: 2019-02-01
-  draft: true
+  draft: false
   tags: [ "context", "neverfap schedule", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
