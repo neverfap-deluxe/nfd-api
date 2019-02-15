@@ -14,6 +14,12 @@
     font-size: 1.2rem;
     line-height: 1.8rem;  
   }
+
+  .account__info {
+    border-bottom: 5px solid cyan;
+    padding-top: 0;
+    // padding-bottom: 3rem;
+  }
 }
 
 .homepage__hero {
@@ -55,6 +61,13 @@
         transition: .1s ease-in;
         .header__link {
           color: white;
+        }
+      }
+
+      #link__premium {
+        // border-bottom: 5px solid rgb(0, 255, 0);        
+        .header__link {
+          // border-bottom: none!important;
         }
       }
 
@@ -113,7 +126,7 @@
     font-size: 2.9rem;
     line-height: 4rem;
 
-    transition: 6s;
+    transition: box-shadow 6s;
   }
 
   .homepage__hero__title:hover {
@@ -129,7 +142,7 @@
     font-size: 2.1rem;
     text-align: center;
 
-    transition: 6s;
+    transition: font-size 6s;
   }
 
   .deluxe__font {
@@ -236,7 +249,7 @@
   padding: 0.45rem;
   border: 5px solid cyan;   
   box-shadow: -5px 5px 0px 0px rgba(255,46,182,1);
-  transition: .2s;
+  transition: box-shadow .2s, color .2s;
 
   font-size: 1rem;
 
@@ -290,7 +303,6 @@
     padding: 0.5rem;
     // border: 3px solid cyan;   
     box-shadow: -3px 3px 0px 0px black;
-    transition: .2s;
   }
 
   .homepage__process__subtitle {
@@ -322,7 +334,6 @@
     line-height: 1.5rem;
     // padding-left: 0.5rem;
     box-shadow: -5px 5px 0 0 #000;
-    transition: .2s;
   }
 
   .homepage__process__text--practice {

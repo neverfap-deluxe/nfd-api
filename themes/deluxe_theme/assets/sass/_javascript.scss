@@ -20,7 +20,7 @@
 .header__dropdown__link__wrapper {
   display: block;
   list-style: none;
-  transition: .1s ease-in;
+  transition: background .1s ease-in, box-shadow .1s ease-in;
   position: relative;
 
   .header__dropdown__link {
@@ -101,7 +101,7 @@
     padding-right: 1.2rem;
 
     cursor: pointer;
-    transition: .2s;
+    transition: box-shadow .2s, bottom .2s, left .2s;
     font-size: 1.1rem;
   }
 
@@ -124,7 +124,7 @@
     padding-right: 1.2rem;
     font-size: 1rem;
     cursor: pointer;
-    transition: .2s;
+    transition: box-shadow .2s, bottom .2s, left .2s;
   }
 
   .button__off:hover {

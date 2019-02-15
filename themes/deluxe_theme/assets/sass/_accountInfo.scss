@@ -1,0 +1,75 @@
+.account__info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 5px solid cyan;
+  padding-top: 2rem;
+  // border-bottom: 5px solid cyan;
+
+  min-height: 3rem;
+
+  .account__info__title {
+    margin-right: 1rem;
+    font-size: 0.9rem;
+    padding: 1rem;
+  }
+
+  .account__info__button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    height: 2.6rem;
+    min-width: 6.5rem;
+
+    margin-bottom: 1rem;
+
+    cursor: pointer;
+
+    margin-right: 0.6rem;
+    box-shadow: -5px 5px 0px 0px cyan;
+
+    transition: box-shadow .3s;
+    .account__info__button__text {  
+      color: black;
+      font-size: 0.9rem;  
+    }
+  }
+
+  .account__info__button:hover {
+    box-shadow: -8px 8px 0px 0px black;
+
+  }
+}
+
+.account__buttons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  min-width: 160px;
+}
+
+
+
+@media screen and (min-width: 420px) {
+  .account__buttons {
+    flex-direction: row;
+  }
+
+  .account__info {
+    .account__info__button {
+      margin-bottom: 0;
+    }
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+
+}
+
+// @media screen and (min-width: 1280px) {
+
+// }

@@ -2,6 +2,7 @@ var link__home = document.querySelector('#link__home');
 var link__guide = document.querySelector('#link__guide');
 var link__articles = document.querySelector('#link__articles');
 var link__practices = document.querySelector('#link__practices');
+var link__premium = document.querySelector('#link__premium');
 var link__about = document.querySelector('#link__about');
 var link__contact = document.querySelector('#link__contact');
 
@@ -25,6 +26,10 @@ switch(pathnameProper) {
   case 'practices':
     link__practices.style.borderBottom = '5px solid orange';
     break;
+
+  // case 'premium':
+  //   link__premium.style.borderBottom = '5px solid orange';
+  //   break;
 
   case 'about':
     link__about.style.borderBottom = '5px solid orange';

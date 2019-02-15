@@ -12,8 +12,22 @@ googleAnalytics = "UA-132863786-1"
   tag = "tags"
 
 [permalinks]
-    post = "/articles/:slug"
+  post = "/articles/:slug"
 
 [author]
   name = "Julius Reade"
 
+# [outputs]
+#   page = ["json"] # A player
+#   section = ["json"] # All players
+#   home = ["json"] # Everything
+
+# [mediaTypes]
+#   [mediaTypes."application/json"]
+#     suffixes = [ "json" ]
+#   [mediaTypes."text/html"]
+#     suffixes = [ "html" ]
+
+# [outputs]
+#   home = ["HTML", "JSON"]
+#   page = ["HTML", "JSON"]

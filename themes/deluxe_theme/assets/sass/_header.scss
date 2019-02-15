@@ -32,7 +32,7 @@
       display: block;
       // height: 100%;
       list-style: none;
-      transition: .1s ease-in;
+      transition: .1s background ease-in, .1s box-shadow ease-in;
       // border-bottom: 5px solid white;
       position: relative;
 
@@ -71,7 +71,7 @@
       width: 6rem;
       transform: rotate(-20deg);
       font-size: 0.7rem;
-      transition: .1s ease-out;
+      transition: font-size .1s ease-out;
     }
 
     #link__guide:hover .header__link__wrapper--guide--good-choice {
@@ -103,6 +103,15 @@
 
   .deluxe__font {
     font-size: 1.15rem;
+  }
+}
+
+#link__premium {
+  
+  .header__link {
+  // border-bottom: 5px solid rgb(0, 255, 0);
+  // color: black;
+  // border-bottom: 5px solid cyan;
   }
 }
 

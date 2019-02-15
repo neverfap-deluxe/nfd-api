@@ -1,0 +1,16 @@
+{{ define "response" }} 
+{
+  "title": "{{ .Title }}",
+  "content": "{{ .Content }}",
+  "date": '{{ .Date.Format "2006-01-02" }}',
+  "draft": "{{ .Draft }}",
+  "tags": "{{ .Tags }}",
+  "categories": "{{ .Categories }}",
+  "permalink" : "{{ .Permalink }}",
+  "slug": "{{ .Slug }}",
+  "what": "{{ .What }}",
+  "how": "{{ .How }}",
+  "when": "{{ .When }}",
+  "duration": "{{ .Duration }}",
+}
+{{ end }}

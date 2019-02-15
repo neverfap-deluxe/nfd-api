@@ -70,7 +70,7 @@
       bottom: 0;
       left: 0;
       position: relative;
-      transition: .15s;
+      transition: box-shadow .15s, bottom .15s, left .15s;
     }
 
     .post:hover {
