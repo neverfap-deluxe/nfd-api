@@ -14,7 +14,7 @@
 - Practices to show 
 - Figure out meta-titles
 
-
+https://forestry.io/blog/build-a-json-api-with-hugo/
 
 {{< hr2 Types of categories
 
