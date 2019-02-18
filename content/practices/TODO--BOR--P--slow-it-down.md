@@ -4,7 +4,7 @@
   date: 2019-01-18
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
-  categories: [ "awareness-over-all" ]
+  categories: [ "balance-over-reward" ]
   # image: "/images/face.jpg"
   slug: "slow-it-down"
 

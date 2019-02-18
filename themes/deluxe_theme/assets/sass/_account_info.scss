@@ -3,10 +3,13 @@
   justify-content: center;
   align-items: center;
   border-top: 5px solid cyan;
-  padding-top: 2rem;
+  border-bottom: 5px solid cyan;
+  // padding-top: 2rem;
   // border-bottom: 5px solid cyan;
 
   min-height: 3rem;
+
+  // width: 100vw;
 
   .account__info__title {
     margin-right: 1rem;

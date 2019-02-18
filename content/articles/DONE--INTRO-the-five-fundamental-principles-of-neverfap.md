@@ -171,6 +171,7 @@ And by learning to value and respect these boundaries, you may gain a significan
   <span><div class="five__principles__item__page">03 - Awareness over all</div></span>
 </div>
 
+
 Awareness is absolutely fundamental to everything we do.
 
 It is what allows us to identify and address the destructive patterns in our life, as well as serve as a stop-gap between our thoughts and our actions.

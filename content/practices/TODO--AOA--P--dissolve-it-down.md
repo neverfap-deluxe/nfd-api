@@ -18,7 +18,9 @@
 
 <!-- VERY HAPPY WITH THIS -->
 
-This exercise is designed to help dissolve your ego by reinterpreting our visual understanding of reality. 
+This exercise is designed to help dissolve your ego.
+
+The way this is achieved is through active reinterpretation of your visual understanding of reality. 
 
 In fact, all awareness exercises are designed to help dissolve your ego to some extent, however this one does it particularly well.
 

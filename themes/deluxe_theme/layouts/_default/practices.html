@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <main class="single__wrapper">   
+  <div class="single__wrapper">   
     
     <h2 class="single__title">{{ .Title }} <img src="/images/logo.png" class="logo__square" alt=""/></h2>
 
@@ -9,6 +9,11 @@
       <p>You may sort practices by latest or category.</p>
     </div>
   
+  </div>
+
+  {{ partial "accountInfo.html" . }}
+
+  <div class="single__wrapper">
     <h3 class="popular__latest__options__title">Practices</h3>
     <div class="popular__latest__options">
       <h3 class="button__click button__on popular__latest__options--guide" id="practices_latest_plain_click">Latest (plain text)</h3>
@@ -27,6 +32,7 @@
     <div class="posts__off posts--guide" id="practices_category_posts">
       {{ partial "articles_category.html" (dict "page" . "tag_type" "practice") }}
     </div>
-  </main>
+  </div>
+
   <script src='/js/practices.js'></script>
 {{ end }}

@@ -4,7 +4,7 @@
   date: 2019-01-12
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
-  categories: [ "awareness-over-all" ]
+  categories: [ "uncondition-over-judgement" ]
   # image: "/images/face.jpg"
   slug: "see-not-feel"
 

@@ -4,7 +4,7 @@
   date: 2019-01-25
   draft: true
   tags: [ "practice", "attachment", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
-  categories: [ "balance-over-reward" ]
+  categories: [ "uncondition-over-judgement" ]
   # image: "/images/face.jpg"
   slug: "object-attachment"
 

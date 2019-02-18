@@ -3,14 +3,8 @@
     <h1 class="single__hero__title">{{ .Title }}</h1>
   </div> -->
 
-  <main class="single__wrapper practices__wrapper">
-
+  <div class="single__wrapper practices__wrapper">
     <h1 class="single__title">{{ .Title }} <img src="/images/logo.png" class="logo__square" alt=""/></h1>
-
-    {{/*  <div class="single__tldr">
-      <h2 class="single__tldr__title">tldr;</h2>
-      {{ .Params.Tldr }}
-    </div>  */}}
 
     <div class="homepage__process single__homepage__process">
       <span><h3 class="homepage__process__title">
@@ -25,15 +19,26 @@
       {{ if .Params.Tldr5 }}<p class="homepage__process__text homepage__process__text--practice">{{ .Params.Tldr5 | safeHTML }}</p>{{ end }}
     </div>
     <span><span class="homepage__process__link">{{ .Date.Format "2006-01-02" }}</span></span>
+  </div>
 
+  {{ partial "accountInfo.html" . }}
 
+  <div class="single__wrapper">
     <div class="single__content">
       {{ .Content }}
     </div>
-
     {{ partial "next_prev_buttons.html" . }}
+  </div>
 
-    <h2>Latest Posts</h2>
-    {{ partial "latest_posts.html" . }}
-  </main>
+  {{ partial "accountInfo.html" . }}
+
+  <div class="single__wrapper">
+    <div class="single__content">
+      <h2>Latest Posts</h2>
+      {{ partial "latest_posts.html" . }}    
+    </div>
+  </div>
+
+  {{ partial "boxInfo.html" . }}
+
 {{ end }}

@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <main class="single__wrapper">   
+  <div class="single__wrapper">   
     
     <h2 class="single__title">{{ .Title }} <img src="/images/logo.png" class="logo__square" alt=""/></h2>
 
@@ -8,7 +8,11 @@
       <p>If you were interested in the complete list of mental health practices here on NeverFap Deluxe, please check out the suitably-named <a class="link" href="/practices">NeverFap Deluxe Practices</a> page.</p>
       <p>You may sort articles by latest or category.</p>
     </div>
+  </div>
 
+  {{ partial "accountInfo.html" . }}
+
+  <div class="single__wrapper">
     <h3 class="popular__latest__options__title">Articles</h3>
     <div class="popular__latest__options">
       <h3 class="button__click button__on popular__latest__options--guide" id="articles_latest_plain_click">Latest (plain text)</h3>
@@ -27,9 +31,7 @@
     <div class="posts__off posts--guide" id="articles_category_posts">
       {{ partial "articles_category.html" (dict "page" . "tag_type" "context") }}
     </div>
+  </div>
 
-
-    
-  </main>
   <script src='/js/articles.js'></script>
 {{ end }}
