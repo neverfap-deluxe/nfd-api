@@ -17,13 +17,12 @@
 
 <!-- VERY HAPPY WITH THIS -->
 
+{{< hr2 "Context" >}}
+
+
 This exercise is designed to help you keep on top of your awareness throughout the day.
 
 By becoming more conscious of the events throughout our day within time, we can become more conscious of the things we do within it.
-
-
-{{< hr2 "Context" >}}
-
 
 There are quite a few things that one can become aware of, and part of the reason is because awareness is all relative.
 
@@ -50,10 +49,7 @@ Becoming aware is not easy when you haven't consciously made an effort in the pa
 Of course, practice makes perfect.
 
 
-
 {{< hr2 "Exercise" >}}
-
-
 
 
 Essentially this is an exercise of acknowledgement.

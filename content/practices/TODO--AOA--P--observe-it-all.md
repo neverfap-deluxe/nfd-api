@@ -17,6 +17,10 @@
 
 <!-- VERY HAPPY WITH THIS -->
 
+
+{{< hr2 "Context" >}}
+
+
 This exercise encompasses one of the most fundamental skills in meditation: 
 
 
@@ -24,10 +28,6 @@ This exercise encompasses one of the most fundamental skills in meditation:
 
 
 It is a skill which will form the foundation of almost all awareness-related exercises.
-
-
-{{< hr2 "Context" >}}
-
 
 This is the kind of exercise that people struggle with for years, only because they attempt it without proper context as to how it should be done. 
 

@@ -17,13 +17,11 @@
 
 <!-- Seeing is not a feeling. -->
 
+{{< hr2 "Context" >}}
+
 This is the kind of exercise that porn addicts benefit from greatly, due to the way it changes your visual perception of reality.
 
 So let's get crackin'.
-
-
-{{< hr2 "Context" >}}
-
 
 The intention behind a lot of these exercises is to assist you in breaking down what you understand.
 

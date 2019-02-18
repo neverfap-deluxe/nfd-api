@@ -18,17 +18,15 @@
 
 <!-- VERY HAPPY WITH THIS -->
 
-This exercise is designed to help dissolve your ego.
-
-The way this is achieved is through active reinterpretation of your visual understanding of reality. 
-
-In fact, all awareness exercises are designed to help dissolve your ego to some extent, however this one does it particularly well.
-
-Excellent.
-
 
 {{< hr2 "Context" >}}
 
+
+This exercise is designed to help dissolve your ego.
+
+The way this is achieved is through active reinterpretation of your visual field. 
+
+In fact, all awareness exercises are designed to help dissolve your ego to some extent, however this one does it particularly well.
 
 Much like the <a class="link" href="/articles/slow-it-down">Slow it down</a> exercise, Dissolve it down is about changing our interpretation of reality.
 
@@ -93,6 +91,7 @@ A more advanced concept we will explore in future once we've mastered these more
 <!-- Recommend period  -->
 
 {{< hr2 "Moving Forward" >}}
+
 
 {{< similiar_practices "awareness-over-all" >}}
 

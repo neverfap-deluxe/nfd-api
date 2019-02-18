@@ -15,13 +15,13 @@
 
 ---
 
-This exercise is incredibly powerful. 
-
-It's a very direct way to change how our mind works, and is an exercise that a lot of people find very challenging despite how simple it actually is. 
-
 
 {{< hr2 "Context" >}}
 
+
+This exercise is incredibly powerful. 
+
+It's a very direct way to change how our mind works, and is an exercise that a lot of people find very challenging despite how simple it actually is. 
 
 The idea behind this exercise is to challenge our beliefs and pre-conceived notions of what we believe is necessary.
 

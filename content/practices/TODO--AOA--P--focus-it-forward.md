@@ -17,21 +17,15 @@
 
 <!-- VERY HAPPY WITH THIS -->
 
+{{< hr2 "Context" >}}
+
 Learning to focus our attention is an important skill.
 
 However I would argue that it's quite an advanced skill, that should only be attempted once you feel more comfortable being aware in general.
 
 Because in actual fact, as you'll come to realise, focus itself is actually the inverse to awareness.
 
-<!-- Other exercises -->
-
 Again, it almost always creates more confusion than clarity, so please do not proceed until you've mastered more passive, basic awareness exercises. 
-
-
-{{< hr2 "Context" >}}
-
-
-Ah, good ol' focus.
 
 Focus is a bit of a paradox of sorts, at least according to conventional wisdom.
 

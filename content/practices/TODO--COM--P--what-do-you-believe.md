@@ -1,12 +1,12 @@
 ---
-  title: "Practice: Fighting Spirit"
+  title: "Practice: What Do You Believe"
   description: ""
-  date: 2019-03-22
-  draft: false
+  date: 2019-04-14
+  draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
-  categories: [ "struggle-over-none" ]
+  categories: [ "choice-over-mind" ]
   # image: "/images/face.jpg"
-  slug: "fighting-spirit"
+  slug: "what-do-you-believe"
   
   what: "."
   how: "."
@@ -14,11 +14,11 @@
   duration: "."
 ---
 
+Identify the choice we have in life, or our perception of what choice we have.
+
+
 {{< hr2 "Context" >}}
 
-When we're not functioning to the best of our ability, it's because we're fighting ourselves in some way. 
-
-In this exercise, we want to identify the key areas in our life where we .
 
 {{< hr2 "Exercise" >}}
 

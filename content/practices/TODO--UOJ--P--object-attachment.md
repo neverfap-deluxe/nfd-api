@@ -15,16 +15,14 @@
   
 ---
 
+{{< hr2 "Context" >}}
+
+
 The idea behind this exercises is to further understand why we get attached to certain things in our life.
 
 First we start with objects. 
 
 Then we move onto people and concepts. 
-
-
-
-
-{{< hr2 "Context" >}}
 
 
 {{< hr3 "Because when we're in control of our mind, it's almost as if everything is moving in slow motion." >}}

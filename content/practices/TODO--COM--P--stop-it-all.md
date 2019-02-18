@@ -4,7 +4,7 @@
   date: 2019-01-22
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
-  categories: [ "balance-over-reward" ]
+  categories: [ "choice-over-mind" ]
   # image: "/images/face.jpg"
   slug: "stop-it-all"
 
@@ -17,15 +17,14 @@
 
 <!-- VERY HAPPY WITH THIS -->
 
+{{< hr2 "Context" >}}
+
+
 I love this exercise.
 
 I can't quite tell if this exercise is an analogue to <a class="link" href="/articles/slow-it-down">Slow it down</a> or a percursor to it, however they're both different approaches to the same thing. 
 
 Usually you end up using both in conjunction, but it's arguably easier to learn them as separate, unique skills.
-
-
-{{< hr2 "Context" >}}
-
 
 All awareness exercises essentially come down to finding different ways to break our perception of who we are.
 

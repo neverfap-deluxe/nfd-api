@@ -4,7 +4,7 @@
   date: 2019-03-30
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
-  categories: [ "struggle-over-none" ]
+  categories: [ "choice-over-mind" ]
   # image: "/images/face.jpg"
   slug: "expressing-gratitude"
   

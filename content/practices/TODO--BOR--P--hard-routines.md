@@ -1,33 +1,36 @@
 ---
-  title: "Practice: Fighting Spirit"
+  title: "Practice: Hard routines"
   description: ""
-  date: 2019-03-22
+  date: 2019-03-12
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
-  categories: [ "struggle-over-none" ]
+  categories: [ "balance-over-reward" ]
   # image: "/images/face.jpg"
-  slug: "fighting-spirit"
-  
+  slug: "hard-routines"
+
   what: "."
   how: "."
   when: "."
   duration: "."
+
 ---
+
+We are going to develop a hard routine.
+
 
 {{< hr2 "Context" >}}
 
-When we're not functioning to the best of our ability, it's because we're fighting ourselves in some way. 
 
-In this exercise, we want to identify the key areas in our life where we .
 
 {{< hr2 "Exercise" >}}
+
 
 
 {{< hr2 "Moving Forward" >}}
 
  
 
-{{< similiar_practices "struggle-over-none" >}}
+{{< similiar_practices "awareness-over-all" >}}
 
 
 <!-- 

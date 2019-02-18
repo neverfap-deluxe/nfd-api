@@ -15,13 +15,13 @@
 
 ---
 
-A lot of people find this exercise super useful, because it can help us identify our biases much easier than trying to identify those biases directly.
-
-It's a great thinking exercise, which makes you realise how well optimised our minds truly are when it comes to filtering information. 
-
 
 {{< hr2 "Context" >}}
 
+
+A lot of people find this exercise super useful, because it can help us identify our biases much easier than trying to identify those biases directly.
+
+It's a great thinking exercise, which makes you realise how well optimised our minds truly are when it comes to filtering information. 
 
 Judgement by function is conditional.
 

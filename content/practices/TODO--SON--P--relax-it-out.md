@@ -15,11 +15,11 @@
 
 ---
 
+{{< hr2 "Context" >}}
+
 This exercise is incredibly effective, especially for those new to meditation and perspective.
 
 Well, I'd go as far as to say that all exercises are effective, it's just that some are conceptually a lot simpler to actually do than others. 
-
-{{< hr2 "Context" >}}
 
 There are a range of different exercises which all seem quite similar to what we're attempting to achieve here.
 

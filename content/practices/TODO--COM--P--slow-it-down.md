@@ -4,7 +4,7 @@
   date: 2019-01-18
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
-  categories: [ "balance-over-reward" ]
+  categories: [ "choice-over-mind" ]
   # image: "/images/face.jpg"
   slug: "slow-it-down"
 
@@ -17,13 +17,12 @@
 
 <!-- WILL DEFINITELY NEED A REWRITE -->
 
+{{< hr2 "Context" >}}
+
+
 This exercise is one of the easiest ways to start building your awareness. 
 
 Essentially, it involves slowing down your mind so that you can open yourself to the opportunity of being aware.
-
-
-{{< hr2 "Context" >}}
-
 
 One of the most common ways we weaken our ability to be aware, is by losing control over our thoughts.
 

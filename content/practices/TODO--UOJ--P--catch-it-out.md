@@ -17,15 +17,12 @@
 
 <!-- TODO: Link to The Easiest Way To Identify A Judgement -->
 
-This exercise is great for helping us understand when and why we make judgements throughout our day.
-
-Furthermore, it's relatively straight forward, so get excited! 
-
 
 {{< hr2 "Context" >}}
 
+This exercise is great for helping us understand when and why we make judgements throughout our day.
 
-Ah, the humble judgement. 
+Furthermore, it's relatively straight forward, so get excited! 
 
 First of all, I want to start off by saying that there's nothing necessarily wrong with making judgements. 
 
