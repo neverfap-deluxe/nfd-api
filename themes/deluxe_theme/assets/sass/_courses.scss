@@ -1,0 +1,54 @@
+.courses {
+
+  .courses__title {
+    
+  }
+
+  h3 {
+    font-size: 2rem;
+  }
+}
+
+.homepage__process__title--courses {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  display: inline-block;
+
+  color: black;
+  background: white;
+  // padding: 1rem;
+  padding-left: 1.3rem;
+  padding-right: 1.6rem;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+
+  // border: 3px solid cyan;   
+  box-shadow: -3px 3px 0px 0px black;
+
+  .five__principles__list__page {
+    .five__principles__item__page {
+      top: 0.8rem;
+    }
+  }
+}
+
+.homepage__process__title--courses::before {
+  width: 110%;
+}
+
+
+// @media screen and (min-width: 420px) {
+//   .courses {
+//   }
+// }
+
+
+// @media screen and (min-width: 768px) {
+//   .courses {
+//   }
+// }
+
+// @media screen and (min-width: 1280px) {
+//   .courses {
+//   }
+// }

@@ -14,43 +14,90 @@
   {{ partial "accountInfo.html" . }}
 
   <div class="single__wrapper">   
-    <div class="single__content">
-      <p></p>
+    <div class="single__content" style="margin-bottom: 0;">
       <p>These courses have been structured around the written content on this website, in order to provide you with the most efficient way forward with your porn recovery.</p>
       <p>Much like the written content, these courses have been designed around The Five Fundamental Principles Of NeverFap. In addition, they will also be available in audio format.</p>
       <p>These structured courses are the recommended approach towards consuming the information on this website, as opposed to merely scouring the website for information.</p>
     </div>
   </div>
-  
 
 
   <div class="single__wrapper">   
-    <div class="single__content">
 
-      <div class="five__principles__list__page">
-        <span><li class="five__principles__item__page">Choice over mind</li></span>
+    {{/*  Choice over mind  */}}
+    <div class="homepage__process single__homepage__process">
+      <span><h3 class="homepage__process__title--courses">
+        <div class="five__principles__list__page">
+          <span><li class="five__principles__item__page five__principles__item__page--courses">Choice over mind</li></span>
+        </div>
+      </h3></span>
+
+      <div class="homepage__process__text homepage__process__text--practice"><b>What</b>
+        <p>This course focuses on helping you fully understanding control. Why you are in control. Why you are not a victim. How to maintain control.</p>
       </div>
+      <div class="homepage__process__text homepage__process__text--practice"><b>How</b><p>{{ .Params.How }}</p></div>
+      <div class="homepage__process__text homepage__process__text--practice"><b>When</b><p>{{ .Params.When }}</p></div>
+      <div class="homepage__process__text homepage__process__text--practice"><b>Duration</b><p>{{ .Params.Duration }}</p></div>
+    </div>
+    <span><span class="homepage__process__link">{{ .Date.Format "2006-01-02" }}</span></span>  
 
-      <p>This course focuses on understanding how and why you have full control over your mind.</p>
-      <p>Episodes:</p>
-      <ul>
-        <li>Stand it still</li>
-        <li></li>
-      </ul> 
 
-      <div class="five__principles__list__page">
-        <span><li class="five__principles__item__page">Balance over reward</li></span>
+    {{/*  Balance over reward  */}}
+    <div class="homepage__process single__homepage__process">    
+      <span><h3 class="homepage__process__title--courses">
+        <div class="five__principles__list__page">
+          <span><li class="five__principles__item__page five__principles__item__page--courses">Balance over reward</li></span>
+        </div>
+      </h3></span>
+
+      <div class="homepage__process__text homepage__process__text--practice"><b>What</b>
+        <p>This course focuses on developing the ability to prioritise healthily.</p>
       </div>
-      <p>This course focuses on developing the ability to prioritise healthily.</p>
-        
+      <div class="homepage__process__text homepage__process__text--practice"><b>How</b><p>{{ .Params.How }}</p></div>
+      <div class="homepage__process__text homepage__process__text--practice"><b>When</b><p>{{ .Params.When }}</p></div>
+      <div class="homepage__process__text homepage__process__text--practice"><b>Duration</b><p>{{ .Params.Duration }}</p></div>
+    </div>
+    <span><span class="homepage__process__link">{{ .Date.Format "2006-01-02" }}</span></span>  
+  
 
-      <div class="five__principles__list__page">
-        <span><li class="five__principles__item__page">Struggle over none</li></span>
+    {{/*  Awareness over all  */}}
+    <div class="homepage__process single__homepage__process">    
+      <span><h3 class="homepage__process__title--courses">
+        <div class="five__principles__list__page">
+          <span><li class="five__principles__item__page five__principles__item__page--courses">Awareness over all</li></span>
+        </div>
+      </h3></span>
+
+      <div class="homepage__process__text homepage__process__text--practice"><b>What</b>
+        <p>This course focuses on practicing meditation exercises which are designed to develop your awareness and observation skills.</p>
       </div>
+      <div class="homepage__process__text homepage__process__text--practice"><b>How</b><p>{{ .Params.How }}</p></div>
+      <div class="homepage__process__text homepage__process__text--practice"><b>When</b><p>{{ .Params.When }}</p></div>
+      <div class="homepage__process__text homepage__process__text--practice"><b>Duration</b><p>{{ .Params.Duration }}</p></div>
+    </div>
+    <span><span class="homepage__process__link">{{ .Date.Format "2006-01-02" }}</span></span>  
+  
+  
+    {{/*  Struggle over none  */}}
+    <div class="homepage__process single__homepage__process">    
+      <span><h3 class="homepage__process__title--courses">
+        <div class="five__principles__list__page">
+          <span><li class="five__principles__item__page five__principles__item__page--courses">Struggle over none</li></span>
+        </div>
+      </h3></span>
 
-      <p>This course focuses on developing a healthy attitude towards NeverFap and porn recovery.</p>
+      <div class="homepage__process__text homepage__process__text--practice"><b>What</b>
+        <p>.</p>
+      </div>
+      <div class="homepage__process__text homepage__process__text--practice"><b>How</b><p>{{ .Params.How }}</p></div>
+      <div class="homepage__process__text homepage__process__text--practice"><b>When</b><p>{{ .Params.When }}</p></div>
+      <div class="homepage__process__text homepage__process__text--practice"><b>Duration</b><p>{{ .Params.Duration }}</p></div>
+    </div>
+    <span><span class="homepage__process__link">{{ .Date.Format "2006-01-02" }}</span></span>  
+  
+  
 
-        
+
       <div class="five__principles__list__page">
         <span><li class="five__principles__item__page">Awareness over all</li></span>
       </div>
@@ -63,13 +110,13 @@
       </div>
 
       <p>This course focuses on separating and dissolving our thoughts, feelings and emotions.</p>
-    </div>
+    {{/*  </div>  */}}
   </div>
 
 
   <div class="single__wrapper">   
     <div class="single__content">
-      <p></p>
+      <h2>Audio content.</h2>
       <p>In addition to the written content on this website, we also offer structured audio courses which have been designed to provide you with a linear pathway towards developing the skills to address your porn addiction.</p>
       <p>Much like the written content, these courses have been designed around The Five Fundamental Principles Of NeverFap, in order to help you learn new skills in the most efficient way possible.</p>
       <p>In order to sign up for the courses, you first need to <a class="link" href="https://community.neverfapdeluxe.com/">create an account</a> on our NeverFap Deluxe Community website.</p>
