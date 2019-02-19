@@ -3,7 +3,7 @@
   description: "Understand why we are addicted to porn has very little in common with figuring out how to overcome porn addiction."
   date: 2018-11-13
   draft: false
-  tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap alternative" ]
+  tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap companion" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "why-am-i-am-porn-addict"

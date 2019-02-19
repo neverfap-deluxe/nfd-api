@@ -1,6 +1,6 @@
 ---
   title: "Articles"
-  description: "NeverFap Deluxe Articles Index. Learn To Gain Control Over Your Porn Addiction Through Our Context And Practice Artices. The Perfect NoFap Alternative."
+  description: "NeverFap Deluxe Articles Index. Learn to gain control over your porn addiction through our context and practice artices."
   date: 2018-12-30
   draft: false
   tags: [ "articles", "index", "porn addiction", "porn recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]

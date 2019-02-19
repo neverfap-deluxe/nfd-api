@@ -3,7 +3,7 @@
   description: "NeverFap is a comprehensive porn recovery solution that is designed to make overcoming your porn addiction as simple as possible."
   date: 2018-11-23
   draft: false
-  tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "nofap alternative" ]
+  tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "nofap companion" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "what-makes-neverfap-so-different"
