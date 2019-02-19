@@ -1,12 +1,12 @@
 ---
-  title: "Course: Balance Over Reward"
+  title: "Course: Introduction"
   description: "."
-  date: 2019-04-14
+  date: 2019-04-21
   draft: true
   tags: [ "course", "meditation", "visual meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
-  categories: [ "balance-over-reward" ]
+  categories: [ "introduction" ]
   # image: "/images/face.jpg"
-  slug: "balance-over-reward"
+  slug: "introduction"
 
 ---
 

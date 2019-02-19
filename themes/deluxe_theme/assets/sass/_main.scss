@@ -172,3 +172,8 @@ hr {
     display: inline-block;
   }
 }
+
+
+.contact__form__title-thing:hover {
+  color: lighten(rgba(255,46,182,1), 10%);
+}
