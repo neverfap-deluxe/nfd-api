@@ -38,9 +38,13 @@
 
       <p>Before you begin, I highly recommend becoming familiar with <a class="link" href="/articles/the-five-fundamental-principles-of-neverfap">The Five Fundamental Principles of NeverFap</a>.</p>
       <p>These principles will form the basis of everything you will learn, and each article will focus on a particular principle.</p>
+      <p>These five principles are: Choice over mind, Balance over reward, Awareness over all, Struggle over none and Uncondition over judgement.</p>
+      <p>Until you master all five principles, it will be very difficult to truly be comfortable with your porn recovery and to succeed with certainty.</p>
 
     </div>
   </div>
+
+  {{ partial "boxLink.html" (dict "Title" "Principles" "Text" "The Five Fundamental Principles Of NeverFap!" "Link" "/articles/the-five-fundamental-principles-of-neverfap" )}}
 
   <div class="single__wrapper">   
     <div class="single__content" style="margin-bottom: 0;">
@@ -71,7 +75,66 @@
   {{ partial "boxLink.html" (dict "Title" "Practices" "Text" "Check out our NeverFap Deluxe Practices!" "Link" "/practices" )}}
 
 
+  <div class="single__wrapper">   
+    <div class="single__content" style="margin-bottom: 0;">
+  
+      <h2>NeverFap Deluxe Practices</h2>
+
+      <p>NeverFap Deluxe Practices focus solely on verifiable steps you can take on a daily basis to help you progress towards learning the skills to end your porn addiction.</p>
+      <p>This is where you'll be spending a majority of your time, practicing these skills and exercises so that you can master them.</p>
+      <p>My recommended approach is to start with <a class="link" href="/practices/observe-it-all">Observe it all</a> (which will be the core exercise you will practice every single day) and then to pick one additional exercise to practice throughout the day.</p>
+
+    </div>
+  </div>
+
+  {{ partial "boxLink.html" (dict "Title" "Practices" "Text" "Check out our NeverFap Deluxe Practices!" "Link" "/practices" )}}
+  
+
+
   <div class="single__wrapper">      
+    <h2>Content List</h2>
+    <p>Once you're ready, and after you've read The Five Fundamental Principles of NeverFap, feel free to explore the range of articles, practices and guides available on the website.</p>
+
+    <p>There is also a much more functional <a class="link" href="/articles">article index</a> if you'd like a greater overview of the written content on this website.</p>
+
+    <div class="popular__latest__options">
+      <h3 class="button__click button__on popular__latest__options--guide" id="introduction_click">Introduction</h3>
+      <h3 class="button__click button__off popular__latest__options--guide" id="choice_over_mind_click">Choice over mind</h3>
+      <h3 class="button__click button__off popular__latest__options--guide" id="balance_over_reward_click">Balance over reward</h3>
+      <h3 class="button__click button__off popular__latest__options--guide" id="struggle_over_none_click">Struggle over none</h3>
+      <h3 class="button__click button__off popular__latest__options--guide" id="awareness_over_all_click">Awareness over all</h3>
+      <h3 class="button__click button__off popular__latest__options--guide" id="uncondition_over_judgement_click">Uncondition over judgement</h3>
+    </div>
+    
+    <div class="post__on posts--guide" id="introduction_posts">
+      {{ partial "category_posts.html" (dict "page" .Site "post_category" "introduction") }}
+    </div>
+
+    <div class="post__off posts--guide" id="choice_over_mind_posts">
+      {{ partial "category_posts.html" (dict "page" .Site "post_category" "choice-over-mind") }}
+    </div>
+
+    <div class="post__off posts--guide" id="balance_over_reward_posts">
+      {{ partial "category_posts.html" (dict "page" .Site "post_category" "balance-over-reward") }}
+    </div>
+
+    <div class="post__off posts--guide" id="strugle_over_none_posts">
+      {{ partial "category_posts.html" (dict "page" .Site "post_category" "struggle-over-none") }}
+    </div>
+
+    <div class="post__off posts--guide" id="awareness_over_all_posts">
+      {{ partial "category_posts.html" (dict "page" .Site "post_category" "awareness-over-all") }}
+    </div>
+
+    <div class="post__off posts--guide" id="uncondition_over_judgement_posts">
+      {{ partial "category_posts.html" (dict "page" .Site "post_category" "uncondition-over-judgement") }}
+    </div>
+  </div>
+  <script src='/js/guide.js'></script>
+
+{{ end }}
+
+
 
 
 
@@ -118,45 +181,3 @@
         >NeverFap Deluxe Practices.</a
       >
     </div>  */}}
-
-    <h2>Content List</h2>
-    <p>Once you're ready, and after you've read The Five Fundamental Principles of NeverFap, feel free to explore the range of articles, practices and guides available on the website.</p>
-
-    <p>There is also a much more functional <a class="link" href="/articles">article index</a> if you'd like a greater overview of the written content on this website.</p>
-
-    <div class="popular__latest__options">
-      <h3 class="button__click button__on popular__latest__options--guide" id="introduction_click">Introduction</h3>
-      <h3 class="button__click button__off popular__latest__options--guide" id="choice_over_mind_click">Choice over mind</h3>
-      <h3 class="button__click button__off popular__latest__options--guide" id="balance_over_reward_click">Balance over reward</h3>
-      <h3 class="button__click button__off popular__latest__options--guide" id="struggle_over_none_click">Struggle over none</h3>
-      <h3 class="button__click button__off popular__latest__options--guide" id="awareness_over_all_click">Awareness over all</h3>
-      <h3 class="button__click button__off popular__latest__options--guide" id="uncondition_over_judgement_click">Uncondition over judgement</h3>
-    </div>
-    
-    <div class="post__on posts--guide" id="introduction_posts">
-      {{ partial "category_posts.html" (dict "page" .Site "post_category" "introduction") }}
-    </div>
-
-    <div class="post__off posts--guide" id="choice_over_mind_posts">
-      {{ partial "category_posts.html" (dict "page" .Site "post_category" "choice-over-mind") }}
-    </div>
-
-    <div class="post__off posts--guide" id="balance_over_reward_posts">
-      {{ partial "category_posts.html" (dict "page" .Site "post_category" "balance-over-reward") }}
-    </div>
-
-    <div class="post__off posts--guide" id="strugle_over_none_posts">
-      {{ partial "category_posts.html" (dict "page" .Site "post_category" "struggle-over-none") }}
-    </div>
-
-    <div class="post__off posts--guide" id="awareness_over_all_posts">
-      {{ partial "category_posts.html" (dict "page" .Site "post_category" "awareness-over-all") }}
-    </div>
-
-    <div class="post__off posts--guide" id="uncondition_over_judgement_posts">
-      {{ partial "category_posts.html" (dict "page" .Site "post_category" "uncondition-over-judgement") }}
-    </div>
-  </div>
-  <script src='/js/guide.js'></script>
-
-{{ end }}
