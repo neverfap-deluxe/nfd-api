@@ -21,7 +21,8 @@
   padding-right: 1.6rem;
   padding-top: 0.4rem;
   padding-bottom: 0.4rem;
-  
+  cursor: pointer;
+  transition: box-shadow .3s;
 
   // border: 3px solid cyan;   
   box-shadow: -5px 5px 0px 0px cyan;
@@ -40,6 +41,10 @@
 
 .homepage__process__title--courses::before {
   width: 110%;
+}
+
+.homepage__process__title--courses:hover {
+  box-shadow: -10px 10px 0px 0px black;
 }
 
 .homepage__process__link--courses {

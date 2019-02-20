@@ -8,5 +8,8 @@
   # image: "/images/face.jpg"
   slug: "awareness-over-all"
 
+  category: "awareness-over-all"
 ---
+
+
 

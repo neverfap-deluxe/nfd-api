@@ -8,5 +8,6 @@
   # image: "/images/face.jpg"
   slug: "introduction"
 
+  category: "introduction"
 ---
 

@@ -8,5 +8,6 @@
   # image: "/images/face.jpg"
   slug: "uncondition-over-judgement"
 
+  category: "uncondition-over-judgement"
 ---
 

@@ -8,5 +8,6 @@
   # image: "/images/face.jpg"
   slug: "struggle-over-none"
 
+  category: "struggle-over-none"
 ---
 

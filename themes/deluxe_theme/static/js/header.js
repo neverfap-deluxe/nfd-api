@@ -19,6 +19,10 @@ switch(pathnameProper) {
     link__guide.style.borderBottom = '5px solid orange';
     break;
 
+  case 'courses':
+    link__guide.style.borderBottom = '5px solid orange';
+    break;
+
   case 'articles':
     link__articles.style.borderBottom = '5px solid orange';
     break;
@@ -26,6 +30,10 @@ switch(pathnameProper) {
   case 'practices':
     link__practices.style.borderBottom = '5px solid orange';
     break;
+
+  // case 'premium':
+  //   link__premium.style.borderBottom = '5px solid orange';
+  //   break;
 
   // case 'premium':
   //   link__premium.style.borderBottom = '5px solid orange';
