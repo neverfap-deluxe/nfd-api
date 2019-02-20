@@ -11,7 +11,7 @@
   overview: "Understand the fundamental principles of NeverFap Deluxe."
   learn1: "- Why NeverFap Deluxe works as a comprehensive system."
   learn2: "- How NeverFap Deluxe makes porn recovery simple."
-  learn3: "- Commit to long-term thinking."
+  learn3: "- The Five Fundamental Principles of NeverFap."
   category: "introduction"
 ---
 

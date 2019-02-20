@@ -8,10 +8,10 @@
   # image: "/images/face.jpg"
   slug: "balance-over-reward"
 
-  overview: "Understand the crucial role balance plays in maintaining our feelings and emotions."
+  overview: "Understand the crucial role balance plays in maintaining your feelings and emotions."
   learn1: "- How to value your mental health above all."
-  learn2: "- How we neglect ourselves in favour for obsession."
-  learn3: "- How to effortlessly enforce balance in our daily lives."
+  learn2: "- How you neglect yourself in favour of obsession."
+  learn3: "- How to effortlessly enforce balance in your daily life."
   category: "balance-over-reward"
 ---
 

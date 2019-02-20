@@ -8,7 +8,7 @@
   # image: "/images/face.jpg"
   slug: "choice-over-mind"
 
-  overview: "Understand why and how we have full control over our minds."
+  overview: "Understand why and how you have full control over your mind."
   learn1: "- How to develop control over your mind."
   learn2: "- How to maintain confidence in your own decisions."
   learn3: "- Understand your options and embrace them."

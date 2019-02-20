@@ -9,8 +9,8 @@
   slug: "awareness-over-all"
 
   overview: "Understand the role of awareness and observation as a core strategy towards overcoming porn addiction."
-  learn1: "- Why awareness is absolutely fundamental in everything we do."
-  learn2: "- How meditation allows us to dissolve addiction."
+  learn1: "- Why awareness is fundamental in everything you do."
+  learn2: "- How meditation allows you to dissolve your addiction."
   learn3: "- How to quiet and focus your mind."
   category: "awareness-over-all"
 ---

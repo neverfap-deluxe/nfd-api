@@ -8,8 +8,8 @@
   # image: "/images/face.jpg"
   slug: "struggle-over-none"
 
-  overview: "Understand that porn recovery is about embracing calm and learning not to fight ourselves mentally."
-  learn1: "- Understand how you're working against yourself and why."
+  overview: "Understand that porn recovery is about embracing calm and learning not to fight yourself mentally."
+  learn1: "- How you're working against yourself and why."
   learn2: "- How to relax and remain calm."
   learn3: "- Embrace simplicity as a philosophy."
   category: "struggle-over-none"
