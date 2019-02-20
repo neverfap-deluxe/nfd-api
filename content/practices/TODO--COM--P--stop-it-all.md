@@ -1,6 +1,6 @@
 ---
   title: "Practice: Stop It All"
-  description: "Like Flicking Off A Switch, Attempt To Completely Deactive Your Mind. This Is One Quick Way We Can Learn To Break Our Perception Of Reality And Dissolve Our Ego."
+  description: "Mentally stopping everything in our mind is one of the quickest ways you can learn to dictate control over yourself."
   date: 2019-01-22
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]

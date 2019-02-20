@@ -1,10 +1,10 @@
 ---
   title: "Practice: Observe It All"
-  description: ""
+  description: "Observation is one of the most powerful ways we can meditate and learn to regain control over our porn addiction."
   date: 2019-01-27
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
-  categories: [ "awareness-over-all" ]
+  categories: [ "introduction" ]
   # image: "/images/face.jpg"
   slug: "observe-it-all"
 
@@ -21,10 +21,10 @@
 {{< hr2 "Context" >}}
 
 
-This exercise encompasses one of the most fundamental skills in meditation: 
+This exercise encompasses one of the most fundamental skills in meditation:
 
 
-{{< hr4  "To become aware of our senses." >}}
+{{< hr4  "The ability to be aware of our senses in the present moment." >}}
 
 
 It is a skill which will form the foundation of almost all awareness-related exercises.
