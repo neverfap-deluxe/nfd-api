@@ -18,9 +18,9 @@ googleAnalytics = "UA-132863786-1"
   name = "Julius Reade"
 
 [outputs]
-  page = ["json"] # A player
-  section = ["json"] # All players
-  home = ["json"] # Everything
+  page = ["json", "html"] # A player
+  section = ["json", "html"] # All players
+  home = ["json", "html"] # Everything
 
 # [mediaTypes]
 #   [mediaTypes."application/json"]
