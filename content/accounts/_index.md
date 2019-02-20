@@ -30,7 +30,7 @@ These different resources include:
 
 - **Guided audio meditations to help assist you through your practices.**
 - **Structured perspective courses utilising the practices on this website.**
-- **A web/mobile application to assist you in recording your progress through your .**
+- **A web/mobile application to assist you in recording your progress through the website.**
 - **Personal one on one coaching sessions.**
 
 <hr class="hrul__bottom"/>
@@ -40,4 +40,4 @@ All things which can be super helpful, and worth the additional cost if you beli
 
 But certainly not prohibitive from an information perspective.
 
-Of course, this website is still young and so 
+Of course, this stuff will be a while away as I work on building out the content and functionality of the website first, so feel free to check out my Patreon where I'll be posting all NeverFap Deluxe updates and future goodies to come!
