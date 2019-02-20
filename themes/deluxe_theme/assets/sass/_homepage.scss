@@ -16,6 +16,10 @@
   }
 
   .account__info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
     border-bottom: 5px solid cyan;
     padding-top: 0;
     // padding-bottom: 3rem;
