@@ -13,6 +13,7 @@
 - Figure out twitter https://twitter.com/
 - Practices to show 
 - Figure out meta-titles
+- Sort out image meta. 
 
 https://forestry.io/blog/build-a-json-api-with-hugo/
 
