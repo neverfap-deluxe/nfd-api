@@ -7,7 +7,7 @@
     </div>
   </div>
   
-  {{ partial "accountInfo.html" . }}
+  {{ partial "links/accountInfo.html" . }}
 
   <div class="single__wrapper">
     <h2>Course Articles</h2>
@@ -20,18 +20,18 @@
     {{ partial "courses/courses_practices_by_category.html" (dict "page" . "category_type" .Params.category) }}
   </div>
 
-  {{ partial "accountInfo.html" . }}
+  {{ partial "links/accountInfo.html" . }}
 
   <div class="single__wrapper">
   </div>
 
-  {{ partial "boxInfo.html" . }}
+  {{ partial "links/boxInfo.html" . }}
     
   <div class="single__wrapper">
     <h2>Latest Posts</h2>
     {{ partial "latest_posts.html" . }}  
   </div>
 
-  {{ partial "accountInfo.html" . }}
+  {{ partial "links/accountInfo.html" . }}
 
 {{ end }}

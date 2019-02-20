@@ -21,7 +21,7 @@
     <span><span class="homepage__process__link">{{ .Date.Format "2006-01-02" }}</span></span>
   </div>
 
-  {{ partial "accountInfo.html" . }}
+  {{ partial "links/accountInfo.html" . }}
 
   <div class="single__wrapper">
     <div class="single__content">
@@ -30,7 +30,7 @@
     {{ partial "next_prev_buttons.html" . }}
   </div>
 
-  {{ partial "boxInfo.html" . }}
+  {{ partial "links/boxInfo.html" . }}
 
   <div class="single__wrapper">
     <div class="single__content">
@@ -39,7 +39,7 @@
     </div>
   </div>
 
-  {{ partial "accountInfo.html" . }}
+  {{ partial "links/accountInfo.html" . }}
 
 
 {{ end }}
