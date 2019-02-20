@@ -17,10 +17,10 @@ googleAnalytics = "UA-132863786-1"
 [author]
   name = "Julius Reade"
 
-# [outputs]
-#   page = ["json"] # A player
-#   section = ["json"] # All players
-#   home = ["json"] # Everything
+[outputs]
+  page = ["json"] # A player
+  section = ["json"] # All players
+  home = ["json"] # Everything
 
 # [mediaTypes]
 #   [mediaTypes."application/json"]

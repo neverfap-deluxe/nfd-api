@@ -1,14 +1,19 @@
 {{ define "response" }} 
 {
-  "title": "{{ .Title }}",
-  "content": "{{ .Content }}",
-  "date": '{{ .Date.Format "2006-01-02" }}',
-  "draft": "{{ .Draft }}",
-  "permalink" : "{{ .Permalink }}",
-  "tldr1": "{{ if .Tldr1 }}{{ .Tldr1 }}{{ end }}",
-  "tldr2": "{{ if .Tldr2 }}{{ .Tldr2 }}{{ end }}",
-  "tldr3": "{{ if .Tldr3 }}{{ .Tldr3 }}{{ end }}",
-  "tldr4": "{{ if .Tldr4 }}{{ .Tldr4 }}{{ end }}",
-  "tldr5": "{{ if .Tldr5 }}{{ .Tldr5 }}{{ end }}"
+  "title": {{ .Title | jsonify }},
+  "description": {{ .Description | jsonify }},
+  "content": {{ .Content | jsonify }},
+  "date": {{ .Date.Format "2006-01-02" | jsonify }},
+  "draft": {{ .Draft | jsonify }},
+  "slug": {{ .Params.Slug | jsonify }},
+  "categories": {{ .Params.Categories | jsonify }}
+  "tags": {{ .Params.Tags | jsonify }},
+  "permalink" : {{ .Permalink | jsonify }},
+  "tldr1": "{{ if .Params.Tldr1 }}{{ .Params.Tldr1 | jsonify }}{{ end }}",
+  "tldr2": "{{ if .Params.Tldr2 }}{{ .Params.Tldr2 | jsonify }}{{ end }}",
+  "tldr3": "{{ if .Params.Tldr3 }}{{ .Params.Tldr3 | jsonify }}{{ end }}",
+  "tldr4": "{{ if .Params.Tldr4 }}{{ .Params.Tldr4 | jsonify }}{{ end }}",
+  "tldr5": "{{ if .Params.Tldr5 }}{{ .Params.Tldr5 | jsonify }}{{ end }}"
 }
 {{ end }}
+

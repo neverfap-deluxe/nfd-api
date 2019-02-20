@@ -11,10 +11,9 @@
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
   "overview": {{ .Params.Overview | jsonify }},
-  "what": {{ .Params.What | jsonify }},
-  "how": {{ .Params.How | jsonify }},
-  "when": {{ .Params.When | jsonify }},
-  "duration": {{ .Params.Duration | jsonify }}
+  "learn1": "{{ .Params.Learn1 | jsonify }},
+  "learn2": "{{ .Params.Learn2 | jsonify }},
+  "learn3": "{{ .Params.Learn3 | jsonify }}
 }
 {{ end }}
 

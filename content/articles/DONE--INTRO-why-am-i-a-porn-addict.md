@@ -6,7 +6,7 @@
   tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap companion" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"
-  slug: "why-am-i-am-porn-addict"
+  slug: "why-am-i-a-porn-addict"
 
   tldr1: "Asking why we are has little to do with actually changing who we are."
   tldr2: "Over asking why is a process called rumination, and it is a form of self-harm"
