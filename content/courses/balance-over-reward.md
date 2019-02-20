@@ -1,5 +1,5 @@
 ---
-  title: "Balance Over Reward"
+  title: "Balance Over Reward Course"
   description: "."
   date: 2019-04-14
   draft: true

@@ -1,5 +1,5 @@
 ---
-  title: "Choice Over Mind"
+  title: "Choice Over Mind Course"
   description: "."
   date: 2019-04-05
   draft: true

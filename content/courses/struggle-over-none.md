@@ -1,5 +1,5 @@
 ---
-  title: "Struggle Over None"
+  title: "Struggle Over None Course"
   description: "."
   date: 2019-04-10
   draft: true

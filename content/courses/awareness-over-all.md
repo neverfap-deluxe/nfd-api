@@ -1,5 +1,5 @@
 ---
-  title: "Awareness Over All"
+  title: "Awareness Over All Course"
   description: "."
   date: 2019-04-21
   draft: true

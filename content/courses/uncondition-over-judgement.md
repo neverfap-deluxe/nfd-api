@@ -1,5 +1,5 @@
 ---
-  title: "Uncondition Over Judgement"
+  title: "Uncondition Over Judgement Course"
   description: "."
   date: 2019-04-14
   draft: true
