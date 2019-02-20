@@ -1,5 +1,5 @@
 ---
-  title: "Course: Balance Over Reward"
+  title: "Balance Over Reward"
   description: "."
   date: 2019-04-14
   draft: true
@@ -8,10 +8,14 @@
   # image: "/images/face.jpg"
   slug: "balance-over-reward"
 
+  overview: "Understand the crucial role balance plays in maintaining our feelings and emotions."
+  learn1: "- How to value your mental health above all."
+  learn2: "- How we neglect ourselves in favour for obsession."
+  learn3: "- How to effortlessly enforce balance in our daily lives."
   category: "balance-over-reward"
 ---
 
-Welcome to the Balance Over Reward course!
+Welcome to the NeverFap Deluxe Balance Over Reward course!
 
 If you think about it, all you really have is your mental health.
 

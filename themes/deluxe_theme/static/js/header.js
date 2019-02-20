@@ -2,9 +2,8 @@ var link__home = document.querySelector('#link__home');
 var link__guide = document.querySelector('#link__guide');
 var link__articles = document.querySelector('#link__articles');
 var link__practices = document.querySelector('#link__practices');
-var link__premium = document.querySelector('#link__premium');
+var link__courses = document.querySelector('#link__courses');
 var link__about = document.querySelector('#link__about');
-var link__contact = document.querySelector('#link__contact');
 
 var pathname = window.location.pathname; // usually it's /article/
 var splitPath = pathname.split('/');
@@ -19,10 +18,6 @@ switch(pathnameProper) {
     link__guide.style.borderBottom = '5px solid orange';
     break;
 
-  case 'courses':
-    link__guide.style.borderBottom = '5px solid orange';
-    break;
-
   case 'articles':
     link__articles.style.borderBottom = '5px solid orange';
     break;
@@ -31,20 +26,12 @@ switch(pathnameProper) {
     link__practices.style.borderBottom = '5px solid orange';
     break;
 
-  // case 'premium':
-  //   link__premium.style.borderBottom = '5px solid orange';
-  //   break;
-
-  // case 'premium':
-  //   link__premium.style.borderBottom = '5px solid orange';
-  //   break;
+  case 'courses':
+    link__courses.style.borderBottom = '5px solid orange';
+    break;
 
   case 'about':
     link__about.style.borderBottom = '5px solid orange';
-    break;
-
-  case 'contact':
-    link__contact.style.borderBottom = '5px solid orange';
     break;
 }
 

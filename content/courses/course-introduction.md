@@ -8,6 +8,16 @@
   # image: "/images/face.jpg"
   slug: "introduction"
 
+  overview: "Understand the fundamental principles of NeverFap Deluxe."
+  learn1: "- Why NeverFap Deluxe works as a comprehensive system."
+  learn2: "- How NeverFap Deluxe makes porn recovery simple."
+  learn3: "- Commit to long-term thinking."
   category: "introduction"
 ---
+
+Welcome to the NeverFap Deluxe Introduction course!
+
+This course serves as a general introduction to all the concepts we will discuss in future within NeverFap Deluxe.
+
+It is the best place to start with your porn recovery journey, and 
 

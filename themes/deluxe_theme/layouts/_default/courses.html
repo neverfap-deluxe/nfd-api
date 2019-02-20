@@ -5,7 +5,7 @@
   <div class="single__wrapper">   
     <h2 class="single__title">{{ .Title }} <img src="/images/logo.png" class="logo__square" alt=""/></h2>
     <div class="single__content">
-      <p>Welcome to the NeverFap Deluxe Courses Index!</p>
+      <p>Here you'll find our NeverFap Deluxe Courses!</p>
       <p>These courses have been structured around the written content on this website, in order to provide you with the most efficient way forward with your porn recovery.</p>
       <p>Much like the written content, these courses have been designed around <a class="link" href="/articles/the-five-fundamental-principles-of-neverfap">The Five Fundamental Principles Of NeverFap</a>. In addition, they will also be available in audio format.</p>
       <p>These structured courses are the recommended approach towards consuming the information on this website, as opposed to merely scouring the website for information.</p>
@@ -21,154 +21,29 @@
 
     </div>
     {{/*  Introduction */}}
-    <div class="homepage__process single__homepage__process">
-      <a href="/courses/introduction"><h3 class="homepage__process__title--courses">
-        <div class="five__principles__list__page">
-          <span><li class="five__principles__item__page five__principles__item__page--courses">Introduction</li></span>
-        </div>
-      </h3></a>
-
-      <div class="homepage__process__text homepage__process__text--practice">
-        <b>Overview</b>
-        <p>Understand the fundamental principles of NeverFap Deluxe.</p>
-      </div>
-      <div class="homepage__process__text homepage__process__text--practice">
-        <b>What you will learn</b>
-        <p>- Why NeverFap Deluxe works as a comprehensive system.</p>
-        <p>- How NeverFap Deluxe makes porn recovery simple.</p>
-        <p>- Commit to long-term thinking.</p>
-      </div>
-    </div>
-    <span><a href="/courses/introduction" class="homepage__process__link homepage__process__link--courses">Link To Course</a></span>  
-
-
+    {{ partial "course_box.html" (dict "page" . "course_type" "introduction") }}
+    
     {{/*  Choice over mind  */}}
-    <div class="homepage__process single__homepage__process">
-      <a href="/courses/choice-over-mind"><h3 class="homepage__process__title--courses">
-        <div class="five__principles__list__page">
-          <span><li class="five__principles__item__page five__principles__item__page--courses">Choice over mind</li></span>
-        </div>
-      </h3></a>
-
-      <div class="homepage__process__text homepage__process__text--practice">
-        <b>Overview</b>
-        <p>Understand why and how we have full control over our minds.</p>
-      </div>
-      <ul class="homepage__process__text homepage__process__text--practice">
-        <b>What you will learn</b>
-        <p>- How to develop control over your mind.</p>
-        <p>- How to maintain confidence in your own decisions.</p>
-        <p>- Understand your options and embrace them.</p>
-      </ul>
-    </div>
-    <span><a href="/courses/choice-over-mind" class="homepage__process__link homepage__process__link--courses">Link To Course</a></span>  
-
-
+    {{ partial "course_box.html" (dict "page" . "course_type" "choice-over-mind") }}
+    
     {{/*  Balance over reward  */}}
-    <div class="homepage__process single__homepage__process">    
-      <a href="/courses/balance-over-reward"><h3 class="homepage__process__title--courses">
-        <div class="five__principles__list__page">
-          <span><li class="five__principles__item__page five__principles__item__page--courses">Balance over reward</li></span>
-        </div>
-      </h3></a>
-
-      <div class="homepage__process__text homepage__process__text--practice">
-        <b>Overview</b>
-        <p>Understand the crucial role balance plays in maintaining our feelings and emotions.</p>
-      </div>
-      <div class="homepage__process__text homepage__process__text--practice">
-        <b>What you will learn</b>
-        <p>- How to value your mental health above all.</p>
-        <p>- How we neglect ourselves in favour for obsession.</p>
-        <p>- How to effortlessly enforce balance in our daily lives.</p>
-      </div>
-    </div>
-    <span><a href="/courses/balance-over-reward" class="homepage__process__link homepage__process__link--courses">Link To Course</a></span>  
-  
+    {{ partial "course_box.html" (dict "page" . "course_type" "balance-over-reward") }}
 
     {{/*  Awareness over all  */}}
-    <div class="homepage__process single__homepage__process">    
-      <a href="/courses/awareness-over-all"><h3 class="homepage__process__title--courses">
-        <div class="five__principles__list__page">
-          <span><li class="five__principles__item__page five__principles__item__page--courses">Awareness over all</li></span>
-        </div>
-      </h3></a>
+    {{ partial "course_box.html" (dict "page" . "course_type" "awareness-over-all") }}
 
-      <div class="homepage__process__text homepage__process__text--practice">
-        <b>Overview</b>
-        <p>Understand the role of awareness and observation as a core strategy towards overcoming porn addiction.</p>
-      </div>
-      <div class="homepage__process__text homepage__process__text--practice">
-        <b>What you will learn</b>
-        <p>- Why awareness is absolutely fundamental in everything we do.</p>
-        <p>- How meditation allows us to dissolve addiction.</p>
-        <p>- How to quiet and focus your mind.</p>
-      </div>
-    </div>
-    <span><a href="/courses/awareness-over-all" class="homepage__process__link homepage__process__link--courses">Link To Course</a></span>  
-  
-  
     {{/*  Struggle over none  */}}
-    <div class="homepage__process single__homepage__process">    
-      <a href="/courses/struggle-over-none"><h3 class="homepage__process__title--courses">
-        <div class="five__principles__list__page">
-          <span><li class="five__principles__item__page five__principles__item__page--courses">Struggle over none</li></span>
-        </div>
-      </h3></a>
-
-      <div class="homepage__process__text homepage__process__text--practice">
-        <b>Overview</b>
-        <p>Understand that porn recovery is about embracing calm and learning not to fight ourselves mentally.</p>
-      </div>
-      <div class="homepage__process__text homepage__process__text--practice">
-        <b>What you will learn</b>
-        <p>- Understand how you're working against yourself and why.</p>
-        <p>- How to relax and remain calm.</p>
-        <p>- Embrace simplicity as a philosophy.</p>
-      </div>
-    </div>
-    <span><a href="/courses/struggle-over-none" class="homepage__process__link homepage__process__link--courses">Link To Course</a></span>  
-  
+    {{ partial "course_box.html" (dict "page" . "course_type" "struggle-over-none") }}
 
     {{/*  Uncondition over judgement  */}}
-    <div class="homepage__process single__homepage__process">    
-      <a href="/courses/uncondition-over-judgement"><h3 class="homepage__process__title--courses">
-        <div class="five__principles__list__page">
-          <span><li class="five__principles__item__page five__principles__item__page--courses">Uncondition over judgement</li></span>
-        </div>
-      </h3></a>
-
-      <div class="homepage__process__text homepage__process__text--practice">
-        <b>Overview</b>
-        <p>Understand the power of acceptance as a driving force for self-control.</p>
-      </div>
-      <div class="homepage__process__text homepage__process__text--practice">
-        <b>What you will learn</b>
-        <p>- How to accept yourself and others unconditionally.</p>
-        <p>- How judgements are a mental trap.</p>
-        <p>- The value of letting go.</p>
-      </div>
-    </div>
-    <span><a href="/courses/uncondition-over-judgement" class="homepage__process__link homepage__process__link--courses">Link To Course</a></span>  
+    {{ partial "course_box.html" (dict "page" . "course_type" "uncondition-over-judgement") }}
   </div>
 
   {{ partial "boxInfo.html" . }}
 
   <div class="single__wrapper">   
     <div class="single__content">
-      <h2>Direction.</h2>
-      <p>In addition to the written content on this website, we also offer structured audio courses which have been designed to provide you with a linear pathway towards developing the skills to address your porn addiction.</p>
-      <p>Much like the written content, these courses have been designed around The Five Fundamental Principles Of NeverFap, in order to help you learn new skills in the most efficient way possible.</p>
-      <p>In order to sign up for the courses, you first need to <a class="link" href="https://community.neverfapdeluxe.com/">create an account</a> on our NeverFap Deluxe Community website.</p>
-      <p>Pricing is available on the NeverFap Deluxe Community Website.</p>
-    </div>
-  </div>
-
-  {{ partial "accountInfo.html" . }}
-  
-  <div class="single__wrapper">   
-    <div class="single__content">
-      <h2>Audio content.</h2>
+      <h2>Audio Courses</h2>
       <p>In addition to the written content on this website, we also offer structured audio courses which have been designed to provide you with a linear pathway towards developing the skills to address your porn addiction.</p>
       <p>Much like the written content, these courses have been designed around The Five Fundamental Principles Of NeverFap, in order to help you learn new skills in the most efficient way possible.</p>
       <p>In order to sign up for the courses, you first need to <a class="link" href="https://community.neverfapdeluxe.com/">create an account</a> on our NeverFap Deluxe Community website.</p>

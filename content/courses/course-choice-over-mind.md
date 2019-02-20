@@ -8,10 +8,14 @@
   # image: "/images/face.jpg"
   slug: "choice-over-mind"
 
+  overview: "Understand why and how we have full control over our minds."
+  learn1: "- How to develop control over your mind."
+  learn2: "- How to maintain confidence in your own decisions."
+  learn3: "- Understand your options and embrace them."
   category: "choice-over-mind"
 ---
 
-Welcome to the Choice Over Mind course!
+Welcome to the NeverFap Deluxe Choice Over Mind course!
 
 Choice Over Mind relates to this fundamental idea that we have the ability as human being to maintain full control over our mind.
 
