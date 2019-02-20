@@ -16,3 +16,9 @@
 ---
 
 Welcome to the NeverFap Deluxe Struggle Over None course!
+
+At it's core, Struggle Over None is about embracing calm and simplicity.
+
+More often than not, the reason why we fail to succeed is not because we aren't doing the right things, but because of the things we do that works against ourselves.
+
+In this course we will learn to 

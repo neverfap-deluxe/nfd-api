@@ -11,7 +11,6 @@
 
   <!-- Emoji CSS -->
   <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
-  <!-- <script src='https://www.google.com/recaptcha/api.js'></script> -->
 
   <!-- favicon.ico -->
   <link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
@@ -40,6 +39,7 @@
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Parisienne|Montserrat|Noto+Sans" rel="stylesheet">
 
+
   <!-- Open Graph Schema -->
   {{ if .IsPage }}
     <script type="application/ld+json">
@@ -52,8 +52,8 @@
                 "@id": "{{ .Site.BaseURL }}"
           },
           "articleSection" : "{{ .Section }}",
-          "name" : "NeverFap Deluxe | {{ .Title }}",
-          "headline" : "NeverFap Deluxe | {{ .Title }}",
+          "name" : "{{ if eq .Section "courses" }}{{ "NeverFap Deluxe Courses |"}}{{ else if eq .Section "articles"}}{{ "NeverFap Deluxe Articles |"}}{{ else if eq .Section "practices"}}{{ "NeverFap Deluxe Practices |"}}{{ else }}{{ "NeverFap Deluxe |"}}{{ end }} {{ .Title }}",
+          "headline" : "{{ if eq .Section "courses" }}{{ "NeverFap Deluxe Courses |"}}{{ else if eq .Section "articles"}}{{ "NeverFap Deluxe Articles |"}}{{ else if eq .Section "practices"}}{{ "NeverFap Deluxe Practices |"}}{{ else }}{{ "NeverFap Deluxe |"}}{{ end }} {{ .Title }}",
           "description" : "{{ .Description }}", 
           "inLanguage" : "en-US",
           "author" : "{{ .Site.Author.name }}",
@@ -73,7 +73,7 @@
           "@context": "http://schema.org",
           "@type": "WebSite",
           "url": "{{ .Permalink }}",
-          "name": "NeverFap Deluxe | {{ .Title }}",
+          "name": "{{ if eq .Section "courses" }}{{ "NeverFap Deluxe Courses |"}}{{ else if eq .Section "articles"}}{{ "NeverFap Deluxe Articles |"}}{{ else if eq .Section "practices"}}{{ "NeverFap Deluxe Practices |"}}{{ else }}{{ "NeverFap Deluxe |"}}{{ end }} {{ .Title }}",
           "author": {
             "@type": "Person",
             "name": "{{ .Site.Author.name }}"
@@ -84,8 +84,7 @@
     </script>
   {{ end }}
 
-  <title>NeverFap Deluxe | {{ .Title }}</title>
-
+  <title>{{ if eq .Section "courses" }}{{ "NeverFap Deluxe Courses |"}}{{ else if eq .Section "articles"}}{{ "NeverFap Deluxe Articles |"}}{{ else if eq .Section "practices"}}{{ "NeverFap Deluxe Practices |"}}{{ else }}{{ "NeverFap Deluxe |"}}{{ end }} {{ .Title }}</title>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132863786-1"></script>
