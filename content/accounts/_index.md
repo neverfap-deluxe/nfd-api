@@ -9,10 +9,6 @@
   slug: "accounts"
 ---
 
-Note: There are no accounts as of yet for NeverFap Deluxe (although I am hastily in the process of building it), however please consider joining my patreon to support the website!
-
-<hr/>
-
 Thank you for considering an account with NeverFap Deluxe!
 
 Here's the basic gist of how I've decided to monetise all the hard work that has gone into developing NeverFap Deluxe:
