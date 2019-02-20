@@ -18,10 +18,10 @@
 
 Welcome to the NeverFap Deluxe Introduction course!
 
-This course serves as a general introduction to all the concepts we will discuss in future within NeverFap Deluxe.
+This course serves as a general introduction to all the concepts we will discuss in future within NeverFap Deluxe, and is an excellent starting place for both newcomers and hardened veterans.
 
-It will explain how NeverFap Deluxe works, why the five fundamental principles of NeverFap are effective, as well as some deeper context into myself and why I decided to create this website.
+This course will explain how NeverFap Deluxe works, why the five fundamental principles of NeverFap are effective, as well as additional context into myself and my own porn recovery journey.
 
-In addition, the Introduction course contains the most important mental health practice on the website, <a class="link" href="/practices/observe-it-all">Observe it all</a>.
+In addition, the Introduction course contains the most fundamental mental health practice on the website, <a class="link" href="/practices/observe-it-all">Observe it all</a>, which is an exercise I recommend practicing everyday.
 
-It is the best place to start with your porn recovery journey.
+Of course, in order for us to be able to easily overcoming our porn addiction, we will require mastery in all five fundamental principles, and the Introduction course will help you identify your weak areas, as well as your strong points.

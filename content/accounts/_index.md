@@ -19,18 +19,18 @@ Here's the basic gist of how I've decided to monetise all the hard work that has
 
 I want to ensure that all the written information on this website is readily available to everyone.
 
-It is what makes sense to me from a moral perspective.
+It is what makes sense to me from a moral and business perspective.
 
 Instead, what I want to do is create additional materials which can help enhance the written content on this website in various ways.
 
-These different include:
+These different resources include:
 
 
 <hr class="hrul"/>
 
 - **Guided audio meditations to help assist you through your practices.**
 - **Structured perspective courses utilising the practices on this website.**
-- **A web/mobile application to assist you in recording your progress.**
+- **A web/mobile application to assist you in recording your progress through your .**
 - **Personal one on one coaching sessions.**
 
 <hr class="hrul__bottom"/>
