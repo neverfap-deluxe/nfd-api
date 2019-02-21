@@ -17,7 +17,10 @@
 
 Welcome to the NeverFap Deluxe Choice Over Mind course!
 
-Choice Over Mind relates to this fundamental idea that we have the ability as human being to maintain full control over our mind.
+Choice Over Mind is the next course in the series
+
+
+relates to this fundamental idea that we have the ability as human being to maintain full control over our mind.
 
 Which is to say that with the right training, we can have full control over what we feel, think and believe.
 

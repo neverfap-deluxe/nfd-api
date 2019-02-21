@@ -14,6 +14,7 @@
 - Practices to show 
 - Figure out meta-titles
 - Sort out image meta. 
+- Breadcrumbs
 
 https://forestry.io/blog/build-a-json-api-with-hugo/
 
