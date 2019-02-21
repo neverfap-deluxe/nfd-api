@@ -16,10 +16,18 @@
   number: "five"
 ---
 
+<!-- Will Need One Edit -->
+
 Welcome to the NeverFap Deluxe Struggle Over None course!
 
-At it's core, Struggle Over None is about embracing calm and simplicity.
+Struggle Over None is about embracing calm and simplicity as a core philosophy in terms of addressing our porn addiction.
 
-More often than not, the reason why we fail to succeed is not because we aren't doing the right things, but because of the things we do that works against ourselves.
+More often than not, the reason why we fail with our porn recovery is not because we're not doing enough of the rights things. But because we're ultimately working against ourselves.
+
+Which ends up completely derailing all our hard work and leaving us confused .
+
+For example, we may be eating healthily, practicing meditation, exercising regularly etc. 
+
+But because we're not respecting balance in our life, can find ourselves repeating the same patterns of 
 
 In this course we will learn to 

@@ -16,6 +16,8 @@
   number: "one"
 ---
 
+<!-- Will Need One Edit -->
+
 Welcome to the NeverFap Deluxe Introduction course!
 
 This course serves as a general introduction to all the concepts we will discuss in future within NeverFap Deluxe, and is an excellent starting place for both newcomers and hardened veterans.
