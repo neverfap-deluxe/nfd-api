@@ -13,6 +13,7 @@
   learn2: "- How to relax and remain calm."
   learn3: "- Embrace simplicity as a philosophy."
   category: "struggle-over-none"
+  number: "five"
 ---
 
 Welcome to the NeverFap Deluxe Struggle Over None course!

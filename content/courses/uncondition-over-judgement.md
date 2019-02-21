@@ -13,6 +13,7 @@
   learn2: "- How judgements are a mental trap."
   learn3: "- The value of letting go and uninvesting yourself."
   category: "uncondition-over-judgement"
+  number: "six"
 ---
 
 Welcome to the NeverFap Deluxe Uncondition Over Judgement course!

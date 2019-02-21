@@ -13,6 +13,7 @@
   learn2: "- How you neglect yourself in favour of obsession."
   learn3: "- How to effortlessly enforce balance in your daily life."
   category: "balance-over-reward"
+  number: "three"
 ---
 
 Welcome to the NeverFap Deluxe Balance Over Reward course!

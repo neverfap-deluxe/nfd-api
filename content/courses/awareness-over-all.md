@@ -13,6 +13,7 @@
   learn2: "- How meditation allows you to dissolve your addiction."
   learn3: "- How to quiet and focus your mind."
   category: "awareness-over-all"
+  number: "four"
 ---
 
 Welcome to the NeverFap Deluxe Awareness Over All course!
