@@ -40,6 +40,15 @@ Good mental health practices have absolutely nothing to do with bad mental healt
 
 I certainly don't deny that identifying bad practices is a good thing, however people starting out with their mental health rarely stop there.
 
-Regardless, now that we should have developed a strong grasp over our mental health by now, this is a good final area to begin examining the way our thoughts work in a little more detail.
+Regardless, now that we should have developed a strong ability to maintain and practice awareness, now is a good opportunity to begin understanding the other side of the equation:
 
-Think of it as the cherry ontop.
+
+{{< hr3 "Why we make judgements within the first place and why they are harmful." >}}
+
+
+Certainly, you should already have developed at least a partial understanding the awareness exercises you've been practicing on a daily basis, which actively ask you to remain calm.
+
+Have you noticed a difference? If so, what is that difference and how does it make you feel?
+
+These are all questions which we will explore throughout this final module.
+
