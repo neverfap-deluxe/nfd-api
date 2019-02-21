@@ -1,6 +1,6 @@
 ---
   title: "Choice Over Mind Course"
-  description: "."
+  description: "The Choice over mind course helps you understand why and how you have full control over your mind."
   date: 2019-04-05
   draft: true
   tags: [ "course", "meditation", "visual meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
