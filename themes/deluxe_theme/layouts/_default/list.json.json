@@ -1,5 +1,7 @@
 {{/*
 
+  // NOTE: this uses "item" which I'll need to fetch from that guide again
+
 {{ define "response" }}
   [
     {{ range $index, $e := .Data.Pages }}
