@@ -16,5 +16,30 @@
   number: "six"
 ---
 
+<!-- Will Require One Edit -->
+
 Welcome to the NeverFap Deluxe Uncondition Over Judgement course!
 
+I suppose there's two ways to approach developing awareness, and in these series of courses I've decided to take a more fundamental approach than compared to most other resources.
+
+What a lot of self-awareness courses tend to do is ask you to first identify your thoughts and judgements, and then to go about dissolving them once they've been identified.
+
+From a very fundamental point of view and from my own personal experience, I don't believe it's a very effective approach and instead, I've gone down the route of teaching observation and awareness first as a guiding principle.
+
+
+{{< hr3 "Part of the reason why I've done this is due to the way awareness fundamentally works." >}}
+
+
+For starters, your ability to develop awareness is irrespective of why you think the way you do, nor what your thoughts even are.
+
+Awareness is simply awareness, and is effective as it's own.
+
+In fact, when you start asking people to first identify their judgements and thoughts, they inherently come to the conclusion that the two things are related - when they have no relation what-so-ever.
+
+Good mental health practices have absolutely nothing to do with bad mental health practices, and taking a deeper understanding into your bad mental health practices isn't going to help improve your ability to perform good mental health practices.
+
+I certainly don't deny that identifying bad practices is a good thing, however people starting out with their mental health rarely stop there.
+
+Regardless, now that we should have developed a strong grasp over our mental health by now, this is a good final area to begin examining the way our thoughts work in a little more detail.
+
+Think of it as the cherry ontop.

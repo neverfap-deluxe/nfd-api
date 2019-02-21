@@ -211,7 +211,7 @@ Witout reaction, and without taking what you're experiencing it personally.
   <span><div class="five__principles__item__page">04 - Struggle over none</div></span>
 </div>
 
-Essentially, the basis of this principle is that simplest path is often the most efficient.
+Essentially, the basis of this principle is that the simplest path is often the most efficient.
 
 And as humans, we instinctly do what we find most simple, either for better or worse.
 

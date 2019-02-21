@@ -149,3 +149,10 @@ In order to understand this, we need to understand what actions are, and more im
 
 
 
+
+<!-- 
+More often than not, the reason why we're struggling to gain traction with our porn recovery is because we're working against ourselves in some way.
+
+Even if we're eating healthily, practicing meditation, exercising regularly etc. all it takes is one counter-productive action to derail all this hard work. 
+
+In most cases, leaving us confused and wondering how we could have possibly gone wrong inspite of all the hard work we've put in.  -->

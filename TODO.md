@@ -27,6 +27,16 @@ https://forestry.io/blog/build-a-json-api-with-hugo/
 - Introduction
 
 
+Marketing - 
+- Create Quora
+- Create Reddit
+- Offer free coaching to prominent users doing NoFap
+- Offer free coaching to people attempting to overcome porn addictino.
+
+
+NoFap Emergency
+
+
 {{< hr2 DESIGN
 
 Wow, I never knew it before I designed the website, but css-tricks seems to have adopted a similar colour scheme. I could definitely learn a few things from it.
