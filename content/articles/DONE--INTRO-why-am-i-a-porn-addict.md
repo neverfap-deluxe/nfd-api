@@ -24,7 +24,9 @@ Questioning why we may have become porn addicts within the first place is a plac
 
 Usually it entails reasoning along the lines that we must first figure out why we watch porn, and then target that thing which we believe is the root cause of our addiction.
 
-After all, it seems like an incredibly logical and reliable thing to do.
+
+{{< hr3 "After all, it seems like an incredibly logical and reliable thing to do." >}}
+
 
 In a lot of cases, this kind of questioning leads us to the conclusion that the reason why we're porn addicts is because porn itself is an addictive behaviour.
 
