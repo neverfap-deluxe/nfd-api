@@ -7,7 +7,9 @@
   <div class="articles__list">
     {{ range .Site.RegularPages }}
       {{ if in .Params.categories $tag }}
-        <span><a class="link similar__practices__link" href="{{.Permalink}}">{{ .Title }}</a></span>
+        {{ if in .Params.tags "practice" }}
+          <span><a class="link similar__practices__link" href="{{.Permalink}}">{{ .Title }}</a></span>
+        {{ end }}
       {{ end }}
     {{ end }}
   </div>

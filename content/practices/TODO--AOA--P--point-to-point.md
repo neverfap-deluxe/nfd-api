@@ -5,6 +5,8 @@
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
+  category: "Awareness over all"
+
   # image: "/images/face.jpg"
   slug: "point-to-point"
 
@@ -17,7 +19,7 @@
 
 <!-- VERY HAPPY WITH THIS -->
 
-{{< hr2 "Context" >}}
+<!-- {{< hr2 "Context" >}} -->
 
 
 This exercise is designed to help you keep on top of your awareness throughout the day.

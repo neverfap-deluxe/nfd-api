@@ -296,6 +296,13 @@
 
   max-width: 500px;
 
+  .homepage__process__title__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+
   .homepage__process__title {
     font-size: 2rem;
     line-height: 2.2rem;
@@ -311,10 +318,11 @@
     box-shadow: -3px 3px 0px 0px black;
   }
 
+
   .homepage__process__subtitle {
-    font-size: 1.4rem;
+    font-size: 1rem;
     line-height: 2rem;
-    margin-top: 1rem;
+    margin-top: 0;
     margin-bottom: 1.5rem;
     display: inline-block;
     color: black;
@@ -386,6 +394,11 @@
     margin: 2rem;
   }    
 
+  .homepage__process {
+    .homepage__process__subtitle {
+      font-size: 1.4rem;
+    }
+  }
 
   .homepage__process__link {
     position: relative;

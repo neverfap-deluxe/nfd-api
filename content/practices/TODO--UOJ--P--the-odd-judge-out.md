@@ -5,6 +5,8 @@
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]
+  category: "Uncondition over judgement"
+
   # image: "/images/face.jpg"
   slug: "the-odd-judge-out"
 
@@ -16,7 +18,7 @@
 ---
 
 
-{{< hr2 "Context" >}}
+<!-- {{< hr2 "Context" >}} -->
 
 
 A lot of people find this exercise super useful, because it can help us identify our biases much easier than trying to identify those biases directly.

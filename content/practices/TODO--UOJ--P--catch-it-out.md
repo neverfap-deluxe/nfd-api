@@ -5,6 +5,8 @@
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]
+  category: "Uncondition over judgement"
+
   # image: "/images/face.jpg"
   slug: "catch-it-out"
 
@@ -18,7 +20,7 @@
 <!-- TODO: Link to The Easiest Way To Identify A Judgement -->
 
 
-{{< hr2 "Context" >}}
+<!-- {{< hr2 "Context" >}} -->
 
 This exercise is great for helping us understand when and why we make judgements throughout our day.
 

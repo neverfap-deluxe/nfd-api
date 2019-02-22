@@ -5,6 +5,8 @@
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]
+  category: "Uncondition over judgement"
+
   # image: "/images/face.jpg"
   slug: "see-not-feel"
 
@@ -17,7 +19,7 @@
 
 <!-- Seeing is not a feeling. -->
 
-{{< hr2 "Context" >}}
+<!-- {{< hr2 "Context" >}} -->
 
 This is the kind of exercise that porn addicts benefit from greatly, due to the way it changes your visual perception of reality.
 

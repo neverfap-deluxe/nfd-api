@@ -5,6 +5,8 @@
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
+  category: "Balance over reward"
+
   # image: "/images/face.jpg"
   slug: "identifying-obligation"
 
@@ -16,7 +18,7 @@
 ---
 
 
-{{< hr2 "Context" >}}
+<!-- {{< hr2 "Context" >}} -->
 
 
 

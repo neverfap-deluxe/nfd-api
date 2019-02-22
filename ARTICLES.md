@@ -1,6 +1,7 @@
 ## NeverFap Introduction
 
 __TODO__
+- How NoFap is hurting the porn recovery industry (with their militant branding)
 - The problem with NoFap 
 - The **futility** of the NoFap reddit forumns
 - NoFap needs a serious overhaul
@@ -15,6 +16,7 @@ The question is, are you willing to commit?
 - Is porn fundamentally wrong? No, but that blah blah blah
 - Should I orgasm on NeverFap?
 - Why do I keep relapsing? (Are you meditating?)
+
 
 __WRITING__
 - The NeverFap State of Mind
@@ -39,6 +41,7 @@ __Created/Done__
 __TODO__
 - Context: Porn is not who you are, it is your addiction.
 - The hidden art of not staring at women in public
+- It's the small things you do which bring change. ( talk about how it's about every small thing you do which helps change your brain, and that it takes weeks for these changes to come about, and why it's important to stick to a routine.)
 
 __WRITING__
 

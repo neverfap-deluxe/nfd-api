@@ -5,11 +5,12 @@
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
+  category: "Choice over mind"
   # image: "/images/face.jpg"
   slug: "slow-it-down"
 
   what: "Develop awareness by manipulating your perception of time."
-  how: "Imagine if time physically slowed down, but not to a complete halt."
+  how: "Imagine time slowing down around you."
   duration: "2 - 10 seconds per session."
   when: "As often as possible throughout the day whilst in the middle of doing something."
 
@@ -17,7 +18,7 @@
 
 <!-- WILL DEFINITELY NEED A REWRITE -->
 
-{{< hr2 "Context" >}}
+<!-- {{< hr2 "Context" >}} -->
 
 
 This exercise is one of the easiest ways to start building your awareness. 

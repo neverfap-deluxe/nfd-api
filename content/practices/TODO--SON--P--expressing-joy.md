@@ -5,6 +5,8 @@
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
+  category: "Struggle over none"
+
   # image: "/images/face.jpg"
   slug: "expressing-joy"
   
@@ -14,7 +16,7 @@
   duration: "."
 ---
 
-{{< hr2 "Context" >}}
+<!-- {{< hr2 "Context" >}} -->
 
 
 The flipside to struggle is comfort.

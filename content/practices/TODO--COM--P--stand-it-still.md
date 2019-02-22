@@ -5,6 +5,7 @@
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
+  category: "Choice over mind"
   # image: "/images/face.jpg"
   slug: "stand-it-still"
 
@@ -21,7 +22,7 @@
 This exercise is like a 
 
 
-{{< hr2 "Context" >}}
+<!-- {{< hr2 "Context" >}} -->
 
 In a lot of ways, this exercise is almost exactly the same as Stop it all, or Slow it down, or Relax it out, or... basically any other awareness exercise.
 

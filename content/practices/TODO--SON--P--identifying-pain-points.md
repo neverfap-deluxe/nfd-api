@@ -5,6 +5,8 @@
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
+  category: "Struggle over none"
+
   # image: "/images/face.jpg"
   slug: "identifying-pain-points"
 
@@ -17,7 +19,7 @@
 
 <!-- Basics, done -->
 
-{{< hr2 "Context" >}}
+<!-- {{< hr2 "Context" >}} -->
 
 
 The idea behind this exercise is to start thinking about how we struggle. 

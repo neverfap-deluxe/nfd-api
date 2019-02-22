@@ -5,6 +5,8 @@
   draft: true
   tags: [ "practice", "attachment", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]
+  category: "Uncondition over judgement"
+
   # image: "/images/face.jpg"
   slug: "object-attachment"
 
@@ -15,7 +17,7 @@
   
 ---
 
-{{< hr2 "Context" >}}
+<!-- {{< hr2 "Context" >}} -->
 
 
 The idea behind this exercises is to further understand why we get attached to certain things in our life.

@@ -5,6 +5,8 @@
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
+  category: "Awareness over all"
+
   # image: "/images/face.jpg"
   slug: "focus-it-forward"
 
@@ -17,7 +19,7 @@
 
 <!-- VERY HAPPY WITH THIS -->
 
-{{< hr2 "Context" >}}
+<!-- {{< hr2 "Context" >}} -->
 
 Learning to focus our attention is an important skill.
 

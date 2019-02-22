@@ -8,9 +8,10 @@
     <h1 class="single__title">{{ .Title }} <img src="/images/logo.png" class="logo__square" alt=""/></h1>
 
     <div class="homepage__process single__homepage__process">
-      <span><h3 class="homepage__process__title">
-        tldr;
-      </h3></span>
+      <div class="homepage__process__title__container">
+        <span><h3 class="homepage__process__title">tldr;</h3></span>
+        <span><h3 class="homepage__process__subtitle">{{ .Params.Category }}</h3></span>
+      </div>
 
       {{ if .Params.What }}<div class="homepage__process__text homepage__process__text--practice"><b>What</b><p>{{ .Params.What }}</p></div>{{ end }}
       {{ if .Params.How }}<div class="homepage__process__text homepage__process__text--practice"><b>How</b><p>{{ .Params.How }}</p></div>{{ end }}

@@ -18,7 +18,7 @@
 <!-- VERY HAPPY WITH THIS -->
 
 
-{{< hr2 "Context" >}}
+<!-- {{< hr2 "Context" >}} -->
 
 
 This exercise encompasses one of the most fundamental skills in meditation:

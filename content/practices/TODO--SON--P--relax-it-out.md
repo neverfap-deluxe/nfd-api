@@ -5,6 +5,8 @@
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
+  category: "Struggle over none"
+
   # image: "/images/face.jpg"
   slug: "relax-it-out"
   
@@ -15,7 +17,7 @@
 
 ---
 
-{{< hr2 "Context" >}}
+<!-- {{< hr2 "Context" >}} -->
 
 This exercise is incredibly effective, especially for those new to meditation and perspective.
 
