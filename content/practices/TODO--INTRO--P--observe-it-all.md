@@ -5,7 +5,7 @@
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "introduction" ]
-  category: "introduction"
+  category: "Introduction"
   # image: "/images/face.jpg"
   slug: "observe-it-all"
 
@@ -22,7 +22,7 @@
 <!-- {{< hr2 "Context" >}} -->
 
 
-This exercise encompasses one of the most fundamental skills in meditation:
+This exercise encompasses one of the most fundamental skills in meditation.
 
 
 {{< hr4  "The ability to be aware of our senses in the present moment." >}}
