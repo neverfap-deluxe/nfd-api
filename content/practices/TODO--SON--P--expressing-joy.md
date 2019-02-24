@@ -28,7 +28,7 @@ In this case, we will be practicing the art of joy or being joyful, as a way to
 
 
 
-{{< hr2 "Exercise" >}}
+{{< hr2 "Instructions" >}}
 
 
 {{< hr2 "Moving Forward" >}}

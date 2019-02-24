@@ -58,7 +58,7 @@ As opposed to merely being openly aware of everything.
 In essence, it's easier to be fully attuned to all your senses at once without focus, than it is to be fully attuned to just one of your senses.
 
 
-{{< hr2 "Exercise" >}}
+{{< hr2 "Instructions" >}}
 
 
 Provided this context, there are essentially two key steps towards performing this exercise:

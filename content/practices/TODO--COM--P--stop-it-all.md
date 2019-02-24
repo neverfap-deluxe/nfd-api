@@ -50,7 +50,7 @@ Essentially, what this exercise teaches you is to learn to let go from a very ph
 A very important skill in any case.
 
 
-{{< hr2 "Exercise" >}}
+{{< hr2 "Instructions" >}}
 
 
 This exercise generally only works while you're doing something.

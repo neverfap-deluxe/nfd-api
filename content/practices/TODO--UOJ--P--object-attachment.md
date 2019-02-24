@@ -30,7 +30,7 @@ Then we move onto people and concepts.
 {{< hr3 "Because when we're in control of our mind, it's almost as if everything is moving in slow motion." >}}
 
 
-{{< hr2 "Exercise" >}}
+{{< hr2 "Instructions" >}}
 
 
 

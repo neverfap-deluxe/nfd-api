@@ -22,7 +22,7 @@
 
 
 
-{{< hr2 "Exercise" >}}
+{{< hr2 "Instructions" >}}
 
 
 

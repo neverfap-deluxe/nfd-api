@@ -51,7 +51,7 @@ Becoming aware is not easy when you haven't consciously made an effort in the pa
 Of course, practice makes perfect.
 
 
-{{< hr2 "Exercise" >}}
+{{< hr2 "Instructions" >}}
 
 
 Essentially this is an exercise of acknowledgement.

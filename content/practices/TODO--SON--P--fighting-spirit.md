@@ -22,7 +22,7 @@ When we're not functioning to the best of our ability, it's because we're fighti
 
 In this exercise, we want to identify the key areas in our life where we .
 
-{{< hr2 "Exercise" >}}
+{{< hr2 "Instructions" >}}
 
 
 {{< hr2 "Moving Forward" >}}

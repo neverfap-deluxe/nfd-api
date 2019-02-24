@@ -5,6 +5,7 @@
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "introduction" ]
+  category: "introduction"
   # image: "/images/face.jpg"
   slug: "observe-it-all"
 
@@ -90,7 +91,7 @@ Ultimately, you can choose to be frustrated, sad or even outright anxious.
 Only you can decide how you want to feel in life, and the responsibility is entirely in your hands.
 
 
-{{< hr2 "Exercise" >}}
+{{< hr2 "Instructions" >}}
 
 
 This exercise is simple.

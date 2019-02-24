@@ -24,7 +24,7 @@ We are going to develop a hard routine.
 
 
 
-{{< hr2 "Exercise" >}}
+{{< hr2 "Instructions" >}}
 
 
 

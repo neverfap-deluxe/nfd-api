@@ -43,7 +43,7 @@ In no way does it reflect on the difficulty, or perhaps even absurdity of mathem
 Please keep this in mind as you do this exercise, and really try and explore the thoughts and feelings associated with your personal struggles. 
 
 
-{{< hr2 "Exercise" >}}
+{{< hr2 "Instructions" >}}
 
 
 In this exercise, what you want to do is list all the things that you personally struggle with.

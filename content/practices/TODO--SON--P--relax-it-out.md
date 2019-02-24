@@ -57,7 +57,7 @@ There is only what you feel.
 
 <!-- TODO: The ultimate aim of these practices -->
 
-{{< hr2 "Exercise" >}}
+{{< hr2 "Instructions" >}}
 
 For this exercise, what we want to do is relax and you can do this whenever you want. 
 

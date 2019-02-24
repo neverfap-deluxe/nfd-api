@@ -82,7 +82,7 @@ Both exercises focus on manipulating our visual understanding in some way, howev
 Dissolve it down attempts to completely absolve our understanding of reality, while this exercise attempts to rearrange our understanding of it.
 
 
-{{< hr2 "Exercise" >}}
+{{< hr2 "Instructions" >}}
 
 
 For this exercise, what we want to do is look at some things, and try and figure out the difference between what we're seeing and what we're feeling. 

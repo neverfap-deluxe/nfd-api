@@ -27,7 +27,7 @@ This exercise is like a
 In a lot of ways, this exercise is almost exactly the same as Stop it all, or Slow it down, or Relax it out, or... basically any other awareness exercise.
 
 
-{{< hr2 "Exercise" >}}
+{{< hr2 "Instructions" >}}
 
 
 

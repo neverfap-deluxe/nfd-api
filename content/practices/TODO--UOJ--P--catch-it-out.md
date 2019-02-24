@@ -57,7 +57,7 @@ It merely becomes another reference point for you to observe.
 Where you mentally go: "Ah, so that's what my mind does. Cool beans."
 
 
-{{< hr2 "Exercise" >}}
+{{< hr2 "Instructions" >}}
 
 
 All we want to do with this exercise is catch ourselves and acknowledge when we've made a judgement. 

@@ -21,7 +21,7 @@ The flipside to struggle is to be comfortable with ourselves.
 <!-- {{< hr2 "Context" >}} -->
 
 
-{{< hr2 "Exercise" >}}
+{{< hr2 "Instructions" >}}
 
 
 {{< hr2 "Moving Forward" >}}

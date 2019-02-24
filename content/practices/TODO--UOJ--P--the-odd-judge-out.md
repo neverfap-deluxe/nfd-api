@@ -42,7 +42,7 @@ Which for a lot people, is a lot simpler than trying to identify the things whic
 In addition, it can help them understand more about themselves, by merely identifying the things which they don't care about. 
 
 
-{{< hr2 "Exercise" >}}
+{{< hr2 "Instructions" >}}
 
 
 The exercise is simple.

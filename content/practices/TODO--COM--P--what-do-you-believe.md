@@ -22,7 +22,7 @@ Identify the choice we have in life, or our perception of what choice we have.
 <!-- {{< hr2 "Context" >}} -->
 
 
-{{< hr2 "Exercise" >}}
+{{< hr2 "Instructions" >}}
 
 
 {{< hr2 "Moving Forward" >}}

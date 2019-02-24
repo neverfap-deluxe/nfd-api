@@ -40,7 +40,7 @@ What we want to do is not do that.
 
 
 
-{{< hr2 "Exercise" >}}
+{{< hr2 "Instructions" >}}
 
 
 
