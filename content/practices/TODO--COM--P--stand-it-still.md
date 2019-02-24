@@ -1,5 +1,5 @@
 ---
-  title: "Practice: Stand It Still"
+  title: "Stand It Still"
   description: ""
   date: 2019-02-21
   draft: true

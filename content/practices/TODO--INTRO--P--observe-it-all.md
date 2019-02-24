@@ -1,5 +1,5 @@
 ---
-  title: "Practice: Observe It All"
+  title: "Observe It All"
   description: "Observation is one of the most powerful ways we can meditate and learn to regain control over our porn addiction."
   date: 2019-01-27
   draft: false

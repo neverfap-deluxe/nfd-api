@@ -1,5 +1,5 @@
 ---
-  title: "Practice: Identifying Pain Points"
+  title: "Identifying Pain Points"
   description: "By identifying how we struggle, we can better understand the dynamics with which we think about the problems in our life."
   date: 2019-04-06
   draft: false

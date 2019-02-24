@@ -1,5 +1,5 @@
 ---
-  title: "Practice: Relax It Out"
+  title: "Relax It Out"
   description: "Relax It Out Is All About Taking A Relaxed Approach Towards Dealing With Life. It Is An Incredibly Effective Way To Dissolve Our Feelings And Emotions."
   date: 2019-02-13
   draft: false

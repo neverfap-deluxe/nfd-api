@@ -1,5 +1,5 @@
 ---
-  title: "Practice: Slow It Down"
+  title: "Slow It Down"
   description: "Slow Down Your Perception Of Reality. This Is A Great Exercise To Teach You To Manually Override What Your Mind Is Doing, And Exert Control Over It."
   date: 2019-01-18
   draft: false
@@ -42,7 +42,7 @@ And this exercise is designed to help break that cycle.
 
 Rather than attempt to identify and qualify these thoughts, what we're going to do is simply going to focus on the raw process and sensation of thinking.
 
-And in doing so, embrace the physical sensation of what it actually feels like to be in control of our minds, in order to create a strong foundation for being able to control what we feel and think. 
+And in doing so, embrace the physical sensation of what it actually feels like to be in control of our minds, in order to create a strong foundation for being able to control what we think and feel. 
 
 
 {{< hr3 "Because when we're in control of our mind, it's almost as if everything is moving in slow motion." >}}
@@ -54,19 +54,19 @@ Instead, a large part of maintaining control is about being able to prepare ours
 
 The idea being that we can then catch ourselves before we begin overthinking, and identify these patterns before they become unmanagable.
 
-Because when our minds are racing at a million miles per hour, it can become incredibly difficult, if not impossible to slow it down.
+Because when our mind is racing at a million miles per hour, it can become incredibly difficult, if not impossible to slow it down.
 
 
 {{< hr4 "Which is why people inevitably relapse." >}}
 
 
-Because at that point, they've already lost control. 
+Because at that point, you've already lost control. 
 
-By practicing <u>Slow it down</u> you will learn how to slow own your mind on a regular basis. 
+By practicing <u>Slow it down</u> you will learn how to slow down your mind on a regular basis. 
 
-In order to demonstrate control over your mind, and create those neural connections in your brain.
+In order to demonstrate control, and create those neural connections in your brain.
 
-In addition, to understand how to become more calm and collected as a person, while also exposing the futility and self-destructiveness of letting our thoughts control us.
+In addition, it will help you understand how to become a more calm and collected person, exposing in the process the futility and self-destructiveness of letting our thoughts control us.
 
 
 {{< hr2 "Instructions" >}}

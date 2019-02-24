@@ -1,5 +1,5 @@
 ---
-  title: "Practice: Fighting Spirit"
+  title: "Fighting Spirit"
   description: ""
   date: 2019-03-22
   draft: false

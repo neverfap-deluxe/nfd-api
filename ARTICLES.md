@@ -71,7 +71,7 @@ __TODO__
 - Killing the complexity monster.
 - It's hard to struggle with what you understand
 - Creating healthy NeverFap expectations
-- Practice: What makes something easy?
+-  What makes something easy?
 
 __Created/Done__
 
@@ -79,7 +79,7 @@ __Created/Done__
 
 __TODO__
 - The Myth of Awareness (how awareness is a practice, not something you already have). 
-- Practice: Keeping on top of your emotions.
+-  Keeping on top of your emotions.
 - The power of observation.
 
 __WRITING__

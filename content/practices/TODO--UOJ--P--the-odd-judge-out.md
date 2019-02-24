@@ -1,5 +1,5 @@
 ---
-  title: "Practice: The Odd Judge Out"
+  title: "The Odd Judge Out"
   description: "Focusing On What We Don't Judge Can Be Just As Effective As paying Attention To What We Do Judge On A Frequent Basis."
   date: 2019-02-28
   draft: false

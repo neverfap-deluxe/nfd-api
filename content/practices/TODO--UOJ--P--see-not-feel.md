@@ -1,5 +1,5 @@
 ---
-  title: "Practice: See Not Feel"
+  title: "See Not Feel"
   description: ""
   date: 2019-01-12
   draft: false

@@ -1,5 +1,5 @@
 ---
-  title: "Practice: Expressing Gratitude"
+  title: "Expressing Gratitude"
   description: ""
   date: 2019-03-30
   draft: false

@@ -1,5 +1,5 @@
 ---
-  title: "Practice: What Do You Believe"
+  title: "What Do You Believe"
   description: ""
   date: 2019-04-14
   draft: true

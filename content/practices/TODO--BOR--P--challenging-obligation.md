@@ -1,5 +1,5 @@
 ---
-  title: "Practice: Challenging Obligation"
+  title: "Challenging Obligation"
   description: ""
   date: 2019-03-12
   draft: false

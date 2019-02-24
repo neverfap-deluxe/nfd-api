@@ -1,5 +1,5 @@
 ---
-  title: "Practice: Point To Point"
+  title: "Point To Point"
   description: "Pay Attention And Become Aware Of The Things You Do Throughout Your Day. The Intention Is To Allow You To Engage Your Mind In A Non-Reactive Way."
   date: 2019-03-12
   draft: false
@@ -17,30 +17,45 @@
 
 ---
 
-<!-- VERY HAPPY WITH THIS -->
+<!-- VERY HAPPY WITH EDIT -->
 
 
 This exercise is designed to help you keep on top of your awareness throughout the day.
 
-By becoming more conscious of the events throughout our day within time, we can become more conscious of the things we do within it.
-
-There are quite a few things that one can become aware of, and part of the reason is because awareness is all relative.
+By becoming more conscious of the events throughout our day, we can become more conscious of the things we do within it.
 
 With this exercise, what we're attempting to do is become conscious of key moments throughout our day. 
 
-When we wake up. When we shower. When we travel to work. During our lunch break. At dinner. Before bed.
+<hr class="hrul"/>
+
+- **When we wake up.**
+- **When we shower.**
+- **When we travel to work.**
+- **During our lunch break.**
+- **At dinner.**
+- **Before bed.**
+
+<hr class="hrul__bottom"/>
+
+
 
 The key thing to understand about awareness is that we're not actually aware unless if we exercise it.
 
-Largely, we do all of the above without truly being aware that they're happening.
+Largely, most of us do all of the things mentioned above, without truly being aware that they're actually happening.
 
-Often, we don't even need to think when we wake up or take a shower. It is just an automatic response we have, based on expectations we have of ourselves.
+I mean, how many times have you consciously thought about something from the very moment you've woken up?
 
-The idea behind this exercise is to get us thinking about these daily activities.
+You know, about a giraffe or that you're well and alive with two wonderful eyes?
 
-Because when we become more conscious of what's happening throughout our day, it becomes a lot easier to detect and stop negative habits from reoccurring. 
+Chances are those thoughts have simply never occurred to you, because instead, you go into autopilot mode where you just follow the motions.
 
-The other (and perhaps more significant) reason is that actively engaging our brain during these key moments, allows us to better address our cravings and those moments associated to our addiction where we feel as if we are not in control. 
+
+{{< hr3 "For this exercise, we want to do is start engaging our brain so that we can have those thoughts at these key moments throughout the day." >}}
+
+
+The idea is that once we become more conscious of what's happening throughout our day, it can become a lot easier to detect and stop negative habits from reoccurring. 
+
+In particular, to better address our cravings, as well as those moments associated to our addiction where we feel as if we are not in control. 
 
 And despite this exercise being relatively straight forward, it's an exercise that a lot of people struggle with, because it's a completely different way of engaging with the world.
 

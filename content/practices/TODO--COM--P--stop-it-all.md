@@ -1,5 +1,5 @@
 ---
-  title: "Practice: Stop It All"
+  title: "Stop It All"
   description: "Mentally stopping everything in our mind is one of the quickest ways you can learn to dictate control over yourself."
   date: 2019-01-22
   draft: false

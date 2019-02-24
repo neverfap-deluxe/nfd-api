@@ -1,5 +1,5 @@
 ---
-  title: "Practice: Catch It Out"
+  title: "Catch It Out"
   description: "Catch Yourself Whenever You Find Yourself Making A Judgement. The Idea Is Not To React, But Instead To Acknowledge That You've Made A Judgement And To Move On."
   date: 2019-01-14
   draft: false

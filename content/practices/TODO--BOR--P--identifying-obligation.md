@@ -1,5 +1,5 @@
 ---
-  title: "Practice: Identifying Obligation"
+  title: "Identifying Obligation"
   description: ""
   date: 2019-03-12
   draft: false

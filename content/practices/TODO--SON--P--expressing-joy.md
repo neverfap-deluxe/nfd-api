@@ -1,5 +1,5 @@
 ---
-  title: "Practice: Expressing Joy"
+  title: "Expressing Joy"
   description: ""
   date: 2019-03-26
   draft: false

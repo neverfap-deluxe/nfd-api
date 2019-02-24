@@ -1,5 +1,5 @@
 ---
-  title: "Practice: Hard routines"
+  title: "Hard routines"
   description: ""
   date: 2019-03-12
   draft: false
