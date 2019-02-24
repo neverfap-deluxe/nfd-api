@@ -25,7 +25,7 @@ https://forestry.io/blog/build-a-json-api-with-hugo/
 - Context
 - Practice
 - Introduction
-
+- Figure out how to make it look fancy in google
 
 Marketing - 
 - Create Quora
