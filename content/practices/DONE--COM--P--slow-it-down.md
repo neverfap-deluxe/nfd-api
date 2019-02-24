@@ -28,38 +28,31 @@ One of the most common ways we weaken our ability to be aware is by losing contr
 
 And the reason why we lose control over our thoughts is because they can be almost impossible to track when they're zooming around in our head at a million miles per hour.
 
-In most cases we don't even realise we're overthinking, because we're so consumed by our thoughts that we don't even allow ourselves the opportunity to realise what's even going on.
+In other words, because we're overthinking.
 
-<!-- 
-And a largely part of the reason why we lose control over our thoughts, is because it can become incredibly difficult to even notice we are overthinking, when we've committed all this energy towards generating and maintaining them. -->
+In most cases we don't even realise we're overthinking, because we're so consumed by our thoughts that we don't even allow ourselves the opportunity to realise what's going on.
 
-Which inevitably forms part of our subconscious, and develops into an instinctual reaction whereby we overthink by default and crumble at the seams.
-
-Without truly realising the part we're playing in maintaining this behaviour on a daily basis.
+Which over time can form into an instinctual reaction towards dealing with our negative feelings and emotions.
 
 
-{{< hr2 "For most people, porn addiction is merely a subconscious response." >}}
+{{< hr2 "Certainly, for most people, porn addiction is merely a subconscious response." >}}
 
 
-This exercise is designed to help break that cycle.
+And this exercise is designed to help break that cycle.
 
-As part of this exercise, we're not intending to identify these thoughts, nor even be aware of the impact of these thoughts.
+Rather than attempt to identify and qualify these thoughts, what we're going to do is simply going to focus on the raw process and sensation of thinking.
 
-We're simply going to focus on the raw process of thinking and how we can slow that down internally. 
-
-And in doing so, we can learn the physical sensation of what it actually means to be in control of our mind.
-
-And use this feeling as a strong foundation for being able to control what we think in our minds. 
+And in doing so, embrace the physical sensation of what it actually feels like to be in control of our minds, in order to create a strong foundation for being able to control what we feel and think. 
 
 
 {{< hr3 "Because when we're in control of our mind, it's almost as if everything is moving in slow motion." >}}
 
 
-The key thing to understand about control is that isn't necessarily about being able to react to what's in front of us. 
+The key thing to understand about maintaining control over our minds is that isn't necessarily about being able to react to what's in front of us. 
 
-Instead, a large part of having control is being able to prepare ourselves mentally for the events that will take place ahead of time 
+Instead, a large part of maintaining control is about being able to prepare ourselves mentally for the events that will take place in the future. 
 
-The idea being that we can then catch ourselves before these behaviours happen, and identify these patterns before they become unmanagable.
+The idea being that we can then catch ourselves before we begin overthinking, and identify these patterns before they become unmanagable.
 
 Because when our minds are racing at a million miles per hour, it can become incredibly difficult, if not impossible to slow it down.
 
@@ -67,10 +60,13 @@ Because when our minds are racing at a million miles per hour, it can become inc
 {{< hr4 "Which is why people inevitably relapse." >}}
 
 
-What you will learn by practicing <u>Slow it down</u> is how to slow your mind down on a regular basis. 
+Because at that point, they've already lost control. 
 
-As well as understand how to become more calm and relaxed as a person, while also exposing how futile and self-destructive letting our thoughts control us really is.
+By practicing <u>Slow it down</u> you will learn how to slow own your mind on a regular basis. 
 
+In order to demonstrate control over your mind, and create those neural connections in your brain.
+
+In addition, to understand how to become more calm and collected as a person, while also exposing the futility and self-destructiveness of letting our thoughts control us.
 
 
 {{< hr2 "Instructions" >}}
@@ -80,7 +76,8 @@ When you have a moment, just slow down your mind.
 
 This tends to work best when you're in the middle of doing something, because that's usually when your mind is engaged and requires relaxation. 
 
-Keep in mind that there are two different aspects to this exercise: Mental and physical.
+Keep in mind that there are two different aspects to this exercise: 
+Mental and physical.
 
 For example, when I'm walking down the street, aside from slowing down my thoughts, I will also sometimes physically slow down, even stopping where I stand.
 
