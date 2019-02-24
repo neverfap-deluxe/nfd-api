@@ -19,8 +19,6 @@
 
 <!-- VERY HAPPY WITH THIS -->
 
-<!-- {{< hr2 "Context" >}} -->
-
 
 This exercise is designed to help you keep on top of your awareness throughout the day.
 
