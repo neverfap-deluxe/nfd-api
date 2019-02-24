@@ -23,61 +23,65 @@
 
 Learning to focus our attention is an important skill.
 
-However, I would also argue that it's quite an advanced skill, that should only be attempted once you feel more comfortable being aware in general.
+However, I would also argue that it's quite an advanced skill that should only be attempted once you feel more comfortable being aware in general.
 
-A concept which almost always causes more confusion than clarity, so please do not proceed until you've mastered more basic awareness exercises. 
+In fact, it's an exercise which builds upon <a class="link" href="/practices/observe-it-all">Observe it all</a> so it makes sense to master that first.
+
+Otherwise, we can truly struggle with this exercise, and more often than not when people attempt to learn this exercise first, it almost always leads to more confusion than clarity.
+
+So please do not proceed until you've mastered more fundamental awareness exercises. 
 
 {{< hr2 "What is focus?" >}}
 
 The funny thing about focus is that it's a bit of a paradox, at least according to conventional wisdom.
 
-A lot of people treat focus as if it's supposed to be this kind of intense period of concentration, which is designed to consume all their energy and attention.
+A lot of people treat focus as if it's supposed to be this kind of intense period of concentration, which is designed to consume all you energy and attention.
 
-In reality, effective focus is not like that.
-
-Effective focus doesn't come from tensing up and trying 'really hard' to get into that mental zone.
+In reality, effective focus is not like that and cannot come from tensing up and trying 'really hard' to get into that mental zone.
 
 
 {{< hr3 "Instead, effective focus comes from being calm and relaxed with a clear intention in mind." >}}
 
 
-I mean, I'm sure you could maintain intense focus by trying 'really hard' however it certainly would be effective in the sense of being in control.
+I mean, I'm sure anyone could maintain intense focus by trying 'really hard' however it certainly wouldn't be effective in the sense of being in control.
 
-Ultimately, you cannot effectively focus if you're spending all your mental energy on creating an environment in which you feel comfortable to focus, because then you're left with significantly less energy to actually focus. 
+Ultimately, you cannot focus effectively if you're spending all your mental energy on creating an environment in which you feel comfortable to focus.
 
-Regardless, it's a very vulnerable approach towards generating focus that I cannot recommend.
+Because then you're left with significantly less energy to actually focus, and instead it leaves you incredibly vulnerable and quite ironically, without focus.
 
-If I had to describe what focus is.
+Definitely, not fun.
+
+As stated earlier, if I had to describe what focus is.
 
 
 {{< hr3 "I would say that it's nothing more than awareness with a clear intention." >}} 
 
 
-Which is to say that it's the same thing as being aware in the traditional sense (i.e. observation), only now with a clear intention in mind.
+Which is to say that it's the same thing as being aware in the traditional sense (i.e. observation), only now you're choosing an intention outside of simply being aware of your senses.
 
 This is why I say that you must first learn to master basic awareness before moving onto these kinds of exercises. 
 
-Because it actually requires more skill to remain calm and aware, while also having a clear intention in mind.
+Because it actually requires more skill to remain calm and aware, while also selectively focusing on a certain aspect of your awareness.
 
-Not only does it require that you selectively focus on certain aspects of your awareness, however in order for it to be effective you also have to do it in a a way that is non-destructive.
+Which people generally find more difficult than simply being aware of all their sense.
 
-Which is where most people struggle. 
+In essence, it's easier to be fully attuned to all your senses at once without focus, than it is to be fully attuned to just one of your senses
 
-In essence, it's easier to be fully attuned to all your senses at once without focus, than it is to be fully attuned to just one of your senses, because there's simply less overhead.
+Simply because there's less overhead.
 
 
 {{< hr2 "Instructions" >}}
 
 
-There are essentially two key steps towards performing this exercise:
+There are essentially two key steps towards performing this exercise.
 
 First, relax and put yourself into a state of unconditional awareness, as per the instructions in <a class="link" href="/practices/observe-it-all">Observe it all</a>.
 
 In this state of mind, you should have completely emptied your mind and become fully attuned to your senses.
 
-Then, once you have achieved this, attempt to place your attention on a particular aspect of your awareness. 
+Then, once you have achieved this, attempt to place your attention on a very particular aspect of your awareness. 
 
-It could be something visual, like on a lamp or a door. It could be a very particular sound that is occurring in the background. It could be a physical sensation that you're experiencing in your body. 
+It could be something visual, like a lamp or a door. It could be a sound that is occurring in the background. It could be a physical sensation that you're experiencing in your body. 
 
 Play around with it and see where your mind takes you.
 
