@@ -9,11 +9,11 @@
   "categories": {{ .Params.Categories | jsonify }}
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
-  "tldr1": "{{ if .Params.Tldr1 }}{{ .Params.Tldr1 | jsonify }}{{ end }}",
-  "tldr2": "{{ if .Params.Tldr2 }}{{ .Params.Tldr2 | jsonify }}{{ end }}",
-  "tldr3": "{{ if .Params.Tldr3 }}{{ .Params.Tldr3 | jsonify }}{{ end }}",
-  "tldr4": "{{ if .Params.Tldr4 }}{{ .Params.Tldr4 | jsonify }}{{ end }}",
-  "tldr5": "{{ if .Params.Tldr5 }}{{ .Params.Tldr5 | jsonify }}{{ end }}"
+  "tldr1": {{ if .Params.Tldr1 }}{{ .Params.Tldr1 | jsonify }}{{ end }},
+  "tldr2": {{ if .Params.Tldr2 }}{{ .Params.Tldr2 | jsonify }}{{ end }},
+  "tldr3": {{ if .Params.Tldr3 }}{{ .Params.Tldr3 | jsonify }}{{ end }},
+  "tldr4": {{ if .Params.Tldr4 }}{{ .Params.Tldr4 | jsonify }}{{ end }},
+  "tldr5": {{ if .Params.Tldr5 }}{{ .Params.Tldr5 | jsonify }}{{ end }}
 }
 {{ end }}
 

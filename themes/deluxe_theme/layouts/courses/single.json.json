@@ -10,10 +10,11 @@
   "category": {{ .Params.Category | jsonify }}
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
-  "overview": {{ .Params.Overview | jsonify }},
-  "learn1": "{{ .Params.Learn1 | jsonify }},
-  "learn2": "{{ .Params.Learn2 | jsonify }},
-  "learn3": "{{ .Params.Learn3 | jsonify }}
+
+  "overview": {{ if .Params.Overview }}{{ .Params.Overview | jsonify }}{{ end }},
+  "learn1": {{ if .Params.Learn1 }}{{ .Params.Learn1 | jsonify }}{{ end }},
+  "learn2": {{ if .Params.Learn2 }}{{ .Params.Learn2 | jsonify }}{{ end }},
+  "learn3": {{ if .Params.Learn3 }}{{ .Params.Learn3 | jsonify }}{{ end }}
 }
 {{ end }}
 
