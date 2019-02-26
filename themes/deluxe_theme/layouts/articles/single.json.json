@@ -9,6 +9,17 @@
   "categories": {{ .Params.Categories | jsonify }},
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
+  "section": {{ .Section | jsonify }},
+  {{/*
+
+  "prevInSection": {{ .PrevInSection | jsonify }},
+  "prevInSectionTitle": {{ .PrevInSection.Title | jsonify }},
+  "prevInSectionPermalink": {{ .PrevInSection.Permalink | jsonify }},
+
+  "nextInSection": {{ .NextInSection | jsonify }},
+  "nextInSectionTitle": {{ .NextInSection.Title | jsonify }},
+  "nextInSectionPermalink": {{ .NextInSection.Permalink | jsonify }},
+*/}}
   "tldr1": {{ if .Params.Tldr1 }}{{ .Params.Tldr1 | jsonify }}{{ end }},
   "tldr2": {{ if .Params.Tldr2 }}{{ .Params.Tldr2 | jsonify }}{{ end }},
   "tldr3": {{ if .Params.Tldr3 }}{{ .Params.Tldr3 | jsonify }}{{ end }},

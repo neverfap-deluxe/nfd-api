@@ -12,6 +12,7 @@
         "categories": {{ .Params.Categories | jsonify }}
         "tags": {{ .Params.Tags | jsonify }},
         "permalink" : {{ .Permalink | jsonify }},
+        "section": {{ .Section | jsonify }},
 
         {{/* articles */}}
         "tldr1": {{ if .Params.Tldr1 }}{{ .Params.Tldr1 | jsonify }}{{ else }}""{{ end }},

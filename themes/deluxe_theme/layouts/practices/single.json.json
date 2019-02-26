@@ -10,6 +10,16 @@
   "category": {{ .Params.Category | jsonify }},
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
+  "section": {{ .Section | jsonify }},
+ {{/*
+  "prevInSection": {{ .PrevInSection | jsonify }},
+  "prevInSectionTitle": {{ .PrevInSection.Title | jsonify }},
+  "prevInSectionPermalink": {{ .PrevInSection.Permalink | jsonify }},
+
+  "nextInSection": {{ .NextInSection | jsonify }},
+  "nextInSectionTitle": {{ .NextInSection.Title | jsonify }},
+  "nextInSectionPermalink": {{ .NextInSection.Permalink | jsonify }},
+*/}}
   "overview": {{ .Params.Overview | jsonify }},
   "what": {{ .Params.What | jsonify }},
   "how": {{ .Params.How | jsonify }},

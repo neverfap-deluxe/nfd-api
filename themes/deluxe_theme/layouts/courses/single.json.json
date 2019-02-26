@@ -10,6 +10,7 @@
   "category": {{ .Params.Category | jsonify }},
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
+  "section": {{ .Section | jsonify }},
 
   "overview": {{ if .Params.Overview }}{{ .Params.Overview | jsonify }}{{ end }},
   "learn1": {{ if .Params.Learn1 }}{{ .Params.Learn1 | jsonify }}{{ end }},
