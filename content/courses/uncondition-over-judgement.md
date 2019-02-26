@@ -1,8 +1,8 @@
 ---
   title: "Uncondition Over Judgement Course"
   description: "The Uncondition Over Judgement course helps you understand the power of acceptance as a driving force for self-control."
-  date: 2019-04-14
-  draft: true
+  date: 2019-01-02
+  draft: false
   tags: [ "course", "meditation", "visual meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]
   # image: "/images/face.jpg"

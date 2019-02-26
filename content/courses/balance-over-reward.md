@@ -1,8 +1,8 @@
 ---
   title: "Balance Over Reward Course"
   description: "The Balance Over Reward course helps you understand the crucial role balance plays in maintaining your feelings and emotions."
-  date: 2019-04-14
-  draft: true
+  date: 2019-02-14
+  draft: false
   tags: [ "course", "meditation", "visual meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
   # image: "/images/face.jpg"

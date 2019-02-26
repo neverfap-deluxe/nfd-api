@@ -1,8 +1,8 @@
 ---
   title: "Struggle Over None Course"
   description: "The Struggle Over None course helps you understand that porn recovery is about embracing calm and learning not to fight yourself mentally."
-  date: 2019-04-10
-  draft: true
+  date: 2019-01-12
+  draft: false
   tags: [ "course", "meditation", "visual meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
   # image: "/images/face.jpg"

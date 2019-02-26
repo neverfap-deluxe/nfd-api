@@ -1,8 +1,8 @@
 ---
   title: "Introduction course"
   description: "The NeverFap Deluxe Introduction course offers a fundamental overview of the articles and practices on the website."
-  date: 2019-04-21
-  draft: true
+  date: 2019-01-24
+  draft: false
   tags: [ "course", "meditation", "visual meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "introduction" ]
   # image: "/images/face.jpg"

@@ -20,8 +20,10 @@
         "tldr4": {{ if .Params.Tldr4 }}{{ .Params.Tldr4 | jsonify }}{{ else }}""{{ end }},
         "tldr5": {{ if .Params.Tldr5 }}{{ .Params.Tldr5 | jsonify }}{{ else }}""{{ end }},
 
-        {{/* practices */}}
+        {{/* practices + courses*/}}
         "overview": {{ if .Params.Overview }}{{ .Params.Overview | jsonify }}{{ else }}""{{ end }},
+
+        {{/* practices */}}
         "category": {{ if .Params.Category }}{{ .Params.Category | jsonify }}{{ else }}""{{ end }},
         "what": {{ if .Params.What }}{{ .Params.What | jsonify }}{{ else }}""{{ end }},
         "how": {{ if .Params.How }}{{ .Params.How | jsonify }}{{ else }}""{{ end }},

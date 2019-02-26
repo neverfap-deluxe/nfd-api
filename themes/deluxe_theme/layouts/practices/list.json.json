@@ -1,0 +1,27 @@
+{{ define "response" }}
+  [
+    {{ range $index, $e := (where .Data.Pages "Section" "practices") }}
+      {{ if $index }}, {{ end }}
+      {
+        "title": {{ .Title | jsonify }},
+        "description": {{ .Description | jsonify }},
+        "content": {{ .Content | jsonify }},
+        "date": {{ .Date.Format "2006-01-02" | jsonify }},
+        "draft": {{ .Draft | jsonify }},
+        "slug": {{ .Params.Slug | jsonify }},
+        "categories": {{ .Params.Categories | jsonify }},
+        "tags": {{ .Params.Tags | jsonify }},
+        "permalink" : {{ .Permalink | jsonify }},
+
+        {{/* practices */}}
+        "overview": {{ if .Params.Overview }}{{ .Params.Overview | jsonify }}{{ else }}""{{ end }},
+        "category": {{ if .Params.Category }}{{ .Params.Category | jsonify }}{{ else }}""{{ end }},
+        "what": {{ if .Params.What }}{{ .Params.What | jsonify }}{{ else }}""{{ end }},
+        "how": {{ if .Params.How }}{{ .Params.How | jsonify }}{{ else }}""{{ end }},
+        "when": {{ if .Params.When }}{{ .Params.When | jsonify }}{{ else }}""{{ end }},
+        "duration": {{ if .Params.Duration }}{{ .Params.Duration | jsonify }}{{ else }}""{{ end }}
+
+      }
+    {{ end }}
+  ]
+{{ end }}

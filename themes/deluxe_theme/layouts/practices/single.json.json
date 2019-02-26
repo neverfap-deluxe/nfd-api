@@ -6,8 +6,8 @@
   "date": {{ .Date.Format "2006-01-02" | jsonify }},
   "draft": {{ .Draft | jsonify }},
   "slug": {{ .Params.Slug | jsonify }},
-  "categories": {{ .Params.Categories | jsonify }}
-  "category": {{ .Params.Category | jsonify }}
+  "categories": {{ .Params.Categories | jsonify }},
+  "category": {{ .Params.Category | jsonify }},
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
   "overview": {{ .Params.Overview | jsonify }},

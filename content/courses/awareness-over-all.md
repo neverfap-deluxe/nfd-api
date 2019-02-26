@@ -1,8 +1,8 @@
 ---
   title: "Awareness Over All Course"
   description: "The Awareness Over All course helps you understand the role of awareness and observation as a core strategy towards overcoming porn addiction."
-  date: 2019-04-21
-  draft: true
+  date: 2019-02-26
+  draft: false
   tags: [ "course", "meditation", "visual meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
