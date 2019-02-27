@@ -7,15 +7,17 @@
   "draft": {{ .Draft | jsonify }},
   "slug": {{ .Params.Slug | jsonify }},
   "categories": {{ .Params.Categories | jsonify }},
-  "category": {{ .Params.Category | jsonify }},
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
-  "section": {{ .Section | jsonify }},
 
-  "overview": {{ if .Params.Overview }}{{ .Params.Overview | jsonify }}{{ end }},
-  "learn1": {{ if .Params.Learn1 }}{{ .Params.Learn1 | jsonify }}{{ end }},
-  "learn2": {{ if .Params.Learn2 }}{{ .Params.Learn2 | jsonify }}{{ end }},
-  "learn3": {{ if .Params.Learn3 }}{{ .Params.Learn3 | jsonify }}{{ end }}
+  {{ if .Params.Category }}"category": {{ .Params.Category | jsonify }},{{ end }}
+  {{ if .Params.Overview }}"overview": {{ .Params.Overview | jsonify }},{{ end }}
+  {{ if .Params.Learn1 }}"learn1": {{ .Params.Learn1 | jsonify }},{{ end }}
+  {{ if .Params.Learn2 }}"learn2": {{ .Params.Learn2 | jsonify }},{{ end }}
+  {{ if .Params.Learn3 }}"learn3": {{ .Params.Learn3 | jsonify }},{{ end }}
+  {{ if .Params.Number }}"number": {{ .Params.Number | jsonify }},{{ end }}
+
+  "section": {{ .Section | jsonify }}
 }
 {{ end }}
 

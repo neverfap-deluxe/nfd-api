@@ -10,7 +10,14 @@
   "category": {{ .Params.Category | jsonify }},
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
-  "section": {{ .Section | jsonify }},
+
+  {{ if .Params.Overview }}"overview": {{ .Params.Overview | jsonify }},{{ end }}
+  {{ if .Params.What }}"what": {{ .Params.What | jsonify }},{{ end }}
+  {{ if .Params.How }}"how": {{ .Params.How | jsonify }},{{ end }}
+  {{ if .Params.When }}"when": {{ .Params.When | jsonify }},{{ end }}
+  {{ if .Params.Duration }}"duration": {{ .Params.Duration | jsonify }},{{ end }}
+
+  "section": {{ .Section | jsonify }}
  {{/*
   "prevInSection": {{ .PrevInSection | jsonify }},
   "prevInSectionTitle": {{ .PrevInSection.Title | jsonify }},
@@ -20,11 +27,7 @@
   "nextInSectionTitle": {{ .NextInSection.Title | jsonify }},
   "nextInSectionPermalink": {{ .NextInSection.Permalink | jsonify }},
 */}}
-  "overview": {{ .Params.Overview | jsonify }},
-  "what": {{ .Params.What | jsonify }},
-  "how": {{ .Params.How | jsonify }},
-  "when": {{ .Params.When | jsonify }},
-  "duration": {{ .Params.Duration | jsonify }}
+
 }
 {{ end }}
 

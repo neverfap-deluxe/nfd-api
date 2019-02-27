@@ -4,7 +4,7 @@
   date: 2019-03-02
   draft: false
   tags: [ "contact", "contact form", "email", "porn addiction", "porn recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
-  categories: [ "" ]
+  categories: [ "index" ]
   # image: "/images/face.jpg"
   slug: "courses_page"
 ---
