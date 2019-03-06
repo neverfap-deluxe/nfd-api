@@ -1,5 +1,4 @@
 {{ define "response" }}
-{{ if not .Draft }}
 { 
   "title": {{ .Title | jsonify }},
   "description": {{ .Description | jsonify }},
@@ -13,7 +12,7 @@
   "section": {{ .Section | jsonify }},
   "quotes": [
     {{ range $index, $e := (where .Data.Pages "Section" "practices") }}
-      {{ if ne .Slug "practices_page" }}
+      {{ if not .Draft }}
         {{ if $index }}, {{ end }}
         {
           "title": {{ .Title | jsonify }},
@@ -31,5 +30,4 @@
     {{ end }}
   ]
 }
-{{ end }}
 {{ end }}

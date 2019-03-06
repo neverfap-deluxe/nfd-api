@@ -1,5 +1,4 @@
 {{ define "response" }}
-{{ if not .Draft }}
   { 
   "title": {{ .Title | jsonify }},
   "description": {{ .Description | jsonify }},
@@ -13,7 +12,7 @@
   "section": {{ .Section | jsonify }},
   "courses": [
     {{ range $index, $e := (where .Data.Pages "Section" "courses") }}
-      {{ if ne .Slug "courses_page" }}
+      {{ if not .Draft }}
         {{ if $index }}, {{ end }}
         {
           "title": {{ .Title | jsonify }},
@@ -34,11 +33,9 @@
           {{ if .Params.Learn3 }}"learn3": {{ .Params.Learn3 | jsonify }},{{ end }}
 
           "section": {{ .Section | jsonify }}
-
         }
       {{ end }}
     {{ end }}
   ]
 }
-{{ end }}
 {{ end }}

@@ -1,12 +1,12 @@
 ---
   title: "E01 - My Personal NoFap Porn Recovery Journey"
   description: "NeverFap."
-  date: 2019-03-09
-  draft: true
+  date: 2019-03-01
+  draft: false
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
   # image: "/images/face.jpg"
-  slug: "practices_page"
+  slug: "ep-01-my-personal-nofap-porn-recovery-journey"
 ---
 
 In this episode:
