@@ -6,5 +6,7 @@
   tags: [ "quotes" ]
   categories: [ "index" ]
   # image: "/images/face.jpg"
-  slug: "privacy"
+  slug: "quotes"
 ---
+
+Quotes r us.

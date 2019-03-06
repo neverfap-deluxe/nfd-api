@@ -9,8 +9,8 @@
   slug: "my-personal-porn-recovery-journey"
 
   tldr1: "I last watched porn in October 25th 2018."
-  tldr2: "The first main reason why I've managed to succeed is because I came out about my disorder to my partner."
-  tldr3: "The second main reason why I've managed to succeed is because I began practicing meditation."
+  tldr2: "The first reason why I've managed to succeed is because I came out about my disorder to my partner."
+  tldr3: "The second reason why I've managed to succeed is because I began practicing meditation."
 
 ---
 

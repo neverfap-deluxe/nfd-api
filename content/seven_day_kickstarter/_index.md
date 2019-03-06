@@ -6,5 +6,7 @@
   tags: [ "kickstarter" ]
   categories: [ "index" ]
   # image: "/images/face.jpg"
-  slug: "privacy"
+  slug: "seven-day-kickstarter"
 ---
+
+Seven Day yay.
