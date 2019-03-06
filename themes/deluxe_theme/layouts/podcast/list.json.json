@@ -1,6 +1,6 @@
 {{ define "response" }}
 {{ if not .Draft }}
-  { 
+{ 
   "title": {{ .Title | jsonify }},
   "description": {{ .Description | jsonify }},
   "content": {{ .Content | jsonify }},
@@ -11,9 +11,9 @@
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
   "section": {{ .Section | jsonify }},
-  "articles": [
-    {{ range $index, $e := (where .Data.Pages "Section" "articles") }}
-      {{ if ne .Slug "articles_page" }}
+  "podcasts": [
+    {{ range $index, $e := (where .Data.Pages "Section" "podcast") }}
+      {{ if ne .Slug "practices_page" }}
         {{ if $index }}, {{ end }}
         {
           "title": {{ .Title | jsonify }},
@@ -26,13 +26,6 @@
           "tags": {{ .Params.Tags | jsonify }},
           "permalink" : {{ .Permalink | jsonify }},
           "section": {{ .Section | jsonify }},
-
-          {{/* articles */}}
-          "tldr1": {{ if .Params.Tldr1 }}{{ .Params.Tldr1 | jsonify }}{{ else }}""{{ end }},
-          "tldr2": {{ if .Params.Tldr2 }}{{ .Params.Tldr2 | jsonify }}{{ else }}""{{ end }},
-          "tldr3": {{ if .Params.Tldr3 }}{{ .Params.Tldr3 | jsonify }}{{ else }}""{{ end }},
-          "tldr4": {{ if .Params.Tldr4 }}{{ .Params.Tldr4 | jsonify }}{{ else }}""{{ end }},
-          "tldr5": {{ if .Params.Tldr5 }}{{ .Params.Tldr5 | jsonify }}{{ else }}""{{ end }}
         }
       {{ end }}
     {{ end }}

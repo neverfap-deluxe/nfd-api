@@ -1,4 +1,5 @@
 {{ define "response" }}
+{{ if not .Draft }}
   { 
   "title": {{ .Title | jsonify }},
   "description": {{ .Description | jsonify }},
@@ -39,4 +40,5 @@
     {{ end }}
   ]
 }
+{{ end }}
 {{ end }}

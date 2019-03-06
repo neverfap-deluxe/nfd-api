@@ -1,4 +1,5 @@
 {{ define "response" }}
+{{ if not .Draft }}
   [
     {{ range $index, $e := .Data.Pages }}
       {{ if $index }}, {{ end }}
@@ -39,4 +40,5 @@
       }
     {{ end }}
   ]
+{{ end }}
 {{ end }}

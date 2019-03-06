@@ -1,0 +1,33 @@
+{{ define "response" }} 
+{
+  "title": {{ .Title | jsonify }},
+  "description": {{ .Description | jsonify }},
+  "content": {{ .Content | jsonify }},
+  "date": {{ .Date.Format "2006-01-02" | jsonify }},
+  "draft": {{ .Draft | jsonify }},
+  "slug": {{ .Params.Slug | jsonify }},
+  "categories": {{ .Params.Categories | jsonify }},
+  "category": {{ .Params.Category | jsonify }},
+  "tags": {{ .Params.Tags | jsonify }},
+  "permalink" : {{ .Permalink | jsonify }},
+
+  {{ if .Params.Overview }}"overview": {{ .Params.Overview | jsonify }},{{ end }}
+  {{ if .Params.What }}"what": {{ .Params.What | jsonify }},{{ end }}
+  {{ if .Params.How }}"how": {{ .Params.How | jsonify }},{{ end }}
+  {{ if .Params.When }}"when": {{ .Params.When | jsonify }},{{ end }}
+  {{ if .Params.Duration }}"duration": {{ .Params.Duration | jsonify }},{{ end }}
+
+  "section": {{ .Section | jsonify }}
+ {{/*
+  "prevInSection": {{ .PrevInSection | jsonify }},
+  "prevInSectionTitle": {{ .PrevInSection.Title | jsonify }},
+  "prevInSectionPermalink": {{ .PrevInSection.Permalink | jsonify }},
+
+  "nextInSection": {{ .NextInSection | jsonify }},
+  "nextInSectionTitle": {{ .NextInSection.Title | jsonify }},
+  "nextInSectionPermalink": {{ .NextInSection.Permalink | jsonify }},
+*/}}
+
+}
+{{ end }}
+

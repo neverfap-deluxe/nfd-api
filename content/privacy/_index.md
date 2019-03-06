@@ -1,13 +1,15 @@
 ---
   title: "Privacy"
-  description: "NeverFap Deluxe Privacy. We Take Your Privacy Very Seriously. This Website Does Not Keep Any Of Your Personal Data. It Is A Static Website."
+  description: "NeverFap Deluxe Privacy."
   date: 2019-01-22
   draft: false
-  tags: [ "" ]
-  categories: [ "" ]
+  tags: [ "privacy" ]
+  categories: [ "privacy" ]
   # image: "/images/face.jpg"
   slug: "privacy"
 ---
 
-We take your privacy very seriously. This website does not keep any of your personal data. It is a static website.
+We take your privacy very seriously.
+
+
 
