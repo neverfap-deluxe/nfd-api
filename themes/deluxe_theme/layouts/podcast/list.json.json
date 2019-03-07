@@ -11,8 +11,9 @@
   "permalink" : {{ .Permalink | jsonify }},
   "section": {{ .Section | jsonify }},
   "podcast": [
-    {{ range $index, $e := (where .Data.Pages "Section" "podcast") }}
-      {{ if not .Draft }}
+    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "podcast") }}
+      {{ if .Draft }}
+      {{ else }}
         {{ if $index }}, {{ end }}
         {
           "title": {{ .Title | jsonify }},

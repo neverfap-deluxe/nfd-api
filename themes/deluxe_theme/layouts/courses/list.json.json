@@ -11,8 +11,9 @@
   "permalink" : {{ .Permalink | jsonify }},
   "section": {{ .Section | jsonify }},
   "courses": [
-    {{ range $index, $e := (where .Data.Pages "Section" "courses") }}
-      {{ if not .Draft }}
+    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "courses") }}
+      {{ if .Draft }}
+      {{ else }}
         {{ if $index }}, {{ end }}
         {
           "title": {{ .Title | jsonify }},

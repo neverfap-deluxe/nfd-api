@@ -1,5 +1,5 @@
 ---
-  title: "Podcast"
+  title: "Podcasts"
   description: "NeverFap Deluxe Podcast. Learn more about"
   date: 2019-01-07
   draft: false

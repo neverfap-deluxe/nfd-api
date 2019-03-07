@@ -11,11 +11,11 @@
   "permalink" : {{ .Permalink | jsonify }},
   "section": {{ .Section | jsonify }},
   "practices": [
-    {{ range $index, $e := (where .Data.Pages "Section" "practices") }}
-      {{ if not .Draft }}
+    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "practices") }}
+      {{ if .Draft }}
+      {{ else }}
         {{ if $index }}, {{ end }}
         {
-          "index": {{ $index | jsonify }}
           "title": {{ .Title | jsonify }},
           "description": {{ .Description | jsonify }},
           "content": {{ .Content | jsonify }},
@@ -25,7 +25,6 @@
           "categories": {{ .Params.Categories | jsonify }},
           "tags": {{ .Params.Tags | jsonify }},
           "permalink" : {{ .Permalink | jsonify }},
-          "section": {{ .Section | jsonify }},
 
           {{/* practices */}}
           "overview": {{ if .Params.Overview }}{{ .Params.Overview | jsonify }}{{ else }}""{{ end }},
@@ -33,7 +32,10 @@
           "what": {{ if .Params.What }}{{ .Params.What | jsonify }}{{ else }}""{{ end }},
           "how": {{ if .Params.How }}{{ .Params.How | jsonify }}{{ else }}""{{ end }},
           "when": {{ if .Params.When }}{{ .Params.When | jsonify }}{{ else }}""{{ end }},
-          "duration": {{ if .Params.Duration }}{{ .Params.Duration | jsonify }}{{ else }}""{{ end }}
+          "duration": {{ if .Params.Duration }}{{ .Params.Duration | jsonify }}{{ else }}""{{ end }},
+
+          "section": {{ .Section | jsonify }}
+
         }
       {{ end }}
     {{ end }}

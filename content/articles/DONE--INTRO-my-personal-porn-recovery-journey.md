@@ -8,7 +8,7 @@
   # image: "/images/face.jpg"
   slug: "my-personal-porn-recovery-journey"
 
-  tldr1: "I last watched porn in October 25th 2018."
+  tldr1: "I last watched porn in October 20th 2018."
   tldr2: "The first reason why I've managed to succeed is because I came out about my disorder to my partner."
   tldr3: "The second reason why I've managed to succeed is because I began practicing meditation."
 
@@ -42,7 +42,6 @@ A problem which I was determined to understand and overcome.
 
 
 {{< hr3 "Age 25. October 20th 2018." >}}
-
 
 The last time in my entire life that I will have ever masturbated to, or ever watched porn.
 
