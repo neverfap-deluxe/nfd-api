@@ -6,7 +6,7 @@
   tags: [ "kickstarter" ]
   categories: [ "index" ]
   # image: "/images/face.jpg"
-  slug: "seven-day-kickstarter"
+  slug: "seven-day-neverfap-deluxe-kickstarter"
 ---
 
 Seven Day yay.
