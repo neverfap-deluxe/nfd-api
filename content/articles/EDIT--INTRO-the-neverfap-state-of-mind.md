@@ -11,6 +11,8 @@
   tldr1: "Calmness is a default state of mind, which helps you address porn addiction easily."
   tldr2: "You can develop calmness though meditation and awareness practice."
   
+  pageId: "24c4957c-884c-4954-9224-f6cc34f443c0"
+
 ---
 
 <!-- Will Need One Edit -->

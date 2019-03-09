@@ -10,6 +10,9 @@
 
   tldr1: "The biggest judgement we make is when we tell ourselves off for doing something we feel we shouldn't have done."
   tldr2: "There is no right or wrong. There is merely your control and understanding of the situation."
+
+  pageId: "96335933-06fe-457c-8ad8-82b665081389"
+
 ---
 
 There's a habit that most people have developed since childhood.

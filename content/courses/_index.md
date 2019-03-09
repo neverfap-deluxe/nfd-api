@@ -7,6 +7,9 @@
   categories: [ "" ]
   # image: "/images/face.jpg"
   slug: "courses"
+
+  pageId: "fc22b9e5-17b1-478c-8eff-b6510a4b2718"
+
 ---
 
 Words are a plenty here in summerville.

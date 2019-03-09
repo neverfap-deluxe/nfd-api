@@ -7,4 +7,7 @@
   categories: [ "index" ]
   # image: "/images/face.jpg"
   slug: "articles"
+
+  pageId: "7268ba24-ed01-464d-983f-b8d4c5d839a7"
+
 ---

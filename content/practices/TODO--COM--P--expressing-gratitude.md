@@ -14,6 +14,9 @@
   how: "."
   when: "."
   duration: "."
+
+  pageId: "5fd4ab84-5034-480c-8a64-d469ef43f970"
+
 ---
 
 The flipside to struggle is to be comfortable with ourselves.

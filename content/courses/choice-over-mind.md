@@ -14,6 +14,9 @@
   learn3: "- Understand your options and embrace them."
   category: "choice-over-mind"
   number: "two"
+
+  pageId: "58105145-8967-4d83-b29a-e917a07db504"
+
 ---
 
 <!-- Will Need One Edit -->

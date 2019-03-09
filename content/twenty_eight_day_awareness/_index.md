@@ -7,6 +7,9 @@
   categories: [ "index" ]
   # image: "/images/face.jpg"
   slug: "twenty-eight-day-awareness-challenge"
+
+  pageId: "2279b368-d0fa-416d-9cf8-033ae56538a0"
+
 ---
 
 Twenty Eight Day Challenge.

@@ -9,6 +9,9 @@
   slug: "the-easiest-way-to-identify-a-judgement"
 
   tldr1: "The easiest way to identify a judgement is by paying attention to our emotional reactions."
+
+  pageId: "8d125c50-9dd6-449e-8123-108c0c1824a8"
+
 ---
 
 There is one super simple way to identify a judgement.

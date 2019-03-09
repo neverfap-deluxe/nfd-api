@@ -11,6 +11,8 @@
   tldr1: "Start out by practicing observation for ten minutes each day with <a class=\"link\" href=\"/practices\">Observe it all</a>."
   tldr2: "In future, add an additional exercise and rotate that exercise on a weekly basis, whilst continuing daily observation practice."
 
+  pageId: "78221175-f0e4-4979-94bc-3aa18316f564"
+
 ---
 
 <!-- Will Need Edit -->

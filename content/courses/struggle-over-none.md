@@ -14,6 +14,9 @@
   learn3: "- Embrace simplicity as a philosophy."
   category: "struggle-over-none"
   number: "five"
+
+  pageId: "502bd249-dfd0-4154-99aa-6c89774841c2"
+
 ---
 
 <!-- Will Need One Edit -->

@@ -11,6 +11,8 @@
   tldr1: "NeverFap Deluxe Practices are designed to help you develop healthy coping mechanisms through self-awareness and perspective."
   tldr2: "These practices should be used as a tool of self-discovery for your feelings and emotions."
   
+  pageId: "01cf38a6-80a7-41a8-9745-14e98003ad87"
+
 ---
 
 <!-- TODO -->

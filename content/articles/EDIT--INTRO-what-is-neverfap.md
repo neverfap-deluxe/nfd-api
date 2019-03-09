@@ -12,6 +12,8 @@
   tldr2: "Self-control is counter-intuitive, because you are not already in control of yourself."
   tldr3: "Observation is the most important skill you can learn in regards to overcoming porn addiction."
   
+  pageId: "25f6759f-deac-436e-8408-ac51a1c1773f"
+
 ---
 
 <!-- Will Need One Edit -->

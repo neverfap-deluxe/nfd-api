@@ -1,56 +1,16 @@
 ---
   title: "E01 - My Personal NoFap Porn Recovery Journey"
-  description: "NeverFap."
+  description: "NeverFap Deluxe Podcast. In this episode I talk about my own NoFap porn recovery journey over the past five years."
   date: 2019-03-01
   draft: false
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
   # image: "/images/face.jpg"
   slug: "ep-01-my-personal-nofap-porn-recovery-journey"
+  url: "randomurl-yessssss"
+
+  pageId: "51a8dc0e-93d8-4219-be45-df62ca343f2c"
+
 ---
 
-In this episode:
-
-- Introduce topic. 
-    - Today I want to talk about me. 
-    - My upbringing. My relationship with porn. My recovery. 
-    - Basically, so you have some context about who I am, as well as how I effectively managed to give up porn.
-
-- Hope
-    - Before I begin, I want to say thank you for taking the time.
-    - I also want to say that it’s possible. It took me five years, but it’s possible.
-    - Not about intelligence or how hard you try. It’s all about your strategy.
-
-- Who am I?
-    - Childhood
-        - Family situation.
-        - Arrogant as a child.
-        - First experiences.
-    - Teenage years
-        - Depression.
-
-    - Adult.
-        - Ambition. Rediscovery of self.
-
-- My relationship with porn
-    - Pure addiction.
-    - Emotions - Guilt.
-    - Bipolar
-
-- First attempts at giving up.
-    - When it became an issue: First relationship.
-    - For about five years, left it to chance.
-    - Two most recent successful attempts: When I came back from Japan. 2 months each time.
-
-- Final breakthrough. 
-    - Late october 2018 had a breakdown. 
-    - I came out about my bipolar.
-    - I started meditating and taking my mental health seriously.
-
-- Lessons
-    - You can’t do it alone. 
-    - Meditation, and furthermore, consistency.
-
-- Outro
-    - Thank you for listening
-    - Comments/questions
+In this episode I talk about my own NoFap porn recovery journey over the past five years, as well as all the challenges I've faced up until my recovery in October 2018.

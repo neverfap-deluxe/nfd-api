@@ -7,6 +7,9 @@
   categories: [ "index" ]
   # image: "/images/face.jpg"
   slug: "seven-day-neverfap-deluxe-kickstarter"
+
+  pageId: "e86ea87e-fbe2-456a-aa65-8fbc00a2dbc4"
+
 ---
 
 Seven Day yay.

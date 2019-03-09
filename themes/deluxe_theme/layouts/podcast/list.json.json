@@ -1,6 +1,6 @@
 {{ define "response" }}
   { 
-  "title": {{ .Title | jsonify }},
+  "title": {{ .Title | jsonify }}, "page_id": {{ .Params.PageId | jsonify }},
   "description": {{ .Description | jsonify }},
   "content": {{ .Content | jsonify }},
   "date": {{ .Date.Format "2006-01-02" | jsonify }},
@@ -10,13 +10,13 @@
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
   "section": {{ .Section | jsonify }},
-  "podcast": [
+  "podcasts": [
     {{ range $index, $e := (where .Data.Pages.ByDate "Section" "podcast") }}
       {{ if .Draft }}
       {{ else }}
         {{ if $index }}, {{ end }}
         {
-          "title": {{ .Title | jsonify }},
+          "title": {{ .Title | jsonify }}, "page_id": {{ .Params.PageId | jsonify }},
           "description": {{ .Description | jsonify }},
           "content": {{ .Content | jsonify }},
           "date": {{ .Date.Format "2006-01-02" | jsonify }},
@@ -25,6 +25,9 @@
           "categories": {{ .Params.Categories | jsonify }},
           "tags": {{ .Params.Tags | jsonify }},
           "permalink" : {{ .Permalink | jsonify }},
+
+          "url": {{ if .Params.Url }}{{ .Params.Url | jsonify }}{{ else }}""{{ end }},
+
           "section": {{ .Section | jsonify }}
         }
       {{ end }}

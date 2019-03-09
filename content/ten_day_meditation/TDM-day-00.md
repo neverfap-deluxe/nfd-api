@@ -7,6 +7,9 @@
   categories: [ "index" ]
   # image: "/images/face.jpg"
   slug: "ten-day-meditation-primer"
+
+  pageId: "4aa39002-0317-44d7-8bc1-45ec7e725ac0"
+
 ---
 
 10 Day Meditation

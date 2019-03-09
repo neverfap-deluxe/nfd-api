@@ -10,6 +10,9 @@
 
   tldr1: "Prioritising balance will always achieve a net long-term benefit compared to compromising balance."
   tldr2: "Balance needs to be viewed as a tool for productivity, as opposed to a burden."
+
+  pageId: "05829b7c-a78a-4f0d-be15-7fc0617fb8c5"
+
 ---
 
 For some balance is seen as a weakness.

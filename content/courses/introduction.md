@@ -14,6 +14,9 @@
   learn3: "- The Five Fundamental Principles of NeverFap."
   category: "introduction"
   number: "one"
+
+  pageId: "b86f39de-3f93-4757-b8e6-7f71af948d1e"
+
 ---
 
 <!-- Will Need One Edit -->

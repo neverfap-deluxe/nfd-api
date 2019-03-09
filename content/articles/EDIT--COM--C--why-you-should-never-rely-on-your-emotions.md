@@ -11,6 +11,8 @@
   tldr1: "Using our emotions to motivate us is a brittle approach towards developing self-control."
   tldr2: "The alternative is to develop self-control over our mind, so we can dictate what we feel, as well as not take our feelings personally."
 
+  pageId: "f3b75aa5-e3d3-48ea-a0dc-86b7438ad6f4"
+
 ---
 
 <!-- Will Need One Edit -->

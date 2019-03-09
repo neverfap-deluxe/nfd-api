@@ -12,6 +12,8 @@
   tldr2: "You have the same ability respond as anyone else in life from an emotional point of view."
   tldr3: "How you choose to respond is ultimately what differentiates you with anyone else in life."
 
+  pageId: "9a45b28b-bd20-4268-8885-4dc59e5bca5f"
+
 ---
 
 <!-- Very Happy With Edit -->

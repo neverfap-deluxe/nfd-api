@@ -12,6 +12,8 @@
   tldr2: "These principles have little to do with porn, because porn recovery has nothing to do with porn."
   tldr3: "There are Five Fundamental Principles of NeverFap."
 
+  pageId: "162ba636-b500-42fb-bd1f-5fe9d0c76993"
+
 ---
 
 <!-- Very happy with edit -->

@@ -11,6 +11,9 @@
   tldr1: "Meditation is the single most important thing you can do for your porn recovery."
   tldr2: "Meditation teaches you to regain control over your thoughts and emotions."
   tldr3: "Observation is the most fundamental skill of developing awareness."
+
+  pageId: "0cd9370b-b58f-4c81-a444-93c57f2d3d1a"
+  
 ---
 
 <!-- Very Happy With Edit -->
