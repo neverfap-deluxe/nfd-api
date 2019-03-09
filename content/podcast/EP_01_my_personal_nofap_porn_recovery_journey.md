@@ -7,7 +7,7 @@
   categories: [ "" ]
   # image: "/images/face.jpg"
   slug: "ep-01-my-personal-nofap-porn-recovery-journey"
-  url: "randomurl-yessssss"
+  url: "https://f002.backblazeb2.com/file/neverfapdeluxepodcast/ep1-my-personal-nofap-porn-recovery-journey.mp3"
 
   pageId: "51a8dc0e-93d8-4219-be45-df62ca343f2c"
 
