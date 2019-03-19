@@ -1,6 +1,6 @@
 ---
-  title: "10 Day Meditation"
-  description: "Learn more about meditation with our 10 day meditation course."
+  title: "10 Day Meditation Primer"
+  description: "Learn more about meditation and awareness with our 10 day meditation course."
   date: 2019-03-10
   draft: false
   tags: [ "10 day meditation challenge" ]
