@@ -27,6 +27,6 @@ This course serves as a general introduction to all the concepts we will discuss
 
 This course will explain how NeverFap Deluxe works, why the five fundamental principles of NeverFap are effective, as well as additional context into myself and my own porn recovery journey.
 
-In addition, the Introduction course contains the most fundamental mental health practice on the website, <a class="link" href="/practices/observe-it-all">Observe it all</a>, which is an exercise I recommend practicing everyday.
+In addition, the Introduction course contains the most fundamental mental health practice on the website, <a class="link" href="/practices/observe-your-senses">Observe Your Senses</a>, which is an exercise I recommend practicing everyday.
 
 Of course, in order for us to be able to easily overcome our porn addiction, we will require mastery in all five fundamental principles, and the Introduction course will help you identify your weak areas, as well as your strong points.

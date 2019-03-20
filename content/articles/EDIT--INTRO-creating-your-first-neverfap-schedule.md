@@ -8,7 +8,7 @@
   # image: "/images/face.jpg"
   slug: "creating-your-first-neverfap-schedule"
 
-  tldr1: "Start out by practicing observation for ten minutes each day with <a class=\"link\" href=\"/practices\">Observe it all</a>."
+  tldr1: "Start out by practicing observation for ten minutes each day with <a class=\"link\" href=\"/practices\">Observe Your Senses</a>."
   tldr2: "In future, add an additional exercise and rotate that exercise on a weekly basis, whilst continuing daily observation practice."
 
   pageId: "78221175-f0e4-4979-94bc-3aa18316f564"
@@ -39,7 +39,7 @@ This means understanding why these practices are effective, finding the time to 
 {{< hr3 "To start out, I recommend spending approximately 10 minutes per day practicing observation." >}}
 
 
-Specifically, the <a class="link" href="/practices/observe-it-all">Observe it all</a> practice which explains how to do this in the most simple way possible.
+Specifically, the <a class="link" href="/practices/observe-your-senses">Observe Your Senses</a> practice which explains how to do this in the most simple way possible.
 
 Observation truly is the most fundamental practice you can do in terms of  developing your awarenes, and it is the practice we ask that you commit to every single day.
 
@@ -57,13 +57,13 @@ Whereas because observation is what I would consider "a default state of mind" i
 
 Certainly, while those other practices are incredibly useful in developing new perspectives, they are merely supplementary.
 
-The aim is that once you feel you have a grasp of <a class="link" href="/practices/observe-it-all">Observe it all</a>, you can start adding additional exercises to your routine.
+The aim is that once you feel you have a grasp of <a class="link" href="/practices/observe-your-senses">Observe Your Senses</a>, you can start adding additional exercises to your routine.
 
 
 {{< hr3 "Personally speaking, I don't recommend doing more than one additional exercise at a time." >}}
 
 
-Which is to say that an ideal routine will consist of doing <u>Observe it all</u> along with one other additional exercise.
+Which is to say that an ideal routine will consist of doing <u>Observe Your Senses</u> along with one other additional exercise.
 
 Usually it makes sense to commit to these additional exercises for a week, before switching to something else.
 

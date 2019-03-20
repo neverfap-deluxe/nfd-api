@@ -1,13 +1,16 @@
 ---
-  title: "Slow It Down"
-  description: "Slow Down Your Perception Of Reality. This Is A Great Exercise To Teach You To Manually Override What Your Mind Is Doing, And Exert Control Over It."
+  title: "Slow Down Time"
+  description: "Slow Down Time. This Is A Great Exercise To Teach You To Manually Override What Your Mind Is Doing, And Exert Control Over It."
   date: 2019-01-18
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
   category: "Choice over mind"
   # image: "/images/face.jpg"
-  slug: "slow-it-down"
+  slug: "slow-down-your-perception"
+  aliases: [
+    "slow-it-down"
+  ]
 
   what: "Develop awareness by manipulating your perception of time."
   how: "Imagine time slowing down around you."

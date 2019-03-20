@@ -1,5 +1,5 @@
 ---
-  title: "The Odd Judge Out"
+  title: "Catching The Odd Judge Out"
   description: "Focusing On What We Don't Judge Can Be Just As Effective As paying Attention To What We Do Judge On A Frequent Basis."
   date: 2019-02-28
   draft: false
@@ -8,7 +8,10 @@
   category: "Uncondition over judgement"
 
   # image: "/images/face.jpg"
-  slug: "the-odd-judge-out"
+  slug: "catching-the-odd-judge-out"
+  aliases: [
+    "the-odd-judge-out"
+  ]
 
   what: "Better understand why we do, and do not make judgements."
   how: "Identify the things which we don't feel compelled to judge."

@@ -1,5 +1,5 @@
 ---
-  title: "See Not Feel"
+  title: "Separate Your Seeing From Your Feeling"
   description: ""
   date: 2019-01-12
   draft: false
@@ -8,7 +8,10 @@
   category: "Uncondition over judgement"
 
   # image: "/images/face.jpg"
-  slug: "see-not-feel"
+  slug: "separate-your-seeing-from-your-feeling"
+  aliases: [
+    "see-not-feel"
+  ]
 
   what: "Develop awareness by distinguishing our thought/feelings from our visual perception."
   how: "Look at an object/area and attempt to separate your thought/feelings from what you're actually seeing."
@@ -77,11 +80,11 @@ And the way we do this is by separating what we feel and what we see into two di
 
 Because currently we may have a habit of jumbling them together, and not quite realising all the steps our mind takes when jumping to the understanding of "I really, really must watch porn".
 
-One thing to notice is that this exercise may seem incredibly similar to <a class="link" href="/practices/dissolve-it-down/">Dissolve it down</a>.
+One thing to notice is that this exercise may seem incredibly similar to <a class="link" href="/practices/dissolve-your-visual-perception-of-reality/">Dissolve Your Visual Perception Of Reality</a>.
 
 Both exercises focus on manipulating our visual understanding in some way, however both exercises do completely different things.
 
-Dissolve it down attempts to completely absolve our understanding of reality, while this exercise attempts to rearrange our understanding of it.
+Dissolve Your Visual Perception Of Reality attempts to completely absolve our understanding of reality, while this exercise attempts to rearrange our understanding of it.
 
 
 {{< hr2 "Instructions" >}}

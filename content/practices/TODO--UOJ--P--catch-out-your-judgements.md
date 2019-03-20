@@ -1,5 +1,5 @@
 ---
-  title: "Catch It Out"
+  title: "Catch Out Your Judgements"
   description: "Catch Yourself Whenever You Find Yourself Making A Judgement. The Idea Is Not To React, But Instead To Acknowledge That You've Made A Judgement And To Move On."
   date: 2019-01-14
   draft: false
@@ -8,7 +8,10 @@
   category: "Uncondition over judgement"
 
   # image: "/images/face.jpg"
-  slug: "catch-it-out"
+  slug: "catch-out-your-judgements"
+  aliases: [
+    "catch-it-out"
+  ]
 
   what: "Learn which specific situations cause us to be judgemental."
   how: "Make a mental note and observe whenever we make a judgement of any kind."
@@ -38,7 +41,7 @@ However negatively reacting to it (and as I'm sure, making more judgements as a 
 
 <!-- NOTE: TODO To understand this exercise, you need to understand the impct of being judgemental on willpower etc. LINK TO ARTICLE -->
 
-Much like with the <a class="link" href="/practices/observe-it-all">Observe it all</a> exercise, all we really want to do is acknowledge and observe how our mind works.
+Much like with the <a class="link" href="/practices/observe-your-senses">Observe Your Senses</a> exercise, all we really want to do is acknowledge and observe how our mind works.
 
 We're not trying to change, and especially not condemn our current behaviour.
 

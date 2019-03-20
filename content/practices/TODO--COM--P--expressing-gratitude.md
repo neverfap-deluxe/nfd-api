@@ -2,7 +2,7 @@
   title: "Expressing Gratitude"
   description: ""
   date: 2019-03-30
-  draft: false
+  draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
   category: "Choice over mind"

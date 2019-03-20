@@ -1,5 +1,5 @@
 ---
-  title: "Stop It All"
+  title: "Stop Absolutely Everything You're Doing"
   description: "Mentally stopping everything in our mind is one of the quickest ways you can learn to dictate control over yourself."
   date: 2019-01-22
   draft: false
@@ -7,7 +7,10 @@
   categories: [ "choice-over-mind" ]
   category: "Choice over mind"
   # image: "/images/face.jpg"
-  slug: "stop-it-all"
+  slug: "stop-absolutely-everything-youre-doing"
+  aliases: [ 
+    "stop-it-all"
+  ]
 
   what: "Develop awareness by manipulating your perception of time."
   how: "Imagine if you stopped within time, while time itself continued moving."
@@ -25,7 +28,7 @@
 
 I love this exercise.
 
-I can't quite tell if this exercise is an analogue to <a class="link" href="/articles/slow-it-down">Slow it down</a> or a percursor to it, however they're both different approaches to the same thing. 
+I can't quite tell if this exercise is an analogue to <a class="link" href="/articles/slow-down-your-perception-of-time">Slow Down Your Perception Of Time</a> or a percursor to it, however they're both different approaches to the same thing. 
 
 Usually you end up using both in conjunction, but it's arguably easier to learn them as separate, unique skills.
 

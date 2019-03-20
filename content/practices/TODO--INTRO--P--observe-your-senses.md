@@ -1,5 +1,5 @@
 ---
-  title: "Observe It All"
+  title: "Observe Your Senses"
   description: "Observation is one of the most powerful ways we can meditate and learn to regain control over our porn addiction."
   date: 2019-01-27
   draft: false
@@ -7,7 +7,10 @@
   categories: [ "introduction" ]
   category: "Introduction"
   # image: "/images/face.jpg"
-  slug: "observe-it-all"
+  slug: "observe-your-senses"
+  aliases: [
+    "observe-it-all"
+  ]
 
   what: "Learn to build our observation skills."
   how: "Pay attention to what you're sensing (i.e. hearing, feeling, seeing etc.)"

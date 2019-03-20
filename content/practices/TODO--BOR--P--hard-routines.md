@@ -2,7 +2,7 @@
   title: "Hard routines"
   description: ""
   date: 2019-03-12
-  draft: false
+  draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
   category: "Balance over reward"

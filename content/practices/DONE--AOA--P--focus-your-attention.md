@@ -1,5 +1,5 @@
 ---
-  title: "Focus It Forward"
+  title: "Focus Your Attention"
   description: "Focus your attention and learn to gain control over what our minds pay attention to."
   date: 2019-01-04
   draft: false
@@ -8,7 +8,10 @@
   category: "Awareness over all"
 
   # image: "/images/face.jpg"
-  slug: "focus-it-forward"
+  slug: "focus-your-attention"
+  aliases: [
+    "focus-it-forward"
+  ]
 
   what: "Placing focus with your attention in order to develop your ability to focus."
   how: "Focus your attention on some particular aspect (i.e. breath) for the entire duration of the exercise."
@@ -25,7 +28,7 @@ Learning to focus our attention is an important skill.
 
 However, I would also argue that it's quite an advanced skill that should only be attempted once you feel more comfortable being aware in general.
 
-In fact, it's an exercise which builds upon <a class="link" href="/practices/observe-it-all">Observe it all</a> so it makes sense to master that first.
+In fact, it's an exercise which builds upon <a class="link" href="/practices/observe-your-senses">Observe Your Senses</a> so it makes sense to master that first.
 
 Otherwise, we can truly struggle with this exercise, and more often than not when people attempt to learn this exercise first, it almost always leads to more confusion than clarity.
 
@@ -75,7 +78,7 @@ Simply because there's less overhead.
 
 There are essentially two key steps towards performing this exercise.
 
-First, relax and put yourself into a state of unconditional awareness, as per the instructions in <a class="link" href="/practices/observe-it-all">Observe it all</a>.
+First, relax and put yourself into a state of unconditional awareness, as per the instructions in <a class="link" href="/practices/observe-your-senses">Observe Your Senses</a>.
 
 In this state of mind, you should have completely emptied your mind and become fully attuned to your senses.
 

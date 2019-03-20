@@ -1,5 +1,5 @@
 ---
-  title: "Dissolve It Down"
+  title: "Dissolve Your Visual Field"
   description: "Learn to dissolve your ego by manipulating your visual perception of reality. treat your visual field as a simple plane of a light and colour."
   date: 2019-01-30
   draft: false
@@ -7,7 +7,11 @@
   categories: [ "awareness-over-all" ]
   category: "Awareness over all"
   # image: "/images/face.jpg"
-  slug: "dissolve-it-down"
+  slug: "dissolve-your-visual-field"
+  aliases: [
+    "dissolve-it-down"
+  ]
+
   what: "Reinterpret your visual field in order to help dissolve your ego."
   how: "Treat your visual field as nothing more than a simple plane of a light and colour."
   when: "In a calm setting where you're able to focus on something visually."

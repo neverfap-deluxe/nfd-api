@@ -1,6 +1,6 @@
 ---
-  title: "Relax It Out"
-  description: "Relax It Out Is All About Taking A Relaxed Approach Towards Dealing With Life. It Is An Incredibly Effective Way To Dissolve Our Feelings And Emotions."
+  title: "Relax Everything"
+  description: "Relax Everything Is All About Taking A Relaxed Approach Towards Dealing With Life. It Is An Incredibly Effective Way To Dissolve Our Feelings And Emotions."
   date: 2019-02-13
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
@@ -8,8 +8,11 @@
   category: "Struggle over none"
 
   # image: "/images/face.jpg"
-  slug: "relax-it-out"
-  
+  slug: "relax-everything"
+  aliases: [
+    "relax-it-out"
+  ]
+
   what: "Learn to relax into specific situations."
   how: "Give up all care and completely let go of everything you're thinking and feeling."
   when: "As often as possible throughout the day whilst in the middle of doing something."
@@ -27,9 +30,9 @@ Well, I'd go as far as to say that all exercises are effective, it's just that s
 
 There are a range of different exercises which all seem quite similar to what we're attempting to achieve here.
 
-This includes Slow it down, where we try and slow and speed up reality, as well as Stop it all, where we try to just shut our mind off completely.
+This includes Slow Down Your Perception Of Time, where we try and slow and speed up reality, as well as Stop it all, where we try to just shut our mind off completely.
 
-With Relax it out, what we're essentially trying to do is simply relax into a situation, as opposed to consciously manipulation our interpretation of it.
+With Relax Everything, what we're essentially trying to do is simply relax into a situation, as opposed to consciously manipulation our interpretation of it.
 
 An important thing to keep note of with these awareness exercises, is that what we're ultimately aiming to do is gain an intuitive understanding of how these different exercises make us feel. 
 

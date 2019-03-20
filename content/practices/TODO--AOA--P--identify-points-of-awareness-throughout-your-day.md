@@ -1,5 +1,5 @@
 ---
-  title: "Point To Point"
+  title: "Identify Points Of Awareness Throughout Your Day"
   description: "Pay Attention And Become Aware Of The Things You Do Throughout Your Day. The Intention Is To Allow You To Engage Your Mind In A Non-Reactive Way."
   date: 2019-03-12
   draft: false
@@ -8,7 +8,10 @@
   category: "Awareness over all"
 
   # image: "/images/face.jpg"
-  slug: "point-to-point"
+  slug: "identify-points-of-awareness-throughout-your-day"
+  aliases: [ 
+    "point-to-point" 
+  ]
 
   what: "Build your awareness of the common occurrences that happen throughout your day."
   how: "Remind yourself to enter a state of awareness throughout specific moments during your day."
