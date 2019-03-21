@@ -12,7 +12,6 @@
 
 ---
 
-We take your privacy very seriously.
-
+Privacy.
 
 
