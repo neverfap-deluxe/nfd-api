@@ -1,6 +1,6 @@
 ---
   title: "Community"
-  description: "Welcome to NeverFap Deluxe, the most comprehensive NoFap Companion."
+  description: "Welcome to NeverFap Deluxe, the most comprehensive porn addiction recovery platform."
   date: 2019-02-15
   draft: false
   tags: [ "porn addiction", "porn recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]

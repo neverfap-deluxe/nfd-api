@@ -1,6 +1,6 @@
 ---
   title: "What Makes NeverFap So Different"
-  description: "NeverFap is a comprehensive porn recovery solution that is designed to make overcoming your porn addiction as simple as possible."
+  description: "NeverFap is a comprehensive porn addiction recovery platform that is designed to make overcoming your porn addiction as simple as possible."
   date: 2018-11-23
   draft: false
   tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "NoFap Companion" ]

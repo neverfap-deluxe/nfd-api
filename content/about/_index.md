@@ -1,6 +1,6 @@
 ---
   title: "About"
-  description: "NeverFap Deluxe. The Comprehensive NoFap Companion."
+  description: "NeverFap Deluxe. The Comprehensive Porn Addiction Recovery Platform."
   date: 2019-01-07
   draft: false
   tags: [ "porn addiction", "porn recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
