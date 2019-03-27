@@ -7,7 +7,7 @@
   categories: [ "choice-over-mind" ]
   category: "Choice over mind"
   # image: "/images/face.jpg"
-  slug: "slow-down-your-perception"
+  slug: "slow-down-time"
   aliases: [
     "slow-it-down"
   ]

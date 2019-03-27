@@ -7,7 +7,7 @@
   categories: [ "choice-over-mind" ]
   category: "Choice over mind"
   # image: "/images/face.jpg"
-  slug: "stop-absolutely-everything-youre-doing"
+  slug: "stop-absolutely-everything-you-are-doing"
   aliases: [ 
     "stop-it-all"
   ]

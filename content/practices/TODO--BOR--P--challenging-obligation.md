@@ -8,7 +8,7 @@
   category: "Balance over reward"
 
   # image: "/images/face.jpg"
-  slug: "challenge-existingobligation"
+  slug: "challenge-existing-obligation"
 
   what: "."
   how: "."

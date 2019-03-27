@@ -32,4 +32,3 @@ googleAnalytics = "UA-132863786-1"
   home = ["HTML", "JSON"]
   section = ["HTML", "JSON"]
   page = ["HTML", "JSON"]
-  alias = ["HTML", "JSON"]
