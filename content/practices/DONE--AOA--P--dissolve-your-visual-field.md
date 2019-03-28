@@ -9,7 +9,7 @@
   # image: "/images/face.jpg"
   slug: "dissolve-your-visual-field"
   aliases: [
-    "dissolve-it-down"
+    "practices/dissolve-it-down"
   ]
 
   what: "Reinterpret your visual field in order to help dissolve your ego."

@@ -10,7 +10,7 @@
   # image: "/images/face.jpg"
   slug: "focus-your-attention"
   aliases: [
-    "focus-it-forward"
+    "practices/focus-it-forward"
   ]
 
   what: "Placing focus with your attention in order to develop your ability to focus."

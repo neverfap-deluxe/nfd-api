@@ -9,7 +9,7 @@
   # image: "/images/face.jpg"
   slug: "slow-down-time"
   aliases: [
-    "slow-it-down"
+    "practices/slow-it-down"
   ]
 
   what: "Develop awareness by manipulating your perception of time."

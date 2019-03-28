@@ -10,7 +10,7 @@
   # image: "/images/face.jpg"
   slug: "identify-points-of-awareness-throughout-your-day"
   aliases: [ 
-    "point-to-point" 
+    "practices/point-to-point" 
   ]
 
   what: "Build your awareness of the common occurrences that happen throughout your day."
