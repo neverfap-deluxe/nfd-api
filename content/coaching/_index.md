@@ -1,5 +1,5 @@
 ---
-  title: "Coaching"
+  title: "NeverFap Deluxe Coaching"
   description: "Receive personal and effective coaching from myself, a porn addiction recovery champion."
   date: 2019-03-28
   draft: false

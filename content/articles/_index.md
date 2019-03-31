@@ -1,5 +1,5 @@
 ---
-  title: "Articles"
+  title: "NeverFap Deluxe Articles"
   description: "NeverFap Deluxe Articles Index. Learn to gain control over your porn addiction through our context and practice artices."
   date: 2018-12-30
   draft: false

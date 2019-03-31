@@ -1,5 +1,5 @@
 ---
-  title: "Contact"
+  title: "Contact NeverFap Deluxe"
   description: "NeverFap Deluxe Contact Form. Send In Your Questions In Regards To The NeverFap Method And How It Can Help You Overcome Porn Addiction."
   date: 2018-12-24
   draft: false

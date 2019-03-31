@@ -1,5 +1,5 @@
 ---
-  title: "Practices"
+  title: "NeverFap Deluxe Practices"
   description: "NeverFap Deluxe Practices. Through A Variety Of Perspective, Awareness And Mental Exercises, Learn To Gain Control Over Your Porn Addiction and Mind."
   date: 2019-01-07
   draft: false

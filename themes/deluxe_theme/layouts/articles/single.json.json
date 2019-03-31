@@ -19,6 +19,15 @@
   "section": {{ .Section | jsonify }}
   {{/*
 
+      
+  // {{ if .Page.PrevInSection }}"prevInSection": {{ .PrevInSection | jsonify }},{{ end }}
+  // {{ if .Page.PrevInSection.Title }}"prevInSectionTitle": {{ .PrevInSection.Title | jsonify }},{{ end }}
+  // {{ if .Page.PrevInSection.Permalink }}"prevInSectionPermalink": {{ .PrevInSection.Permalink | jsonify }},{{ end }}
+
+  // {{ if .Page.NextInSection }}"nextInSection": {{ .NextInSection | jsonify }},{{ end }}
+  // {{ if .Page.NextInSection.Title }}"nextInSectionTitle": {{ .NextInSection.Title | jsonify }},{{ end }}
+  // {{ if .Page.NextInSection.Permalink }}"nextInSectionPermalink": {{ .NextInSection.Permalink | jsonify }},{{ end }}
+
   "prevInSection": {{ .PrevInSection | jsonify }},
   "prevInSectionTitle": {{ .PrevInSection.Title | jsonify }},
   "prevInSectionPermalink": {{ .PrevInSection.Permalink | jsonify }},

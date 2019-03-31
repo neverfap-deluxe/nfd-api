@@ -1,5 +1,5 @@
 ---
-  title: "Community"
+  title: "NeverFap Deluxe Community"
   description: "Welcome to NeverFap Deluxe, the most comprehensive porn addiction recovery platform."
   date: 2019-02-15
   draft: false

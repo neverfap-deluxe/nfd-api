@@ -1,5 +1,5 @@
 ---
-  title: "About"
+  title: "About NeverFap Deluxe"
   description: "NeverFap Deluxe. The Comprehensive Porn Addiction Recovery Platform."
   date: 2019-01-07
   draft: false
