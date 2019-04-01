@@ -1,7 +1,7 @@
 ---
   title: "Seven Day NeverFap Deluxe Kickstarter"
   description: "Kickstart your NeverFap Deluxe journey with our seven day program, designed to help you better understand the power of NeverFap Deluxe."
-  date: 2019-01-22
+  date: 2019-03-22
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "index" ]
