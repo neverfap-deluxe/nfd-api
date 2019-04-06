@@ -120,11 +120,6 @@ So don't be alarmed if you find simply observing your senses to be difficult.
 There's always a first for everything.
 
 
-{{< hr2 "Moving Forward" >}}
-
-
-{{< similiar_practices "awareness-over-all" >}}
-
 
 <!-- 
 {{< hr2 "Additional Resources" >}}  -->

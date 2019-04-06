@@ -46,11 +46,6 @@ What we want to do is not do that.
 
 
 
-{{< hr2 "Moving Forward" >}}
-
- 
-
-{{< similiar_practices "awareness-over-all" >}}
 
 
 <!-- 

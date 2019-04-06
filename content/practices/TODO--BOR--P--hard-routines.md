@@ -30,11 +30,6 @@ We are going to develop a hard routine.
 
 
 
-{{< hr2 "Moving Forward" >}}
-
- 
-
-{{< similiar_practices "awareness-over-all" >}}
 
 
 <!-- 

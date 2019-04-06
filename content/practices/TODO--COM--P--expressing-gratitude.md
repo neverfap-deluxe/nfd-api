@@ -27,11 +27,6 @@ The flipside to struggle is to be comfortable with ourselves.
 {{< hr2 "Instructions" >}}
 
 
-{{< hr2 "Moving Forward" >}}
-
- 
-
-{{< similiar_practices "struggle-over-none" >}}
 
 
 <!-- 

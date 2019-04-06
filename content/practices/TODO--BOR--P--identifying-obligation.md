@@ -28,12 +28,6 @@
 
 
 
-{{< hr2 "Moving Forward" >}}
-
- 
-
-{{< similiar_practices "awareness-over-all" >}}
-
 
 <!-- 
 {{< hr2 "Additional Resources" >}}  -->

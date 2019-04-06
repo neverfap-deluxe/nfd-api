@@ -73,11 +73,6 @@ Try and discover some common themes. Perhaps you might discover something. Perha
 We're all here to learn more about how our individual minds work.
 
 
-{{< hr2 "Moving Forward" >}}
-
- 
-
-{{< similiar_practices "uncondition-over-judgement" >}}
 
 
 <!-- 

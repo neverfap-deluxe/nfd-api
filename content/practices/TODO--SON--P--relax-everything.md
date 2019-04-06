@@ -88,11 +88,6 @@ So you know you should relax if you're feeling like X, Y or Z.
 
 In other words, we are building health coping mechanisms to replace watching porn.
 
-{{< hr2 "Moving Forward" >}}
-
- 
-
-{{< similiar_practices "struggle-over-none" >}}
 
 
 <!-- 

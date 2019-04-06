@@ -101,12 +101,6 @@ Can you distinguish any difference between those two things? What are those diff
 Play around with it. Try this exercises in different areas and different places. See if you can discover any common themes.
 
 
-{{< hr2 "Moving Forward" >}}
-
- 
-
-{{< similiar_practices "awareness-over-all" >}}
-
 
 <!-- 
 {{< hr2 "Additional Resources" >}}  -->

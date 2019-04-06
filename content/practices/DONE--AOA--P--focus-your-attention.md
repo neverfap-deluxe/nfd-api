@@ -89,9 +89,6 @@ It could be something visual, like a lamp or a door. It could be a sound that is
 Play around with it and see where your mind takes you.
 
 
-{{< hr2 "Moving Forward" >}}
-
-{{< similiar_practices "awareness-over-all" >}}
 
 
 <!-- 

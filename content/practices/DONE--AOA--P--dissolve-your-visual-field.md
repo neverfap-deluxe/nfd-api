@@ -120,8 +120,3 @@ Honestly, just focus on dissolving that visual field. It's hard enough on it's o
 It's a more advanced concept we will explore in future once we've mastered these more simpler exercises.  -->
 
 
-{{< hr2 "Moving Forward" >}}
-
-
-{{< similiar_practices "awareness-over-all" >}}
-

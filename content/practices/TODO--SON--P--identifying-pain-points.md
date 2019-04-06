@@ -59,10 +59,6 @@ Do they make you feel angry or frustrated? Do they make you feel helpless, perha
 Again, this is your own personal experience with reality, so how you feel in relation to struggle is entirely personal to you.
 
 
-{{< hr2 "Moving Forward" >}}
-
-
-{{< similiar_practices "awareness-over-all" >}}
 
 
 <!-- 

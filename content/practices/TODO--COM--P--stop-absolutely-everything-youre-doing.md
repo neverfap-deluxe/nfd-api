@@ -85,11 +85,6 @@ What does it feel like to be shut down? Are there any feelings at all?
 Play with it and see where it takes you.
 
 
-{{< hr2 "Moving Forward" >}}
-
- 
-
-{{< similiar_practices "awareness-over-all" >}}
 
 
 <!-- 

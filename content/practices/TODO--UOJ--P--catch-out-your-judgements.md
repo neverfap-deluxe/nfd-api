@@ -91,13 +91,6 @@ Again, there are no right or wrong answers.
 We are merely attempting to better understaning our own conscious experience.
 
 
-{{< hr2 "Moving Forward" >}}
-
- 
-
-{{< similiar_practices "uncondition-over-judgement" >}}
-
-
 <!-- 
 {{< hr2 "Additional Resources" >}}  -->
 

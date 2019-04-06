@@ -28,11 +28,6 @@ In this exercise, we want to identify the key areas in our life where we .
 {{< hr2 "Instructions" >}}
 
 
-{{< hr2 "Moving Forward" >}}
-
- 
-
-{{< similiar_practices "struggle-over-none" >}}
 
 
 <!-- 

@@ -36,12 +36,6 @@ Then we move onto people and concepts.
 
 
 
-{{< hr2 "Moving Forward" >}}
-
- 
-
-{{< similiar_practices "balance-over-reward" >}}
-
 
 <!-- 
 {{< hr2 "Additional Resources" >}}  -->

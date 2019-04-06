@@ -34,12 +34,6 @@ In this case, we will be practicing the art of joy or being joyful, as a way to
 {{< hr2 "Instructions" >}}
 
 
-{{< hr2 "Moving Forward" >}}
-
- 
-
-{{< similiar_practices "struggle-over-none" >}}
-
 
 <!-- 
 {{< hr2 "Additional Resources" >}}  -->

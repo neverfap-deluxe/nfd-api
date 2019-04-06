@@ -90,11 +90,6 @@ The idea is to prove control over yourself, even when you have other intentions,
 
 An idea that will prove very important in following exercises.
 
-{{< hr2 "Moving Forward" >}}
-
- 
-
-{{< similiar_practices "awareness-over-all" >}}
 
 <!-- 
 {{< hr2 "Additional Resources" >}}  -->

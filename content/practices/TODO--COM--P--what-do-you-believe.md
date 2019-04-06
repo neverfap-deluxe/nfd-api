@@ -28,13 +28,6 @@ Identify the choice we have in life, or our perception of what choice we have.
 {{< hr2 "Instructions" >}}
 
 
-{{< hr2 "Moving Forward" >}}
-
- 
-
-{{< similiar_practices "struggle-over-none" >}}
-
-
 <!-- 
 {{< hr2 "Additional Resources" >}}  -->
 
