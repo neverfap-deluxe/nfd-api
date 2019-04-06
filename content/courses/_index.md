@@ -1,5 +1,5 @@
 ---
-  title: "Courses"
+  title: "NeverFap Deluxe Courses"
   description: "NeverFap Deluxe Courses offers a range of guided meditations to help you better understand the five fundamental principles of NeverFap."
   date: 2019-03-02
   draft: false

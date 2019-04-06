@@ -1,5 +1,5 @@
 ---
-  title: "Accountability"
+  title: "NeverFap Deluxe Accountability Program"
   description: "Join our popular accountability program and learn the power of commitment."
   date: 2019-03-21
   draft: false

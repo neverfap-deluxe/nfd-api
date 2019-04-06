@@ -1,5 +1,5 @@
 ---
-  title: "Terms & Conditions"
+  title: "NeverFap Deluxe Terms & Conditions"
   description: "NeverFap Deluxe Terms & Conditions."
   date: 2019-03-22
   draft: false

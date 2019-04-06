@@ -1,5 +1,5 @@
 ---
-  title: "Guide"
+  title: "The NeverFap Deluxe Guide"
   description: "NeverFap Deluxe Guide. Gain Control Over Your Porn Addiction With Our Series Of Articles And Practice Exercises. Starting With The Five Fundamental Principles."
   date: 2018-12-18
   draft: false
