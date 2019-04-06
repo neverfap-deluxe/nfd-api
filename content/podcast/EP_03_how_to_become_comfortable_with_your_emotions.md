@@ -10,7 +10,7 @@
 
   podcastUrl: "https://castbox.fm/episode/EP3-How-To-Become-Comfortable-With-Your-Emotions-id2045024-id142207180"
   
-  podcastPlayer: "<iframe src="https://castbox.fm/app/castbox/player/id2045024/id142207180?v=4.1.190404&autoplay=0" frameborder="0" width="100%" height="500"></iframe>"
+  podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2045024/id142207180?v=4.1.190404&autoplay=0' frameborder='0' width='100%' height='500'></iframe>"
 
   pageId: "74afa816-3ab2-40a8-b8ec-0d2c69368402"
 
