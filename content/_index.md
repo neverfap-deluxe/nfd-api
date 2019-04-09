@@ -1,5 +1,5 @@
 ---
-  title: "The Comprehensive Porn Addiction Recovery Platform"
+  title: "The Porn Addiction Recovery Process"
   description: "NeverFap Deluxe. The World's Most Comprehensive Porn Addiction Recovery Platform. Start Your Porn Recovery Journey Today."
   date: 2019-01-07
   draft: false

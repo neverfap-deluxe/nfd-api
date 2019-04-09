@@ -1,6 +1,6 @@
 ---
-  title: "Privacy"
-  description: "NeverFap Deluxe Privacy."
+  title: "NeverFap Deluxe Privacy Policy"
+  description: "NeverFap Deluxe Privacy Policy."
   date: 2019-01-22
   draft: false
   tags: [ "privacy" ]

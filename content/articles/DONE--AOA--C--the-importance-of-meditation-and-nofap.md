@@ -10,7 +10,7 @@
 
   tldr1: "Meditation is the single most important thing you can do for your porn recovery."
   tldr2: "Meditation teaches you to regain control over your thoughts and emotions."
-  tldr3: "Observation is the most fundamental skill of developing awareness."
+  tldr3: "Observation is the most fundamental skill in terms of effective meditation."
 
   pageId: "0cd9370b-b58f-4c81-a444-93c57f2d3d1a"
   
@@ -18,7 +18,7 @@
 
 <!-- Very Happy With Edit -->
 
-Meditation is the most important thing you can do for your porn addiction.
+Meditation is the single most important thing you can do for your porn addiction.
 
 
 {{< hr4 "In fact, ten minutes of meditation each day is probably enough for most porn addicts to overcome their addiction." >}}
@@ -28,19 +28,19 @@ No, seriously.
 
 It really is that simple. 
 
-Of course, the reason why this doesn't happen is because most porn addicts are completely oblivious as to why meditating is so crucial for their porn recovery. 
+Of course, the reason why this doesn't happen is because most porn addicts are completely oblivious as to the benefits of meditation. 
+
+Not to mention, most porn addicts have a hard time sticking to a routine of meditation, which is entirely necessary in order for it to be successful.
 
 Which is why the other 99% of this website exists, to help you understand why it's absolutely vital.
-
-As well as help you understand how you're sabotaging your porn recovery by not committing to a meditation routine.
 
 
 {{< hr2 "Why meditation?" >}}
 
 
-Without going too deep into the intricate details of how to meditate, nor what meditation necessarily is, let's talk about what meditation effectively achieves. 
+Without diving too deep into the intricate details of how to meditate, nor necessarily what meditation actually is, let's start off by talking about what meditation effectively achieves. 
 
-In essence, meditation is the most powerful way I know how to help you regain power over your emotions.
+In essence, meditation is the most powerful way for you to regain power over your emotions.
 
 Not just your emotions, but your thoughts, feelings and everything else associated with the inherent functioning of your brain.
 

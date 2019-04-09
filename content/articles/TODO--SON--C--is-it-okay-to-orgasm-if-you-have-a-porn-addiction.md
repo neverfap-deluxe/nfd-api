@@ -25,17 +25,24 @@ Whenever asking these kinds of questions, it can always help to come back to The
 
 In this particular case, this question primarily relates to <u>Struggle over none</u> and how orgasming affects our ability to overcome porn addiction.
 
-For starters, I want to begin by saying that I personally don't orgasm.
+For starters, I want to begin by saying that I personally don't orgasm, and that I haven't pursued orgasmed since effectively overcoming my porn addiction.
 
-I have a healthy amount of sex, but I don't orgasm.
+I've even taught myself not to orgasm during sex, so it's certainly not an issue there. 
 
-The reason why I don't orgasm is quite simple.
-
-
-{{< hr4 "The act of orgasming makes it harder to regulate your emotions." >}}
+Essentially the reason why I don't orgasm is quite simple.
 
 
-At the end of the day, even if porn (and by association, orgasm) is the thing that you're addicted to, in no way does it make pursing other destabilising behaviours 'okay'.
+{{< hr4 "The act of orgasming still messes with your emotions." >}}
+
+
+At the end of the day, I don't particularly care about the philosophical, nor even the moral arguments behind why you shouldn't watch porn. 
+
+Ultimately I'm a processes guy, which means I care solely about the easiest and most efficient way to achieve something.
+
+Orgasming simply makes it harder to overcome porn addiction, whether to porn or not.
+
+When you orgasm you still experience an intense dopamine rush which more-or-less makes regulating your emotions in a calm, uninhibited state impossible.
+
 
 It's the same reason why you also shouldn't binge eat or fail to not following.
 
