@@ -19,17 +19,21 @@
 
 NeverFap Deluxe consists of a range of exercises which are designed to help you develop the skills in order to help you overcome porn addiction.
 
-The intention really is quite simple:
+The intention is really quite simple:
 
 
-{{< hr3 "To develop healthy coping mechanisms to help deal with your porn addiction." >}}
+{{< hr3 "To help you develop healthy coping mechanisms in order to help you deal with your porn addiction." >}}
 
 
-And the way we achieve this is by learning to become calm and comfortable with ourselves, our feelings and our emotions.
+Exercises which are designed to not only help expand your capacity for awareness, however to also teach you to become calm and comfortable with your feelings and emotions.
 
-Here's the thing: If you are a porn addict, then in a lot of situations watching porn is your go-to response for a variety of situations.
+Here's the thing: As a porn addict you have trained your mind to watch porn as a go-to response to a variety of difficult situations.
 
-It could be stress. It could be depression. It could simply be due to the fact that you've never be taught otherwise.
+It could be excessive stress from work or school. It could be depression from unsupportive family or friends. It could simply be due to the fact that you've never be taught otherwise.
+
+What these exercises set out to do is reprogram the way you think and respond in these situations. 
+
+
 
 So with these exercises, what we are essentially doing is creating a separate pathway of understanding so you don't need to watch porn.
 

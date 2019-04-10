@@ -16,7 +16,7 @@
 
 ---
 
-Today I want to talk about obligation. 
+Today I want to talk about obligation.
 
 What it is, how we relate to it and how we use it to distort our ability to behave and act.
 
