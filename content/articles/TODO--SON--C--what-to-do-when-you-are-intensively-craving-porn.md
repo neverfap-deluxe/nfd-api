@@ -15,7 +15,13 @@
 
 ---
 
-The thing with porn addiction.
+I'm sure you're no stranger to experiencing intense cravings.
+
+You know, the kind of cravings where you know you've mentally given up from the very moment it hit you. 
+
+And the worst thing is that these cravings can seem to appear out of nowhere. 
+
+We find ourselves 
 
 
 {{< hr3 "Is that everything is fine, until it's not." >}}

@@ -17,32 +17,44 @@
 
 There are times when our emotions can become unmanagable. 
 
-For example, in moments when we feel anxious or when our urge to masturbate to porn becomes so strong that we can't help but feel as if we have no choice but to give in.
+For example, we may be feeling intensely anxious and our urge to masturbate and watch porn can become so strong that we can't help but feel as if we have no choice but to give in.
 
-It's important that we learn not to take our emotions personally in these kinds of situations.
+When we lose control over our emotions, we lose control over our ability to act effectively and it's these situations where we begin to spiral down the path of relapse and helplessness.
 
-Because these situations are are inevitably going to arise in the early stages of our recovery.
+I'm sure it's a tale you're all-too familiar with.
 
 
-{{< hr3 "In fact, learning to be able to effectively manage our cravings, is usually the first hurdle most of us face when it comes to addressing our porn addiction." >}}
+{{< hr3 "This is precisely why it's important to learn not to take our emotions personally." >}}
 
+
+Not only in order to be effective, however also because these situations are inevitably going to arise in the early stages of our recovery.
 
 For many of us, being unable to effectively manage our cravings forms part of the reason why we're still porn addicts. 
 
+In fact, learning to be able to effectively manage our cravings, is usually the first hurdle most of us face when it comes to addressing our porn addiction.
+
 We have a craving, we hesitate, we attempt to postpone it (usually unsuccessfully), and then we eventually give in.
 
-It's a cycle you've most likely been repeating your entire life up until now, and it may very well be where you're stuck at mentally in terms of being able to effectively address your porn addiction.
+It's where many of us are stuck mentally in terms of being able to effectively address your porn addiction.
 
 Well, I'm here to help. 
 
 
-{{< hr3 "The funny thing about not taking our emotions personally is that it's actually a super simple process." >}}
+{{< hr3 "Furthermore, it's actually a super simple process once you understand the dynamic of how we take things personally." >}}
 
+
+For starters, the first thing to understand about taking things personally is that it's often a subconscious response.
+
+Which is to say it usually manifests itself as an instant emotional reaction, rather than something which we make an informed decision about, before reacting.
+
+Otherwise, we'd recognise that it simply isn't worth the effort, and we'd avoid wasting our energy maintaining those negative emotions.
 
 Yet because we're simply not conscious of what we should do, simply because we've never been taught any differently, we end up doing the opposite to what we actually should. 
 
-What typically happens when we feel uncomfortable with our emotions, is we try to assume control over them.
 
+{{< hr3 "What typically happens when we feel uncomfortable with our emotions, is we try to assume control over them." >}}
+
+<!-- Up till here, need to check this logic. -->
 Mentally on some level, we think, "If I can force myself to react differently or counter those emotions on some level, I can not let them effectively."
 
 In the case of anxiety or self-doubt, it usually leads to some form of talking ourselves up. 
