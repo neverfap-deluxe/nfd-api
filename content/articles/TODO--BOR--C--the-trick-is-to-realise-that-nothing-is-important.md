@@ -13,8 +13,10 @@
   tldr2: "."
 
   pageId: "e3189d6c-2226-404f-85ef-2239c05f9559"
-
 ---
+
+Some people have a very difficult time letting go.
+
 
 Today I want to talk about obligation.
 
