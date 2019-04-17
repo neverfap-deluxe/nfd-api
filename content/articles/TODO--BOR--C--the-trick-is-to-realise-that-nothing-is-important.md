@@ -48,3 +48,5 @@ For example, it could be a website that you visit every single day. It could be 
 
 
 The trick is to realise nothing is important (nothing is important except the present moment). I want to talk about some of the very real reasons why it's important to  exercises.
+
+
