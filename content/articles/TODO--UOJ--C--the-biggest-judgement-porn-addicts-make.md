@@ -15,34 +15,46 @@
 
 ---
 
-There's a habit that most people have developed since childhood.
+Most porn addicts struggle with judgement, whether judging others or feeling judged themselves.
 
-A habit which is so prominent in our lives, that in most cases we simply don't even realise we're doing it.
+Certainly, it's part of the reason why we fall into the cycle of watching porn, immediately criticising ourselves for our actions, which then makes us feel worse about ourselves, which then propells us to continue watching porn and masturbating in order to feel better.
 
-Which they remain completely oblivious to for the rest of their lives. 
+It's a cycle I'm sure you're more-than familiar with, just as I once was.
 
-In part because they don't recognise it as something harmful, and therefore as something that doesn't need to be addressed. 
+This response of self-criticism is one which often runs deep into how we think, as a habit that most people have developed since childhood.
 
-Although this habit is effectively a judgement, the interesting thing is that people fail to recognise it as a judgement.
+A habit which has become so prominent in our lives, that we simply don't even realise we're doing it most of the time.
 
-And it's probably for this reason alone, why it seems to slip under the radar, even for someone like myself. 
+When we make a judgement it can happen so quickly and so automatically, that we may even see it as something normal, rather than something harmful that needs to be addressed.
 
-
-{{< hr3 "Essentially, many of us have a habit of telling ourselves off whenever we feel as if we've done something wrong." >}}
-
-
-The alternative on the other hand is not to have that emotional reaction.
+Especially, if it's a judgement directed at ourselves.
 
 
-<hr class="hrul"/>
-
-<b>"I shouldn't have stared at that woman."</b>
-
-<b>"I shouldn't be feeling this way."</b>
-
-<hr class="hrul__bottom"/>
+{{< hr3 "And certainly, I believe for most of us we are our own worst critic." >}}
 
 
+Whether through habits we developed from our parents or perhaps learnt via our own means, judging ourselves is arguably one of the most harmful things we do as human beings.
+
+It's the reason why we find ourselves stuck in cycles of addiction, as well as feel terrible, often for no reason at all.
+
+Essentially, many of us have a habit of telling ourselves off whenever we feel as if we've done something wrong.
+
+"I shouldn't have stared at that woman."
+
+"I shouldn't be feeling this way."
+
+"I can't believe I did that."
+
+All trains of thought which lead to despair, hopelessness and
+
+Of course, if being judgement is all you know, then inspite of how it makes you feel, it may also be familiar to you in the sense that it feels like a natural thing to do.
 
 
+{{< hr3 "Well, I'm here to tell you today that it's not natural, and it's a learnt habit no different to smoking everyday or being abusive." >}}
 
+
+It is an aspect of your personality which you have developed, and likely reinforced every single day of your life.
+
+Which is cool. I used to be like that too, but it's certainly not the only way to think about life.
+
+The alternative on the other hand is not to judge, and instead to refrain from having an opinion.

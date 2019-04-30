@@ -9,7 +9,7 @@
   # image: "/images/face.jpg"
   slug: "stop-absolutely-everything-you-are-doing"
   aliases: [ 
-    "stop-it-all"
+    "practices/stop-it-all"
   ]
 
   what: "Develop awareness by manipulating your perception of time."

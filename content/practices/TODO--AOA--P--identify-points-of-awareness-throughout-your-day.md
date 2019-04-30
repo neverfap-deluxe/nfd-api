@@ -42,8 +42,6 @@ With this exercise, what we're attempting to do is become conscious of key momen
 
 <hr class="hrul__bottom"/>
 
-
-
 The key thing to understand about awareness is that we're not actually aware unless if we exercise it.
 
 Largely, most of us do all of the things mentioned above, without truly being aware that they're actually happening.

@@ -71,7 +71,7 @@ For example, we might get really tense when we're mad or stressed.
 
 And what can happen over time is that we may not even generate the thought or physica response anymore, and simply skip straight to the emoiton.
 
-For example, feeling sad because we don't have a girlfriend, or getting upset because because things aren't going our way.
+For example, feeling sad because we don't have a girlfriend, or getting upset because things aren't going our way.
 
 Certainly, these hidden agreements form part of the reason why these judgements can be so hard to identify, because often they take place completely out of conscious sight. 
 
