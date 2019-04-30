@@ -1,8 +1,8 @@
 ---
   title: "Blind Attention"
-  description: ""
-  date: 2019-04-28
-  draft: true
+  description: "By focusing your attention with your eyes closed, you can learn to truly understand the nature of what attention truly is"
+  date: 2019-04-07
+  draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
   category: "Awareness over all"
@@ -22,7 +22,7 @@
 
 ---
 
-<!-- Super happy with edit, just need a once over. -->
+<!-- Very Happy With Edit. -->
 
 
 This is a great exercise in terms of being able to understand what it means to truly focus our minds and train our attention.
@@ -37,27 +37,27 @@ Well, I'm here to tell you that it's quite the opposite.
 {{< hr3 "In actual fact, focus and attention are largely conceptual ideas which have no rigid implementation." >}}
 
 
-Which is to say that there is no one, nor necessarily correct way to obtain focus and that all the limitations we perceive about our own ability to focus, are purely self-made.
+Which is to say that there is no one, nor necessarily correct way to obtain focus. And that all the limitations we perceive about our own ability to focus, are purely self-made.
 
 Certainly, this isn't to say that you may not be struggling with developing focus.
 
-More that overcoming these limitations is merely a matter of changing the way we currently think about what focus is.
+However, it merely indicates that the perceived limitations we have in regards to our inability to focus can be solved with a simple change of mind.
 
 And the way we are going to do this is by playing around with our focus and attention in a unique way.
 
 I would definitely describe it as a fun exercise, which ultimately has you utilising your imagination in order to practice the unlimited number of ways we can develop and utilise focus. 
 
-It is also a way of thinking which has unique applications when it comes to learning, if you so choose to use it.
+It will also help introduce you to a way of thinking which has unique applications when it comes to learning, if you so choose to use it.
 
 
 {{< hr2 "Instructions" >}}
 
 
-In order to practice this exercise, you first need to pay attention to your surroundings.
+In order to practice this exercise, you'll first need to pay attention to your surroundings.
 
 For starters, attempt to take note of the various objects within your surrounding area. 
 
-It could be a door. It could be a lamp on your desk. Perhaps even another person sitting near you.
+It could be a door. It could be a lamp on your desk. Perhaps even a plant or tree outside.
 
 Now, with this information in mind I want you to place your focus and attention onto one of these objects. 
 
@@ -73,9 +73,9 @@ Continuing to pay attention to this object, can you still feel it's presence in 
 
 Afterall the object is still there in your mind, and your attention is still on that object as if it were there, visually in front of you.
 
-With your eyes still closed, I now want you to imagine as if you're moving that object around with your mind. 
+Now, with your eyes still closed, I now want you to imagine as if you're moving that object around with your mind. 
 
-Perhaps you might want to lift it up and move it to around to your left. Perhaps you might want to spin it around 180 degrees, and then throw it behind your back.
+Perhaps you might want to lift it up and move it to around to your left. Perhaps you might even want to spin it around 180 degrees, and then throw it behind your back.
 
 
 {{< hr3 "Use your imagination and see what you can do with this object." >}}
@@ -85,7 +85,9 @@ Next, with your eyes still closed, I want you to place your attention on a diffe
 
 Do the same thing with this object as you did with the previous object.
 
-While a lot of this may seem silly, the idea behind this exercise is to help you understand that there is nothing concrete, nor necessarily 'real' about our ability to focus and attention.
+Rinse and repeat.
+
+While a lot of this may seem silly, the idea behind this exercise is to help you understand that there is nothing concrete, nor necessarily 'real' about our ability to focus.
 
 At the end of the day, it's purely a self-created construct that is developed through practice (and largely desire).
 
@@ -94,12 +96,12 @@ And that really is what I'm trying to get at here: Focus is nothing more than a 
 There's nothing scary, nor mystic about it. 
 
 
-{{< hr3 "It's really as simple as practicing these exercises on a consistent basis, in order to develop the skill." >}}
+{{< hr3 "It really is as simple as practicing these exercises on a consistent basis, in order to develop the skill of focus." >}}
 
 
-Once you understand this, then it helps you realise not only that we are in full-control over our attention.
+Once you understand this, then it helps you realise not only that we have full-control over our attention.
 
-However that we can develop these simple understands by changing the way we think about feel about reality. 
+However that we can develop these simple understandings by changing the way we think about reality. 
 
 It really is that simple.
 
@@ -108,6 +110,8 @@ The same goes for all your urges and negative feelings surrounding your addictio
 The sooner you realise this, the sooner you'll be able to overcome your addiction without the constant struggle that often comes with fighting our feelings and emotions.
 
 All you have to do is change the way you interpret reality.
+
+By practicing these exercises everyday.
 
 
 

@@ -2,7 +2,7 @@
   title: "Where Is Your Knee?"
   description: "."
   date: 2019-04-28
-  draft: false
+  draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
   category: "Awareness over all"
