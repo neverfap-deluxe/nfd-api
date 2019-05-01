@@ -1,7 +1,7 @@
 ---
   title: "Who Is Looking"
   description: ""
-  date: 2019-04-14
+  date: 2019-05-20
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]

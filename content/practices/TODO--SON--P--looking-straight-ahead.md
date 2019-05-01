@@ -1,7 +1,7 @@
 ---
   title: "Looking Straight Ahead"
   description: ""
-  date: 2019-03-26
+  date: 2019-06-26
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]

@@ -22,6 +22,7 @@
 
 ---
 
+This exercise is really about 
 
 
 {{< hr2 "Instructions" >}}

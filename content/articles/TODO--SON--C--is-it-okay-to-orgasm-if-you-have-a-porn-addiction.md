@@ -1,7 +1,7 @@
 ---
   title: "Is It Okay To Orgasm If You Have A Porn Addiction?" # without porn?
   description: "."
-  date: 2019-03-24
+  date: 2019-05-12
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]

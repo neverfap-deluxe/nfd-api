@@ -1,7 +1,7 @@
 ---
   title: "Fighting Spirit"
   description: ""
-  date: 2019-03-22
+  date: 2019-07-09
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]

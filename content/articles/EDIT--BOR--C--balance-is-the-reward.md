@@ -1,7 +1,7 @@
 ---
   title: "Balance Is The Reward"
   description: ""
-  date: 2019-03-06
+  date: 2019-07-06
   draft: false
   tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "balance-over-reward" ]

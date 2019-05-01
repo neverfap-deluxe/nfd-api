@@ -1,7 +1,7 @@
 ---
   title: "Dissolve Your Visual Field"
   description: "Learn to dissolve your ego by manipulating your visual perception of reality. treat your visual field as a simple plane of a light and colour."
-  date: 2019-01-30
+  date: 2019-02-03
   draft: false
   tags: [ "practice", "meditation", "visual meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]

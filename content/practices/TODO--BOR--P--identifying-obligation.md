@@ -1,7 +1,7 @@
 ---
   title: "Identifying Obligation"
   description: ""
-  date: 2019-03-12
+  date: 2019-03-06
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]

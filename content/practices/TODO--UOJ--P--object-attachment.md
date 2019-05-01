@@ -1,7 +1,7 @@
 ---
   title: "Object Attachment"
   description: "Understanding why we get attached to certain things can help us better understand what our brain does when we get attached."
-  date: 2019-01-25
+  date: 2019-07-25
   draft: true
   tags: [ "practice", "attachment", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]

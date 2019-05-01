@@ -1,7 +1,7 @@
 ---
   title: "Where Do You Touch?"
   description: "."
-  date: 2019-04-28
+  date: 2019-07-01
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]

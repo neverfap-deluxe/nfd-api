@@ -1,7 +1,7 @@
 ---
   title: "Hard routines"
   description: ""
-  date: 2019-03-12
+  date: 2019-03-18
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
@@ -19,8 +19,19 @@
 
 ---
 
+In this exercise we're going to attempt to develop a routine.
+
+Simply, for routine's sake. 
+
+Often a lot of people have a difficult time figuring out exactly what they want to do in life, so they. 
+
 We are going to develop a hard routine.
 
+
+
+This exercise signifies the importance of trying new things.
+
+It's why I recommend it's super helpful to learn new things. It doesn't matter what you're learning. its
 
 <!-- {{< hr2 "Context" >}} -->
 

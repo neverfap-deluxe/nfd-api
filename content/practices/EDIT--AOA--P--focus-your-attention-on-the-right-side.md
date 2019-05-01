@@ -1,7 +1,7 @@
 ---
   title: "Focus Your Attention On The Right Side Of Your Vision"
   description: "Focus your attention on the right side of your vision in order to train your capacity for awareness."
-  date: 2019-04-24
+  date: 2019-09-04
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
