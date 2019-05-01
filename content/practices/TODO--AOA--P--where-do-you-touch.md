@@ -21,7 +21,7 @@
 
 ---
 
-Another classic awareness
+This is another one of those classic awareness exercises which 
 
 {{< hr2 "Instructions" >}}
 

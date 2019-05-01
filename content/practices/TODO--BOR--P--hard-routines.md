@@ -19,7 +19,12 @@
 
 ---
 
-In this exercise we're going to attempt to develop a routine.
+In this exercise we're going to take the steps towards developing a routine.
+
+
+
+
+
 
 Simply, for routine's sake. 
 
