@@ -22,7 +22,11 @@
 
 ---
 
-This is another classic awareness exercise which trains you to pay attention.
+
+This is another one of those classic awareness exercises where we pay attention to some aspect of our reality.
+
+In this exercise we're going to be paying attention to the location of your knee.
+
 
 {{< hr2 "Instructions" >}}
 

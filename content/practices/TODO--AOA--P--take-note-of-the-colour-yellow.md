@@ -21,9 +21,11 @@
 
 ---
 
-This is another classic awareness exercise which can help us develop our focus and attention.
+This is another one of those classic awareness exercises where we pay attention to some aspect of our reality.
 
-By classic, I mean it's another variation of the tried-and-true observation exercises on this website, which has you noticing something odd or particular throughout the day.
+In this exercise we're going to be paying attention to your body and how it interacts .
+
+In particular, everytime you see the colour yellow with your vision.
 
 For this particular exercise we're going to take inspiration from our surroundings and focus our attention on the various colours we see throughout the day.
 

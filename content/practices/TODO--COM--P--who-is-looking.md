@@ -21,14 +21,23 @@
 
 This is arguably one of the hardest exercises you can do.
 
-Certainly, it's one I continue to struggle with, a) because it has no definite answer and b) simply because it works on such a high conceptual level that it's literally impossible empathise with.
+Certainly, it's an exercise that I continue to struggle with and perhaps will never truly understand.
 
+Of course, this isn't to say that it isn't useful as a thought exercise. More that it's an exercise that can tend to produce more anger and frustration, than enlightenment.
 
-Ultimately, it's about understand the cloud of sensation that is human consciousness. 
+Although, that's also part of the challenge. Learning to deal with our emotions when faced with something that may not make a whole lot of logical sense.
+
+Part of the reason why it's difficult is because it's a thought exercise that has no definite answer. Furthermore, it works on such a high conceptual level that it's a bit like asking someone to picture a cube in 4D.
+
+At best, it's mind-boggling.
+
+However, accepting the imperfection of this process is also part of the process itself, so I encourage you to stick with it - even if it ends up driving you insane.
+
 
 {{< hr2 "Instructions" >}}
 
-I want you to think about your mind and your consciousness.
+
+For this exercise I want you to think about your mind and your consciousness.
 
 Now, who or what is 'looking' and perceieving. 
 

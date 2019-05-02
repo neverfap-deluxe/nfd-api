@@ -1,7 +1,7 @@
 ---
   title: "Expressing Gratitude"
   description: ""
-  date: 2019-03-30
+  date: 2019-07-01
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
@@ -19,7 +19,8 @@
 
 ---
 
-The flipside to struggle is to be comfortable with ourselves.
+Gratitude is an important part of the human experience.
+
 
 <!-- {{< hr2 "Context" >}} -->
 
