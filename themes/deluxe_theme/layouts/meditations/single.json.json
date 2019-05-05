@@ -8,8 +8,13 @@
   "draft": {{ .Draft | jsonify }},
   "slug": {{ .Params.Slug | jsonify }},
   "categories": {{ .Params.Categories | jsonify }},
+  "category": {{ .Params.Category | jsonify }},
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
+
+  "podcast_url": {{ if .Params.PodcastUrl }}{{ .Params.PodcastUrl | jsonify }}{{ else }}""{{ end }},
+  "podcast_player": {{ if .Params.PodcastPlayer }}{{ .Params.PodcastPlayer | jsonify }}{{ else }}""{{ end }},
+  
   "section": {{ .Section | jsonify }}
 }
 {{ end }}

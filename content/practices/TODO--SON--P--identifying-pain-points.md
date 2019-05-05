@@ -10,7 +10,7 @@
   # image: "/images/face.jpg"
   slug: "identifying-pain-points"
 
-  what: "Identify where we're struggling."
+  what: "Be able to better identify our areas of frustration."
   how: "List what you struggle with and how that struggle makes you feel."
   when: "When you have a moment to yourself to think about it."
   duration: "10 to 20 minutes."
@@ -19,22 +19,36 @@
 
 ---
 
-<!-- Basics, done -->
 
-<!-- {{< hr2 "Context" >}} -->
+<!-- This should actually be an article explaining what it means to struggle -->
+
+The idea behind this exercise is to start thinking about the ways in which we struggle.
+
+It could be with your own emotions. It could be with certain people in your life. It could even be with a number of daily tasks you still haven't quite mastered. 
+
+The intention is to identify these pain points, in order to then address them in some meaningful way.
+
+This exercise really signifies the importance of awareness as a tool for change.
+
+Essentially, we cannot meaningfully change if we cannot first identify what may be wrong. 
+
+Furthermore, it's a great way to understand how we think in relation to our perceived problems.
+
+Here's the thing about struggle.
 
 
-The idea behind this exercise is to start thinking about how we struggle. 
-
-And the way we do this is by first identifying what may be wrong, for if we can't identify what is wrong, then we can't say for certain that there is anything wrong to begin with. 
-
-Nor where we should even look in the first place in order to address the issue we may be experiencing.
+{{< hr3 "Struggle is largely a reflection of how we feel about ourselves, rather than a reflection of the task itself." >}}
 
 
-{{< hr3 "The important thing to understand here is that struggle is a very personal concept." >}}
+Struggle is a two-sided interaction, in that it's a choice you consciously make.
+
+It's a bit like being stuck in quick sand. You can either choose to struggle with it, which means to fight it and sink further, or you can choose instead to relax and calm down, remaining in place until you can get help.
+
+In essence, the point I'm trying to get at is that struggling is a choice which doesn't help us meet our goals, at least effectively.
+
+You see, the only reason why you think 
 
 
-And in most cases, is a reflection of how we feel about ourself, rather than a reflection of the thing we're struggling with.
 
 In other words, this concept of struggle is nothing more than a perception. 
 

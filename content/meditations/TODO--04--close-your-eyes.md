@@ -2,13 +2,17 @@
   title: "Close Your Eyes"
   description: "."
   date: 2019-05-04
-  draft: false
+  draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
   category: "Meditation"
 
   # image: "/images/face.jpg"
   slug: "close-your-eyes"
+
+  podcastUrl: ""
+  
+  podcastPlayer: ""
 
   pageId: "73c74c6e-ef52-4286-b5fc-e5486e6f8df8"
 
