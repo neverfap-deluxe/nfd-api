@@ -42,7 +42,7 @@ When you have a high degree of skill, because you've been practicing meditation 
 
  game. It's a game of skill, and when you have a high degree of skill, you're able to  
 
-in order to overcome your porn addictino. Because when you have those skills, it gives you 100% confidence to know that you can face any situatino. 
+in order to overcome your porn addiction. Because when you have those skills, it gives you 100% confidence to know that you can face any situation. 
 
 
 
