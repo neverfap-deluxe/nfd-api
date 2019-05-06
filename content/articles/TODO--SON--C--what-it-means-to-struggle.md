@@ -3,7 +3,7 @@
   description: "By identifying how we struggle, we can better understand the dynamics with which we think about the problems in our life."
   date: 2019-08-12
   draft: true
-  tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
+  tags: [ "context", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
   category: "Struggle over none"
 
