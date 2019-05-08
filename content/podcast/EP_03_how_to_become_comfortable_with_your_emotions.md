@@ -8,6 +8,7 @@
   # image: "/images/face.jpg"
   slug: "ep-03-how-to-become-comfortable-with-your-emotions"
 
+  mp3Url: "https://s3.castbox.fm/38/31/f8/2162f94cd6938b6ed3452269b9.mp3"
   
   podcastUrl: "https://castbox.fm/episode/id2045024-id142207180?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_142207180&utm_content=EP3%20-%20How%20To%20Become%20Comfortable%20With%20Your%20Emotions-CastBox_FM"
   
