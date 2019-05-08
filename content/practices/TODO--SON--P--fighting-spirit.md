@@ -19,8 +19,6 @@
 
 ---
 
-<!-- {{< hr2 "Context" >}} -->
-
 When we're not functioning to the best of our ability, it's because we're fighting ourselves in some way. 
 
 In this exercise, we want to identify the key areas in our life where we .
