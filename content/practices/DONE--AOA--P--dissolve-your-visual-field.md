@@ -106,17 +106,3 @@ Certainly, don't try to focus.
 Keep your attention wide and merely feel as if you're intaking the visual information around you, rather than from the point of view of you actively perceiving that information.
 
 While you can do this anywhere, I personally find it works best when I have a few minutes alone, where you can really explore this idea uninterupted.
-
-<!-- If you want to take it a step further, ask yourself this question: 
-
-
-{{< hr4 "Who or what is intepreting this vision? Does it exist within this cloud of sensation? " >}}
-
-
-Although I wouldn't worry about it too much for now. 
-
-Honestly, just focus on dissolving that visual field. It's hard enough on it's own.
-
-It's a more advanced concept we will explore in future once we've mastered these more simpler exercises.  -->
-
-

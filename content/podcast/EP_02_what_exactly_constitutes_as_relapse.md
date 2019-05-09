@@ -8,6 +8,8 @@
   # image: "/images/face.jpg"
   slug: "ep-02-what-exactly-constitutes-as-relapse"
 
+  mp3Url: "https://s3.castbox.fm/c5/4a/a3/279daf47498636f85ccbc0cbff.mp3"
+
   podcastUrl: "https://castbox.fm/episode/id2045024-id138208672?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_138208672&utm_content=EP2%20-%20What%20Exactly%20Constitutes%20As%20Relapse%3F-CastBox_FM"
   
   podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2045024/id138208672?v=4.1.3&autoplay=0' frameborder='0' width='100%' height='300'></iframe>"

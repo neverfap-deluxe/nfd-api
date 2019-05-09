@@ -9,6 +9,8 @@
   slug: "ep-01-my-personal-nofap-porn-recovery-journey"
   # podcastUrl: "https://f002.backblazeb2.com/file/neverfapdeluxepodcast/ep1-my-personal-nofap-porn-recovery-journey.mp3"
   
+  mp3Url: "https://s3.castbox.fm/66/20/68/ec65604b629039a70032004ae5.mp3"
+
   podcastUrl: "https://castbox.fm/episode/id2045024-id134775115?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_134775115&utm_content=EP1%20-%20My%20Personal%20Porn%20Recovery%20Journey-CastBox_FM"
   
   podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2045024/id134775115?v=4.1.3&autoplay=0' frameborder='0' width='100%' height='300'></iframe>"

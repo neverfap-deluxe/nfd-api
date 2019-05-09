@@ -91,8 +91,7 @@ Play around with it and see where your mind takes you.
 
 
 
-<!-- 
-{{< hr2 "Additional Resources" >}}  -->
+<!--  {{< hr2 "Additional Resources" >}}  -->
 
 <!-- maybe link to other  -->
 

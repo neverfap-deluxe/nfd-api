@@ -8,6 +8,8 @@
   # image: "/images/face.jpg"
   slug: "ep-05-the-importance-of-maintaining-balance"
 
+  mp3Url: "https://s3.castbox.fm/4a/a4/56/f9c28a4389abae2c31ba0ee61d.mp3"
+
   podcastUrl: "https://castbox.fm/episode/id2045024-id150550378?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_150550378&utm_content=EP5%20-%20The%20Importance%20Of%20Maintaining%20Balance-CastBox_FM"
   
   podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2045024/id150550378?v=4.1.190428&autoplay=0' frameborder='0' width='100%' height='300'></iframe>"

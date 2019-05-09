@@ -57,8 +57,6 @@ We're not going to concern ourselves with goals and ideals.
 
 Instead, what we're going to do is focus on hard processes and practices that will help us move forward.
 
-<!-- This is something I talk about extensively in my <a class="link" href="/articles/why-am-I-a-porn-addict">"Why Am I A Porn Addict?"</a> article. -->
-
 
 {{< hr3 "We're going to focus on the things we can do everyday in order to improve as a person." >}}
 

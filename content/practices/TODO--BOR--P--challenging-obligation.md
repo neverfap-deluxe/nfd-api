@@ -1,7 +1,7 @@
 ---
   title: "Challenge Existing Obligations"
   description: ""
-  date: 2019-05-12
+  date: 2019-06-13
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]

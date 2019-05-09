@@ -26,6 +26,7 @@
           "tags": {{ .Params.Tags | jsonify }},
           "permalink" : {{ .Permalink | jsonify }},
 
+          "mp3Url": {{ if .Params.Mp3Url }}{{ .Params.Mp3Url | jsonify }}{{ else }}""{{ end }},
           "podcast_url": {{ if .Params.PodcastUrl }}{{ .Params.PodcastUrl | jsonify }}{{ else }}""{{ end }},
           "podcast_player": {{ if .Params.PodcastPlayer }}{{ .Params.PodcastPlayer | jsonify }}{{ else }}""{{ end }},
 
