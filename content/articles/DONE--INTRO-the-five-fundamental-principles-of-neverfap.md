@@ -18,7 +18,7 @@
 
 <!-- Very happy with edit -->
 
-The NeverFap method of addressing porn addiction comprises of five core principles. 
+The NeverFap method of addressing porn addiction comprises of five core principles.
 
 Each principle maintains a purpose, along with a range of associated skills which you must develop in order to successfully address your porn addiction.
 
@@ -26,7 +26,7 @@ Without mastery of all five of these principles, we cannot hope to consistently 
 
 For more of a relaxed introduction, I highly recommend reading my article <a class="link" href="/articles/the-five-principles-of-neverfap-as-they-relate-to-my-life">The Five Principles Of Neverfap As They Relate To My Life</a> which explains how they apply to my own life.
 
-Before we begin, we must ask ourselves a very important question: 
+Before we begin, we must ask ourselves a very important question:
 
 
 {{< hr3 "What is a fundamental principle and what makes it fundamental?" >}}
@@ -59,7 +59,7 @@ For example:
 
 <hr class="hrul__bottom"/>
 
-This is not how fundamental principles operate. 
+This is not how fundamental principles operate.
 
 Hard truths are not open to subjective questioning. Certainly, you're more than welcome to question them if you like, however it won't help you with your porn addiction.
 
@@ -77,21 +77,21 @@ Ultimately, the aim of these five fundamental principles is to help you expose t
 
 As a former porn addict, I encourage you to embrace the idea that everything you know about yourself is wrong, and to not fight the unfamiliar.
 
-You cannot get better if you cannot first recognise that you have a problem. 
+You cannot get better if you cannot first recognise that you have a problem.
 
 
 {{< hr2 "The Five Fundamental Principles of NeverFap" >}}
 
 
-On a superficial level, none of these principles seem to have anything to do with addressing porn addiction. 
+On a superficial level, none of these principles seem to have anything to do with addressing porn addiction.
 
 For example, there is no fundamental principle along the lines of "Never visit a porn website ever again" or "You should never willingly orgasm".
 
-A large part of the reason why this is the case is because porn addiction has very little to do with porn itself. 
+A large part of the reason why this is the case is because porn addiction has very little to do with porn itself.
 
 Rather, porn addiction is merely a symptom of a wider range of problems which NeverFap aims to address.
 
-So without further ado, here are the five fundmental principles of NeverFap: 
+So without further ado, here are the five fundmental principles of NeverFap:
 
 <div style="margin-top: 3rem;" class="five__principles__list__page">
   <span><div class="five__principles__item__page">01 - Choice over mind</div></span>
@@ -101,9 +101,9 @@ While all these principles are important in their own right, this is perhaps the
 
 Or rather, it is a way of thinking and understanding which is completely foreign to most of us, and even those of us who do not have a porn addiction.
 
-What <u>*Choice over mind*</u> iterates is the fact that you have complete control over your mind.
+What **Choice over mind** iterates is the fact that you have complete control over your mind.
 
-This is irrespective of whether you currently feel in control of your mind, whether you agree it's possible to have full control over your mind, or whether you've even experienced having full control over your mind. 
+This is irrespective of whether you currently feel in control of your mind, whether you agree it's possible to have full control over your mind, or whether you've even experienced having full control over your mind.
 
 
 {{< hr3 "What's important to understand is that your mind is fundamentally capable of being controlled." >}}
@@ -113,7 +113,7 @@ I would personally say that this fundamental principle is both equal parts under
 
 Certainly while practicing and exercising choice is important, understanding the extent to which we have choice will help us gain the confidence to truly feel comfortable dictating our thoughts, feelings, emotions and behaviour.
 
-By in large, the way this confidence is achieved is through controlled meditation and perspective training, which is covered extensively throughout the <a class="link" href="/practices">NeverFap Deluxe Practices</a> section. 
+By in large, the way this confidence is achieved is through controlled meditation and perspective training, which is covered extensively throughout the <a class="link" href="/practices">NeverFap Deluxe Practices</a> section.
 
 For example, a situation where many porn addicts believe they do not have control is in public.
 
@@ -131,13 +131,13 @@ In fact, it's something most people outright ignore because they don't believe i
 
 In other words, denial.
 
-What <u>*Balance over reward*</u> maintains is this idea that we must prioritise balance over our immediate wants and goals.
+What **Balance over reward** maintains is this idea that we must prioritise balance over our immediate wants and goals.
 
 {{< hr3 "Often we become so affixated with something, either through obsession or neglect, we fail to consider the wider ramifications of our actions." >}}
 
-So we cut corners in order to achieve or experience what we want, only to face the consequences of our actions later. 
+So we cut corners in order to achieve or experience what we want, only to face the consequences of our actions later.
 
-Not realising that the reason why we're struggling is because of the corners that we've cut. 
+Not realising that the reason why we're struggling is because of the corners that we've cut.
 
 For example, overworking ourselves is a prominent example of cutting corners in order to achieve something at the immediate harm to both our physical and mental health.
 
@@ -158,11 +158,11 @@ I think part of the problem is that people fall into the trap of believing they'
 
 Put simply, it's impossible.
 
-No one is immune to their own biology. 
+No one is immune to their own biology.
 
 Even though people may not show it (in most cases, they simply know how to hide it very effectively), there is a hard limit to what everyone can do on a daily basis without it affecting their mental health.
 
-The point is that if we are to overcome our porn addiction, we must respect this limit and embrace balance in everything we do. 
+The point is that if we are to overcome our porn addiction, we must respect this limit and embrace balance in everything we do.
 
 This means taking breaks, even when we want to push forward. This means challenging ourselves, even if we don't feel like it.
 
@@ -178,7 +178,7 @@ Awareness is absolutely fundamental to everything we do.
 
 It is what allows us to identify and address the destructive patterns in our life, as well as serve as a stop-gap between our thoughts and our actions.
 
-What <u>*Awareness over all*</u> maintains is that having awareness over our actions is critical to not only understanding the impact those actions may have over our own lives, but also how we can learn to gain control over them.
+What **Awareness over all** maintains is that having awareness over our actions is critical to not only understanding the impact those actions may have over our own lives, but also how we can learn to gain control over them.
 
 Without full awareness, we simply cannot hope to act with any amount of intention, nor understand the responsibility we have over them.
 
@@ -221,11 +221,11 @@ And as humans, we instinctly do what we find most simple, either for better or w
 {{< hr3 "Therefore, solutions which are simple by design are going to be more effective than solutions which are convoluted." >}}
 
 
-It's the reason why I personally follow the paleo diet and only eat one meal a day. 
+It's the reason why I personally follow the paleo diet and only eat one meal a day.
 
 Doing this is vastly more simple than counting calories, obsessing over when I can eat and organising three meals a day.
 
-In other words, simple is often easy. 
+In other words, simple is often easy.
 
 
 {{< hr3 "Certainly, part of the reason why we're addicted to porn in the first place is because it's the easy thing to do." >}}
@@ -233,11 +233,11 @@ In other words, simple is often easy.
 
 Back to the principle itself, what <u>*Struggle over none*</u> relates to is this idea that if you're really struggling with someone, then you're probably not doing it right.
 
-Which means either you're not understanding it intuitively, or you're fundamentally misunderstanding what you're trying to understand.  
+Which means either you're not understanding it intuitively, or you're fundamentally misunderstanding what you're trying to understand.
 
 For example, understanding that porn recovery isn't about fighting yourself or forcing yourself to "get through it".
 
-If at any point you feel like you have to force yourself to do something, then it indicates that you're doing something incorrectly or more importantly, not actually recovering from porn addiction. 
+If at any point you feel like you have to force yourself to do something, then it indicates that you're doing something incorrectly or more importantly, not actually recovering from porn addiction.
 
 
 {{< hr3 "Because life without porn isn't a struggle." >}}
@@ -245,7 +245,7 @@ If at any point you feel like you have to force yourself to do something, then i
 
 It's actually one of the most liberating and empowering things you can do.
 
-The takeaway being that life only ever becomes a chore when we act against it or neglect it. 
+The takeaway being that life only ever becomes a chore when we act against it or neglect it.
 
 Especially when it comes to addressing porn addiction.
 
@@ -261,9 +261,9 @@ Much like Balance over reward, this is one of those principles that people tend 
 {{< hr3 "What a lot of people don't realise is that judgement is a mental trap." >}}
 
 
-Because when you make a judgement, you essentially trap yourself into a limited point of view. 
+Because when you make a judgement, you essentially trap yourself into a limited point of view.
 
-Of course, the reason why it may not seem like a mental trap is because at first, making one judgement isn't going to kill you. 
+Of course, the reason why it may not seem like a mental trap is because at first, making one judgement isn't going to kill you.
 
 But humans never just make one judgement.
 
@@ -273,9 +273,9 @@ And when we make enough of these judgements, they can form into habits of belief
 
 {{< hr3 "After all, how can you be aware of what's going on in your mind, if your mind is in a constant state of habitual thinking?" >}}
 
-The more judgements you make, the more awareness you trade, and the more faith that gets placed into ideas of who you are and what the world is. 
+The more judgements you make, the more awareness you trade, and the more faith that gets placed into ideas of who you are and what the world is.
 
-It becomes a trap because without realising it, through judgement you end up in a state of habitual unawareness, full of harmful behaviours that we have no idea how to control or influence. 
+It becomes a trap because without realising it, through judgement you end up in a state of habitual unawareness, full of harmful behaviours that we have no idea how to control or influence.
 
 Now imagine trying to address something like porn addiction under this state of mind.
 
