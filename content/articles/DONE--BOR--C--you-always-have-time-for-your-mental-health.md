@@ -18,7 +18,7 @@
 
 <!-- Very Happy With Edit -->
 
-There's one excuse that I often see porn addicts come up with in regards to their addiction. 
+There's one excuse that I often see porn addicts come up with in regards to their addiction.
 
 
 {{< hr3 "I don't have enough time." >}}
@@ -26,7 +26,7 @@ There's one excuse that I often see porn addicts come up with in regards to thei
 
 Usually, it means time to spend towards addressing their porn addiction or mental health issues.
 
-After all, we're all incredibly busy people. We have things to do. Ambitions to fulfil. I mean, what does any of this have to do with porn addiction? 
+After all, we're all incredibly busy people. We have things to do. Ambitions to fulfil. I mean, what does any of this have to do with porn addiction?
 
 It's an attitude which quite ironically, prevents us from actually focusing on what's important in life.
 
@@ -42,7 +42,7 @@ Well, that's entirely up to you.
 
 Maybe it's because you feel compelled to always be in a state of constant "productivity", and that time spent working on your mental health doesn't seem productive.
 
-Or perhaps, it's merely the feeling of productivity you crave. 
+Or perhaps, it's merely the feeling of productivity you crave.
 
 For example, checking your phone every five minutes to see if someone's messaged you over Facebook.
 
@@ -62,7 +62,7 @@ And there are never any valid reasons why anyone should ever neglect their own m
 
 It's the most important thing you have, and it's incredibly difficult not to suffer when you don't have your mental health in order.
 
-The moment you compromise on your mental health is when you introduce the potential to suffer. 
+The moment you compromise on your mental health is when you introduce the potential to suffer.
 
 Although perhaps you'd rather suffer just to satisfy that feeling of productivity or get that extra bit further with your ambitions.
 
@@ -72,14 +72,14 @@ Although perhaps you'd rather suffer just to satisfy that feeling of productivit
 
 Part of this disorder consists of valuing time over quality of life.
 
-So a question worth asking is: 
+So a question worth asking is:
 
 <u><b>What is time without your mental health?</b></u>
 
 
-Without mental health, time becomes an uncontrollable struggle of judgement, self-criticism and depression. 
+Without mental health, time becomes an uncontrollable struggle of judgement, self-criticism and depression.
 
-Instead of having control over what we think and feel, we instead find ourselves taking everything personally and feeling helpless to absolutely everything in our life. 
+Instead of having control over what we think and feel, we instead find ourselves taking everything personally and feeling helpless to absolutely everything in our life.
 
 Without our mental health, days may seem like years in situations we largely find unbearable, which has the possibility to become any situation because that is no longer for us to decide.
 
@@ -95,7 +95,7 @@ We worship that activity with our effort and time, believing it will make us fee
 
 We end up feeling empty once the obsession wears off, inspite of all the time we spent believing in these solutions.
 
-Then we go and repeat the cycle again and again and again. 
+Then we go and repeat the cycle again and again and again.
 
 
 {{< hr2 "And to be honest, it's a bit shit." >}}
@@ -103,7 +103,7 @@ Then we go and repeat the cycle again and again and again.
 
 I'm sure you think so too.
 
-All because we don't believe we have enough time to actually commit to something which will know will improve our frame of mind. 
+All because we don't believe we have enough time to actually commit to something which will know will improve our frame of mind.
 
 Although perhaps you don't really see the point to doing things which may or may not improve your mental well-being.
 
@@ -119,18 +119,18 @@ One key thing to understand about mental health is that it's accumulative.
 
 And the true beauty of mental health is that everything you've done up until now to negatively impact your mental health is completely irrelevant.
 
-<b><u>For the only thing which truly matters is that which you do today.</b></u>
+<u>**For the only thing which truly matters is that which you do today.**</u>
 
 Ultimately, it's about focusing on what you can do today, and this is the key to breaking this habit of never committing to your mental health.
 
-Realising that mental health isn't achieved by what you don't do, but rather by what you can do today. 
+Realising that mental health isn't achieved by what you don't do, but rather by what you can do today.
 
-<!-- 
+<!--
 The other thing which makes pursuing mental health so much more accessible than pursing obsession or addiction, is that it doesn't operate in the same way.
 
 Which is to say that you don't achieve good mental health by spending five hours a day meditating in an attempt to undo years of self-harm.
 
-That's not how it works at all. 
+That's not how it works at all.
 
 The way mental health works is by commiting a bit of your time each day towards. -->
 
