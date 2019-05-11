@@ -9,11 +9,11 @@
 
   # image: "/images/face.jpg"
   slug: "expressing-gratitude"
-  
-  what: "Develop our ability for ."
-  how: "."
-  when: "."
-  duration: "."
+
+  what: "Develop our ability to express ourselves."
+  how: "By practicing the expression of gratitude."
+  when: "Throughout the day."
+  duration: "For as long as you want."
 
   pageId: "5fd4ab84-5034-480c-8a64-d469ef43f970"
 

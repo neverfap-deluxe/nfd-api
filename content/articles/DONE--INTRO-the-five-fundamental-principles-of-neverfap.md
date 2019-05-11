@@ -302,7 +302,3 @@ If ever you get confused about anything, it can help to come back to these five 
 You just have to know exactly what you're doing and why.
 
 Moving forward I recommend checking out the article index which contains further information in regards to the NeverFap method of overcoming porn addiction.
-
-<div class="button__wrapper">
-  <a class="button button__secondary" href="/articles">NeverFap Deluxe Article Index.</a>
-</div>

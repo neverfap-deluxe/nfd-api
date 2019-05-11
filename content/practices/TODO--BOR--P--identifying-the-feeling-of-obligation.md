@@ -1,5 +1,5 @@
 ---
-  title: "Identifying Obligation"
+  title: "Identifying The Feeling Of Obligation"
   description: "By identifying where and when we feel obliged, we can learn to develop better control over our mind."
   date: 2019-03-06
   draft: true
@@ -8,10 +8,10 @@
   category: "Balance over reward"
 
   # image: "/images/face.jpg"
-  slug: "identifying-obligation"
+  slug: "identifying-the-feeling-of-obligation"
 
-  what: "Develop our conscious awareness and ability to act contrary to obligation."
-  how: "."
+  what: "Develop our awareness of the feeling of obligation."
+  how: "By taking note of where we feel attached."
   when: "."
   duration: "."
 
