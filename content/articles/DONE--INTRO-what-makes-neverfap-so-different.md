@@ -104,14 +104,6 @@ In most cases, it's a combination of a number of factors, which they simply have
 
 {{< hr3 "This is why I came up with the Five Fundamental Principles of NeverFap, to help guide people towards understanding exactly where they may be going wrong." >}}
 
-<div class="button__wrapper">
-  <a
-    class="button button__secondary"
-    href="/articles/the-five-fundamental-principles-of-neverfap"
-    >Learn More About The Five Principles.</a
-  >
-</div>
-
 Perhaps what I like most about NeverFap is how it's designed to always provide you with a path forward.
 
 When you're a porn addict, almost everything is confusing. 
