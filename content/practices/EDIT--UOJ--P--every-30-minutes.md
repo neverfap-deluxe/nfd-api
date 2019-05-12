@@ -62,7 +62,7 @@ So we can focus on what's important.
 
 Our mental health.
 
-*ka-ching*
+ka-ching
 
 <!-- 
 {{< hr2 "Additional Resources" >}}  -->

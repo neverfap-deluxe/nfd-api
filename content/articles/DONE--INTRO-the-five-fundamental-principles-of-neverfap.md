@@ -231,7 +231,7 @@ In other words, simple is often easy.
 {{< hr3 "Certainly, part of the reason why we're addicted to porn in the first place is because it's the easy thing to do." >}}
 
 
-Back to the principle itself, what <u>*Struggle over none*</u> relates to is this idea that if you're really struggling with someone, then you're probably not doing it right.
+Back to the principle itself, what <u>**Struggle over none**</u> relates to is this idea that if you're really struggling with someone, then you're probably not doing it right.
 
 Which means either you're not understanding it intuitively, or you're fundamentally misunderstanding what you're trying to understand.
 
