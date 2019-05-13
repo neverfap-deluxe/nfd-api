@@ -3,7 +3,7 @@
   description: "A concise summary of NeverFap Deluxe and what it means for your porn addiction recovery."
   date: 2019-05-14
   draft: false
-  tags: [ "porn addiction", "porn recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
+  tags: [ "porn addiction", "porn addiction recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "" ]
   # image: "/images/face.jpg"
   slug: "summary"
