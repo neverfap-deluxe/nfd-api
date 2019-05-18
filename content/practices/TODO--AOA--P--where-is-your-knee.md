@@ -22,16 +22,20 @@
 
 ---
 
-
 This is another one of those classic awareness exercises where we pay attention to some aspect of our reality.
 
-In this exercise we're going to be paying attention to the location of your knee.
+They're classic because you've probably seen them a thousand times before on this website, but the reason I do this is because they're effective.
+
+In this exercise you're going to be paying attention to the location of your knee.
+
 
 
 {{< hr2 "Instructions" >}}
 
 
 Where is your knee? (Throughout the day, focus on your knee. Where is it?) 
+
+
 
 
 <!-- 
