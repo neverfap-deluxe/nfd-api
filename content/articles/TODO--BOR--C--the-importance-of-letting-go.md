@@ -1,7 +1,7 @@
 ---
   title: "The Importance Of Letting Go"
   # How we use obligation to distort our ability to act.
-  description: "."
+  description: "This article describes the importance of letting go and how it relates to our ability to respond effectively."
   date: 2019-05-20
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
@@ -9,29 +9,29 @@
   # image: "/images/face.jpg"
   slug: "the-importance-of-letting-go"
 # . 
-  tldr1: "."
-  tldr2: "."
+  tldr1: "Learning to let go is one of the most important things we can do as human beings."
+  tldr2: "Essentially, you lose nothing by letting go. Instead, it's an opporunity to experience something different."
 
-  pageId: "0f1050bc-31e1-4ca9-a429-b212c6c369c2"
+  pageId: "67819a08-abeb-40ee-921d-5959c66b1e4f"
 ---
 
 Some people have a very difficult time letting go.
 
-They could have a hard time letting go of their own feelings, regardless of whether these feelings are productive, nor make us feel empowered about who we are. 
+For example, some people will continue to latch onto negative feelings, regardless of whether these feelings are productive, let alone make them feel empowered about who they are. 
 
-They could have a hard time letting go of their own thoughts, as they find themselves paralyzed in indecision and incessant rationality and judgement.
+Others have a hard time letting go of their own thoughts, as they find themselves paralyzed in indecision, stuck in a cycle of incessant rationality and self-judgement.
 
-This may even extend to the toxic people in our lives, or even the self-limiting beliefs we have about ourselves that we're simply "not good enough" or "undeserving" of love and attention.
+Failure to let go may even extend to the toxic people in our lives, or even the self-limiting beliefs we have about ourselves that we're simply "not good enough" or "undeserving" of love and attention.
 
 Regardless of what it is we're struggling with, the solution all points to the same thing.
 
 
-{{< hr3 "Learning to let go of these negative aspects of our lives." >}}
+{{< hr3 "Learning to let go and be free of these unproductive attributes." >}}
 
 
-Of course, if it were that simple none of us would have any problems, and we'd all be clear of our addiction and a-ok to continue with our lives.
+Of course, if it were that simple as walking away, none of us would have any problems and we'd all be clear of our addiction and a-ok to continue with our lives.
 
-Well, today I'm here to discuss not only the importance of letting go, but also how you can achieve that by changing the way we think about attachment.
+Well, today I'm here to discuss not only the importance of letting go, but also how you can achieve this purpose by changing the way we think about attachment.
 
 Part of the reason why pepole struggle with letting go, is because there's a great fear and misunderstanding of what letting go truly is.
 
@@ -39,19 +39,27 @@ At first glance people assume the worst.
 
 They see letting go as inherently losing something, in particular, a part of themselves. 
 
-Letting go then becomes this deep-seated fear that part of us may disappear forever, never to return - leaving this hollow shell of nothingness.
+A part of themselves which they've contributed towards for so long, that they can no longer distinguish themselves from 'it'.
+
+Under these circumstances, letting go then becomes this deep-seated fear of loss, as this that part of us which may disappear forever, never to return. 
+
+Leaving this hollow shell of nothingness which we may end up regretting.
 
 
-{{< hr3 "Inspite of the fact that this sentiment literally makes zero sense what-so-ever." >}}
+{{< hr3 "Well, I'm here to tell you that this makes no sense what-so-ever." >}}
 
 
 You see, you don't actually lose anything by letting go.
 
 There is no 'void' once something leaves. 
 
-If you think of the conscious experience as a bunch of brain waves moving forward, those waves don't suddenly disappear the moment you let something go. 
+If you think of the conscious experience as a bunch of brain waves moving forward, those waves don't suddenly disappear the moment you let something go.
 
-The only time this happens is when you die, and since you're still very much alive and conscious once you let go, then those waves will keep chugging along at the same rate as it did prior to when you didn't let go.
+Nor do you experience less waves, nor more.
+
+The only time this ever happens is when you die, and since you're still very much alive and conscious once you let go, you aren't even losing anything from a metaphysical sense.
+
+Those brain waves will still keep chugging along at the same rate as they did prior to when you didn't let go.
 
 So what actually happens then?
 
@@ -67,57 +75,39 @@ If you think of all the awful things in your life as terrible flavours of ice-cr
 
 Instead, what happens is quite remarkable.
 
-What happens is that you begin producing neutral, vanilla ice-cream. Not worse ice-cream, just normal, plain ice-cream. 
+What happens is that you begin producing neutral, vanilla ice-cream. 
 
-It's not the best ice-cream in the world, but it's certainly not the worst. 
+Not worse ice-cream, just normal, plain ice-cream. 
 
-Which is to say that by letting go of those awful flavours, you essentially allow yourself the opportuinty to start from scratch and create amazing new ones.
+And you know what? Plain ice-cream tastes a hell of a lot better than bad ice-cream.
+
+Which is to say that by letting go of those awful flavours, you essentially allow yourself the opportuinty to start from scratch and create new amazing ones.
 
 
 {{< hr3 "What people don't realise is that letting go is in fact an opportunity." >}}
 
 
+It's an opportunity to experience something new. Something exciting. Something magical. 
 
+Of course, half the challenge is that people remain so devoid of experiencing anything nice, that they therefore assume that these 'non-awful' experiences simply don't exist.
 
+Well, they do - as long as you change your understanding of loss and fear in relation to letting go, as I've mentioned in this article.
 
-It's an opportunity to experience 
+Often what can help is to simply commit to the process without expectation. A lot of the time that's how I approach my gym workouts. 
 
+Because sometimes feelings simply disagree. Sometimes you don't feel like working out, but that doesn't denote the importance of why you should be workouting consistently.
 
+So how do you effectively let go?
 
+Well, like anything in life, it simply comes down to a matter of practice and consistency.
 
+There are quite a few exercises in our practices section of the NeverFap Deluxe website, which are designed to help dissolve your ego.
 
+And help you dissociate from your thoughts and feelings, so your ability to enact conscsious action can be exercised in full.
 
-In this article I hope to demonstrate some of the very real reasons why it's important to meditate and practice awareness.
+<b>What Can Your Hand Do?</b> and <b>Stop Absolutely Everything You're Doing</b> is a good place to start for most people, although each exercise provides a different focus. 
 
+Essentially, anything which can help you challenge that feeling of obligation you have not to let go, can certainly help on a cognitive and mental level.
 
-
-
-
-For example, it could be a website that you visit every single day. It could be staying back at work later than you're required to. 
-
-
- it's actually a feeling based in this deep-seated responsibility we've created over time.
-
-
-The trick is to realise nothing is important (nothing is important except the present moment). I want to talk about some of the very real reasons why it's important to  exercises.
-
-
-
-
-
-
-
-
-the-trick-is-to-realise-that-nothing-is-important
-
-
-Today I want to talk about obligation.
-
-What it is, how we relate to it and how we use it to distort our ability to behave and act.
-
-{{< hr3 "A key thing to note is that obligation is a feeling." >}}
- 
-
-Unlike responsibility, obligation 
-
+So get crackin' buddy. Your mental health isn't going to sort itself out on it's own.
 

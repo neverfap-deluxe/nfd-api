@@ -1,7 +1,7 @@
 ---
   title: "The Trick Is To Realise That Nothing Is Important"
   # How we use obligation to distort our ability to act.
-  description: "."
+  description: "By understanding that nothing is important, we can dissolve our ego and learn to come to state of calm."
   date: 2019-06-02
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
@@ -9,37 +9,61 @@
   # image: "/images/face.jpg"
   slug: "the-trick-is-to-realise-that-nothing-is-important"
 # The Importance Of Letting Go. 
-  tldr1: "."
-  tldr2: "."
+  tldr1: "Nothing is important, since everything relates to your ego."
+  tldr2: "Any opportunity to dissolve your ego is productive."
 
   pageId: "e3189d6c-2226-404f-85ef-2239c05f9559"
 ---
 
-I just thought I'd take the time today to share a cool trick I've learnt over the years in regards to helping us overcoming difficult situations.
+I just thought I'd take the time today to share a cool trick I'd learnt over the years in regards to helping people overcoming difficult situations.
 
-Often, the solution in most cases is to let go, and part of what makes these situations difficult isn't necessarily the situations themselves.
+An important thing to note about difficult situations in general, is that often it isn't even the situations themselves which are actually difficult in any way.
 
-But due to our inability to respond appropriately, most certainly due to the self-limiting beliefs we have about ourselves. 
+Often, what makes these situations difficult is due to our inability to respond appropriately to them.
 
-In particular, our fear of letting go or the consequences of what might happen if we were to let go.
+Either we become too anxious, or we find ourselves trapped in fear, or we act in a way that is counter-productive without truly realising or understanding why.
 
-While self-limiting beliefs aren't dismantled overnight, there's a certain mindset which I find helps deal with these situations.
+Which is to say that more often than not, the problem is us.
+
+In part due to the self-limiting beliefs we have about ourselves, and what responding effectively might entail. 
+
+In particular, a lot this ineffectiveness stems from our fear of letting go or the consequences of what might happen if we were to let go of these self-limiting beliefs.
+
+Which ironically, leads to self-destructive behaviours since self-perceived fear in no way conveys any indication of safe behaviours moving forward, only behaviours to avoid - which within themselves may actually be positive and helpful.
+
+Certainly, while self-limiting beliefs aren't something which can be dismantled overnight, there's a certain mindset which I find helps deal with these situations.
 
 
-{{< hr3 "In particular, understanding that that nothing is important." >}}
+{{< hr3 "In particular, the trick is to realise that nothing is important." >}}
 
 
-So does this mean?
+In essence, by learning to treat everything as unimportant, we can learn not to attach ourselves to these self-limiting beliefs, and instead just go with the flow. 
 
-Well, although it may seem like reckless advice, it's actually incredibly sound when you get into the logic of what it actually means. 
+In other words, this is an exercise in distrusting ourselves. 
+
+Now, although it may seem like reckless advice, it's actually incredibly sound when you get into the logic of what it actually means. 
 
 When you make the statement "nothing is important" you're actually making a very essential claim about yourself and the situation. 
 
-Primarily, that nothing is ever important enough to self-harm or do harm.
 
-You see, the problem in most cases when we're irrational or feeling urges is that we develop this desire to react in some way. 
+{{< hr3 "In particular, that nothing is ever important enough to self-harm or do harm." >}}
 
-In a lot of cases it's merely instinctual. We feel awful. We feel obliged to do something about it, only to end up relapsing or doing something harmful like eat an entire bag of chips.
+
+You see, you're not preventing anything positive here by learning to let go - primarily because there was nothing positive to begin with. 
+
+If all you know is self-destructive behaviours, which in most cases is true, then detaching from them certainly isn't a negative thing and is a huge burden to relieve off our shoulders.
+
+Oh, but what if there are some constructive behaviuors in the mix, you might say? 
+
+Well, that's also irrelevant because in actual fact, what we are doing here is much more profound than that promoting certain behaviours.
+
+Instead, what we are doing is learning to calm down and get ourselves to a point of non-reaction.
+
+You see, the problem in most cases when we're irrational or feeling compulsive is that we develop this desire to react in some way. 
+
+In a lot of cases it's merely instinctual. 
+
+We feel awful. We feel obliged to do something about it, only to end up relapsing or doing something harmful like eat an entire bag of chips.
 
 
 {{< hr3 "What people don't realise is that in 90% of cases, the correct thing to do is actually not react." >}}
@@ -49,17 +73,13 @@ In fact, that's part of the core tennant of what NeverFap Deluxe is all about, l
 
 To go into more detail, essentially 5% of our time should be spent practicing awareness via meditation and other exercises, while the other 95% of our time should be spent remaining calm.
 
-
-
-<!-- OBLIGATION ARTICLE  -->
-
-Furthermore, the sooner you realise that you have no obligation, the sooner you'll be able to act more effectively in your won lives. 
+Furthermore, the sooner you realise that you have no obligation, the sooner you'll be able to act more effectively in your own lives. 
 
 A key thing to note about obligation is that it is merely a feeling.
 
-What it is, how we relate to it and how we use it to distort our ability to behave and act.
- 
+And by understanding that nothing is important, we can directly challenge this feeling in a way that bypasses it entirely. 
 
-Unlike responsibility, obligation 
+The sooner you learn to dismantle your ego and your thoughts, the quicker you'll be able to help yourself in a more constructive way.
 
+In particular, by having control over yourself. 
 

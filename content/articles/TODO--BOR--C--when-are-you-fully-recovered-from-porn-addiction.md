@@ -1,6 +1,6 @@
 ---
   title: "When are you fully recovered from porn addiction?"
-  description: "."
+  description: "You are fully recovered from your porn addiction when you're 100% confident you can deal with any situation without relapsing."
   date: 2019-06-11
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
@@ -18,15 +18,37 @@ A lot of people ask me something along the lines of:
 
 {{< hr3 "\"How do I know when I'm fully recovered from porn addiction?\"" >}}
 
-Well, the funny thing is that there actually is a very comprehensive way to know whether you're fully recovered or not.
+Well, believe it or not, there actually is a very comprehensive way to know whether you've fully recovered or not.
 
-Put simply, you are fully recovered once you have full confidence in your ability to overcome your porn addiction.
+The only problem is that it's also a huge lie, as I'll come to explain.
 
-Which is to say that if you are 100% certain that you know absolutely everything you need to know in order to overcome your porn addiction.
+Put simply, you've fully recovered once you have full confidence in your ability to overcome your porn addiction.
 
-Then there's no reason for you to ever relapse again. 
+Which is to say that if you are 100% certain that you know absolutely everything you need to know in order to overcome your porn addiction, in order to deal with every possible situation without relapsing.
+
+If you have that certainty, then you'll never relapse again.
 
 On the other hand, if you have even the slightest doubt about any possible situation which you believe may unravel you, then you are not recovered.
+
+And really, coming to understand what it means to be "fully recovered" within this context is super important, because it also tests what we know about ourselves.
+
+
+{{< hr3 "The problem most of us face as porn addicts is that we're delusional.">}}
+
+
+Often we'll think we have it down, when we clearly haven't and at times we'll also become really depressed and hopeless about our recovery, even though there'll be no reason to be at all.
+
+Which is also to say that this concept of "certainty" is a funny one.
+
+Essentially the point I'm trying to make is that your concept of certainty is almost always incorrect, and furthermore, limited by what you currently know.
+
+Thankfully, there's a way around this. 
+
+You see, certainty comes in many forms. There is 'knowing' something and then there is 'doing' something. 
+
+If you're 100% certain that you'll always 'do' that something then you'll be golden.
+
+
 
 
 {{< hr3 "Personally speaking, I knew I was recovered from the moment that I discovered proper meditation technique.">}}
