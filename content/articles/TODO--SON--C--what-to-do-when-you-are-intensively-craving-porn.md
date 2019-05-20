@@ -1,5 +1,5 @@
 ---
-  title: "What to do when you're intensely craving porn?" # without porn?
+  title: "What To Do When You're Intensely Craving Porn?" # without porn?
   description: "."
   date: 2019-04-24
   draft: true
@@ -14,6 +14,8 @@
   pageId: "71997935-9f11-49ec-b743-df5f6556b549"
 
 ---
+
+The response is always the same. Relax.
 
 I'm sure you're no stranger to experiencing intense cravings.
 

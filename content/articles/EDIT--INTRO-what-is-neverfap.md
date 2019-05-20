@@ -18,6 +18,9 @@
 
 <!-- Will Need One Edit -->
 
+<!-- Talk about process, how it's a process. -->
+<!-- What does it achieve? It achieves freedom in how you want to live your life. No longer are you defined by your relation to dopamine. -->
+
 NeverFap is a comprehensive method of overcoming porn addiction.
 
 It is the easiest and most effective method I know, based on my own experiences with overcoming porn addiction over the past five years.
@@ -46,9 +49,7 @@ We all learn differently. We all have different life experiences.
 
 That's just how humans are.
 
-
-{{< hr3 "The thing to understand about self-control is that it's completely counter-intuitive." >}}
-
+The thing to understand about self-control is that it's completely counter-intuitive.
 
 It's counter-intuitive in the sense that since you don't have self-control, everything that you currently know has no relation to helping you understand self-control.
 
@@ -80,7 +81,7 @@ In part because they over-rely on their emotions, which change in an instant fro
 
 Well, it can help to understand that no one is expecting you to beat this thing within a day.
 
-Overcoming porn addiction is the kind of thing which may take you years to not only understand and process.
+Overcoming porn addiction is the kind of thing which may take you years to understand.
 
 What the NeverFap method does is start you with small commitments, so that you can more easily work up to larger ones. 
 
@@ -113,7 +114,7 @@ In order to address this, the NeverFap method takes a strong focus on practicing
 Put simply.
 
 
-{{< hr3 "Meditation is easiest and most effective way that I know how to develop self-control." >}}
+{{< hr3 "Meditation is the easiest and most effective way that I know how to develop self-control." >}}
 
 
 The primary skill we will be learning in regards to meditation is observation. 
