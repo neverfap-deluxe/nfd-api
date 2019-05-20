@@ -9,7 +9,7 @@
 
   # image: "/images/face.jpg"
   slug: "fighting-spirit"
-  
+
   what: "."
   how: "."
   when: "."
@@ -19,7 +19,14 @@
 
 ---
 
-When we're not functioning to the best of our ability, it's because we're fighting ourselves in some way. 
+
+There's a quote that goes something along the lines of "You are your own worst enemy" and this rings particularly true when it comes to porn addiction recovery.
+
+Often we are fighting ourselves on multiple levels, whether it be resistance to meditating and committing to the process or even finding ourselves engaged in judgement and self-criticism.
+
+The core of this exercise really relates to **Struggle over none**
+
+When we're not functioning to the best of our ability, it's because we're fighting ourselves in some way.
 
 In this exercise, we want to identify the key areas in our life where we .
 
@@ -28,7 +35,7 @@ In this exercise, we want to identify the key areas in our life where we .
 
 
 
-<!-- 
+<!--
 {{< hr2 "Additional Resources" >}}  -->
 
 <!-- maybe link to other  -->
