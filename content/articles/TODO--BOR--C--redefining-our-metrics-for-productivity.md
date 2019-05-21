@@ -15,7 +15,9 @@
   pageId: "672b1b04-5b46-405f-a30e-3373a00b41a7"
 ---
 
-When I was a lot younger, I used to be obsessed with . 
+When I was a lot younger, I used to be obsessed with productivity.
+
+Like, I was 
 
 
 - Understand that it's not about what you want, it's about focusing on the outcome.
