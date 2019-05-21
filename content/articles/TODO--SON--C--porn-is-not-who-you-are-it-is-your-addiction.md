@@ -20,7 +20,7 @@ Most of us probably have a very complex relationship with our addiction.
 
 And for a lot of us, it can become so complex and confusing that we can no longer even begin to understand what exactly might be wrong with us.
 
-Am I actually attracted to these extreme fetishes or is it because I'm a porn addict? Do I have severe depression or is this merely a by-product of my addiction?
+Am I actually attracted to these extreme fetishes? Are they merely a result of my addiction? Do I actually have severe depression, or are these feelings merely a by-product of my recovery?
 
 There are a lot of moving parts when it comes to being an addict and it's understandable why some people crumble in the height of their hysteria.
 
