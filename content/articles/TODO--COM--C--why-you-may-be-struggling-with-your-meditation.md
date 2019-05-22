@@ -1,7 +1,7 @@
 ---
   title: "Why You May Be Struggling With Your Meditation"
   description: "."
-  date: 2019-09-01
+  date: 2019-08-04
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]

@@ -14,29 +14,47 @@
 
 Here's a basic summary of NeverFap Deluxe!
 
-For a much more in-depth overview of NeverFap Deluxe there really is no substitute to reading the website <a class="link" href="/">homepage</a>. It's written a bit like a visual novel too, so it's significantly more engaging!
+For a much more in-depth overview of NeverFap Deluxe there really is no substitute to reading the <a class="link" href="/">homepage</a>. It's written a bit like a visual novel too, so it's significantly more engaging!
 
 With that said, this summary is also pretty neat too.
 
-In essence, there are Healthy Coping Mechanisms and there are Unhealthy Coping Mechanisms.
+Ultimately, porn addiction recovery comes down to one thing: 
+
+
+{{< hr3 "Replacing Unhealthy Coping Mechanisms with Healthy Coping Mechanisms." >}}
+
 
 Unhealthy Coping Mechanisms include things like watching porn and being judgemental/self-critical, while Healthy Coping Mechanisms include things like remaining calm and practicing meditation.
 
-Now, in order to overcome your porn addiction there is one sole thing you need to do.
+There is no other alternative.
+
+There are no "cheap hacks" to suddenly make you stop being a porn addict, where you have a moment of awareness and everything just dissolves away.
+
+Instead, it is a hard process of learning to replace negative habits with positive ones, and that's really all there is to it. 
+
+Now, the reason why you've been struggling is most likely because you've been going about this process in the wrong way. 
+
+For example, you may instead be distracting yourself (i.e. watching youtube, going for a run, cold showers) when you are feeling uncomfortable, rather than attempting to consciously relax yourself. 
+
+Of course, there are many different reasons as well.
+
+Now, the reason why we are pursuing Healthy Coping Mechanisms is quite simple:
 
 
-{{< hr3 "Develop control over your mind so you can dictate every single aspect of how you think, feel and behave." >}}
+{{< hr3 "In order to develop control over your mind so you can dictate every single aspect of how you think, feel and behave." >}}
 
 
-It is a reasonable goal which absolutely everyone is capable of.
+Ultimately, Unhealthy Coping Mechanisms don't help us develop that control. Instead, they merely put our emotions and feelings aside, without truly addressing them.
+
+Furthermore, developing control over our minds is a reasonable goal which everyone is capable of.
 
 From the perspective of your porn addiction, it can help to think of your self-destructive behaviours as a learning difficulty. 
 
 Which is to say that there's nothing inherently wrong with you. You just haven't been taught how to think and feel in constructive way that makes sense to you, for a very long time.
 
-Well, Healthy Coping Mechanisms are going to be the sole means through which you will learn to develop control over your mind.
+Well, Healthy Coping Mechanisms are going to be the sole means through which you will learn to develop that control over your mind.
 
-Simply because there are no other sustainable alternative. 
+Put simply, because there are no other sustainable alternatives. 
 
 For example, you'd be hard pressed to convince me that binging on junk food to deal with your emotions is ever going to be sustainable, as opposed to something like meditation which doesn't affect your physical health negatively.
 
@@ -56,7 +74,7 @@ In summary, what having control provides you with at the end of the day is balan
 
 Awareness, Calmness and Ambition.
 
-If you have all three of these areas in your life under control then you will be in balance and you won't struggle with urges or doubt or the common effects of Unhealthy Coping Mechanisms.
+If you have all three of these areas in your life under control then you will be in balance and you won't struggle with urges or doubt or the common side-effects of Unhealthy Coping Mechanisms.
 
 Most addicts however struggle with at least one or two of these categories, and those areas will be the key focus of your recovery.
 
@@ -67,6 +85,8 @@ And the easiest way to develop both Calmness and Awareness is through meditation
 For most people, it essentially comes down to meditating 10 minutes each day, and that will be enough to help them develop control over their minds.
 
 It's personally what I do everyday, and it's what helps me maintain balance. 
+
+Of course, you may struggle primarily with Ambition as well. I don't know you well enough to say for certain, although I'm happy to provide you with personalised advice via our <a class="link" href="https://neverfapdeluxe.com/new-fap-deluxe-reddit-guidelines">#NewNeverFapper</a> initiative.
 
 ...aaaaand that is NeverFap Deluxe in a nutshell.
 
