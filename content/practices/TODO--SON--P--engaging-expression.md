@@ -33,7 +33,7 @@ It's a form doing which is deliberate, and if we think otherwise, we can develop
 
 For example, if you believe expression is passive, you can develop this idea that others should be able to read your mind and understand what you're going through simply by looking at you.
 
-Yet this is not how life works. It works through active communication and so the moral of this story is that unless if you express that something is wrong, others won't be able to help you.
+Yet this is not how life works, at all. It works through active communication and so the moral of this story is that unless if you express that something is wrong, others won't be able to help you.
 
 Of course, part of the reason for this is that may be afraid or uncomfortable to express yourself, or you may simply have not expressed yourself frequently in the past.
 
@@ -51,7 +51,7 @@ Because the alternative is dishonest communication, which is just as bad as not 
 
 In fact, chances are that you may never done this before, and you might not even know what honest and open communication actually is.
 
-Well, let's find out. 
+Well, let's find out.
 
 
 {{< hr2 "Instructions" >}}
