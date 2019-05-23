@@ -2,7 +2,7 @@
   title: "EP4 - How Awareness Helps Us Remain In Control"
   description: "NeverFap Deluxe Podcast. In this episode I talk about the wonderful world of awareness."
   date: 2019-04-20
-  draft: true
+  draft: false
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
   # image: "/images/face.jpg"

@@ -2,7 +2,7 @@
   title: "EP6 - The Fallacy Of Judgement And Self-Criticism"
   description: "NeverFap Deluxe Podcast. In this episode I talk about judgement and how it leads to self-criticism."
   date: 2019-05-18
-  draft: true
+  draft: false
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
   # image: "/images/face.jpg"
