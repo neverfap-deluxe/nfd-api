@@ -1,14 +1,14 @@
 ---
-  title: "Identifying Pain Points"
+  title: "What It Means To Struggle"
   description: "By identifying how we struggle, we can better understand the dynamics with which we think about the problems in our life."
-  date: 2019-08-12
+  date: 2019-07-28
   draft: true
   tags: [ "context", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
   category: "Struggle over none"
 
   # image: "/images/face.jpg"
-  slug: "identifying-pain-points"
+  slug: "what-it-means-to-struggle"
 
   what: "Be able to better identify our areas of frustration."
   how: "List what you struggle with and how that struggle makes you feel."
@@ -21,9 +21,9 @@
 
 
 <!-- This should actually be an article explaining what it means to struggle -->
+Today I want you to think about this concept of "struggle".
 
-The idea behind this exercise is to start thinking about the ways in which we struggle.
-
+After all, it's quite a common concept if you're an addict
 It could be with your own emotions. It could be with certain people in your life. It could even be with a number of daily tasks you still haven't quite mastered. 
 
 The intention is to identify these pain points, in order to then address them in some meaningful way.
