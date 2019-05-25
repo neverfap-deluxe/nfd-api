@@ -11,7 +11,7 @@
   "permalink" : {{ .Permalink | jsonify }},
   "section": {{ .Section | jsonify }},
   "quotes": [
-    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "practices") }}
+    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "quotes") }}
       {{ if .Draft }}
       {{ else }}
         {{ if $index }}, {{ end }}
@@ -25,7 +25,8 @@
           "categories": {{ .Params.Categories | jsonify }},
           "tags": {{ .Params.Tags | jsonify }},
           "permalink" : {{ .Permalink | jsonify }},
-          "section": {{ .Section | jsonify }}
+          "section": {{ .Section | jsonify }},
+          "image_url": {{ .Params.ImageUrl | jsonify }}
         }
       {{ end }}
     {{ end }}

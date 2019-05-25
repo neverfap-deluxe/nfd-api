@@ -1,0 +1,25 @@
+{
+  "name": "deluxe-web",
+  "version": "1.0.0",
+  "description": "<!-- # NeverFap Deluxe",
+  "main": "index.js",
+  "scripts": {
+    "generate-quotes": "node ./util/generateQuoteMD.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dottjt/nfd-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dottjt/nfd-api/issues"
+  },
+  "homepage": "https://github.com/dottjt/nfd-api#readme",
+  "dependencies": {
+    "fs-extra": "^8.0.1",
+    "uuid": "^3.3.2"
+  }
+}
