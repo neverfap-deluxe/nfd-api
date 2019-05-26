@@ -7,6 +7,9 @@
   categories: [ "awareness-over-all" ]
   # image: "/images/face.jpg"
   slug: "the-importance-of-meditation-for-porn-addiction"
+  aliases: [
+    "articles/hello.json.json"
+  ]
 
   tldr1: "Meditation is the single most important thing you can do for your porn recovery."
   tldr2: "Meditation teaches you to regain control over your thoughts and emotions."

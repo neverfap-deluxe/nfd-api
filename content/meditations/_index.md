@@ -1,5 +1,5 @@
 ---
-  title: "Meditation"
+  title: "NeverFap Deluxe Guided Meditation Series"
   description: "Learn about meditation the NeverFap Deluxe way." # TODO
   date: 2019-05-01
   draft: false

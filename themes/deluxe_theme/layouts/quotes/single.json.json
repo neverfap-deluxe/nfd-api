@@ -10,7 +10,8 @@
   "category": {{ .Params.Category | jsonify }},
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
-  "section": {{ .Section | jsonify }}
+  "section": {{ .Section | jsonify }},
+  "image_url": {{ .Params.ImageUrl | jsonify }}
 }
 {{ end }}
 

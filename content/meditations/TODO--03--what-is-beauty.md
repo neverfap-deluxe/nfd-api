@@ -1,6 +1,6 @@
 ---
   title: "What Is Beauty?"
-  description: "."
+  description: "NeverFap Deluxe Guided Meditation Series."
   date: 2019-06-04
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]

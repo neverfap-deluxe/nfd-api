@@ -1,6 +1,6 @@
 ---
   title: "Close Your Eyes"
-  description: "."
+  description: "NeverFap Deluxe Guided Meditation Series."
   date: 2019-05-04
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]

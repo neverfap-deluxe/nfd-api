@@ -1,6 +1,6 @@
 ---
   title: "What Is Relaxation?"
-  description: "."
+  description: "NeverFap Deluxe Guided Meditation Series."
   date: 2019-06-14
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]

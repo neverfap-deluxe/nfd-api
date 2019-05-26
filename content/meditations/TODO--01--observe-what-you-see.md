@@ -1,24 +1,26 @@
 ---
-  title: "Observe Your Senses"
-  description: "NeverFap Deluxe Meditation. "
-  date: 2019-05-04
-  draft: true
+  title: "Observe What You See"
+  description: "NeverFap Deluxe Guided Meditation Series. Observe What You See"
+  date: 2019-05-25
+  draft: false
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
   category: "Meditation"
 
   # image: "/images/face.jpg"
-  slug: "observe-your-senses"
+  slug: "observe-what-you-see"
 
-  podcastUrl: ""
-  
-  podcastPlayer: ""
+  podcastUrl: "https://castbox.fm/episode/id2113294-id157387489?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_157387489&utm_content=EP1%20-%20Observe%20What%20You%20See-CastBox_FM"
+  podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2113294/id157387489?v=4.1.190524&autoplay=0' frameborder='0' width='100%' height='500'></iframe>
+"
 
-  pageId: "b9220a32-5f0d-45f4-bf72-0b88cef32531"
+  pageId: "893176c6-0894-408d-b76b-bec5367ebedc"
 
 ---
 
-Welcome to the NeverFap Deluxe Meditation series.
+content
+
+<!-- Welcome to the NeverFap Deluxe Meditation series.
 
 My name is Julius Reade and today I will be guiding you through the wonderful world of awareness and meditation.
 
@@ -79,4 +81,4 @@ Well, that brings us to the end of today's session. If you enjoyed this meditati
 
 Regardless, I hope you have a wonderful rest of the day. 
 
-Stay safe. Stay calm and don't forget to relax. 
+Stay safe. Stay calm and don't forget to relax.  -->
