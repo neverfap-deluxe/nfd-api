@@ -19,6 +19,76 @@
 
 In this guided meditation we explore observation as a concept to help us to learn to develop control over our thoughts.
 
+<!-- 
+Neverfap meditate
+
+Welcome to the NeverFap Deluxe Guided Meditation series. 
+
+My name is Julius Reade and today we’re going to keep it simple. 
+
+In part, because meditation is one of the most simple things you can do as a human being.
+
+So for this exercise I want you to get relaxed, preferably sitting in a comfortable position. and I want you to leave your eyes open for this exercise. 
+
+Essentially, what I want you to do, without moving your eyes, or searching, is to observe what is in front of you right now. 
+
+There’s nothing to question. Nothing to think about. All we’re doing is observing what is in front of us.
+
+What do you see?
+
+You know, an interesting thing that happens when I ask that question.
+
+What usually happens is that people will start thinking about what’s in front of them. 
+
+They’ll start trying to identify that which they are looking at. 
+
+Without realising that observation doesn’t require thought.
+
+Your eyes are already seeing and observing.
+
+They are already sensing your surroundings, regardless of what your mind thinks.
+
+Which is to say that what we want to focus on is that sensing, rather than that thinking aspect we’re so used to.
+
+So with that said, simply observe what’s in front of you. 
+
+Without thought.
+
+Without expectation.
+
+And I’ll let you do this for a few minutes.
+
+
+If you find your mind wandering off during this exercise, then just gently remind yourself to continue observing. 
+
+Of course, you may not be used to observing. 
+
+Instead, you may be used to thinking. 
+
+They’re quite different concepts. 
+
+But that’s okay, because the skill we’re developing is an important skill.
+
+Which will allow you to quiet your mind.
+
+Gain control over your thoughts.
+
+And simply exist with the present moment.
+
+Calm.
+
+Relaxed. 
+
+Essentially, in observation.
+
+If you find your mind wandering off again, that’s okay. Just gently remind yourself to continue observing.
+
+To continue to truly notice what is in front of you.
+
+And that brings us to the end of this session. Thank you for listening. I wish you best of luck with your day. This has been. The neverfap Deluxe Guided meditation series.
+ -->
+
+
 <!-- Welcome to the NeverFap Deluxe Meditation series.
 
 My name is Julius Reade and today I will be guiding you through the wonderful world of awareness and meditation.
