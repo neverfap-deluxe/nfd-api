@@ -1,5 +1,5 @@
 ---
-  title: "Observe What You See"
+  title: "EP1 - Observe What You See"
   description: "NeverFap Deluxe Guided Meditation Series. Observe What You See"
   date: 2019-05-25
   draft: false
@@ -11,14 +11,13 @@
   slug: "observe-what-you-see"
 
   podcastUrl: "https://castbox.fm/episode/id2113294-id157387489?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_157387489&utm_content=EP1%20-%20Observe%20What%20You%20See-CastBox_FM"
-  podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2113294/id157387489?v=4.1.190524&autoplay=0' frameborder='0' width='100%' height='500'></iframe>
+  podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2113294/id157387489?v=4.1.190524&autoplay=0' frameborder='0' width='100%' height='300'></iframe>
 "
   pageId: "ff3352d7-3473-4536-8c78-ea7724ee8221"
 
 ---
 
-
-content
+In this guided meditation we explore observation as a concept to help us to learn to develop control over our thoughts.
 
 <!-- Welcome to the NeverFap Deluxe Meditation series.
 
