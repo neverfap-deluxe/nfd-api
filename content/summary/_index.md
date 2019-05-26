@@ -12,13 +12,9 @@
   
 ---
 
-Here's a basic summary of NeverFap Deluxe!
+Welcome to the NeverFap Deluxe Summary.
 
-For a much more in-depth overview of NeverFap Deluxe there really is no substitute to reading the <a class="link" href="/">homepage</a>. It's written a bit like a visual novel too, so it's significantly more engaging!
-
-With that said, this summary is also pretty neat too.
-
-Ultimately, porn addiction recovery comes down to one thing: 
+Ultimately porn addiction recovery comes down to one thing: 
 
 
 {{< hr3 "Replacing Unhealthy Coping Mechanisms with Healthy Coping Mechanisms." >}}
@@ -26,27 +22,41 @@ Ultimately, porn addiction recovery comes down to one thing:
 
 Unhealthy Coping Mechanisms include things like watching porn and being judgemental/self-critical, while Healthy Coping Mechanisms include things like remaining calm and practicing meditation.
 
-There is no other alternative.
+There is no alternative to this process.
 
-There are no "cheap hacks" to suddenly make you stop being a porn addict, where you have a moment of awareness and everything just dissolves away.
+There are no "cheap hacks" to suddenly make you stop being addicted to porn, where you somehow magically have this moment of awareness where everything just dissolves away and your life returns to normal.
 
-Instead, it is a hard process of learning to replace negative habits with positive ones, and that's really all there is to it. 
+(although yes, it 110% can be normal again, it just won't happen without putting in hard work)
 
-Now, the reason why you've been struggling is most likely because you've been going about this process in the wrong way. 
+Instead, it's a hard process of learning to replace negative habits with positive ones, and that's really all there is to it. 
 
-For example, you may instead be distracting yourself (i.e. watching youtube, going for a run, cold showers) when you are feeling uncomfortable, rather than attempting to consciously relax yourself. 
+Now, the reason why you've been struggling is most likely because you've been going about this process in an unproductive way. 
 
-Of course, there are many different reasons as well.
+For example, you may have been attempting to distract yourself (watching youtube videos, going for a run, cold showers etc.) as a way to address your uncomfortable feelings and emotions.
 
-Now, the reason why we are pursuing Healthy Coping Mechanisms is quite simple:
+{{< hr3 "When what you should have been doing is learning to consciously relax and be present with your feelings and emotions in a healthy and meaningful way." >}}
+
+What a lot of people don't realise is that distraction is in fact one of the many Unhealthy Coping Mechanisms people practice everyday without realising it.
+
+And this is why education and awareness play such an important part of the process, so we can truly understand the effect of our behaviours and actions on a daily basis. 
+
+In fact, chances are that you may have never meaningfully attempted to replace those unhealthy coping mechanisms, but instead, hoped they would somehow wither away on their own.
+
+Unfortunately that isn't how life works, and this attitude is one of the primary reasons why people remain addicted to porn so unnecessarily for so long.
+
+Only by consciously addressing our issues can we hope to achieve meaningful change.
+
+Now, the reason why Healthy Coping Mechanisms work is quite simple:
 
 
-{{< hr3 "In order to develop control over your mind so you can dictate every single aspect of how you think, feel and behave." >}}
+{{< hr3 "Healthy Coping Mechanisms help you develop control over your mind so you can dictate every single aspect of how you think, feel and behave." >}}
 
 
-Ultimately, Unhealthy Coping Mechanisms don't help us develop that control. Instead, they merely put our emotions and feelings aside, without truly addressing them.
+To come back to our previous example, distraction is an Unhealthy Coping Mechanisms because it doesn't help us develop control over our minds. 
 
-Furthermore, developing control over our minds is a reasonable goal which everyone is capable of.
+Instead, it does the exact opposite to that. It merely puts our emotions and feelings aside, without truly addressing them in a conscious nor meaningful way.
+
+Furthermore, learning to develop control over our minds is a completely reasonable goal which everyone is capable of.
 
 From the perspective of your porn addiction, it can help to think of your self-destructive behaviours as a learning difficulty. 
 
