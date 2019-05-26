@@ -4,7 +4,7 @@
   date: 2019-05-25
   draft: false
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
-  categories: [ "meditation" ]
+  categories: [ "" ]
   category: "Meditation"
 
   # image: "/images/face.jpg"
@@ -13,10 +13,10 @@
   podcastUrl: "https://castbox.fm/episode/id2113294-id157387489?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_157387489&utm_content=EP1%20-%20Observe%20What%20You%20See-CastBox_FM"
   podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2113294/id157387489?v=4.1.190524&autoplay=0' frameborder='0' width='100%' height='500'></iframe>
 "
-
-  pageId: "893176c6-0894-408d-b76b-bec5367ebedc"
+  pageId: "ff3352d7-3473-4536-8c78-ea7724ee8221"
 
 ---
+
 
 content
 
