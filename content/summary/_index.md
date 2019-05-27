@@ -53,6 +53,7 @@ For example, you may have been attempting to distract yourself via youtube video
 
 {{< hr3 "When instead you should have been learning to consciously engage and be present with your feelings and emotions." >}}
 
+
 What a lot of people don't realise is that distraction is in fact one of the many Unhealthy Coping Mechanisms we practice on a daily basis which actually sabotages our ability to remain present with ourselves.
 
 And this is why education and awareness play such an important part of the porn addiction recovery process, so we can truly understand the effect our behaviours and actions have on the outcomes we experience on a daily basis.
@@ -126,6 +127,3 @@ It's personally what I do everyday, and it's what helps me maintain balance.
 Of course, you may struggle primarily with Ambition as well. I don't know you well enough to say for certain, although I'm happy to provide you with personalised advice via our <a class="link" href="https://neverfapdeluxe.com/new-fap-deluxe-reddit-guidelines">#NewNeverFapper</a> initiative.
 
 ...aaaaand that is NeverFap Deluxe in a nutshell.
-
-Ultimately, meditation is key to our success.
-
