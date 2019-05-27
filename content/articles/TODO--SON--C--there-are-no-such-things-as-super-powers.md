@@ -1,12 +1,12 @@
 ---
   title: "What To Do When You're Intensely Craving Porn" # without porn?
   description: "."
-  date: 2019-04-24
+  date: 2019-10-24
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
   # image: "/images/face.jpg"
-  slug: "what-to-do-when-you-are-intensively-craving-porn"
+  slug: "there-are-no-such-things-as-super-powers"
 
   tldr1: "."
   tldr2: "."
