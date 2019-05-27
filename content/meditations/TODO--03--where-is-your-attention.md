@@ -1,25 +1,25 @@
 ---
-  title: "EP1 - Observe What You See"
-  description: "NeverFap Deluxe Guided Meditation Series. Observe What You See"
-  date: 2019-05-25
+  title: "EP1 - Where Is Your Attention?"
+  description: "NeverFap Deluxe Guided Meditation Series. Where Is Your Attention"
+  date: 2019-06-08
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "" ]
   category: "Meditation"
 
   # image: "/images/face.jpg"
-  slug: "observe-what-you-see"
+  slug: "where-is-your-attention"
 
-  podcastUrl: "https://castbox.fm/episode/id2113294-id157387489?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_157387489&utm_content=EP1%20-%20Observe%20What%20You%20See-CastBox_FM"
-  podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2113294/id157387489?v=4.1.190524&autoplay=0' frameborder='0' width='100%' height='300'></iframe>
-"
-  pageId: "ff3352d7-3473-4536-8c78-ea7724ee8221"
+  podcastUrl: ""
+  podcastPlayer: ""
+
+  pageId: "f3d2830c-8c5d-4cc5-8210-aabbd9b0a3d3"
 
 ---
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
-My name is Julius Reade and today we are going to focus on your attention.
+My name is Julius Reade and today we are going to focus on our attention.
 
 So for this exercise I want you to get relaxed, preferably sitting in a comfortable position. and I want you to leave your eyes open for this exercise.
 
@@ -27,13 +27,26 @@ Essentially, what I want you to do, is to focus on your attention.
 
 In particular, where is your attention?
 
-What is your focus on?
+What is your attention on?
 
-Perhaps, have you decided to take the time to 
+Is it on a particular thought you might be having in your mind?
+
+Is it on a visual element within your vision.
+
+Perhaps your attention is scattered.
+
+All we’re doing is observing where our attention is.
+
+And I'll let you do this for a few minutes.
 
 
+If you're having difficulty keeping track of your attention, just gently remind yourself to remain focused.
 
-There’s nothing to question. Nothing to think about. All we’re doing is observing what is in front of us.
+Often, in the day to day of lives, we can lose track of our mind. 
+
+This is particularly true in the mornings, if we might have a particular routine that we follow. 
+
+
 
 
 

@@ -1,20 +1,19 @@
 ---
-  title: "What Is Relaxation?"
+  title: "Releasing Tension"
   description: "NeverFap Deluxe Guided Meditation Series."
-  date: 2019-06-14
+  date: 2019-06-29
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
   category: "Meditation"
 
   # image: "/images/face.jpg"
-  slug: "what-is-relaxation"
+  slug: "releasing-tension"
 
   podcastUrl: ""
-  
   podcastPlayer: ""
 
-  pageId: "a3c21d47-c594-4171-95ef-23f0212b4c35"
+  pageId: "4f60ef5e-b279-4ca6-bcd1-89db5eaa32f5"
 
 ---
 

@@ -1,19 +1,19 @@
 ---
   title: "EP2 - The Cloud Of Sensation"
   description: "NeverFap Deluxe Guided Meditation Series. The Cloud Of Sensation"
-  date: 2019-05-25
+  date: 2019-06-01
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "" ]
   category: "Meditation"
 
   # image: "/images/face.jpg"
-  slug: "observe-what-you-see"
+  slug: "the-cloud-of-sensation"
 
-  podcastUrl: "https://castbox.fm/episode/id2113294-id157387489?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_157387489&utm_content=EP1%20-%20Observe%20What%20You%20See-CastBox_FM"
-  podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2113294/id157387489?v=4.1.190524&autoplay=0' frameborder='0' width='100%' height='300'></iframe>
-"
-  pageId: "ff3352d7-3473-4536-8c78-ea7724ee8221"
+  podcastUrl: ""
+  podcastPlayer: ""
+
+  pageId: "ca66b4c6-d2be-4c89-94c5-5e9f6e0dfcdc"
 
 ---
 
