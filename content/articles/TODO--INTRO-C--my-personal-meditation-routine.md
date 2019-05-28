@@ -13,7 +13,16 @@
   pageId: "94a30bc5-01bf-4094-ba90-7b939e40cba6"
 ---
 
-Does being in a relationship help with overcoming a porn addiction?
+
+People seem to be interested in what The Reade is up to, so I thought I might share my meditation routine with people.
+
+Essentially, I keep it simple.
+
+I meditate 10 minutes before bed each night, and that's really all there is to it.
+
+Furthermore, that's all people really need.
+
+If I had to recommend more meditation, I would say it's more effective to do short sessions, than long ones.
 
 
 {{< hr3 "In particular, understanding that that nothing is important." >}}
