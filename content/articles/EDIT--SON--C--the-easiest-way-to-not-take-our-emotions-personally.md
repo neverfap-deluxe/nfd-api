@@ -72,7 +72,7 @@ A common example of this (in the case of anxiety, for example) is to talk oursel
 
 **"I can do it! There's no reason to feel sad at all!"**
 
-We tell ourselves that we're smart, confident and in-control - even though deep-down inside, our feelings are telling us otherwise.
+We tell ourselves that we're smart, confident and in control - even though deep-down inside, our feelings are telling us otherwise.
 
 And so rather than making us feel better, it ends up making us feel worse about ourselves.
 

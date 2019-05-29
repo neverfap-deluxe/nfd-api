@@ -1,5 +1,5 @@
 ---
-  title: "What To Do When You're Intensely Craving Porn" # without porn?
+  title: "There are no super powers once you " # without porn?
   description: "."
   date: 2019-10-24
   draft: true
@@ -15,7 +15,9 @@
 
 ---
 
-There are no such things as "super powers".
+There's this concept of these "super powers" you gain once you 
+
+There are no such things as "".
 
 
 {{< hr3 "Is that everything is fine, until it's not." >}}

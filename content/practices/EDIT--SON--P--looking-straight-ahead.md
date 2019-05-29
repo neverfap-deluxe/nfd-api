@@ -66,7 +66,7 @@ Rather than search around, we are instead going to be focus on the journey and o
 
 Certainly, this exercise works best if you're in public where there are plenty of people, otherwise it can still work around the house, although to significantly less effect.
 
-Just remember that no matter what, you are 100% in-control of your body and you determine where your eyes look.
+Just remember that no matter what, you are 100% in control of your body and you determine where your eyes look.
 
 
 

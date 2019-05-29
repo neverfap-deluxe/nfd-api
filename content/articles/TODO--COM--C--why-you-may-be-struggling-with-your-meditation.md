@@ -52,6 +52,9 @@ Meditation ultimately is about actively engaging your mind and for those new to 
 Furthermore, it's a lot easier because our vision is what helps us connect with reality, and so to remove that sense makes it incredibly difficult to focus on reality itself.
 
 
+{{< hr3 "Don't meditate lying down." >}}
+
+This is another one of those things which people do, which is a HUGE no-no. 
 
 {{< hr3 "Meditation is a form of observation." >}}
 
@@ -84,3 +87,4 @@ The purpose of meditation is quite simple - it's an effective way to help balanc
 And that's really all there is to it. By meditating you can easily maintain balance, which brings a HUGE number of benefits.
 
 This is also why it's usually more benefitial for people to meditate frequently throughout the day, rather than with long 30-40 minute sessions.
+

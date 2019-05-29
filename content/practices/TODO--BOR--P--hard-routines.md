@@ -1,6 +1,6 @@
 ---
   title: "Hard routines"
-  description: ""
+  description: "By practicing the steps towards developing routine we can learn to train our brain in order to think in terms of routine."
   date: 2019-09-13
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
@@ -19,10 +19,7 @@
 
 ---
 
-In this exercise we're going to take the steps towards developing a routine.
-
-
-
+In this exercise we're going to be taking the initial steps towards developing a routine.
 
 
 
@@ -41,6 +38,7 @@ It's why I recommend it's super helpful to learn new things. It doesn't matter w
 <!-- {{< hr2 "Context" >}} -->
 
 
+A key component to this exercise is truly understanding the nature of actions and consequences. Precisely that all your actions have consequences and that focusing on these actions is a great way to train our mind to.
 
 {{< hr2 "Instructions" >}}
 
