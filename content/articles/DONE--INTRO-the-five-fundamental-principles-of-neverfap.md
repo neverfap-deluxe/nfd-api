@@ -267,7 +267,7 @@ Of course, the reason why it may not seem like a mental trap is because at first
 
 But humans never just make one judgement.
 
-We make thousands of judgements each and every day, each time moulding our perception of who we are and what we know.
+We make thousands of judgements each and everyday, each time moulding our perception of who we are and what we know.
 
 And when we make enough of these judgements, they can form into habits of belief which prevent us from exercising awareness.
 

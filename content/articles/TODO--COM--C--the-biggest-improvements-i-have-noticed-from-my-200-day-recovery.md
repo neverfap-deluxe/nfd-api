@@ -9,7 +9,7 @@
   slug: "the-biggest-improvements-i-have-noticed-from-my-200-day-recovery"
 
   tldr1: "The difference is honestly night and day."
-  tldr2: "."
+  tldr2: "I have more energy, I have pure focus and I have become a literal machine of productivity."
 
   pageId: "ee5cfa19-95bc-4970-b169-aedadbc8a933"
 ---

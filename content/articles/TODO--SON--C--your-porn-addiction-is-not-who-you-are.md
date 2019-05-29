@@ -1,20 +1,19 @@
 ---
-  title: "Porn Is Not Who You Are It Is Your Addiction" # without porn?
+  title: "Your Porn Addiction Is Not Who You Are" # without porn?
   description: "Once we understand that we are none of the things that our addiction defines us as, it can help empower us to move forward."
   date: 2019-03-24
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
   # image: "/images/face.jpg"
-  slug: "porn-is-not-who-you-are-it-is-your-addiction"
+  slug: "your-porn-addiction-is-not-who-you-are"
 
-  tldr1: "."
-  tldr2: "."
+  tldr1: "Currently your addiction is who you are, because it is the life you currently live."
+  tldr2: "However, it doesn't have to be who you are as you get to choose who you want to be through your actions."
 
   pageId: "57356635-5dfe-45af-97c9-d09e2a04ef23"
 
 ---
-
 
 Most of us probably have a very complex relationship with our addiction.
 

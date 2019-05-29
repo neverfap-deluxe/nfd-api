@@ -14,6 +14,8 @@
 ---
 
 
+TODO--SON--C--the-utter-pointlessness-of-keeping-a-pmo-streak
+
 People seem to be interested in what The Reade is up to, so I thought I might share my meditation routine with people.
 
 Essentially, I keep it simple.
