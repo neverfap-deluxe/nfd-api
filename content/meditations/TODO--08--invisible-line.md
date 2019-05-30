@@ -1,10 +1,10 @@
 ---
-  title: "EP1 - Invisible Line"
+  title: "EP8 - Invisible Line"
   description: "NeverFap Deluxe Guided Meditation Series. Invisible Line"
-  date: 2019-06-15
+  date: 2019-07-12
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
-  categories: [ "" ]
+  categories: [ "meditation" ]
   category: "Meditation"
 
   # image: "/images/face.jpg"

@@ -1,6 +1,6 @@
 ---
-  title: "What Is NeverFap?" # developing self-control with neverfap
-  description: "NeverFap is a comprehensive method of overcoming porn addiction. It is a system which is designed to teach you self-control in the easiest way possible."
+  title: "What Is NeverFap Deluxe?" # developing self-control with neverfap
+  description: "NeverFap Deluxe is a comprehensive porn addiction recovery process. It is a system which is designed to teach you self-control in the easiest way possible."
   date: 2019-05-01
   draft: false
   tags: [ "context", "neverfap schedule", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
@@ -8,7 +8,7 @@
   # image: "/images/face.jpg"
   slug: "what-is-neverfap"
 
-  tldr1: "NeverFap is designed to teach you self-control."
+  tldr1: "NeverFap Deluxe is designed to teach you self-control."
   tldr2: "Self-control is counter-intuitive, because you are not already in control of yourself."
   tldr3: "Observation is the most important skill you can learn in regards to overcoming porn addiction."
   
@@ -21,15 +21,15 @@
 <!-- Talk about process, how it's a process. -->
 <!-- What does it achieve? It achieves freedom in how you want to live your life. No longer are you defined by your relation to dopamine. -->
 
-NeverFap is a comprehensive method of overcoming porn addiction.
+NeverFap Deluxe is a comprehensive method of overcoming porn addiction.
 
 It is the easiest and most effective method I know, based on my own experiences with overcoming porn addiction over the past five years.
 
 
-{{< hr3 "I would describe NeverFap as a system which is designed to give you self-control." >}}
+{{< hr3 "I would describe NeverFap as a system which is designed to provide you with control." >}}
 
 
-Self-control over your mind. Self-control over your actions. Self-control over your thoughts, feelings and emotions.
+Control over your mind. Control over your actions. Control over your thoughts. Control over your feelings and emotions.
 
 Now, chances are that none of this is new to you. 
 

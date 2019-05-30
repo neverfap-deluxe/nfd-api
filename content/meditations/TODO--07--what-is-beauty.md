@@ -1,5 +1,5 @@
 ---
-  title: "What Is Beauty?"
+  title: "EP7 - What Is Beauty?"
   description: "NeverFap Deluxe Guided Meditation Series."
   date: 2019-07-05
   draft: true

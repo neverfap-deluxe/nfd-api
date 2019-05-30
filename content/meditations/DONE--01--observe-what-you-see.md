@@ -4,7 +4,7 @@
   date: 2019-05-25
   draft: false
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
-  categories: [ "" ]
+  categories: [ "meditation" ]
   category: "Meditation"
 
   # image: "/images/face.jpg"
