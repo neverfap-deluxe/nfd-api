@@ -10,8 +10,9 @@
   # image: "/images/face.jpg"
   slug: "close-your-eyes"
 
+  mp3Url: ""
+
   podcastUrl: ""
-  
   podcastPlayer: ""
 
   pageId: "73c74c6e-ef52-4286-b5fc-e5486e6f8df8"

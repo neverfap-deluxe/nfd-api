@@ -9,6 +9,8 @@
 
   # image: "/images/face.jpg"
   slug: "invisible-line"
+  
+  mp3Url: ""
 
   podcastUrl: ""
   podcastPlayer: ""

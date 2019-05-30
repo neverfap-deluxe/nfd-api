@@ -10,6 +10,8 @@
   # image: "/images/face.jpg"
   slug: "the-cloud-of-sensation"
 
+  mp3Url: ""
+
   podcastUrl: ""
   podcastPlayer: ""
 

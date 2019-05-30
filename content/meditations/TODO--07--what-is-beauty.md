@@ -10,8 +10,9 @@
   # image: "/images/face.jpg"
   slug: "what-is-beauty"
 
+  mp3Url: ""
+
   podcastUrl: ""
-  
   podcastPlayer: ""
 
   pageId: "502f7377-6bde-481b-a9d7-31ba05ae12f2"
@@ -30,9 +31,9 @@ Sometimes it can help to have a topic or theme to think about while we meditate.
 
 And today, I want to talk about this concept of beauty.
 
-Precisely, for the next ten minutes or so, I want you to focus on what beauty means to you. 
+Precisely, for the next ten minutes or so, I want you to focus on what beauty means to you.
 
-For example, what does it mean to feel beautiful? Is it the same feeling as being happy? 
+For example, what does it mean to feel beautiful? Is it the same feeling as being happy?
 
 Or, maybe you don't view beauty as a feeling. Maybe you view beauty as something more visual. Something detached from feeling.
 
@@ -46,21 +47,21 @@ For example, there's this misconception that feelings are something that happen 
 
 Like, when it's raining outside and we feel sad.
 
-What we discount is the fact that we produced that emotion or feeling. 
+What we discount is the fact that we produced that emotion or feeling.
 
 What happens is that we seem to skip ahead to the feeling or emotions, without realising that someone had to have created that emotion.
 
-That someone, obviously being yourself. 
+That someone, obviously being yourself.
 
 Which is to say that you can create emotions and feelings at will, and that feeling of being beautiful is really no different.
 
-You can simply feel beautiful, just by thinking about the feeling and what it means to you. 
+You can simply feel beautiful, just by thinking about the feeling and what it means to you.
 
 So that's what I want you to do, is to feel beautiful. To embrace that feeling and really try and understand what this feeling is.
 
 
 
-Like all feelings, it really does just come down to practice. 
+Like all feelings, it really does just come down to practice.
 
 The more you practice feeling anything, the better you will become at experiencing it and producing that feeling.
 

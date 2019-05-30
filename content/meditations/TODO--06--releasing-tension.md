@@ -10,6 +10,8 @@
   # image: "/images/face.jpg"
   slug: "releasing-tension"
 
+  mp3Url: ""
+
   podcastUrl: ""
   podcastPlayer: ""
 

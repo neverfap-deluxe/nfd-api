@@ -10,6 +10,8 @@
   # image: "/images/face.jpg"
   slug: "where-is-your-attention"
 
+  mp3Url: ""
+
   podcastUrl: ""
   podcastPlayer: ""
 
@@ -42,9 +44,9 @@ And I'll let you do this for a few minutes.
 
 If you're having difficulty keeping track of your attention, just gently remind yourself to remain focused.
 
-Often, in the day to day of lives, we can lose track of our mind. 
+Often, in the day to day of lives, we can lose track of our mind.
 
-This is particularly true in the mornings, if we might have a particular routine that we follow. 
+This is particularly true in the mornings, if we might have a particular routine that we follow.
 
 
 

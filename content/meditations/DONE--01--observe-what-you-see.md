@@ -10,27 +10,28 @@
   # image: "/images/face.jpg"
   slug: "observe-what-you-see"
 
+  mp3Url: "https://s3.castbox.fm/1d/10/e3/9239a649bb85addc36d0754c3a.mp3"
+
   podcastUrl: "https://castbox.fm/episode/id2113294-id157387489?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_157387489&utm_content=EP1%20-%20Observe%20What%20You%20See-CastBox_FM"
-  podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2113294/id157387489?v=4.1.190524&autoplay=0' frameborder='0' width='100%' height='300'></iframe>
-"
+  podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2113294/id157387489?v=4.1.190524&autoplay=0' frameborder='0' width='100%' height='300'></iframe>"
   pageId: "ff3352d7-3473-4536-8c78-ea7724ee8221"
 
 ---
 
 In this guided meditation we explore observation as a concept to help us to learn to develop control over our thoughts.
 
-<!-- 
+<!--
 Neverfap meditate
 
-Welcome to the NeverFap Deluxe Guided Meditation series. 
+Welcome to the NeverFap Deluxe Guided Meditation series.
 
-My name is Julius Reade and today we’re going to keep it simple. 
+My name is Julius Reade and today we’re going to keep it simple.
 
 In part, because meditation is one of the most simple things you can do as a human being.
 
-So for this exercise I want you to get relaxed, preferably sitting in a comfortable position. and I want you to leave your eyes open for this exercise. 
+So for this exercise I want you to get relaxed, preferably sitting in a comfortable position. and I want you to leave your eyes open for this exercise.
 
-Essentially, what I want you to do, without moving your eyes, or searching, is to observe what is in front of you right now. 
+Essentially, what I want you to do, without moving your eyes, or searching, is to observe what is in front of you right now.
 
 There’s nothing to question. Nothing to think about. All we’re doing is observing what is in front of us.
 
@@ -38,9 +39,9 @@ What do you see?
 
 You know, an interesting thing that happens when I ask that question.
 
-What usually happens is that people will start thinking about what’s in front of them. 
+What usually happens is that people will start thinking about what’s in front of them.
 
-They’ll start trying to identify that which they are looking at. 
+They’ll start trying to identify that which they are looking at.
 
 Without realising that observation doesn’t require thought.
 
@@ -50,7 +51,7 @@ They are already sensing your surroundings, regardless of what your mind thinks.
 
 Which is to say that what we want to focus on is that sensing, rather than that thinking aspect we’re so used to.
 
-So with that said, simply observe what’s in front of you. 
+So with that said, simply observe what’s in front of you.
 
 Without thought.
 
@@ -59,13 +60,13 @@ Without expectation.
 And I’ll let you do this for a few minutes.
 
 
-If you find your mind wandering off during this exercise, then just gently remind yourself to continue observing. 
+If you find your mind wandering off during this exercise, then just gently remind yourself to continue observing.
 
-Of course, you may not be used to observing. 
+Of course, you may not be used to observing.
 
-Instead, you may be used to thinking. 
+Instead, you may be used to thinking.
 
-They’re quite different concepts. 
+They’re quite different concepts.
 
 But that’s okay, because the skill we’re developing is an important skill.
 
@@ -77,7 +78,7 @@ And simply exist with the present moment.
 
 Calm.
 
-Relaxed. 
+Relaxed.
 
 Essentially, in observation.
 
@@ -95,17 +96,17 @@ My name is Julius Reade and today I will be guiding you through the wonderful wo
 
 If you're new to meditation, as always, the first step is to relax. To get yourself into a comfortable position, preferrably sitting if you're new to this. It's not recommended that you lie down for these exercises.
 
-Certainly, your posture is important as well, because your posture helps you better focus and remain in a state of being calm, while also being alert. And, remaining alert is such an important part of meditation, since the goal of meditation itself is to help us develop our awareness. 
+Certainly, your posture is important as well, because your posture helps you better focus and remain in a state of being calm, while also being alert. And, remaining alert is such an important part of meditation, since the goal of meditation itself is to help us develop our awareness.
 
 And it can be incredibly difficult to develop that awareness, if you're slouched, or tense or not present with your mind.
 
-Awareness of course is important, so that we can become more mindful of our own thoughts and behaviours. Which as a result, can afford you greater control over those aspects of your life. Which can help us deal with mental illness, as well as a variety of different things such as anxiety and depression. 
+Awareness of course is important, so that we can become more mindful of our own thoughts and behaviours. Which as a result, can afford you greater control over those aspects of your life. Which can help us deal with mental illness, as well as a variety of different things such as anxiety and depression.
 
 In today's session we're going to keep the focus simple. Because ultimately, that's what effective awareness is about. It's about keeping your mind simple, relaxed and focused.
 
 Essentially for this exercise, what we're going to do is pay attention to our senses.
 
-By senses, I mean a number of things. For example, what your eyes are currently seeing. 
+By senses, I mean a number of things. For example, what your eyes are currently seeing.
 
 What your ears are hearing. Perhaps, there's a bird outside, chirping away or maybe you can hear the sound of a car driving by. It could even be the temperature of the air around and how that feels on your skin.
 
@@ -143,11 +144,11 @@ It may help to just focus on a single sense. Like your hearing.
 
 If you're getting distracted, remember to gently think about that cloud of sensation.
 
-What you're feeling from it. 
+What you're feeling from it.
 
 
 Well, that brings us to the end of today's session. If you enjoyed this meditation, feel free to checkout the website www.neverfapdeluxe.com. We have a variety of articles, practices, even a fortnightly podcast for those who are interested. Not to mention, I also have a Patreon for those interested in supporting these meditations financially.
 
-Regardless, I hope you have a wonderful rest of the day. 
+Regardless, I hope you have a wonderful rest of the day.
 
 Stay safe. Stay calm and don't forget to relax.  -->
