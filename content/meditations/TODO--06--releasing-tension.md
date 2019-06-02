@@ -1,5 +1,5 @@
 ---
-  title: "Releasing Tension"
+  title: "EP6 - Releasing Tension"
   description: "NeverFap Deluxe Guided Meditation Series."
   date: 2019-06-29
   draft: true

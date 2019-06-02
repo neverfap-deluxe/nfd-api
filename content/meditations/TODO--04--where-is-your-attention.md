@@ -1,7 +1,7 @@
 ---
-  title: "EP1 - Where Is Your Attention?"
+  title: "EP4 - Where Is Your Attention?"
   description: "NeverFap Deluxe Guided Meditation Series. Where Is Your Attention"
-  date: 2019-06-08
+  date: 2019-06-15
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "" ]

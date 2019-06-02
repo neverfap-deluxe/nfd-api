@@ -1,5 +1,5 @@
 ---
-  title: "Close Your Eyes"
+  title: "EP5 - Close Your Eyes"
   description: "NeverFap Deluxe Guided Meditation Series. Close Your Eyes"
   date: 2019-06-22
   draft: true
