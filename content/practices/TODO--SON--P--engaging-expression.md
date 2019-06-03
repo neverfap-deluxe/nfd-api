@@ -10,10 +10,10 @@
   # image: "/images/face.jpg"
   slug: "engaging-expression"
 
-  what: "Learn to express positive emotions."
-  how: "Focus on the feeling of joy by actively trying to produce it."
-  when: "."
-  duration: "."
+  what: "Learn to engage with and express emotion."
+  how: "Focus on the feeling of emotion by actively trying to produce it."
+  when: "When you have a moment."
+  duration: "For as long as you want."
 
   pageId: "67924cc1-a5a9-4f95-83cc-bca93bca9727"
 
@@ -21,15 +21,11 @@
 
 Expression is an important part of the human experience.
 
-It's what allows us to communicate who we are to the world which is a pretty big thing when you think about it.
+It's what allows us to communicate who we are and what we want to the world around us, which is a pretty significant thing when you think about it.
 
-For without expression we are nothing more than piles of flesh and blood, with no purpose or intention to change the world around us.
+In order to better understand this concept of expression, it's important to understand that expression is an action.
 
-Although, I digress.
-
-What's important to understand is that expression is an action.
-
-It's a form doing which is deliberate, and if we think otherwise, we can develop some pretty unrealistic expectations of reality itself.
+It's a form of doing which is deliberate, and yet many hold a different view as to what we can develop some pretty unrealistic expectations of reality itself.
 
 For example, if you believe expression is passive, you can develop this idea that others should be able to read your mind and understand what you're going through simply by looking at you.
 

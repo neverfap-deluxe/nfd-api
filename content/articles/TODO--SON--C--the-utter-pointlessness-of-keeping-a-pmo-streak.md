@@ -6,7 +6,7 @@
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
   # image: "/images/face.jpg"
-  slug: "my-personal-meditation-routine"
+  slug: "the-utter-pointlessness-of-maintaining-a-pmo-streak"
   tldr1: "."
   tldr2: "."
 

@@ -12,4 +12,8 @@
   
 ---
 
-There is a world out there, you know.
+Welcome to NeverFap Deluxe League!
+
+For more information please checkout the official NeverFap Deluxe League website!
+
+<a class="link" href="https://league.neverfapdeluxe.com/">https://league.neverfapdeluxe.com/</a>

@@ -12,4 +12,6 @@
 
 ---
 
-Never Fap is a movement. 
+Never Fap is a term used to describe the porn addiction recovery process.
+
+It is fully open-source for your pleasure.

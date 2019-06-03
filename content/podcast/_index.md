@@ -12,4 +12,8 @@
 
 ---
 
-Podcast
+The NeverFap Deluxe Podcast is a fornightly podcast about porn addiction recovery. It aims to be informative, silly and somewhat hopelessly chic.
+
+It's a light-hearted take on what you can do to help yourself overcome porn addiction, as I offer hilariously inappropriate advice based on my own experiences with the fap.
+
+It's available on iTunes, Castbox and Spotify.

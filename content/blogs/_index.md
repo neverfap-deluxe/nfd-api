@@ -12,5 +12,14 @@
 
 ---
 
-There is a world out there, you know.
+Welcome to the NeverFap Deluxe Blogs section, where users, fans and strange kangaroos of NeverFap Deluxe post their experiences with the NeverFap Deluxe Method of overcoming porn addiction!
+
+All submissions are welcome! If you have an idea for a blog/article you've written, or perhaps you've already written one, feel free to send it over.
+
+<a class="link" href="/contact">Click here</a> to contact Daddy Reade!
+
+Otherwise, please send me a DM on Discord or Reddit.
+
+We don't currently have any submissions (that's okay!) although maybe you can be the first :D
+
 

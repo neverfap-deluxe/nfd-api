@@ -1,7 +1,7 @@
 ---
   title: "EP1 - Observe What You See"
   description: "NeverFap Deluxe Guided Meditation Series. Observe What You See"
-  date: 2019-05-25
+  date: 2019-06-01
   draft: false
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
@@ -10,11 +10,13 @@
   # image: "/images/face.jpg"
   slug: "observe-what-you-see"
 
-  mp3Url: "https://s3.castbox.fm/1d/10/e3/9239a649bb85addc36d0754c3a.mp3"
+  mp3Url: "https://s3.castbox.fm/61/6f/59/95055247d0b6fe18ccc053aaec.mp3"
 
-  podcastUrl: "https://castbox.fm/episode/id2113294-id157387489?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_157387489&utm_content=EP1%20-%20Observe%20What%20You%20See-CastBox_FM"
-  podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2113294/id157387489?v=4.1.190524&autoplay=0' frameborder='0' width='100%' height='300'></iframe>"
-  pageId: "ff3352d7-3473-4536-8c78-ea7724ee8221"
+  podcastUrl: "https://castbox.fm/episode/id2113294-id160447956?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_160447956&utm_content=EP1%20-%20Observe%20What%20You%20See-CastBox_FM"
+
+  podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2113294/id160447956?v=8.0.190531&autoplay=0' frameborder='0' width='100%' height='300'></iframe>"
+
+  pageId: "0c341fc6-e723-4284-815b-3f3af4c1d221"
 
 ---
 
@@ -23,9 +25,9 @@ In this guided meditation we explore observation as a concept to help us to lear
 <!--
 Neverfap meditate
 
-Welcome to the NeverFap Deluxe Guided Meditation series.
+Helllo, and welcome to the NeverFap Deluxe Guided Meditation series.
 
-My name is Julius Reade and today we’re going to keep it simple.
+My name is Julius Reade and today we are going to keep it simple.
 
 In part, because meditation is one of the most simple things you can do as a human being.
 
@@ -33,7 +35,7 @@ So for this exercise I want you to get relaxed, preferably sitting in a comforta
 
 Essentially, what I want you to do, without moving your eyes, or searching, is to observe what is in front of you right now.
 
-There’s nothing to question. Nothing to think about. All we’re doing is observing what is in front of us.
+There is nothing to question. Nothing to think about. All we are doing is observing what is in front of us.
 
 What do you see?
 

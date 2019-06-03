@@ -19,6 +19,9 @@
 
 ---
 
+In this guided meditation we explore observing the cloud of sensation that we feel within our body.
+
+<!-- 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
 My name is Julius Reade and today we are going to focus on the cloud of sensation that is your own conscious experience.
@@ -87,4 +90,4 @@ And continue to truly notice what your body is sensing.
 
 
 And that brings us to the end of this session. Thank you for listening. I wish you best of luck with your day. This has been. The neverfap Deluxe Guided meditation series.
-
+ -->

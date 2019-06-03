@@ -12,7 +12,17 @@
 
 ---
 
-Words are a plenty here in summerville.
+Here you'll find our NeverFap Deluxe Courses!
+
+These courses have been structured around the written content on this website, in order to provide you with the most efficient way forward with your porn recovery.
+
+Much like the written content, these courses have been designed around <a class="link"  href="/articles/the-five-fundamental-principles-of-neverfap">The Five Fundamental Principles Of NeverFap</a>.
+
+These structured courses are the recommended approach towards consuming the information on this website, and I hope you find them useful as a porn recovery resource.
+
+
+
+<!-- Words are a plenty here in summerville. -->
 
 <!-- 
 
