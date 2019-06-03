@@ -12,4 +12,4 @@
 
 ---
 
-contact words blah.
+My name is Julius and I am the founder of NeverFap Deluxe. If you would like to get in touch, please provide your name, email and message, and I will get back to you as soon as possible!

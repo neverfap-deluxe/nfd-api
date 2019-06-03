@@ -5,7 +5,7 @@
   draft: false
   tags: [ "" ]
   categories: [ "" ]
-  slug: "guide-meat-03"
+  slug: "guide-meat"
 
   pageId: "188f83b3-92d5-4e2f-afa2-8cb694f30aba"
 

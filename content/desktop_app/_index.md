@@ -12,4 +12,6 @@
 
 ---
 
-There is a world out there, you know.
+<!-- TODO -->
+
+NeverFap Deluxe officially has a desktop app!

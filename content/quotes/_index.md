@@ -12,4 +12,6 @@
 
 ---
 
-Quotes r us.
+Essentially, this is where you can view a list of all the various visual items on the website. This is in addition to new ones I've personally created! It will slowly be populated in due time :D
+
+<!-- Mention how they're also available on pinterest etc. -->

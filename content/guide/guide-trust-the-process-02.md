@@ -5,7 +5,7 @@
   draft: false
   tags: [ "" ]
   categories: [ "" ]
-  slug: "guide-trust-the-process-02"
+  slug: "guide-trust-the-process"
 
   pageId: "b4bce8cb-9912-49fa-90de-d5cb9927a05f"
 
@@ -41,7 +41,7 @@ For a literal number of years up until now.
 Because up until now, you've put so much trust and faith into lying to yourself and supporting your addiction, that you're no longer able to identify what's truly wrong with you.
 
 Which is to say that you're in denial.
-<!-- 
+<!--
 And I am being deadly serious. -->
 
 You're in denial because you continue to masturbate to porn inspite of how much you hate it, inspite of how rotten it makes you feel, as well as how much it is destroying you in almost every single way.

@@ -1,6 +1,6 @@
-{{ define "response" }} 
+{{ define "response" }}
 {
-  "title": {{ .Title | jsonify }}, 
+  "title": {{ .Title | jsonify }},
   "page_id": {{ .Params.PageId | jsonify }},
   "description": {{ .Description | jsonify }},
   "content": {{ .Content | jsonify }},
@@ -17,7 +17,7 @@
       {{ else }}
         {{ if $index }}, {{ end }}
         {
-          "title": {{ .Title | jsonify }}, 
+          "title": {{ .Title | jsonify }},
           "page_id": {{ .Params.PageId | jsonify }},
           "description": {{ .Description | jsonify }},
           "content": {{ .Content | jsonify }},
@@ -32,7 +32,6 @@
       {{ end }}
     {{ end }}
   ]
-
 }
 {{ end }}
 

@@ -1,6 +1,6 @@
-{{ define "response" }} 
+{{ define "response" }}
 {
-  "title": {{ .Title | jsonify }}, 
+  "title": {{ .Title | jsonify }},
   "page_id": {{ .Params.PageId | jsonify }},
   "description": {{ .Description | jsonify }},
   "content": {{ .Content | jsonify }},
@@ -12,12 +12,12 @@
   "permalink" : {{ .Permalink | jsonify }},
   "section": {{ .Section | jsonify }},
   "children": [
-    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "summary") }}
+    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "promote_neverfap_deluxe") }}
       {{ if .Draft }}
       {{ else }}
         {{ if $index }}, {{ end }}
         {
-          "title": {{ .Title | jsonify }}, 
+          "title": {{ .Title | jsonify }},
           "page_id": {{ .Params.PageId | jsonify }},
           "description": {{ .Description | jsonify }},
           "content": {{ .Content | jsonify }},
@@ -32,7 +32,6 @@
       {{ end }}
     {{ end }}
   ]
-
 }
 {{ end }}
 

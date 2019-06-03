@@ -12,4 +12,6 @@
 
 ---
 
-There is a world out there, you know.
+Welcome to the NeverFap Deluxe Updates section, where you can find a list of the weekly updates posted to Patreon!
+
+Quite a lot of work goes on in NeverFap Deluxe and so this is where I keep track of it all.
