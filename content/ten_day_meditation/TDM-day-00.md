@@ -1,15 +1,14 @@
 ---
-  title: "10 Day Meditation"
-  description: "Learn more about meditation with our 10 day meditation course."
-  date: 2019-03-10
-  draft: false
-  tags: [ "10 day meditation challenge" ]
-  categories: [ "index" ]
+  day: 0
+  title: "Introduction"
+  description: "A brief introduction into the series, as well as what to expect over the coming days."
+  date: 2019-03-22
+  draft: true
+  tags: [ "kickstarter" ]
+  categories: [ "kickstarter" ]
   # image: "/images/face.jpg"
-  slug: "ten-day-meditation-primer"
+  slug: "introduction"
 
-  pageId: "4aa39002-0317-44d7-8bc1-45ec7e725ac0"
+  pageId: "843fa5f8-5a9d-422f-bcec-753bd50921b4"
 
 ---
-
-10 Day Meditation

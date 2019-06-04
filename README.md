@@ -1,5 +1,8 @@
 # you have a taste.
 
+
+https://pandoc.org/installing.html
+
 <!-- # NeverFap Deluxe
 
 > Hugo
