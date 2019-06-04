@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/dottjt/nfd-api#readme",
   "dependencies": {
+    "better-md-2-json": "^1.0.6",
     "fs-extra": "^8.0.1",
     "uuid": "^3.3.2"
   }

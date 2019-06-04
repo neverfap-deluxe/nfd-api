@@ -14,12 +14,10 @@
 
 To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our website and the use of this website (including, without limitation, any warranties implied by law in respect of satisfactory quality, fitness for purpose and/or the use of reasonable care and skill). Nothing in this disclaimer will:
 
-<ol>
-  <li style="margin-bottom: 0.8rem;">limit or exclude our or your liability for death or personal injury resulting from negligence;</li>
-  <li style="margin-bottom: 0.8rem;">limit or exclude our or your liability for fraud or fraudulent misrepresentation;</li>
-  <li style="margin-bottom: 0.8rem;">limit any of our or your liabilities in any way that is not permitted under applicable law; or</li>
-  <li style="margin-bottom: 0.8rem;">exclude any of our or your liabilities that may not be excluded under applicable law.</li>
-</ol>
+- limit or exclude our or your liability for death or personal injury resulting from negligence;
+- limit or exclude our or your liability for fraud or fraudulent misrepresentation;
+- limit any of our or your liabilities in any way that is not permitted under applicable law; or
+- exclude any of our or your liabilities that may not be excluded under applicable law.
 
 The limitations and exclusions of liability set out in this Section and elsewhere in this disclaimer: (a)
 are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer or
