@@ -1,6 +1,6 @@
-{{ define "response" }} 
+{{ define "response" }}
 {
-  "title": {{ .Title | jsonify }}, 
+  "title": {{ .Title | jsonify }},
   "page_id": {{ .Params.PageId | jsonify }},
   "description": {{ .Description | jsonify }},
   "content": {{ .Content | jsonify }},
@@ -10,7 +10,16 @@
   "categories": {{ .Params.Categories | jsonify }},
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
-  "section": {{ .Section | jsonify }}
+  "section": {{ .Section | jsonify }},
+
+  "day_0_description": {{ .Params.Day_0_description }},
+  "day_1_description": {{ .Params.Day_1_description }},
+  "day_2_description": {{ .Params.Day_2_description }},
+  "day_3_description": {{ .Params.Day_3_description }},
+  "day_4_description": {{ .Params.Day_4_description }},
+  "day_5_description": {{ .Params.Day_5_description }},
+  "day_6_description": {{ .Params.Day_6_description }},
+  "day_7_description": {{ .Params.Day_7_description }}
 }
 {{ end }}
 

@@ -12,4 +12,6 @@
 
 ---
 
-Seven Day yay.
+With the Seven Day NeverFap Deluxe Kickstarter you will be provided with a comprehensive introduction into the NeverFap Deluxe Method of overcoming porn addiction.
+
+Over the course of a week, you will be sent daily emails which will explain what you need to know to overcome your porn addiction, as well as link to the articles and practices here on NeverFap Deluxe.

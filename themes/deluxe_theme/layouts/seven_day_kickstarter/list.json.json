@@ -1,5 +1,5 @@
 {{ define "response" }}
-{ 
+{
   "title": {{ .Title | jsonify }}, "page_id": {{ .Params.PageId | jsonify }},
   "description": {{ .Description | jsonify }},
   "content": {{ .Content | jsonify }},
@@ -11,7 +11,7 @@
   "permalink" : {{ .Permalink | jsonify }},
   "section": {{ .Section | jsonify }},
   "days": [
-    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "practices") }}
+    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "seven_day_kickstarter") }}
       {{ if .Draft }}
       {{ else }}
         {{ if $index }}, {{ end }}

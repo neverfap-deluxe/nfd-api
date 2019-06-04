@@ -1,6 +1,6 @@
 ---
-  title: "Seven Day NeverFap Deluxe Kickstarter - Day 0"
-  description: "Kickstart your NeverFap Deluxe journeya with our seven day kickstarter."
+  title: "Seven Day NeverFap Deluxe Kickstarter - Day 1"
+  description: "Learn about why it's important to trust the process, as well as the consequences if you don't."
   date: 2019-03-22
   draft: true
   tags: [ "kickstarter" ]
