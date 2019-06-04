@@ -16,6 +16,9 @@ const practicesFolder = './content/practices';
 // const blogsFolder = './content/blogs';
 // const updatesFolder = './content/updates';
 
+// EMAIL CAMPAIGNS
+const seven_day_kickstarterFolder = './content/seven_day_kickstarter';
+
 // EXTRANEOUS
 const aboutFolder = './content/about';
 const accountabilityFolder = './content/accountability';
@@ -58,6 +61,8 @@ module.exports = {
   // meditationsFolder,
   // blogsFolder,
   // updatesFolder,
+
+  seven_day_kickstarterFolder,
 
   aboutFolder,
   accountabilityFolder,
