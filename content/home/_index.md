@@ -1,15 +1,14 @@
 ---
-  title: "NeverFap Deluxe Home"
-  description: "."
-  date: 2019-05-30
+  title: "The Porn Addiction Recovery Process"
+  description: "NeverFap Deluxe. The Porn Addiction Recovery Process Designed To Help You Efficiently Overcome Your Porn Addiction."
+  date: 2019-01-07
   draft: false
-  tags: [ "porn addiction", "porn recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
+  tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "never fap", "NoFap Companion", "NoFap Companion", "neverfap deluxe", "nofap guide", "neverfap basics" ]
   categories: [ "" ]
-  # image: "/images/face.jpg"
-  slug: "home"
+  slug: "/"
 
-  pageId: "49db09a0-2440-4b3a-95a9-56ff677f7415"
+  pageId: "dcbf0522-0f02-4e19-a608-da99b160b0bb"
 
 ---
 
-TODOpr
+Random content.

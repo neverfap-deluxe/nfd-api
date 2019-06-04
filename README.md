@@ -3,6 +3,8 @@
 
 https://pandoc.org/installing.html
 
+https://pandoc.org/MANUAL.html
+
 <!-- # NeverFap Deluxe
 
 > Hugo
