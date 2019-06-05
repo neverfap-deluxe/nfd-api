@@ -11,7 +11,7 @@
   "categories": {{ .Params.Categories | jsonify }},
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
-  "section": {{ .Section | jsonify }},
+  "section": {{ .Section | jsonify }}
 }
 {{ end }}
 
