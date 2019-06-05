@@ -1,6 +1,6 @@
 ---
-  title: "Helpful NeverFappers Academy"
-  description: "Joint our Helpful NeverFappers Academy and learn the ways of NeverFap Deluxe through active learning and teaching!"
+  title: "Helpful NeverFap Counsel"
+  description: "Joint our Helpful NeverFap Counsel and learn the ways of NeverFap Deluxe through active learning and teaching!"
   date: 2019-05-13
   draft: false
   tags: [ "porn addiction", "porn recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
@@ -12,9 +12,9 @@
 
 ---
 
-Welcome to the Helpful NeverFappers Academy!
+Welcome to the Helpful NeverFap Counsel!
 
-Essentially the Helpful NeverFappers Academy is an extension of our <a class="link" href="<%= Application.get_env(:nfd, :social_discord_url) %>">#accountability</a> program on Discord.
+Essentially the Helpful NeverFap Counsel is an extension of our <a class="link" href="<%= Application.get_env(:nfd, :social_discord_url) %>">#accountability</a> program on Discord.
 
 It's a volunteer program to help others with porn addiction, by providing others with the advice in regards to the NeverFap Deluxe Method of overcoming porn addiction.
 
@@ -22,7 +22,7 @@ It's a volunteer program to help others with porn addiction, by providing others
 
 It's an excellent way to bolster your own knowledge and understanding of NeverFap Deluxe, as well as learn more about the value of teaching others as a tool for persistent change.
 
-As a Helpful NeverFapper you will essentially be tasked with helping the community out with their questions, offer advice based on NeverFap Deluxe, as well as assist new members of the community so that they feel loved and welcomed!
+As a member of the Helpful NeverFap Counsel you will essentially be tasked with helping the community out with their questions, offer advice based on NeverFap Deluxe, as well as assist new members of the community so that they feel loved and welcomed!
 
 Here are some base guidelines if you're interested in becoming a Helpful NeverFapper yourself.
 
@@ -37,8 +37,3 @@ Here are some base guidelines if you're interested in becoming a Helpful NeverFa
 <hr class="hrul__bottom"/>
 
 If you're at all interested in becoming a leader within our wonderful community, please send me a message on discord where I'll be more-than-happy to guide you through the process.
-
-We also have an official website for the Discord below:
-
-<a class="link" href="https://league.neverfapdeluxe.com/">https://league.neverfapdeluxe.com/</a>
-

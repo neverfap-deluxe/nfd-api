@@ -21,7 +21,7 @@ Deployment: Netlify
 
 ## Util Helpers
 
-- `util/generateBible.js` will help generate an eBook version of the website. 
+- `util/generateBible.js` will help generate an eBook version of the website.
 - `util/generateQuoteMD.js` will help generate quote meta-data for images placed within `content/quotes`.
 
 
@@ -32,7 +32,7 @@ Ultimately there are two kinds of content you can create:
 - Pages - standalone page i.e. `https://neverfapdeluxe.com/about`
 - Content - standalone page with a lot of subpages i.e. `https://neverfapdeluxe.com/articles` + `https://neverfapdeluxe.com/articles/this-is-an-article`
 
-In order to create a Page you go into `/content` and then you create the page name you want i.e. `/content/page_name` with an `_index.md` file in that folder.
+In order to create a Page you go into `/content` and then you create the page name you want with a _index.md file i.e. `/content/page_name/_index.md`.
 
 Example:
 
@@ -52,12 +52,12 @@ Example:
 Here is where the content will go
 ```
 
-Then in `/themes/deluxe_theme/layouts/_default` you create the json endpoint in `/themes/deluxe_theme/layouts/_default` with a json file `page_name.json.json`
+Then in `/themes/deluxe_theme/layouts/_default` you create the json endpoint i.e. `/themes/deluxe_theme/layouts/_default/page_name.json.json`.
 
-(NOTE: There is supposed to be two json endings. Also please keep in mind that some pages also have children JSON for more modular content)
+(NOTE: It is supposed to be `json.json`. Also please keep in mind that some pages also have children JSON for more modular content)
 
 ```
-{{ define "response" }} 
+{{ define "response" }}
 {
   "title": {{ .Title | jsonify }}, "page_id": {{ .Params.PageId | jsonify }},
   "description": {{ .Description | jsonify }},
@@ -74,8 +74,10 @@ Then in `/themes/deluxe_theme/layouts/_default` you create the json endpoint in 
 
 ```
 
+(NOTE: You can define as many custom parameters as you want.)
+
 It will then serve your JSON on this endpoint: https://neverfapdeluxe.netlify.com/page_name/index.json
 
 And that's all there is to it!
 
-In order to create Content, it's a slightly different. Please checkout `/content/articles` and `/themes/deluxe_theme/layouts/articles` to get the basic gist of it.
+In order to create Content, it's a slightly different. However, please checkout `/content/articles` and `/themes/deluxe_theme/layouts/articles` to get the basic gist of it.

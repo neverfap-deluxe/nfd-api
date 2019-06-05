@@ -12,7 +12,7 @@
   "permalink" : {{ .Permalink | jsonify }},
   "section": {{ .Section | jsonify }},
   "children": [
-    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "promote_neverfap_deluxe") }}
+    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "engineering_corps") }}
       {{ if .Draft }}
       {{ else }}
         {{ if $index }}, {{ end }}
