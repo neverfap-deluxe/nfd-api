@@ -11,8 +11,8 @@
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
   "section": {{ .Section | jsonify }},
-  "blogs": [
-    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "content_blogs") }}
+  "updates": [
+    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "content_updates") }}
       {{ if .Draft }}
       {{ else }}
         {{ if $index }}, {{ end }}
@@ -27,7 +27,8 @@
           "categories": {{ .Params.Categories | jsonify }},
           "tags": {{ .Params.Tags | jsonify }},
           "permalink" : {{ .Permalink | jsonify }},
-          "section": {{ .Section | jsonify }}
+          "section": {{ .Section | jsonify }},
+          "patreon_link": {{ .Params.PatreonLink | jsonify }}
         }
       {{ end }}
     {{ end }}

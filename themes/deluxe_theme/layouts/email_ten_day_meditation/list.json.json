@@ -1,7 +1,6 @@
 {{ define "response" }}
 { 
-  "title": {{ .Title | jsonify }}, 
-  "page_id": {{ .Params.PageId | jsonify }},
+  "title": {{ .Title | jsonify }}, "page_id": {{ .Params.PageId | jsonify }},
   "description": {{ .Description | jsonify }},
   "content": {{ .Content | jsonify }},
   "date": {{ .Date.Format "2006-01-02" | jsonify }},
@@ -11,14 +10,13 @@
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
   "section": {{ .Section | jsonify }},
-  "blogs": [
-    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "content_blogs") }}
+  "days": [
+    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "content_practices") }}
       {{ if .Draft }}
       {{ else }}
         {{ if $index }}, {{ end }}
         {
-          "title": {{ .Title | jsonify }}, 
-          "page_id": {{ .Params.PageId | jsonify }},
+          "title": {{ .Title | jsonify }}, "page_id": {{ .Params.PageId | jsonify }},
           "description": {{ .Description | jsonify }},
           "content": {{ .Content | jsonify }},
           "date": {{ .Date.Format "2006-01-02" | jsonify }},

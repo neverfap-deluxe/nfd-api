@@ -1,7 +1,6 @@
 {{ define "response" }}
-{ 
-  "title": {{ .Title | jsonify }}, 
-  "page_id": {{ .Params.PageId | jsonify }},
+  { 
+  "title": {{ .Title | jsonify }}, "page_id": {{ .Params.PageId | jsonify }},
   "description": {{ .Description | jsonify }},
   "content": {{ .Content | jsonify }},
   "date": {{ .Date.Format "2006-01-02" | jsonify }},
@@ -11,14 +10,13 @@
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
   "section": {{ .Section | jsonify }},
-  "blogs": [
-    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "content_blogs") }}
+  "articles": [
+    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "content_articles") }}      
       {{ if .Draft }}
       {{ else }}
-        {{ if $index }}, {{ end }}
+      {{ if $index }}, {{ end }}
         {
-          "title": {{ .Title | jsonify }}, 
-          "page_id": {{ .Params.PageId | jsonify }},
+          "title": {{ .Title | jsonify }}, "page_id": {{ .Params.PageId | jsonify }},
           "description": {{ .Description | jsonify }},
           "content": {{ .Content | jsonify }},
           "date": {{ .Date.Format "2006-01-02" | jsonify }},
@@ -27,10 +25,18 @@
           "categories": {{ .Params.Categories | jsonify }},
           "tags": {{ .Params.Tags | jsonify }},
           "permalink" : {{ .Permalink | jsonify }},
+
+          {{/* articles */}}
+          "tldr1": {{ if .Params.Tldr1 }}{{ .Params.Tldr1 | jsonify }}{{ else }}""{{ end }},
+          "tldr2": {{ if .Params.Tldr2 }}{{ .Params.Tldr2 | jsonify }}{{ else }}""{{ end }},
+          "tldr3": {{ if .Params.Tldr3 }}{{ .Params.Tldr3 | jsonify }}{{ else }}""{{ end }},
+          "tldr4": {{ if .Params.Tldr4 }}{{ .Params.Tldr4 | jsonify }}{{ else }}""{{ end }},
+          "tldr5": {{ if .Params.Tldr5 }}{{ .Params.Tldr5 | jsonify }}{{ else }}""{{ end }},
+
           "section": {{ .Section | jsonify }}
         }
       {{ end }}
-    {{ end }}
-  ]
+      {{ end }}
+    ]
 }
 {{ end }}

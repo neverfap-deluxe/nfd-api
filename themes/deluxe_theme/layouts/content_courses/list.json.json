@@ -1,7 +1,6 @@
 {{ define "response" }}
-{ 
-  "title": {{ .Title | jsonify }}, 
-  "page_id": {{ .Params.PageId | jsonify }},
+  { 
+  "title": {{ .Title | jsonify }}, "page_id": {{ .Params.PageId | jsonify }},
   "description": {{ .Description | jsonify }},
   "content": {{ .Content | jsonify }},
   "date": {{ .Date.Format "2006-01-02" | jsonify }},
@@ -11,14 +10,13 @@
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},
   "section": {{ .Section | jsonify }},
-  "blogs": [
-    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "content_blogs") }}
+  "courses": [
+    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "content_courses") }}
       {{ if .Draft }}
       {{ else }}
         {{ if $index }}, {{ end }}
         {
-          "title": {{ .Title | jsonify }}, 
-          "page_id": {{ .Params.PageId | jsonify }},
+          "title": {{ .Title | jsonify }}, "page_id": {{ .Params.PageId | jsonify }},
           "description": {{ .Description | jsonify }},
           "content": {{ .Content | jsonify }},
           "date": {{ .Date.Format "2006-01-02" | jsonify }},
@@ -27,6 +25,14 @@
           "categories": {{ .Params.Categories | jsonify }},
           "tags": {{ .Params.Tags | jsonify }},
           "permalink" : {{ .Permalink | jsonify }},
+
+          {{ if .Params.Category }}"category": {{ .Params.Category | jsonify }},{{ end }}
+          {{ if .Params.Overview }}"overview": {{ .Params.Overview | jsonify }},{{ end }}
+          {{ if .Params.Number }}"number": {{ .Params.Number | jsonify }},{{ end }}
+          {{ if .Params.Learn1 }}"learn1": {{ .Params.Learn1 | jsonify }},{{ end }}
+          {{ if .Params.Learn2 }}"learn2": {{ .Params.Learn2 | jsonify }},{{ end }}
+          {{ if .Params.Learn3 }}"learn3": {{ .Params.Learn3 | jsonify }},{{ end }}
+
           "section": {{ .Section | jsonify }}
         }
       {{ end }}
