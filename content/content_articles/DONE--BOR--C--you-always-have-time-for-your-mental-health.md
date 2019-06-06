@@ -150,7 +150,7 @@ Which is to say that your achievements outside of mental health will never serve
 And when you do decide to work on your mental health, you may very well discover that everything you've pursued up until then has been utterly pointless.
 
 
-{{< hr2  "From this point of view, you have nothing to gain from neglecting your mental health." >}}
+{{< hr2 "From this point of view, you have nothing to gain from neglecting your mental health." >}}
 
 
 No matter what other benefits those other achievements may provide.

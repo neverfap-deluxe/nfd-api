@@ -30,7 +30,7 @@
 This exercise encompasses one of the most fundamental skills in regards to practicing meditation.
 
 
-{{< hr4  "Your ability to remain aware of your senses in the present moment." >}}
+{{< hr4 "Your ability to remain aware of your senses in the present moment." >}}
 
 
 It's a skill which will form the foundation of almost all the practices on this website, in particular the introspection aspect of these practices i.e. how these exercises make you feel as you practice them.

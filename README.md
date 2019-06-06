@@ -1,5 +1,22 @@
 # you have a taste.
 
+Setext and ATX style headings. 
+
+Setext
+A level-one heading
+===================
+
+A level-two heading
+-------------------
+
+ATX
+## A level-two heading
+
+### A level-three heading ###
+
+
+
+
 
 https://pandoc.org/installing.html
 

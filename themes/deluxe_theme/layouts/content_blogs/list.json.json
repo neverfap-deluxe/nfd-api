@@ -1,5 +1,5 @@
 {{ define "response" }}
-{ 
+  { 
   "title": {{ .Title | jsonify }}, 
   "page_id": {{ .Params.PageId | jsonify }},
   "description": {{ .Description | jsonify }},
@@ -12,13 +12,12 @@
   "permalink" : {{ .Permalink | jsonify }},
   "section": {{ .Section | jsonify }},
   "blogs": [
-    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "content_blogs") }}
+    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "content_blogs") }}      
       {{ if .Draft }}
       {{ else }}
-        {{ if $index }}, {{ end }}
+      {{ if $index }}, {{ end }}
         {
-          "title": {{ .Title | jsonify }}, 
-          "page_id": {{ .Params.PageId | jsonify }},
+          "title": {{ .Title | jsonify }}, "page_id": {{ .Params.PageId | jsonify }},
           "description": {{ .Description | jsonify }},
           "content": {{ .Content | jsonify }},
           "date": {{ .Date.Format "2006-01-02" | jsonify }},
@@ -30,7 +29,7 @@
           "section": {{ .Section | jsonify }}
         }
       {{ end }}
-    {{ end }}
-  ]
+      {{ end }}
+    ]
 }
 {{ end }}

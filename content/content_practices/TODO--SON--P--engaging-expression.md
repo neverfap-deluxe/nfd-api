@@ -62,7 +62,7 @@ For example, when you smile you're acting with the intention of being happy. Whe
 Now, here's the thing about expression which people seem to overlook or even outright misunderstand.
 
 
-{{ h3 "Intention doesn't come as a reaction to something which takes place in life." }}
+{{< hr3 "Intention doesn't come as a reaction to something which takes place in life." >}}
 
 
 Which is to say that you being sad isn't the reason why you're crying, no different to a happy event not being the reason why you're smiling.
