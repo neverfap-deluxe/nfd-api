@@ -4,6 +4,7 @@
   "description": "<!-- # NeverFap Deluxe",
   "main": "index.js",
   "scripts": {
+    "bible": "node ./util/generateBible.js",
     "generate-quotes": "node ./util/generateQuoteMD.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
