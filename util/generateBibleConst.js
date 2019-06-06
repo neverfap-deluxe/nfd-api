@@ -1,89 +1,86 @@
 
 // GUIDES
-const homeFolder = './content/home';
-const guideFolder = './content/guide';
-const summaryFolder = './content/summary';
-// const post_relapse_academyFolder = './content/post_relapse_academy';
-// const emergencyFolder = './content/emergency';
+const home_folder = './content/general_home';
+const guide_folder = './content/guides_guide';
+const summary_folder = './content/guides_summary';
+// const post_relapse_academy_folder = './content/post_relapse_academy';
+// const emergency_folder = './content/emergency';
 
 // CONTENT
-const articlesFolder = './content/articles';
-const practicesFolder = './content/practices';
-// const coursesFolder = './content/courses';
-// const podcastsFolder = './content/podcasts';
-// const quotesFolder = './content/quotes';
-// const meditationsFolder = './content/meditations';
-// const blogsFolder = './content/blogs';
-// const updatesFolder = './content/updates';
+const articles_folder = './content/content_articles';
+const practices_folder = './content/content_practices';
+// const courses_folder = './content/content_courses';
+// const podcasts_folder = './content/content_podcasts';
+// const quotes_folder = './content/content_quotes';
+// const meditations_folder = './content/content_meditations';
+// const blogs_folder = './content/content_blogs';
+// const updates_folder = './content/content_updates';
 
 // EMAIL CAMPAIGNS
-const seven_day_kickstarterFolder = './content/seven_day_kickstarter';
+const seven_day_kickstarter_folder = './content/email_seven_day_kickstarter';
 
 // EXTRANEOUS
-const aboutFolder = './content/about';
-const accountabilityFolder = './content/accountability';
-const coachingFolder = './content/coaching';
-const donationsFolder = './content/donations';
-const reddit_guidelinesFolder = './content/reddit_guidelines';
-const promote_neverfap_deluxeFolder = './content/promote_neverfap_deluxe';
-const helpful_neverfappers_academyFolder = './content/helpful_neverfappers_academy';
-const neverfap_deluxe_leagueFolder = './content/neverfap_deluxe_league';
-const communityFolder = './content/community';
+const about_folder = './content/general_about';
+const accountability_folder = './content/programs_accountability';
+const coaching_folder = './content/programs_coaching';
+const donations_folder = './content/general_donations';
+const reddit_guidelines_folder = './content/programs_reddit_guidelines';
+const helpful_neverfap_counsel_folder = './content/helpful_neverfap_counsel';
+const community_folder = './content/general_community';
 
 // APPS
-const mobile_appFolder = './content/mobile_app';
-const desktop_appFolder = './content/desktop_app';
-const chrome_extensionFolder = './content/chrome_extension';
+const mobile_app_folder = './content/apps_mobile_app';
+const desktop_app_folder = './content/apps_desktop_app';
+const chrome_extension_folder = './content/apps_chrome_extension';
+const neverfap_deluxe_league_folder = './content/apps_neverfap_deluxe_league';
 
 // LEGAL
-const disclaimerFolder = './content/disclaimer';
-const privacyFolder = './content/privacy';
-const terms_and_conditionsFolder = './content/terms_and_conditions';
+const disclaimer_folder = './content/legal_disclaimer';
+const privacy_folder = './content/legal_privacy';
+const terms_and_conditions_folder = './content/legal_terms_and_conditions';
 
 // USELESS
-// const everythingFolder = './content/everything';
-// const never_fapFolder = './content/never_fap';
-// const neverfap_deluxe_bibleFolder = './content/neverfap_deluxe_bible';
-// const contactFolder = './content/contact';
+// const everything_folder = './content/everything';
+// const never_fap_folder = './content/never_fap';
+// const neverfap_deluxe_bible_folder = './content/neverfap_deluxe_bible';
+// const contact_folder = './content/contact';
 
 module.exports = {
-  homeFolder,
-  guideFolder,
-  summaryFolder,
-  // post_relapse_academyFolder,
-  // emergencyFolder,
+  home_folder,
+  guide_folder,
+  summary_folder,
+  // post_relapse_academy_folder,
+  // emergency_folder,
 
-  articlesFolder,
-  practicesFolder,
-  // coursesFolder,
-  // podcastsFolder,
-  // quotesFolder,
-  // meditationsFolder,
-  // blogsFolder,
-  // updatesFolder,
+  articles_folder,
+  practices_folder,
+  // courses_folder,
+  // podcasts_folder,
+  // quotes_folder,
+  // meditations_folder,
+  // blogs_folder,
+  // updates_folder,
 
-  seven_day_kickstarterFolder,
+  seven_day_kickstarter_folder,
 
-  aboutFolder,
-  accountabilityFolder,
-  coachingFolder,
-  donationsFolder,
-  reddit_guidelinesFolder,
-  promote_neverfap_deluxeFolder,
-  helpful_neverfappers_academyFolder,
-  neverfap_deluxe_leagueFolder,
-  communityFolder,
+  about_folder,
+  accountability_folder,
+  coaching_folder,
+  donations_folder,
+  reddit_guidelines_folder,
+  neverfap_deluxe_league_folder,
+  community_folder,
 
-  mobile_appFolder,
-  desktop_appFolder,
-  chrome_extensionFolder,
+  mobile_app_folder,
+  desktop_app_folder,
+  chrome_extension_folder,
 
-  disclaimerFolder,
-  privacyFolder,
-  terms_and_conditionsFolder,
+  disclaimer_folder,
+  privacy_folder,
+  terms_and_conditions_folder,
 
-  // everythingFolder,
-  // never_fapFolder,
-  // neverfap_deluxe_bibleFolder,
-  // contactFolder,
+  // everything_folder,
+  // never_fap_folder,
+  // neverfap_deluxe_bible_folder,
+  // contact_folder,
 }

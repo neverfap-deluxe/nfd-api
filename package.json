@@ -4,6 +4,9 @@
   "description": "<!-- # NeverFap Deluxe",
   "main": "index.js",
   "scripts": {
+    "pandoc": "pandoc compiled_text/bible.md --epub-metadata=epub.yaml -f epub -t markdown",
+    "bible": "node ./util/generateBible.js",
+    "kickstarter": "node ./util/generateSevenDayKickstarter.js",
     "generate-quotes": "node ./util/generateQuoteMD.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

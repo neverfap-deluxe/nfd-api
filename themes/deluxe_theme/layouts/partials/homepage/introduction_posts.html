@@ -1,5 +1,5 @@
 <div class="posts">
-  {{ range (where .Pages "Section" "articles") }}
+  {{ range (where .Pages "Section" "content_articles") }}
     {{ if in .Params.categories "introduction" }}
       {{/*  {{ if in .Params.tags "context" }}  */}}
         <a class="post" href="{{.Permalink}}">

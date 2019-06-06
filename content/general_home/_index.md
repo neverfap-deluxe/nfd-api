@@ -5,10 +5,10 @@
   draft: false
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "never fap", "NoFap Companion", "NoFap Companion", "neverfap deluxe", "nofap guide", "neverfap basics" ]
   categories: [ "" ]
-  slug: "/no-longer-home"
+  slug: "/"
 
-  pageId: ""
+  pageId: "dcbf0522-0f02-4e19-a608-da99b160b0bb"
 
 ---
 
-This is no longer home, and is no longer being used for that.
+Random content.

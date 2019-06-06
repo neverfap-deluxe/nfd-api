@@ -1,5 +1,5 @@
 {{ $category := .course_type }}
-{{ range (where .page.Site.Pages "Section" "courses") }}
+{{ range (where .page.Site.Pages "Section" "content_courses") }}
   {{ if eq .Params.category $category }}
     <div class="homepage__process single__homepage__process">    
       <a href="{{ .Permalink }}"><h3 class="homepage__process__title--courses">

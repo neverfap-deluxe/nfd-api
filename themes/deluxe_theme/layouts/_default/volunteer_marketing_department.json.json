@@ -1,0 +1,37 @@
+{{ define "response" }}
+{
+  "title": {{ .Title | jsonify }},
+  "page_id": {{ .Params.PageId | jsonify }},
+  "description": {{ .Description | jsonify }},
+  "content": {{ .Content | jsonify }},
+  "date": {{ .Date.Format "2006-01-02" | jsonify }},
+  "draft": {{ .Draft | jsonify }},
+  "slug": {{ .Params.Slug | jsonify }},
+  "categories": {{ .Params.Categories | jsonify }},
+  "tags": {{ .Params.Tags | jsonify }},
+  "permalink" : {{ .Permalink | jsonify }},
+  "section": {{ .Section | jsonify }},
+  "children": [
+    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "volunteer_marketing_department") }}
+      {{ if .Draft }}
+      {{ else }}
+        {{ if $index }}, {{ end }}
+        {
+          "title": {{ .Title | jsonify }},
+          "page_id": {{ .Params.PageId | jsonify }},
+          "description": {{ .Description | jsonify }},
+          "content": {{ .Content | jsonify }},
+          "date": {{ .Date.Format "2006-01-02" | jsonify }},
+          "draft": {{ .Draft | jsonify }},
+          "slug": {{ .Params.Slug | jsonify }},
+          "categories": {{ .Params.Categories | jsonify }},
+          "tags": {{ .Params.Tags | jsonify }},
+          "permalink" : {{ .Permalink | jsonify }},
+          "section": {{ .Section | jsonify }}
+        }
+      {{ end }}
+    {{ end }}
+  ]
+}
+{{ end }}
+
