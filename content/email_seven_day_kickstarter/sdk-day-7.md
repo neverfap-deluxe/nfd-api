@@ -14,7 +14,7 @@
 ---
 
 
-# Welcome to the community.
+## Welcome to the community.
 
 
 On our last day of this email series, we're going to talk about the power of community to help motivate us and help keep us inspired and on-track with our goals.
@@ -26,7 +26,7 @@ The funny thing is that this sentiment couldn't have been further from the truth
 NeverFap Deluxe offers a wide range of options for people to get involved with like-minded individuals, as well as interact with my dear self for tips, advice and all things porn recovery strategy.
 
 
-## Discord channel.
+### Discord channel.
 
 
 Most prominent is our Discord channel, a dedicated space for porn addicts to discuss strategy, seek support and keep track of their progress in our #accountability channel.
@@ -42,7 +42,7 @@ Certainly, it's worth checking out if you believe you would benefit from an acco
 {{< nfd_button "https://discord.gg/YETRkSj/" "Discord Channel" >}}
 
 
-## Subreddit.
+### Subreddit.
 
 
 In addition to the channel, we also have an official subreddit r/NeverFapDeluxe where you're more-than welcome to join in the conversation.
@@ -55,7 +55,7 @@ Certainly, your support is appreciated!
 {{< nfd_button "https://www.reddit.com/r/NeverFapDeluxe/" "Subreddit" >}}
 
 
-## Patreon.
+### Patreon.
 
 
 If you enjoyed this free email series, then perhaps you'd like to offer some support by pledging some money to our Patreon!
@@ -68,7 +68,7 @@ Certainly, my aim is to be able to work on this resource full-time, so any donat
 {{< nfd_button "https://patreon.com/NeverFapDeluxe/" "Patreon" >}}
 
 
-# Next steps.
+## Next steps.
 
 
 Well, that brings us to the end for the 7 Day NeverFap Deluxe Kickstarter!

@@ -13,7 +13,7 @@
 
 ---
 
-# Welcome to the meditation.
+## Welcome to the meditation.
 
 Now that you've developed an understanding of awareness and calmness, I can now talk to you about meditation.
 
@@ -26,7 +26,7 @@ Which is vital when you consider that most of us are beginning with a very limit
 And therefore are prone to giving up, or simply forgetting why we've bothered to commit to our mental health in the first place.
 
 
-## I find it interesting when I ask people about their core coping strategies for dealing with urges.
+### I find it interesting when I ask people about their core coping strategies for dealing with urges.
 
 
 Because a lot of the time they'll mention things like exercise, taking cold showers or simply avoiding pornography outright.
@@ -40,7 +40,7 @@ Meditation is effective not only because it directly targets our mind, but becau
 It doesn't matter how noisy or disruptive or even calm your surroundings are. All situations provide the perfect opportunity to practice meditation and develop control over our mind.
 
 
-## If I had to describe what meditation is, first and foremost I would say that it's a practice.
+### If I had to describe what meditation is, first and foremost I would say that it's a practice.
 
 
 A lot of people have developed the idea that meditation is this spiritual, esoteric thing which is highly complex and therefore requires years of study to truly understand.
@@ -52,7 +52,7 @@ Certainly, there is technique involved, however it's not out of anyone's reach, 
 Yep, that's literally all meditation is.
 
 
-## Observing what your body is feeling relative to the world around you.
+### Observing what your body is feeling relative to the world around you.
 
 
 Now, the reason why people struggle with meditation is funnily enough, because most people have no idea how to observe their senses.
@@ -66,7 +66,7 @@ Part of the reason is that modern humans have largely been taught to think, rath
 Which when left unchecked, leads to self-criticism, over-rationalisation, self-doubt, fear and ultimately, neglection of the actively conscious side of our brain.
 
 
-## Meditation on the other hand aims to rectify these deficiencies by teaching us to regain consciousness over our senses.
+### Meditation on the other hand aims to rectify these deficiencies by teaching us to regain consciousness over our senses.
 
 
 What a lot of people don't know is that observation is a fantastic counter-balance to thought.
@@ -80,7 +80,7 @@ On the other hand, if I had to describe what meditation does from a high-level p
 The way it does this is by teaching us to actively calm our mind, without judgement and without reaction, by focusing our attention on our senses.
 
 
-## Control is a funny thing, because a lot of us assume that it's about grabbing onto something and not allowing it to escape.
+### Control is a funny thing, because a lot of us assume that it's about grabbing onto something and not allowing it to escape.
 
 
 When in actuality, much like getting tense in reaction to stress, we're much less in control when pursuing this way of thinking, because we're resultingly giving up our freedom to choose.
@@ -100,7 +100,7 @@ Certainly, it's one of the most effective investments you can make for your ment
 While that covers most of the basics, I'd also like to provide you with a key tip which helped me immensely when I first started out.
 
 
-## Always aim to keep your mind as wide and open as possible when practicing meditation.
+### Always aim to keep your mind as wide and open as possible when practicing meditation.
 
 
 Often as a first response, people will get really tense in order to try and focus their mind.
@@ -112,7 +112,7 @@ Remember that calmness and meditation are about letting go, so relaxing and keep
 If you'd like to explore this topic further, I've written a few articles which explain some of these aspects in further detail:
 
 
-## The Importance Of Meditation For Porn Addiction
+### The Importance Of Meditation For Porn Addiction
 
 
 {{< nfd_button "https://neverfapdeluxe.com/articles/the-importance-of-meditation-for-porn-addiction/" "link" >}}
@@ -129,7 +129,7 @@ I hope you've gained a better understanding of meditation, as well as why it's i
 ---
 
 
-#Next steps.
+## Next steps.
 
 Now that we've covered all the central topics surrounding the NeverFap Deluxe Method of overcoming porn addiction.
 

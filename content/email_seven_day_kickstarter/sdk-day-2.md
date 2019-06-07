@@ -14,7 +14,7 @@
 ---
 
 
-# Welcome to the awareness.
+## Welcome to the awareness.
 
 Awareness is the first concept we'll discuss, because it's one of the most powerful tools you'll have in terms of helping you overcome your porn addiction.
 
@@ -26,7 +26,7 @@ Certainly, this is a huge simplification of what awareness is, let alone how we 
 
 In order to develop a strong foundation for this concept, we must first understand what awareness is.
 
-## Awareness is our ability to remain conscious.
+### Awareness is our ability to remain conscious.
 
 Unlike raw consciousness however, it relates to the extent to which we can remain conscious, inspite of what is happening both internal and external to us.
 For example, when you're experiencing and urge, or even depression.
@@ -38,7 +38,7 @@ Put simply, your lack of consistent consciousness is the reason why you're addic
 Not just your behaviours, but your emotions, your actions and everything else which is supporting your habit.
 
 
-## While we are all conscious, that is not to say that we are all necessarily aware.
+### While we are all conscious, that is not to say that we are all necessarily aware.
 
 
 Instead, awareness is a highly specialised skill, which is to say that awareness must be developed through practice.
@@ -52,7 +52,7 @@ This spectrum of awareness is the very reason why some people crumble in high-pr
 While both individuals are equally as conscious from the perspective of human biology, both can have very different levels of awareness.
 
 
-## One common test to see where you sit on this spectrum, is gauge how well and how long you can maintain your attention.
+### One common test to see where you sit on this spectrum, is gauge how well and how long you can maintain your attention.
 
 
 Clear of any thought, emotion, judgement or expectation.
@@ -69,7 +69,7 @@ Instead, you'll recognise the importance of remaining calm, act rationally and d
 This is all while your immediate mind and emotions are working against you, making it especially more difficult if you struggle to meditate normally when things are calm.
 
 
-## On the other hand, with a high level of awareness, these kinds of situations become trivial to deal with.
+### On the other hand, with a high level of awareness, these kinds of situations become trivial to deal with.
 
 
 Because you're instantly able to cut through those feelings and simply come to an instant state of calm.
@@ -80,7 +80,7 @@ Ultimately, it is what will allow you to assert control over yourself, in almost
 In fact, your awareness is the reason why you're reading this paragraph, because at some point you made the conscious decision to do something about your porn addiction.
 
 
-## Since awareness is a skill, what this means is that the only way we can obtain it is through practice.
+### Since awareness is a skill, what this means is that the only way we can obtain it is through practice.
 
 
 Only by practicing awareness can we learn to snap into consciousness at the worst of times, and therefore pursue healthy coping mechanisms without difficulty.
@@ -91,6 +91,6 @@ It will be key to your success.
 
 ---
 
-# Next steps.
+## Next steps.
 
 Tomorrow we'll go into some of the practices you can do to help you regain control over your mind.

@@ -14,7 +14,7 @@
 ---
 
 
-# Welcome to the trust.
+### Welcome to the trust.
 
 Before we begin exploring some of these high-level concepts.
 
@@ -27,7 +27,7 @@ Honestly, it's as simple as working through the practices on the website, commit
 There's no guesswork required. No logical analysis of your past in some attempt to uncover childhood trauma, and furthermore it's a process which doesn't discriminate against who you are, nor how much knowledge you may currently have about the porn addiction recovery process.
 
 
-## You simply follow the instructions and everything will literally fall into place.
+#### You simply follow the instructions and everything will literally fall into place.
 
 
 Now.
@@ -41,7 +41,7 @@ We fail to do the thing we said we would, even though we mentally committed to i
 In a lot of cases, we choose to outright ignore best practice because we think we know better, even going as far as to do absolutely everything but commit to the exercises, only to fall back into a cycle of relapse and then complain as if they could have never seen it coming.
 
 
-## In other words, a lot of us seem to have a difficult time trusting and sticking to the process.
+### In other words, a lot of us seem to have a difficult time trusting and sticking to the process.
 
 
 Perhaps it's simply not in your personality to follow instructions. Maybe you fail to appreciate the immediate benefits of these actions, and therefore assume that they're all pointless. Maybe you simply decided to stop committing, because you made the assumption that your mental health would be fine following one week of meditation.
@@ -57,7 +57,7 @@ Averages simply don't lies.
 So what I'm about to tell you is the absolute most important piece of advice you'll ever receive in regards to your porn addiction recovery:
 
 
-## Always trust the process.
+### Always trust the process.
 
 
 No matter how awful, average or fantastic you feel. No matter what you personally believe in regards to the process. No matter how far you think you are along. No matter what your mind is telling you contrary to the process.
@@ -82,7 +82,7 @@ You have been informed.
 ---
 
 
-# Next steps.
+## Next steps.
 
 Tomorrow we'll begin exploring the concept of awareness, and what this means for our porn addiction recovery.
 

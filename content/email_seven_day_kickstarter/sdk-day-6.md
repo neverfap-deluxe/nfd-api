@@ -14,7 +14,7 @@
 ---
 
 
-# Welcome to the consistency.
+## Welcome to the consistency.
 
 Today I want to talk about how best you can remain consistent throughout your porn addiction recovery journey.
 
@@ -25,7 +25,7 @@ Long enough that we can feel all range of different feelings, thoughts and emoti
 A key thing to understand about your porn recovery journey is that the reason why we're practicing these healthy coping mechanisms everday, isn't so we can become a master at meditation.
 
 
-## Instead, we're using those healthy coping mechanisms so we can cope more effectively for the rest of the day when we're not practicing them.
+### Instead, we're using those healthy coping mechanisms so we can cope more effectively for the rest of the day when we're not practicing them.
 
 
 Where a lot of people go wrong tend is that they then to treat recovery and life as two very separate processes. As if, by focusing on recovery it means we no longer need to focus on our life.
@@ -45,7 +45,7 @@ Although great in theory, these types of strategies rarely work.
 Essentially, consistency doesn't start with long-term goals, and neither do they end once we reach that goal.
 
 
-## Consistency begins with the small things you commit to each day, and your mentality needs to reflect this.
+### Consistency begins with the small things you commit to each day, and your mentality needs to reflect this.
 
 
 This is because change doesn't happen over 90 days. Change happens with each individual action you make, right now.
@@ -70,7 +70,7 @@ Of course, only you can make this happen. I can merely provide you with the guid
 ---
 
 
-# Next steps.
+## Next steps.
 
 Tomorrow we'll go into the power of community and how it can help you with your porn addiction recovery.
 

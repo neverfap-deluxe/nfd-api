@@ -14,7 +14,7 @@
 ---
 
 
-# Welcome to the relapse.
+## Welcome to the relapse.
 
 
 Today we're going to talk about relapse.
@@ -22,7 +22,7 @@ Today we're going to talk about relapse.
 Perhaps you may consider relapse to be a delicate topic to discuss, given I'm technically here to help you overcome porn addiction.
 
 
-## However the truth of the matter is that relapse will be inevitable for many of you.
+### However the truth of the matter is that relapse will be inevitable for many of you.
 
 
 For example, statistically speaking only around 20% of people stick with the #accountability program on our Discord channel for longer than a week.
@@ -36,7 +36,7 @@ It personally took me 5 years to overcome my porn addiction, and if you'd told m
 I probably would have laughed at you.
 
 
-## Ultimately, the purpose of this email is to point out that although the process of overcoming porn addiction is highly linear, the outcome is often not.
+### Ultimately, the purpose of this email is to point out that although the process of overcoming porn addiction is highly linear, the outcome is often not.
 
 
 Perhaps we buy into the false sense of self-confidence that comes with a week of meditation, only to relapse a few days later and therefore think it's all just a bunch of ballony.
@@ -50,7 +50,7 @@ Ultimately, there is only process and outcome.
 And if you think of everything as a process, then outcomes become rather predictable.
 
 
-## If you stick to the process of believing that it's not worth it, then the outcome of remaining a porn addict is really not all that extrodinary.
+### If you stick to the process of believing that it's not worth it, then the outcome of remaining a porn addict is really not all that extrodinary.
 
 
 Remaining addicted to porn merely becomes the outcome of that process, no different to sticking with meditation and overcoming porn addiction.
@@ -64,7 +64,7 @@ While there are a variety of possible factors why you may be relapsing, in gener
 Perhaps you don't quite understand how to meditate properly in order to make it effortless for you, or perhaps you haven't learnt how to calm down your mind.
 
 
-## The NeverFap Deluxe website is a great resource for you to learn why you may be making these mistakes, and certainly it's where a majority of my effort has been spent.
+### The NeverFap Deluxe website is a great resource for you to learn why you may be making these mistakes, and certainly it's where a majority of my effort has been spent.
 
 
 Personally I highly recommend checking out our #accountability program on our Discord channel, which is designed to keep you on-track.
@@ -72,7 +72,7 @@ Personally I highly recommend checking out our #accountability program on our Di
 For further information on this FREE program, please checkout our #accountability guidelines.
 
 
-## #accountability guidelines
+### #accountability guidelines
 
 
 {{< nfd_button "https://neverfapdeluxe.com/accountability-program/" "link" >}}
@@ -80,7 +80,7 @@ For further information on this FREE program, please checkout our #accountabilit
 
 ---
 
-# Next steps.
+## Next steps.
 
 Hopefully this email provides some additional context in regards to the porn addiction recovery process.
 

@@ -14,7 +14,7 @@
 ---
 
 
-# Welcome to the beginning.
+## Welcome to the beginning.
 
 Thank you for subscribing to the 7 Day NeverFap Deluxe Kickstarter.
 
@@ -28,7 +28,7 @@ So thank you for letting me take you on this journey, and together we can beat t
 
 ---
 
-# Next steps.
+## Next steps.
 
 Over the coming days we will be exploring various high-level concepts such as calmness, awareness and meditation.
 
