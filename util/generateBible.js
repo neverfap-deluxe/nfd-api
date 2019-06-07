@@ -147,23 +147,6 @@ const generateBible = async () => {
     throw new Error(error);
   }
 
-  // Seven Day Kickstarter
-  const seven_day_kickstarter_list = fs.readdirSync(kickstarter_folder);
-  let new_seven_day_kickstarter_list = [];
-  let new_seven_day_kickstarter_string = '';
-  try {
-    for (const practice_file_name of practices_list) {
-      const file = await fse.readFile(
-        `${practices_folder}/${practice_file_name}`,
-        'utf8'
-      );
-      const { new_list_item, new_string_item } = extractData(file, 'page');
-      new_seven_day_kickstarter_list.push(new_list_item);
-      new_seven_day_kickstarter_string += new_string_item;
-    }
-  } catch (error) {
-    throw new Error(error);
-  }
 
   // Legal
   const disclaimer_file = await fse.readFile(
@@ -213,7 +196,6 @@ const generateBible = async () => {
     new_guide_string,
     new_articles_string,
     new_practices_string,
-    new_seven_day_kickstarter_string,
     new_disclaimer_string,
     new_privacy_string,
     new_terms_and_conditions_string,

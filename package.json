@@ -12,7 +12,7 @@
 
     "bible": "npm run bible-md && npm run bible-pub",
     "bible-md": "node ./util/generateBible.js",
-    "bible-pub": "pandoc ./ebook/bible/bible.md --metadata-file ./ebook/bible/bible-metadata.yaml -o ./ebook/bible/bible.epub -f markdown -t epub",
+    "bible-pub": "pandoc ./ebook/bible/bible.md --toc --metadata-file ./ebook/bible/bible-metadata.yaml -o ./ebook/bible/bible.epub -f markdown -t epub",
 
     "kickstarter": "npm run kickstarter-md && npm run kickstarter-pub",
     "kickstarter-md": "node ./util/generateKickstarter.js",

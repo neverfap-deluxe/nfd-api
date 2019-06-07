@@ -2,7 +2,7 @@ const filterContent = (content) => (
   content
     .replace(/(?=<!--)([\s\S]*?)-->/g, '') // <!-- -->
     .replace(/<\/?a[^>]*>/g, '') // </ a tag references>
-    .replace(/{{< hr[123456] "/g, '### ')
+    .replace(/{{< hr[123456] "/g, '#### ')
     .replace(/>}}/g, '')
 );
 
@@ -50,7 +50,7 @@ const extractPageChildrenData = (file, type) => {
     return {
       new_list_item: { head, content, title, date },
       new_string_item: `# ${title}\n${date}\n\n\n`,
-    }  
+    }
   }
 
   return {

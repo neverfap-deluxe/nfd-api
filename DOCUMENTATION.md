@@ -14,6 +14,12 @@ https://www.npmjs.com/package/md-2-json
 
 npm i -S better-md-2-json
 
+<!-- create table of contents -->
+pandoc -t gfm --toc -o example-with-toc.md example.md
+
+
+
+
 <!-- # NeverFap Deluxe
 
 > Hugo
