@@ -4,10 +4,11 @@
   "description": "NeverFap Deluxe API",
   "main": "index.js",
   "scripts": {
-    "start": "hugo server -DF",
-    "cp_kickstarter": "cp ./content/email_seven_day_kickstarter/* ./themes/deluxe_theme/static/md/seven_day_kickstarter/*",
-    "cp_primer": "cp ./content/email_ten_day_primer/* ./themes/deluxe_theme/static/md/ten_day_primer/*",
-    "cp_challenge": "cp ./content/email_twenty_eight_day_challenge/* ./themes/deluxe_theme/static/md/twenty_eight_day_challenge/*",
+    "start": "npm run cp_kickstarter && npm run cp_primer && npm run cp_challenge && hugo server -DF",
+
+    "cp_kickstarter": "rsync -r content/email_seven_day_kickstarter themes/deluxe_theme/static/md",
+    "cp_primer": "rsync -r content/email_ten_day_meditation themes/deluxe_theme/static/md",
+    "cp_challenge": "rsync -r content/email_twenty_eight_day_awareness themes/deluxe_theme/static/md",
 
     "bible": "npm run bible-md && npm run bible-pub",
     "bible-md": "node ./util/generateBible.js",
@@ -25,7 +26,7 @@
     "challenge-md": "node ./util/generateChallenge.js",
     "challenge-pub": "pandoc ./ebook/challenge/challenge.md --metadata-file ./ebook/challenge/challenge-metadata.yaml -o ./ebook/challenge/challenge.epub -f markdown -t epub",
 
-    "generate-quotes": "node ./util/transformQuoteToMD.js",
+    "generate-quotes": "node ./util/transformQuoteToMD.js"
   },
   "repository": {
     "type": "git",
