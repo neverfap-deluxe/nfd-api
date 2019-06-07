@@ -109,6 +109,8 @@ const generateBible = async () => {
     throw new Error(error);
   }
 
+  // TODO - organise into categories
+
   // Articles
   const articles_list = fs.readdirSync(articles_folder);
   let new_articles_list = [];

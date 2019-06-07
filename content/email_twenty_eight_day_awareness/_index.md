@@ -12,4 +12,7 @@
 
 ---
 
-Twenty Eight Day Challenge.
+Hello reader!
+
+My name is Julius and I'm the creator of the NeverFap Deluxe and the 28 Day Awareness Challenge!
+

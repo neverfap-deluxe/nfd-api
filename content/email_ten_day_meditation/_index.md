@@ -12,4 +12,7 @@
 
 ---
 
-10 Day Meditation
+Hello reader!
+
+My name is Julius and I'm the creator of the NeverFap Deluxe and the 10 Day Meditation Primer!
+
