@@ -1,6 +1,6 @@
 ---
   title: "NeverFap Deluxe Bible"
-  description: "The NeverFap Deluxe Bible is a complete collection of all the text, email campaigns and advice on the website."
+  description: "The NeverFap Deluxe Bible is a complete collection of the NeverFap Deluxe Method of overcoming porn addiction."
   date: 2019-06-04
   draft: false
   tags: [ "everything", "porn addiction", "porn recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]

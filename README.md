@@ -2,27 +2,10 @@
 
 <<<<<<< HEAD
 Website: https://neverfapdeluxe.netlify.com/
-=======
-Setext and ATX style headings. 
-
-Setext
-A level-one heading
-===================
-
-A level-two heading
--------------------
-
-ATX
-## A level-two heading
-
-### A level-three heading ###
-
-
-
-
->>>>>>> changes
 
 This is where the content API is hosted for all our NeverFap Deluxe applications which take advantage of all the written content for NeverFap Deluxe!
+
+It is also where the eBook content is generated from.
 
 Released under the [GNU GPLv3 licence](https://github.com/neverfap-deluxe/nfd-api/blob/master/LICENSE).
 
@@ -30,7 +13,7 @@ Released under the [GNU GPLv3 licence](https://github.com/neverfap-deluxe/nfd-ap
 ## Tech
 
 Backend: Hugo
-Deployment: Netlify
+Deployment: Netlify, Pandoc, KindleGen
 
 
 ## Local Setup

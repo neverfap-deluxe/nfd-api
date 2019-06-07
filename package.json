@@ -1,13 +1,18 @@
 {
   "name": "deluxe-web",
   "version": "1.0.0",
-  "description": "<!-- # NeverFap Deluxe",
+  "description": "NeverFap Deluxe",
   "main": "index.js",
   "scripts": {
-    "pandoc": "pandoc compiled_text/bible.md --epub-metadata=epub.yaml -f epub -t markdown",
-    "bible": "node ./util/generateBible.js",
-    "kickstarter": "node ./util/generateSevenDayKickstarter.js",
-    "generate-quotes": "node ./util/generateQuoteMD.js",
+    "kickstarter": "npm run kickstarter-md && npm run kickstarter-pub",
+    "kickstarter-md": "node ./util/generateKickstarter.js",
+    "kickstarter-pub": "pandoc ./ebook/kickstarter.md --metadata-file ./ebook/kickstarter-metadata.yaml -o ./ebook/kickstarter.epub -f markdown -t epub",
+
+    "bible": "npm run bible-md && npm run bible-pub",
+    "bible-md": "node ./util/generateBible.js",
+    "bible-pub": "pandoc ./ebook/bible.md --metadata-file ./ebook/bible-metadata.yaml -o ./ebook/bible.epub -f markdown -t epub",
+
+    "generate-quotes": "node ./util/transformQuoteToMD.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

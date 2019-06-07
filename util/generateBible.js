@@ -39,9 +39,9 @@ const {
   // never_fap_folder,
   // neverfap_deluxe_bible_folder,
   // contact_folder,
-} = require('./generateBibleConst');
+} = require('./const');
 
-const { extractData } = require('./generateBibleUtil');
+const { extractData } = require('./util');
 
 const generateBible = async () => {
   // Introduction
@@ -61,8 +61,36 @@ const generateBible = async () => {
     throw new Error(error);
   }
 
-  // Guide
+  // About
+  const about_list = fs.readdirSync(about_folder);
+  let new_about_list = [];
+  let new_about_string = '';
+  try {
+    for (const about_file_name of about_list) {
+      const file = await fse.readFile(`${about_folder}/${about_file_name}`, 'utf8');
+      const { new_list_item, new_string_item } = extractData(file, "page_children");
+      new_about_list.push(new_list_item);
+      new_about_string += new_string_item;
+    }
+  } catch (error) {
+    throw new Error(error);
+  }
 
+
+  // Guide
+  const guide_list = fs.readdirSync(guide_folder);
+  let new_guide_list = [];
+  let new_guide_string = '';
+  try {
+    for (const guide_file_name of guide_list) {
+      const file = await fse.readFile(`${guide_folder}/${guide_file_name}`, 'utf8');
+      const { new_list_item, new_string_item } = extractData(file, "page_children");
+      new_guide_list.push(new_list_item);
+      new_guide_string += new_string_item;
+    }
+  } catch (error) {
+    throw new Error(error);
+  }
 
   // Articles
   const articles_list = fs.readdirSync(articles_folder);
@@ -93,8 +121,8 @@ const generateBible = async () => {
   } catch (error) {
     throw new Error(error);
   }
-  
-  // Seven Day Kickstarter 
+
+  // Seven Day Kickstarter
   const seven_day_kickstarter_list = fs.readdirSync(seven_day_kickstarter_folder);
   let new_seven_day_kickstarter_list = [];
   let new_seven_day_kickstarter_string = '';
@@ -110,35 +138,48 @@ const generateBible = async () => {
   }
 
   // Legal
-  const disclaimerFile = await fse.readFile(`${disclaimer_folder}/_index.md`, 'utf8');
+  const disclaimer_file = await fse.readFile(`${disclaimer_folder}/_index.md`, 'utf8');
   let new_disclaimer_string = '';
-  if (disclaimerFile) {
-    const { new_list_item, new_string_item } = extractData(disclaimerFile, "page");
+  if (disclaimer_file) {
+    const { new_list_item, new_string_item } = extractData(disclaimer_file, "page");
     new_disclaimer_string += new_string_item;
   }
-  const privacyFile = await fse.readFile(`${privacy_folder}/_index.md`, 'utf8');
+  const privacy_file = await fse.readFile(`${privacy_folder}/_index.md`, 'utf8');
   let new_privacy_string = '';
-  if (privacyFile) {
-    const { new_list_item, new_string_item } = extractData(privacyFile, "page");
+  if (privacy_file) {
+    const { new_list_item, new_string_item } = extractData(privacy_file, "page");
     new_privacy_string += new_string_item;
   }
-  const terms_and_conditionsFile = await fse.readFile(`${terms_and_conditions_folder}/_index.md`, 'utf8');
-  let new_termsAndConditions_string = '';
-  if (terms_and_conditionsFile) {
-    const { new_list_item, new_string_item } = extractData(terms_and_conditionsFile, "page");
-    new_termsAndConditions_string += new_string_item;
+  const terms_and_conditions_file = await fse.readFile(`${terms_and_conditions_folder}/_index.md`, 'utf8');
+  let new_terms_and_conditions_string = '';
+  if (terms_and_conditions_file) {
+    const { new_list_item, new_string_item } = extractData(terms_and_conditions_file, "page");
+    new_terms_and_conditions_string += new_string_item;
   }
+
 
   // TODO
   // Generate eBook Index
+  // Copyright
 
-  const final_string_array = [new_summary_string, new_articles_string, new_practices_string, new_disclaimer_string, new_privacy_string, new_termsAndConditions_string]
+  const website_content_array = [
+    new_summary_string,
+    new_about_string,
+    new_guide_string,
+    new_articles_string,
+    new_practices_string,
+    new_seven_day_kickstarter_string,
+    new_disclaimer_string,
+    new_privacy_string,
+    new_terms_and_conditions_string
+  ];
+  const final_string_array = website_content_array;
+
   let final_string = '';
   for (const final_string_section of final_string_array) {
     final_string += final_string_section;
   }
 
-  console.log(final_string)
   fse.outputFileSync(`compiled_text/bible.md`, final_string);
 };
 
