@@ -1,6 +1,6 @@
 ---
   title: "28 Day Awareness Challenge"
-  description: "Learn more about your awareness with our 28 day awareness challenge."
+  description: "Improve your capacity for awareness with our 28 Day Awareness Challenge."
   date: 2019-01-22
   draft: false
   tags: [ "28 day awareness challenge", "awareness", "challenge" ]
