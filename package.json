@@ -4,6 +4,11 @@
   "description": "NeverFap Deluxe API",
   "main": "index.js",
   "scripts": {
+    "start": "hugo server -DF",
+    "cp_kickstarter": "cp ./content/email_seven_day_kickstarter/* ./themes/deluxe_theme/static/md/seven_day_kickstarter/*",
+    "cp_primer": "cp ./content/email_ten_day_primer/* ./themes/deluxe_theme/static/md/ten_day_primer/*",
+    "cp_challenge": "cp ./content/email_twenty_eight_day_challenge/* ./themes/deluxe_theme/static/md/twenty_eight_day_challenge/*",
+
     "bible": "npm run bible-md && npm run bible-pub",
     "bible-md": "node ./util/generateBible.js",
     "bible-pub": "pandoc ./ebook/bible/bible.md --metadata-file ./ebook/bible/bible-metadata.yaml -o ./ebook/bible/bible.epub -f markdown -t epub",
