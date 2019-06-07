@@ -21,42 +21,62 @@
 
 In this guided meditation we explore observing the cloud of sensation that we feel within our body.
 
-<!-- 
+
+## Script
+
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
-My name is Julius Reade and today we are going to focus on the cloud of sensation that is your own conscious experience.
+My name is Julius Reade and today we are going to focus on our immediate conscious experience.
 
-So for this exercise I want you to bring yourself to a relaxed state.
+Which is to say, we are going to focus on what our mind is currently experiencing, sensing and feeling, right now.
+
+So for this exercise, I want you to let go of your mind and feel relaxed. 
+
+Relaxed, with your body.
 
 Preferably sitting in a comfortable position.
 
-And for this exercise I want you to leave your eyes open, so you can remain as aware as possible.
+I also want you to leave your eyes open, so you can remain as aware as possible.
 
-Essentially, what I want you to do, is to observe what your body is currently sensing.
-
-In other words, I want you to observe the cloud of sensation you are currently experiencing.
+Essentially, what I want you to do for this exercise, is to observe what your body is currently sensing.
 
 You may want to observe the light that is currently making contact with your eyes.
 
-You may want to observe the sensations you are currently feeling on your skin.
+You may want to observe the sensations your body is currently feeling.
 
-Perhaps, you may even want to focus your attention on the temperature of your body, or may even your own breath.
+You may even want to focus your attention on the intonation of your breath.
 
-How you observe yourself is entirely up to you.
-
+How you decide to observe yourself is entirely up to you.
 
 There is nothing to question. Nothing to think about.
 
-All we are doing is observing what our body is currently sensing.
+All we are doing is observing what we are currently sensing.
 
 
-If you are having difficulty observing your senses, then it most likely means you are instead preoccupied with thinking.
 
-An important thing to note about sensing, is that it's completely seperate from the process of thinking.
 
-When you are thinking, it means you're not engaged with your senses.
+An interesting thing to think about, is where these sensations may be coming from.
 
-Which is to say that it is impossible to both effectively think and sense at the same time.
+Is there a single source where these feelings originate?
+
+Is it possible to feel multiple senses at the same time?
+
+Personally speaking, it helps me to visualise my own feelings as a cloud of sensation. 
+
+Which is to say that there is no seperate body or mind, so-to-speak. 
+
+Instead, there is merely a cloud of sensation from which I am experiencing myself.
+
+Just an interesting take on this exercise,something to think about, as you practice this exercise.
+
+
+If you are having difficulty observing your senses, then perhaps you're struggling with this concept of observation.
+
+An important thing to note about observation, is that it's the opposite to thinking.
+
+Because when you are thinking, it means you're not engaged with your senses.
+
+Which in other words, is to say that it is impossible to effectively think and sense at the same time.
 
 Of course, the purpose of this exercise is to develop our skills of observation.
 
@@ -90,4 +110,4 @@ And continue to truly notice what your body is sensing.
 
 
 And that brings us to the end of this session. Thank you for listening. I wish you best of luck with your day. This has been. The neverfap Deluxe Guided meditation series.
- -->
+

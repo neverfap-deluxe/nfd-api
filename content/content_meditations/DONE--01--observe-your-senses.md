@@ -1,6 +1,6 @@
 ---
-  title: "EP1 - Observe What You See"
-  description: "NeverFap Deluxe Guided Meditation Series. Observe What You See"
+  title: "EP1 - Observe Your Senses"
+  description: "NeverFap Deluxe Guided Meditation Series. Observe Your Senses"
   date: 2019-06-01
   draft: false
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
