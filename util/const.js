@@ -1,4 +1,3 @@
-
 // GUIDES
 const home_folder = './content/general_home';
 const guide_folder = './content/guides_guide';
@@ -17,7 +16,9 @@ const practices_folder = './content/content_practices';
 // const updates_folder = './content/content_updates';
 
 // EMAIL CAMPAIGNS
-const seven_day_kickstarter_folder = './content/email_seven_day_kickstarter';
+const kickstarter_folder = './content/email_seven_day_kickstarter';
+const primer_folder = './content/email_ten_day_meditation';
+const challenge_folder = './content/email_twenty_eight_day_awareness_challenge';
 
 // EXTRANEOUS
 const about_folder = './content/general_about';
@@ -61,7 +62,8 @@ module.exports = {
   // blogs_folder,
   // updates_folder,
 
-  seven_day_kickstarter_folder,
+  kickstarter_folder,
+  primer_folder,
 
   about_folder,
   accountability_folder,
@@ -83,4 +85,4 @@ module.exports = {
   // never_fap_folder,
   // neverfap_deluxe_bible_folder,
   // contact_folder,
-}
+};

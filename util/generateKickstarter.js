@@ -1,6 +1,6 @@
 const {
   kickstarter_folder
-} = require('./util');
+} = require('./const');
 
 const generateKickstarter = async () => {
   // Kickstarter

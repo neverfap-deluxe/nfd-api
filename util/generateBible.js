@@ -17,7 +17,7 @@ const {
   // blogs_folder,
   // updates_folder,
 
-  seven_day_kickstarter_folder,
+  kickstarter_folder,
 
   about_folder,
   accountability_folder,
@@ -52,8 +52,14 @@ const generateBible = async () => {
   let new_summary_string = '';
   try {
     for (const summary_file_name of summary_list) {
-      const file = await fse.readFile(`${summary_folder}/${summary_file_name}`, 'utf8');
-      const { new_list_item, new_string_item } = extractData(file, "page_children");
+      const file = await fse.readFile(
+        `${summary_folder}/${summary_file_name}`,
+        'utf8'
+      );
+      const { new_list_item, new_string_item } = extractData(
+        file,
+        'page_children'
+      );
       new_summary_list.push(new_list_item);
       new_summary_string += new_string_item;
     }
@@ -67,8 +73,14 @@ const generateBible = async () => {
   let new_about_string = '';
   try {
     for (const about_file_name of about_list) {
-      const file = await fse.readFile(`${about_folder}/${about_file_name}`, 'utf8');
-      const { new_list_item, new_string_item } = extractData(file, "page_children");
+      const file = await fse.readFile(
+        `${about_folder}/${about_file_name}`,
+        'utf8'
+      );
+      const { new_list_item, new_string_item } = extractData(
+        file,
+        'page_children'
+      );
       new_about_list.push(new_list_item);
       new_about_string += new_string_item;
     }
@@ -76,15 +88,20 @@ const generateBible = async () => {
     throw new Error(error);
   }
 
-
   // Guide
   const guide_list = fs.readdirSync(guide_folder);
   let new_guide_list = [];
   let new_guide_string = '';
   try {
     for (const guide_file_name of guide_list) {
-      const file = await fse.readFile(`${guide_folder}/${guide_file_name}`, 'utf8');
-      const { new_list_item, new_string_item } = extractData(file, "page_children");
+      const file = await fse.readFile(
+        `${guide_folder}/${guide_file_name}`,
+        'utf8'
+      );
+      const { new_list_item, new_string_item } = extractData(
+        file,
+        'page_children'
+      );
       new_guide_list.push(new_list_item);
       new_guide_string += new_string_item;
     }
@@ -98,8 +115,11 @@ const generateBible = async () => {
   let new_articles_string = '';
   try {
     for (const article_file_name of articles_list) {
-      const file = await fse.readFile(`${articles_folder}/${article_file_name}`, 'utf8');
-      const { new_list_item, new_string_item } = extractData(file, "page");
+      const file = await fse.readFile(
+        `${articles_folder}/${article_file_name}`,
+        'utf8'
+      );
+      const { new_list_item, new_string_item } = extractData(file, 'page');
       new_articles_list.push(new_list_item);
       new_articles_string += new_string_item;
     }
@@ -113,8 +133,11 @@ const generateBible = async () => {
   let new_practices_string = '';
   try {
     for (const practice_file_name of practices_list) {
-      const file = await fse.readFile(`${practices_folder}/${practice_file_name}`, 'utf8');
-      const { new_list_item, new_string_item } = extractData(file, "page");
+      const file = await fse.readFile(
+        `${practices_folder}/${practice_file_name}`,
+        'utf8'
+      );
+      const { new_list_item, new_string_item } = extractData(file, 'page');
       new_practices_list.push(new_list_item);
       new_practices_string += new_string_item;
     }
@@ -123,13 +146,16 @@ const generateBible = async () => {
   }
 
   // Seven Day Kickstarter
-  const seven_day_kickstarter_list = fs.readdirSync(seven_day_kickstarter_folder);
+  const seven_day_kickstarter_list = fs.readdirSync(kickstarter_folder);
   let new_seven_day_kickstarter_list = [];
   let new_seven_day_kickstarter_string = '';
   try {
     for (const practice_file_name of practices_list) {
-      const file = await fse.readFile(`${practices_folder}/${practice_file_name}`, 'utf8');
-      const { new_list_item, new_string_item } = extractData(file, "page");
+      const file = await fse.readFile(
+        `${practices_folder}/${practice_file_name}`,
+        'utf8'
+      );
+      const { new_list_item, new_string_item } = extractData(file, 'page');
       new_seven_day_kickstarter_list.push(new_list_item);
       new_seven_day_kickstarter_string += new_string_item;
     }
@@ -138,25 +164,42 @@ const generateBible = async () => {
   }
 
   // Legal
-  const disclaimer_file = await fse.readFile(`${disclaimer_folder}/_index.md`, 'utf8');
+  const disclaimer_file = await fse.readFile(
+    `${disclaimer_folder}/_index.md`,
+    'utf8'
+  );
   let new_disclaimer_string = '';
   if (disclaimer_file) {
-    const { new_list_item, new_string_item } = extractData(disclaimer_file, "page");
+    const { new_list_item, new_string_item } = extractData(
+      disclaimer_file,
+      'page'
+    );
     new_disclaimer_string += new_string_item;
   }
-  const privacy_file = await fse.readFile(`${privacy_folder}/_index.md`, 'utf8');
+  const privacy_file = await fse.readFile(
+    `${privacy_folder}/_index.md`,
+    'utf8'
+  );
   let new_privacy_string = '';
   if (privacy_file) {
-    const { new_list_item, new_string_item } = extractData(privacy_file, "page");
+    const { new_list_item, new_string_item } = extractData(
+      privacy_file,
+      'page'
+    );
     new_privacy_string += new_string_item;
   }
-  const terms_and_conditions_file = await fse.readFile(`${terms_and_conditions_folder}/_index.md`, 'utf8');
+  const terms_and_conditions_file = await fse.readFile(
+    `${terms_and_conditions_folder}/_index.md`,
+    'utf8'
+  );
   let new_terms_and_conditions_string = '';
   if (terms_and_conditions_file) {
-    const { new_list_item, new_string_item } = extractData(terms_and_conditions_file, "page");
+    const { new_list_item, new_string_item } = extractData(
+      terms_and_conditions_file,
+      'page'
+    );
     new_terms_and_conditions_string += new_string_item;
   }
-
 
   // TODO
   // Generate eBook Index
@@ -171,7 +214,7 @@ const generateBible = async () => {
     new_seven_day_kickstarter_string,
     new_disclaimer_string,
     new_privacy_string,
-    new_terms_and_conditions_string
+    new_terms_and_conditions_string,
   ];
   const final_string_array = website_content_array;
 
