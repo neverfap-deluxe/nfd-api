@@ -22,6 +22,6 @@ It covers a range of core topics which are vital for helping you overcome your p
 
 We also feature a range of other useful guides and courses which become available if you sign up for a FREE NeverFap Deluxe Account.
 
-If you'd like to learn more about the 7 Day NeverFap Deluxe Kickstarter, I've put together this fancy <a class="link" href="/seven-day-neverfap-deluxe-kickstarter/">landing page</a> which explores in greater detail what you will learn.
+If you'd like to learn more about the 7 Day NeverFap Deluxe Kickstarter, I've put together this fancy <a class="link" href="https://neverfapdeluxe.com/seven-day-neverfap-deluxe-kickstarter/">landing page</a> which explores in greater detail what you will learn.
 
 It is highly recommended for newcomers to NeverFap Deluxe or those who would simply like more information on how best to approach their porn addiction.

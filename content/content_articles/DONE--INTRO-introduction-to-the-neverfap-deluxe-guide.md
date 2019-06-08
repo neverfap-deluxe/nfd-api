@@ -67,7 +67,7 @@ Perhaps it's a self-limiting belief. Perhaps you haven't developed your awarenes
 
 Perhaps you've never developed a single healthy coping mechanism at all in your entire life. 
 
-That's why I came up with <a class="link" href="/articles/the-five-fundamental-principles-of-neverfap">The Five Fundamental Principles of NeverFap</a> in order to help you better understand where you may be misunderstanding yourself.
+That's why I came up with <a class="link" href="https://neverfapdeluxe.com/articles/the-five-fundamental-principles-of-neverfap">The Five Fundamental Principles of NeverFap</a> in order to help you better understand where you may be misunderstanding yourself.
 
 {{< hr3 "Otherwise, known as denial." >}}
 
@@ -89,7 +89,7 @@ In this website, I hope to talk about every single aspect of how to successfully
 
 How it's actually an incredibly straight-forward process if you just follow the motions.
 
-I want to teach and explain all the core skills that I have come to learn over the past five years over <a class="link" href="/articles/my-personal-porn-recovery-journey">My Personal Porn Recovery Journey</a>, and I want to go into detail as to what these skills and understandings are.
+I want to teach and explain all the core skills that I have come to learn over the past five years over <a class="link" href="https://neverfapdeluxe.com/articles/my-personal-porn-recovery-journey">My Personal Porn Recovery Journey</a>, and I want to go into detail as to what these skills and understandings are.
 
 As for a non-exhaustive list of these skills, here are some of the things which you will learn which will help you overcome porn addiction:
 

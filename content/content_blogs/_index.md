@@ -16,7 +16,7 @@ Welcome to the NeverFap Deluxe Blogs section, where users, fans and strange kang
 
 All submissions are welcome! If you have an idea for a blog/article you've written, or perhaps you've already written one, feel free to send it over.
 
-<a class="link" href="/contact">Click here</a> to contact Daddy Reade!
+<a class="link" href="https://neverfapdeluxe.com/contact">Click here</a> to contact Daddy Reade!
 
 Otherwise, please send me a DM on Discord or Reddit.
 

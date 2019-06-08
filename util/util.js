@@ -1,3 +1,6 @@
+const TurndownService = require('turndown')
+const turndownService = new TurndownService()
+
 const filterContent = (content) => (
   content
     .replace(/(?=<!--)([\s\S]*?)-->/g, '') // <!-- -->
@@ -10,8 +13,9 @@ const getHead = (fileContents) => {
   const headRegex = new RegExp(/---(.|[\r\n])+---/);
   const head = fileContents.match(headRegex)[0];
 
-  const rawContent = fileContents.split('---')[2];
-  const content = filterContent(rawContent);
+  const rawWithHTMLContent = fileContents.split('---')[2];
+  const rawWithMDContent = turndownService.turndown(rawWithHTMLContent);
+  const content = filterContent(rawWithMDContent);
 
   return {
     head,

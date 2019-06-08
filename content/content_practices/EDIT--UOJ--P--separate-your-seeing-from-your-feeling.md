@@ -91,7 +91,7 @@ And the way we do this is by separating what we feel and what we see into two di
 
 Because currently we may have developed a habit of jumbling the two together, and not quite realising all the steps our mind makes internal when jumping to the conclusion of "I really want to watch porn".
 
-One thing to notice is that this exercise may seem incredibly similar to <a class="link" href="/practices/dissolve-your-visual-perception-of-reality/">Dissolve Your Visual Perception Of Reality</a>.
+One thing to notice is that this exercise may seem incredibly similar to <a class="link" href="https://neverfapdeluxe.com/practices/dissolve-your-visual-perception-of-reality/">Dissolve Your Visual Perception Of Reality</a>.
 
 Both exercises focus on manipulating our visual understanding in some way, however both exercises do completely different things.
 

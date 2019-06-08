@@ -27,7 +27,7 @@ Awareness forms the basis of all successful porn recovery outcomes.
 
 I'm yet to meet a single person who's been able to successfully overcome porn addiction without the use of meditation and other core observation exercises.
 
-You should already be familiar with <a class="link" href="/practices/observe-your-senses">Observe Your Senses</a> as part of the Introduction course, which should have been your first taste of the power that meditation can have over your mind.
+You should already be familiar with <a class="link" href="https://neverfapdeluxe.com/practices/observe-your-senses">Observe Your Senses</a> as part of the Introduction course, which should have been your first taste of the power that meditation can have over your mind.
 
 What the Awareness Over All course does is extend this practice into other areas, so you can understand different ways of practicing calm and feeling comfortable with yourself.
 

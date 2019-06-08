@@ -176,6 +176,6 @@ To create a vibrant resource for other porn addicts to learn from, so we no long
 
 The information is all here.
 
-<a class="link" href="/guide">Get started</a> today.
+<a class="link" href="https://neverfapdeluxe.com/guide">Get started</a> today.
 
 

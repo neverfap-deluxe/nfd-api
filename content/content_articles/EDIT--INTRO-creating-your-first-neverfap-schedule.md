@@ -39,7 +39,7 @@ This means understanding why these practices are effective, finding the time to 
 {{< hr3 "To start out, I recommend spending approximately 10 minutes per day practicing observation." >}}
 
 
-Specifically, the <a class="link" href="/practices/observe-your-senses">Observe Your Senses</a> practice which explains how to do this in the most simple way possible.
+Specifically, the <a class="link" href="https://neverfapdeluxe.com/practices/observe-your-senses">Observe Your Senses</a> practice which explains how to do this in the most simple way possible.
 
 Observation truly is the most fundamental practice you can do in terms of  developing your awarenes, and it is the practice we ask that you commit to every single day.
 
@@ -57,7 +57,7 @@ Whereas because observation is what I would consider "a default state of mind" i
 
 Certainly, while those other practices are incredibly useful in developing new perspectives, they are merely supplementary.
 
-The aim is that once you feel you have a grasp of <a class="link" href="/practices/observe-your-senses">Observe Your Senses</a>, you can start adding additional exercises to your routine.
+The aim is that once you feel you have a grasp of <a class="link" href="https://neverfapdeluxe.com/practices/observe-your-senses">Observe Your Senses</a>, you can start adding additional exercises to your routine.
 
 
 {{< hr3 "Personally speaking, I don't recommend doing more than one additional exercise at a time." >}}
@@ -145,7 +145,7 @@ So don't feel as if you need to commit all your time to doing this.
 
 Remember, it's not how much you practice that counts, but what you practice that matters.
 
-In particular, if you feel as if you're struggling to find time to commit to your mental health, I highly recommend reading my article <a class="link" href="/articles/you-always-have-time-for-your-mental-health">You Always Have Time For Your Mental Health</a>
+In particular, if you feel as if you're struggling to find time to commit to your mental health, I highly recommend reading my article <a class="link" href="https://neverfapdeluxe.com/articles/you-always-have-time-for-your-mental-health">You Always Have Time For Your Mental Health</a>
 
 
 <!-- Maybe have an example of a calendar -->

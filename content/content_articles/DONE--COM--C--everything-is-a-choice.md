@@ -151,6 +151,6 @@ Now, I'm not suggesting that you'll be able to face these feelings and emotions 
 {{< hr3 "However, what I am suggesting is that with the right guidance and practice, you can develop the ability to be able to." >}}
 
 
-Moving forward, I recommend checking out our list of <a class="link" href="">NeverFap Deluxe Practices</a> for a list of exercises you can do to develop awareness in your life.
+Moving forward, I recommend checking out our list of <a class="link" href="https://neverfapdeluxe.com/practices">NeverFap Deluxe Practices</a> for a list of exercises you can do to develop awareness in your life.
 
 

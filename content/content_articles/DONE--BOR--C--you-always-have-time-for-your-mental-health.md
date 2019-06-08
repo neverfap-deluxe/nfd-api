@@ -159,4 +159,4 @@ Because in the overall scheme of things, your mental health is what determines h
 
 So in the overall scheme of things, 10 minutes, or even an hour a day spent working on your mental health is miniscule, compared to the benefits it will provide in helping you better understand yourself.
 
-Moving forward, I recommend checking out our list of <a class="link" href="">NeverFap Deluxe Practices</a> for a list of exercises you can do to develop awareness in your life.
+Moving forward, I recommend checking out our list of <a class="link" href="https://neverfapdeluxe.com/practices">NeverFap Deluxe Practices</a> for a list of exercises you can do to develop awareness in your life.

@@ -87,7 +87,7 @@ The more you change and the closer you get to experiencing completely calmness i
 
 So what are you waiting for?
 
-I recommend checking out our list of <a class="link" href="">NeverFap Deluxe Practices</a> for a list of exercises you can do to develop calmness in your life.
+I recommend checking out our list of <a class="link" href="https://neverfapdeluxe.com/practices">NeverFap Deluxe Practices</a> for a list of exercises you can do to develop calmness in your life.
 
 <!-- 
 Often, our level of calmness is any single situation is usually a good indicator of our mental health at the time. 

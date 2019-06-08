@@ -27,11 +27,11 @@ It's designed to help you think about something which you ordinarily wouldn't th
 
 I suppose what I like about this particular variation of awareness exercise, is that it really points out how subtle our focus and attention can be.
 
-While there are much more demanding awareness exercises such as <a class="link" href="/practices/observe-your-senses">Observe Your Senses</a> this exercise highlights that focus and attention can still be achieved in the day-to-day of our busy lives.
+While there are much more demanding awareness exercises such as <a class="link" href="https://neverfapdeluxe.com/practices/observe-your-senses">Observe Your Senses</a> this exercise highlights that focus and attention can still be achieved in the day-to-day of our busy lives.
 
 And that's really the beauty of focus and attention. 
 
-As outlined in <a class="link" href="/practices/blind-attention">Blind Attention</a> it can be absolutely anything you want it to be, it simply comes down to your ability to conceptually think about it in everyday situations, and this exercise is designed to help you do that.
+As outlined in <a class="link" href="https://neverfapdeluxe.com/practices/blind-attention">Blind Attention</a> it can be absolutely anything you want it to be, it simply comes down to your ability to conceptually think about it in everyday situations, and this exercise is designed to help you do that.
 
 So without further ado, let's get to the meat of it.
 

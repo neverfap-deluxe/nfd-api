@@ -15,7 +15,7 @@ Welcome to the NeverFap Deluxe Accountabilty Program!
 
 This program has been designed to help you commit to your mental health, by providing you with the motivation and awareness to stick with your daily meditation and mental health routine.
 
-It has been designed with our <a class="link" href="<%= Application.get_env(:nfd, :social_discord_url) %>">#accountability</a> channel in mind as that's where most our participants are posting, however you're more than welcome to use this as a personal journaling technique.
+It has been designed with our <a class="link" href="https://discord.gg/YETRkSj">#accountability</a> channel in mind as that's where most our participants are posting, however you're more than welcome to use this as a personal journaling technique.
 
 Although certainly, part of the value comes from reading the healthy coping mechanisms others post about in the channel.
 
