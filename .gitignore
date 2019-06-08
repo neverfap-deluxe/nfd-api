@@ -1,2 +1,14 @@
 public
 node_modules
+
+ebook/bible/bible.epub
+ebook/bible/bible.md
+
+ebook/kickstarter/kickstarter.epub
+ebook/kickstarter/kickstarter.md
+
+ebook/challenge/challenge.epub
+ebook/challenge/challenge.md
+
+ebook/primer/primer.epub
+ebook/primer/primer.md

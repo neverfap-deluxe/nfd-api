@@ -25,7 +25,7 @@ const generatePrimer = async () => {
   }
 
   console.log(final_string);
-  fse.outputFileSync(`compiled_text/seven_day_primer.md`, final_string);
+  fse.outputFileSync(`ebook/primer/seven_day_primer.md`, final_string);
 };
 
 generatePrimer();

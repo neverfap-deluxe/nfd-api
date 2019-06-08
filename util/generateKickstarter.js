@@ -25,7 +25,7 @@ const generateKickstarter = async () => {
   }
 
   console.log(final_string);
-  fse.outputFileSync(`compiled_text/seven_day_kickstarter.md`, final_string);
+  fse.outputFileSync(`ebook/kickstarter/seven_day_kickstarter.md`, final_string);
 };
 
 generateKickstarter();

@@ -25,7 +25,7 @@ const generateChallenge = async () => {
   }
 
   console.log(final_string);
-  fse.outputFileSync(`compiled_text/seven_day_challenge.md`, final_string);
+  fse.outputFileSync(`ebook/challenge/seven_day_challenge.md`, final_string);
 };
 
 generateChallenge();

@@ -207,7 +207,7 @@ const generateBible = async () => {
     final_string += final_string_section;
   }
 
-  fse.outputFileSync(`compiled_text/bible.md`, final_string);
+  fse.outputFileSync(`ebook/bible/bible.md`, final_string);
 };
 
 generateBible();

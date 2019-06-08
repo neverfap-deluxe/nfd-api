@@ -30,7 +30,7 @@ Balance.
 In fact, everything on this website is designed to help you achieve balance in some way, and for good reason.
 
 
-### Balance makes overcoming your porn addiction trivial." 
+#### Balance makes overcoming your porn addiction trivial." 
 
 
 When you have balance you no longer experience urges, you no longer doubt yourself and most of all, you gain the power and freedom to live your life however you want.
@@ -44,7 +44,7 @@ So the process I'm about to share with you is designed to help you achieve balan
 Now in order to achieve this balance, porn addiction recovery actually comes down to one very simple idea.
 
 
-### Replacing Unhealthy Coping Mechanisms with Healthy Coping Mechanisms." 
+#### Replacing Unhealthy Coping Mechanisms with Healthy Coping Mechanisms." 
 
 
 Unhealthy Coping Mechanisms include things like watching porn and being judgemental/self-critical, while Healthy Coping Mechanisms include things like remaining calm and practicing meditation.
@@ -60,7 +60,7 @@ Now, the reason why you've most likely been struggling to overcome your porn add
 For example, you may have been attempting to distract yourself via youtube videos, cold showers, exercise etc. as a way to address your uncomfortable feelings, urges and emotions.
 
 
-### When instead you should have been learning to consciously engage and be present with your feelings and emotions." 
+#### When instead you should have been learning to consciously engage and be present with your feelings and emotions." 
 
 
 What a lot of people don't realise is that distraction is in fact one of the many Unhealthy Coping Mechanisms we practice on a daily basis which actually sabotages our ability to remain present with ourselves.
@@ -78,7 +78,7 @@ Only by consciously addressing our mental health in a meaningful way can we hope
 Now, the reason why Healthy Coping Mechanisms work is quite simple.
 
 
-### Healthy Coping Mechanisms work because they help you develop control over your mind." 
+#### Healthy Coping Mechanisms work because they help you develop control over your mind." 
 
 
 Control which allows you to dictate every single aspect of how you think, feel and behave, as you have been designed to do as a modern human being.
@@ -104,7 +104,7 @@ As opposed to something like meditation which doesn't affect your physical healt
 So what does it mean to have developed control over your mind?
 
 
-### Essentially, it means being able to consciously direct your mind however you like 100% of the time." 
+#### Essentially, it means being able to consciously direct your mind however you like 100% of the time." 
 
 
 Rather than have your subconscious behaviours, habits and desires dictate your outcomes in life.
@@ -172,7 +172,7 @@ To personal advice from existing porn addicts who's opinion seemed to change dep
 I mean, you wouldn't trust financial advice from someone with a gambling problem, so why should you treat your porn addiction recovery any differently?
 
 
-### That's when I knew there was an opportunity to create a website that could save people years attempting to overcome their porn addiction." 
+#### That's when I knew there was an opportunity to create a website that could save people years attempting to overcome their porn addiction." 
 
 
 Introducing NeverFap Deluxe.
@@ -197,7 +197,7 @@ In order to teach you to adapt to these healthy coping mechanisms, NeverFap Delu
 
 
 
-### Ultimately, I believe the process of overcoming porn addiction should be deceptively simple." 
+#### Ultimately, I believe the process of overcoming porn addiction should be deceptively simple." 
 
 
 With the right information and guidance, I believe overcoming porn addiction can be an incredibly straight-forward process that anyone can partake at any point in their life.
@@ -262,7 +262,7 @@ Coming to the realisation that you're a porn addict, as well as making the decis
 It will completely change the way you feel, think and perceive yourself and others.
 
 
-### But only if you're willing to trust the process." 
+#### But only if you're willing to trust the process." 
 
 
 What does this mean?
@@ -278,7 +278,7 @@ It means acknowledging how truly dire and self-destructive your current habit is
 For a literal number of years up until now.
 
 
-### In essence, it means distrusting yourself." 
+#### In essence, it means distrusting yourself." 
 
 
 Because up until now, you've put so much trust and faith into lying to yourself and supporting your addiction, that you're no longer able to identify what's truly wrong with you.
@@ -301,7 +301,7 @@ The same kind of denial that pedophiles and murderers use to justify their actio
 Just as you have until now.
 
 
-### This is why it takes up to 5 years on average for people to overcome their porn addiction." 
+#### This is why it takes up to 5 years on average for people to overcome their porn addiction." 
 
 
 Because they remain in denial about their problems, without truly realising the extent to which they maintain this facade.
@@ -329,7 +329,7 @@ You distrust the process. You lose the game.
 It's that simple.
 
 
-### On the other hand, if you commit to the steps you are 100% guaranteed to succeed." 
+#### On the other hand, if you commit to the steps you are 100% guaranteed to succeed." 
 
 
 There is absolutely no doubt about it.
@@ -355,7 +355,7 @@ Of course, I'm not expecting you to trust the process immediately.
 People will tend to distrust the process a few times, also known as the process of trial and error. But that's really up to you and how you choose to reason with your own denial.
 
 
-### Most commonly, the reason why people end up distrusting the process is because they eventually believe that they're somehow above it." 
+#### Most commonly, the reason why people end up distrusting the process is because they eventually believe that they're somehow above it." 
 
 
 For example, they may reach a point of being so mentally stable for so long, that they assume that they can just go back to old habits without being affected by it, as if they've become permanently cured.
@@ -587,7 +587,7 @@ It is highly recommended for newcomers to NeverFap Deluxe or those who would sim
 Meditation is the single most important thing you can do for your porn addiction.
 
 
-### In fact, ten minutes of meditation each day is probably enough for most porn addicts to overcome their addiction." 
+#### In fact, ten minutes of meditation each day is probably enough for most porn addicts to overcome their addiction." 
 
 
 No, seriously. 
@@ -601,7 +601,7 @@ Not to mention, most porn addicts have a hard time sticking to a routine of medi
 Which is why the other 99% of this website exists, to help you understand why it's absolutely vital.
 
 
-### Why meditation?" 
+#### Why meditation?" 
 
 
 Without diving too deep into the intricate details of how to meditate, nor necessarily what meditation actually is, let's start off by talking about what meditation effectively achieves. 
@@ -617,7 +617,7 @@ It's no longer stable.
 It's no longer doing exactly what you want it to.
 
 
-### What meditation allows you to do is develop the ability to maintain control over your mind." 
+#### What meditation allows you to do is develop the ability to maintain control over your mind." 
 
 
 So you no longer feel compelled to watch porn.
@@ -629,7 +629,7 @@ It may be that you never developed those healthy coping mechanisms growing up, a
 Certainly, this is the category that most people fit into.
 
 
-### Meditation and Porn addiction" 
+#### Meditation and Porn addiction" 
 
 
 Overcoming porn addiction is actually a relatively straight-forward process.
@@ -641,7 +641,7 @@ In terms of developing control over your emotions, it means practicing meditatio
 In terms of understanding your own emotions, it's about having the capacity to not take your own emotions personally, and to remain calm when you feel as if your emotions are out of your control.
 
 
-### If you can manage those two things, you'll more-or-less be 90% of the way there to overcoming your porn addiction." 
+#### If you can manage those two things, you'll more-or-less be 90% of the way there to overcoming your porn addiction." 
 
 
 Yet most people struggle.
@@ -655,7 +655,7 @@ They don't know how to maintain control over their minds, and yet they wonder wh
 This is precisely the reason why meditation is important, because it provides us with the ability to face these challenges without hesitation or fear.
 
 
-### When you have control over your emotions, it makes situations where you don't necessarily feel in control manageable." 
+#### When you have control over your emotions, it makes situations where you don't necessarily feel in control manageable." 
 
 
 Yes. 
@@ -671,7 +671,7 @@ So what exactly are some of the skills and practices of meditation?
 For starters, there's observation. 
 
 
-### Observation is perhaps the most fundamental skill you can learn in regards to developing your awareness." 
+#### Observation is perhaps the most fundamental skill you can learn in regards to developing your awareness." 
 
 
 It is the skill we will focus on and develop most throughout the practices here on NeverFap Deluxe.
@@ -712,7 +712,7 @@ So what ends ups happening is that become selective about what we view as necess
 Maybe we don’t exercise, because we’d rather be studying or playing video games. Maybe we work or study too hard, because we don’t see the value in meditating or relaxing.
 
 
-### In doing this, we make significant compromises to our ability to function." 
+#### In doing this, we make significant compromises to our ability to function." 
 
 
 And what’s really disturbing, is how utterly unaware we are of how much we compromise in terms of our ability to function, often without truly being aware of it.
@@ -722,7 +722,7 @@ Certainly, I’ve been there.
 And only now in retrospect do I realise how I was making something like giving up porn addiction almost impossible due to my own negative attitudes towards self-care.
 
 
-### In other words, if you’re struggling with your porn addiction it may be because you’re not paying your maintenance tax in full." 
+#### In other words, if you’re struggling with your porn addiction it may be because you’re not paying your maintenance tax in full." 
 
 
 In order to demonstrate this, I’m first going to talk about where I personally was making those compromises in my life.
@@ -732,7 +732,7 @@ And then explain the effect it was having on my ability to cope.
 As well as what successfully paying the maintenance tax actually entails.
 
 
-### Facing the consequences of imbalance" 
+#### Facing the consequences of imbalance" 
 
 
 Prior to this realisation, I was under the impression that I was relatively functional and healthy. 
@@ -760,7 +760,7 @@ Of course, you may have an opposite problem. You may not be motivated enough.
 Everyone is different in this regard, and this website is designed to help you figure out exactly where your weaknesses are.
 
 
-### Change in attitude" 
+#### Change in attitude" 
 
 
 Embracing self-care requires a change in attitude. 
@@ -775,7 +775,7 @@ Only by paying the maintanence tax can we ensure a) Our mental health remains in
 
 And that really is the key point people completely miss:
 
-### By respecting balance in our life, we can have everything we want without the compromise." 
+#### By respecting balance in our life, we can have everything we want without the compromise." 
 
 It simply requires respecting long-term outcomes, as opposed to hesitant, short-term outcomes.
 
@@ -797,7 +797,7 @@ It is a hard requirement and by avoiding self-care, we delay so many positive as
 There's one excuse that I often see porn addicts come up with in regards to their addiction.
 
 
-### I don't have enough time." 
+#### I don't have enough time." 
 
 
 Usually, it means time to spend towards addressing their porn addiction or mental health issues.
@@ -809,7 +809,7 @@ It's an attitude which quite ironically, prevents us from actually focusing on w
 Which is why we're talking about it today.
 
 
-### Because if you did have enough time to spend towards addressing your porn addiction, you simply wouldn't be a porn addict." 
+#### Because if you did have enough time to spend towards addressing your porn addiction, you simply wouldn't be a porn addict." 
 
 
 So what exactly does it mean to not have enough time?
@@ -829,7 +829,7 @@ Regardless of your interpretation, I'm here to tell you that thinking that you d
 That is correct.
 
 
-### If you believe that you do not have enough time for your mental health then you have a mental disorder." 
+#### If you believe that you do not have enough time for your mental health then you have a mental disorder." 
 
 
 It's a mental disorder because it's a choice to willingly neglect one's mental health, due to habit and desire.
@@ -843,7 +843,7 @@ The moment you compromise on your mental health is when you introduce the potent
 Although perhaps you'd rather suffer just to satisfy that feeling of productivity or get that extra bit further with your ambitions.
 
 
-### Again, ask yourself how this mentality isn't a sign of having a disorder." 
+#### Again, ask yourself how this mentality isn't a sign of having a disorder." 
 
 
 Part of this disorder consists of valuing time over quality of life.
@@ -862,7 +862,7 @@ Without our mental health, days may seem like years in situations we largely fin
 Without our mental health, life becomes very difficult.
 
 
-### Of course, there's a reason why poor mental health is often described as a self-repeating cycle." 
+#### Of course, there's a reason why poor mental health is often described as a self-repeating cycle." 
 
 
 We choose to obsess over something which we believe will make us happy i.e. addiction, uncheked ambitions etc.
@@ -874,7 +874,7 @@ We end up feeling empty once the obsession wears off, inspite of all the time we
 Then we go and repeat the cycle again and again and again.
 
 
-### And to be honest, it's a bit shit." 
+#### And to be honest, it's a bit shit." 
 
 
 I'm sure you think so too.
@@ -888,7 +888,7 @@ Certainly, I don't blame you.
 It's hard to evaluate anything when your emotions are completely out of whack, and you genuinely believe that pursuing the same behaviours again and again will truly be "different this time" despite producing the exact same results of hope and depression in what seems to be a never ending cycle.
 
 
-### But let me say that there's never a bad time to commit to your mental health." 
+#### But let me say that there's never a bad time to commit to your mental health." 
 
 
 One key thing to understand about mental health is that it's accumulative.
@@ -904,7 +904,7 @@ Realising that mental health isn't achieved by what you don't do, but rather by 
 
 
 
-### Honestly, spending ten minutes at night before bed meditating is all most people need." 
+#### Honestly, spending ten minutes at night before bed meditating is all most people need." 
 
 Ultimately, however.
 
@@ -919,7 +919,7 @@ Which is to say that your achievements outside of mental health will never serve
 And when you do decide to work on your mental health, you may very well discover that everything you've pursued up until then has been utterly pointless.
 
 
-### From this point of view, you have nothing to gain from neglecting your mental health." 
+#### From this point of view, you have nothing to gain from neglecting your mental health." 
 
 
 No matter what other benefits those other achievements may provide.
@@ -945,7 +945,7 @@ Specifically, how it relates to the Five Fundamental Principles of NeverFap.
 The first principle that I almost always introduce to people is <u>Choice over mind</u>, because it is the one principle that most porn addicts (usually) find the most profound. 
 
 
-### Choice over mind relates to this idea that we have full control over how we react in life." 
+#### Choice over mind relates to this idea that we have full control over how we react in life." 
 
 
 It's an important concept to understand, because once you fully embrace the power of choice in life, you can learn to overcome life's most difficult challenges.
@@ -959,7 +959,7 @@ Because if you truly understood the power you currently have to change as an ind
 So let's consider this your formal re-education.
 
 
-### What is choice?" 
+#### What is choice?" 
 
 
 It begs to state that everything in life is a choice.
@@ -975,7 +975,7 @@ We don't get to choose our race. We don't get to choose how others live their li
 And that's okay.
 
 
-### Because I'm here to tell you that none of this matters." 
+#### Because I'm here to tell you that none of this matters." 
 
 
 Here's the thing.
@@ -985,7 +985,7 @@ You do have one choice which is so powerful that it effectively overrides every 
 In part, because it is the only choice you truly have control over.
 
 
-### You get to choose how you want to respond." 
+#### You get to choose how you want to respond." 
 
 
 And it's a choice which overrides every other choice imaginable. 
@@ -1003,7 +1003,7 @@ You no longer become victim, or rather you realise that you never were victim, o
 So what does it being able to respond actually mean?
 
 
-### Put simply, your ability to respond is the most powerful choice you have, because it is the only choice you as an individual can actually make." 
+#### Put simply, your ability to respond is the most powerful choice you have, because it is the only choice you as an individual can actually make." 
 
 
 At no point do you have absolute certainty over any outcome in life. 
@@ -1015,7 +1015,7 @@ If your ability to respond is the only true choice that you have, then it signif
 Because response happens through actions, and actions are the only means through which we can change as human beings. 
 
 
-### Which really is to say that you have full control over who you want to become." 
+#### Which really is to say that you have full control over who you want to become." 
 
 
 In addition, it also signifies that we are all equal in terms of our ability to take action.
@@ -1029,13 +1029,13 @@ From a potential point of view, we really are no different.
 We both have the exact same potential to respond on a low level with our thoughts and emotions.
 
 
-### The only difference between you and me is in the actions that we've taken over time." 
+#### The only difference between you and me is in the actions that we've taken over time." 
  
 
 Which is to say that if you responded in the same way that I did, then you also would not be a porn addict.
 
 
-### Success and your actions" 
+#### Success and your actions" 
 
 
 The important thing to understand about success is that it doesn't happen at a high level.
@@ -1055,7 +1055,7 @@ Success is meditating daily so that we can learn the skills to properly address 
 Remember.
 
 
-### The only difference between someone who has successfully overcome porn addiction and someone who continually fails, is that the person who overcame porn addiction took the right actions to get there." 
+#### The only difference between someone who has successfully overcome porn addiction and someone who continually fails, is that the person who overcame porn addiction took the right actions to get there." 
 
 
 Porn addicts really are no different from each other.
@@ -1067,7 +1067,7 @@ The only difference is in how they choose to respond to these feelings and emoti
 Now, I'm not suggesting that you'll be able to face these feelings and emotions by merely being aware of them.
 
 
-### However, what I am suggesting is that with the right guidance and practice, you can develop the ability to be able to." 
+#### However, what I am suggesting is that with the right guidance and practice, you can develop the ability to be able to." 
 
 
 Moving forward, I recommend checking out our list of NeverFap Deluxe Practices for a list of exercises you can do to develop awareness in your life.
@@ -1092,7 +1092,7 @@ We can do all sorts of things to try and understand why we humans are the way we
 
 Because the truth is, overcoming pornography addiction is deceptively simple.
 
-### From a process point of view, I spend around 40 minutes each day practicing meditation." 
+#### From a process point of view, I spend around 40 minutes each day practicing meditation." 
 
 And that’s literally all I need to maintain control over my mind.
 
@@ -1104,13 +1104,13 @@ It's just not how my mind works anymore.
 
 And it's so empowering.
 
-### The point is that overcoming porn addiction is totally achievable." 
+#### The point is that overcoming porn addiction is totally achievable." 
 
 And I want to show you how.
 
 Ultimately, we have one rule here at NeverFap: 
 
-### Practice. Practice. Practice." 
+#### Practice. Practice. Practice." 
 
 Without practicing the core skills that will help you overcome porn addiction, you simply cannot overcome porn addiction. I don't know how else to say it.
 
@@ -1120,7 +1120,7 @@ You know it. I know it. Everyone knows it.
 
 So what's stopping you?
 
-### Cravings. Fear. Doubt. Anxiety. Addiction." 
+#### Cravings. Fear. Doubt. Anxiety. Addiction." 
 
 Which is to say there's some kind of internal misunderstanding which is preventing you from doing what you want in your mind. 
 
@@ -1132,7 +1132,7 @@ Perhaps you've never developed a single healthy coping mechanism at all in your 
 
 That's why I came up with The Five Fundamental Principles of NeverFap in order to help you better understand where you may be misunderstanding yourself.
 
-### Otherwise, known as denial." 
+#### Otherwise, known as denial." 
 
 If we had to break down what people tend to find difficult in regards to overcoming their porn addiction. 
 
@@ -1144,7 +1144,7 @@ Which can be incredibly difficult, if not outright confusing when we don't truly
 
 We'll be feeling completely confident one week into our recovery, only to face what seems like an insurmountable wall of fear and doubt, which inevitably leads to relpase.
 
-### Well, that’s why I decided to create NeverFap Deluxe." 
+#### Well, that’s why I decided to create NeverFap Deluxe." 
 
 My intention is to help you fill in all the gaps, so you don’t have to run around like a headless chook, the same way that I did for five years.
 
@@ -1172,7 +1172,7 @@ As for a non-exhaustive list of these skills, here are some of the things which 
 
 I explore each of these aspects (and more) in detail, as well as why they are so crucial for in regards to successfully overcoming porn addiction.
 
-### Personally speaking it took me around 5 years of trial and error before everything finally clicked in my head." 
+#### Personally speaking it took me around 5 years of trial and error before everything finally clicked in my head." 
 
 And I’m now at a point where porn has no control over me.
 
@@ -1223,7 +1223,7 @@ It then wasn't until I was around 20 years old that I began to recognise that po
 A problem which I was determined to understand and overcome. 
 
 
-### Age 25. October 20th 2018." 
+#### Age 25. October 20th 2018." 
 
 The last time in my entire life that I will have ever masturbated to, or ever watched porn.
 
@@ -1263,7 +1263,7 @@ I suppose there were two main things that happened, which helped me better under
 
 And it all happened within the space of a few weeks. 
 
-### For starters I had a breakdown." 
+#### For starters I had a breakdown." 
 
 
 You see, I suffer from a condition from Bipolar Disorder, and it was something I hadn't told my partner about. 
@@ -1273,7 +1273,7 @@ In part, because I just assumed she already knew, but primarily because I'm not 
 However, one day I was feeling particularly vulnerable and I realised one very important thing, which I maintain is important to this day:
 
 
-### It's impossible to do it alone." 
+#### It's impossible to do it alone." 
 
 
 The reason why you break down is because for most people, it's almost impossible to admit that you have a problem, and so mentally you just turn to jelly. 
@@ -1287,7 +1287,7 @@ Ultimately, a few things happened as a result.
 Now that she was aware of my disorder, I was now able to be honest about all the things I was hiding from her. In particular, my porn addiction which was in part a coping mechanism for my Bipolar.
 
 
-### Which as a result, gave me this surreal confidence to actually address my porn addiction." 
+#### Which as a result, gave me this surreal confidence to actually address my porn addiction." 
 
 
 For whatever reason, when you get everything off your chest, it just completely changes everything.
@@ -1300,14 +1300,14 @@ In addition, it also meant that I could ask for help and support when required. 
 
 Understanding and recognising my disorder, which I'd previously dismissed, helped me better understand my emotions and therefore, manage them a lot more easily. 
 
-### I finally felt free to just move on with my life." 
+#### I finally felt free to just move on with my life." 
 
 And it's impossible to understate what that feels like.
 
 The second thing which happened, which came about in large part due to my breakdown and coming out about my Bipolar, was equally if not more profound in terms of addressing my porn addiction. 
 
 
-### Essentially, I'd discovered this thing called meditation." 
+#### Essentially, I'd discovered this thing called meditation." 
 
 
 The funny thing about meditation is that I'd tried doing it through out various phases of my life to no avail.
@@ -1323,7 +1323,7 @@ A friend at work had mentioned the benefits of meditation in his life, as well a
 So I decided to do this course, which was basically a 10 minute commitment before bed each day, and my gosh. 
 
 
-### I can happily say that within two weeks of meditating I'd learnt more about how to manage my porn addiction than in absolutely everything I've done in the past five years to try and curb my addiction." 
+#### I can happily say that within two weeks of meditating I'd learnt more about how to manage my porn addiction than in absolutely everything I've done in the past five years to try and curb my addiction." 
 
 
 All because of a simple 10 minute practice before bed. 
@@ -1337,7 +1337,7 @@ Primarily, the practice of meditation provided me with the ability to fully cont
 It allowed me to relax my mind at will. To prevent incessant thinking and most importantly, not take my emotions and what I was feeling personally.
 
 
-### If I had one piece of advice to anyone wanting to seriously overcome their porn addiction, it would be to start meditating today." 
+#### If I had one piece of advice to anyone wanting to seriously overcome their porn addiction, it would be to start meditating today." 
 
 
 It is possibly the most essential thing you can do to assist you in overcoming porn addiction. 
@@ -1346,7 +1346,7 @@ Of course, what's also important is how you meditate, and that's precisely what 
 
 For example, a form of meditation I personally find incredibly useful is walking in public, and simply avoiding placing our attention on people walking past us.
 
-### The next steps in my journey" 
+#### The next steps in my journey" 
 
 Now that I've managed to successfully overcome porn addiction, I want to help you do the same.
 
@@ -1379,7 +1379,7 @@ For more of a relaxed introduction, I highly recommend reading my article The Fi
 Before we begin, we must ask ourselves a very important question:
 
 
-### What is a fundamental principle and what makes it fundamental?" 
+#### What is a fundamental principle and what makes it fundamental?" 
 
 
 A fundamental principle is a hard truth. It is something which remains true irrespective of whether you agree with it, how you feel about it, nor even how you understand or interpret it.
@@ -1394,7 +1394,7 @@ My intention on the other hand is very clear. I am here to help you overcome por
 
 So in order to do this, we must first set some ground rules and truly understand exactly what we're getting ourselves into.
 
-### Ground rules" 
+#### Ground rules" 
 
 
 The key thing to understand about fundamental principles is that they are not subject to open-ended thinking.
@@ -1416,7 +1416,7 @@ Hard truths are not open to subjective questioning. Certainly, you're more than 
 In fact, there's a very specific word that is used to describe when people refuse to accept the fundamental basis of reality.
 
 
-### It's called denial." 
+#### It's called denial." 
 
 
 Whether you realise it or not, the reason why you are a porn addict is because you are in denial about some aspect of your life.
@@ -1430,7 +1430,7 @@ As a former porn addict, I encourage you to embrace the idea that everything you
 You cannot get better if you cannot first recognise that you have a problem.
 
 
-### The Five Fundamental Principles of NeverFap" 
+#### The Five Fundamental Principles of NeverFap" 
 
 
 On a superficial level, none of these principles seem to have anything to do with addressing porn addiction.
@@ -1456,7 +1456,7 @@ What **Choice over mind** iterates is the fact that you have complete control ov
 This is irrespective of whether you currently feel in control of your mind, whether you agree it's possible to have full control over your mind, or whether you've even experienced having full control over your mind.
 
 
-### What's important to understand is that your mind is fundamentally capable of being controlled." 
+#### What's important to understand is that your mind is fundamentally capable of being controlled." 
 
 
 I would personally say that this fundamental principle is both equal parts understanding and practice.
@@ -1483,7 +1483,7 @@ In other words, denial.
 
 What **Balance over reward** maintains is this idea that we must prioritise balance over our immediate wants and goals.
 
-### Often we become so affixated with something, either through obsession or neglect, we fail to consider the wider ramifications of our actions." 
+#### Often we become so affixated with something, either through obsession or neglect, we fail to consider the wider ramifications of our actions." 
 
 So we cut corners in order to achieve or experience what we want, only to face the consequences of our actions later.
 
@@ -1493,7 +1493,7 @@ For example, overworking ourselves is a prominent example of cutting corners in 
 
 We stay up late to finish what we're working on, ruining our sleep schedule and ability to regulate stress. We most cases, resort to caffeine and porn to keep us energised, resulting in addiction and dysfunction.
 
-### And yet, we're so focused on the outcome that we don't quite realise what we're even doing wrong." 
+#### And yet, we're so focused on the outcome that we don't quite realise what we're even doing wrong." 
 
 Rather, we feel justified in our actions, inspite of the fact that we recognise that we may have a problem with addiction or our mental health.
 
@@ -1504,7 +1504,7 @@ Instead, by learning to respect the principle of balance in your life, you can a
 I think part of the problem is that people fall into the trap of believing they're inherently unique when it comes to cutting corners.
 
 
-### They think they can somehow \"cheat\" the system and come out ahead." 
+#### They think they can somehow \"cheat\" the system and come out ahead." 
 
 Put simply, it's impossible.
 
@@ -1532,7 +1532,7 @@ What **Awareness over all** maintains is that having awareness over our actions 
 
 Without full awareness, we simply cannot hope to act with any amount of intention, nor understand the responsibility we have over them.
 
-### Instead, we allow our habitual thoughts, emotions and beliefs to take over and continue their self-destructive patterns." 
+#### Instead, we allow our habitual thoughts, emotions and beliefs to take over and continue their self-destructive patterns." 
 
 I think the reason why most people struggle with this concept of awareness is because:
 
@@ -1543,7 +1543,7 @@ b) Most people struggle to even understand what this concept of awareness actual
 In reality, awareness is actually really simple.
 
 
-### Awareness is your ability to sense the world around you." 
+#### Awareness is your ability to sense the world around you." 
 
 That's literally it.
 
@@ -1551,7 +1551,7 @@ It's not about focusing your mind or trying really hard not to think, or even tr
 
 Certainly, they may be useful skills and they may be a consequence of practicing awareness, however the actual action of awareness itself is simple.
 
-### It is simply being present with your senses." 
+#### It is simply being present with your senses." 
 
 Pretty neat, huh?
 
@@ -1568,7 +1568,7 @@ Essentially, the basis of this principle is that the simplest path is often the 
 And as humans, we instinctly do what we find most simple, either for better or worse.
 
 
-### Therefore, solutions which are simple by design are going to be more effective than solutions which are convoluted." 
+#### Therefore, solutions which are simple by design are going to be more effective than solutions which are convoluted." 
 
 
 It's the reason why I personally follow the paleo diet and only eat one meal a day.
@@ -1578,7 +1578,7 @@ Doing this is vastly more simple than counting calories, obsessing over when I c
 In other words, simple is often easy.
 
 
-### Certainly, part of the reason why we're addicted to porn in the first place is because it's the easy thing to do." 
+#### Certainly, part of the reason why we're addicted to porn in the first place is because it's the easy thing to do." 
 
 
 Back to the principle itself, what <u>**Struggle over none**</u> relates to is this idea that if you're really struggling with someone, then you're probably not doing it right.
@@ -1590,7 +1590,7 @@ For example, understanding that porn recovery isn't about fighting yourself or f
 If at any point you feel like you have to force yourself to do something, then it indicates that you're doing something incorrectly or more importantly, not actually recovering from porn addiction.
 
 
-### Because life without porn isn't a struggle." 
+#### Because life without porn isn't a struggle." 
 
 
 It's actually one of the most liberating and empowering things you can do.
@@ -1608,7 +1608,7 @@ Much like Balance over reward, this is one of those principles that people tend 
 <u>Uncondition over judgement</u> is about pursing acceptance over judgement.
 
 
-### What a lot of people don't realise is that judgement is a mental trap." 
+#### What a lot of people don't realise is that judgement is a mental trap." 
 
 
 Because when you make a judgement, you essentially trap yourself into a limited point of view.
@@ -1621,7 +1621,7 @@ We make thousands of judgements each and everyday, each time moulding our percep
 
 And when we make enough of these judgements, they can form into habits of belief which prevent us from exercising awareness.
 
-### After all, how can you be aware of what's going on in your mind, if your mind is in a constant state of habitual thinking?" 
+#### After all, how can you be aware of what's going on in your mind, if your mind is in a constant state of habitual thinking?" 
 
 The more judgements you make, the more awareness you trade, and the more faith that gets placed into ideas of who you are and what the world is.
 
@@ -1633,7 +1633,7 @@ It becomes almost impossible.
 
 Because guess what happens when you invest all your faith into a bunch of fruitless ideas?
 
-### You end up having no capacity to address the problems in your life which actually has meaning, like your porn addiction." 
+#### You end up having no capacity to address the problems in your life which actually has meaning, like your porn addiction." 
 
 Remember, there are consequences to everything you do in life, whether you realise it or not.
 
@@ -1647,7 +1647,7 @@ They exist to help guide you through your porn recovery journey, as well as help
 
 If ever you get confused about anything, it can help to come back to these five principles, or try to assess what you might be doing incorrectly.
 
-### Because at the end of the day, overcoming porn addiction is completely within your reach." 
+#### Because at the end of the day, overcoming porn addiction is completely within your reach." 
 
 You just have to know exactly what you're doing and why.
 
@@ -1854,7 +1854,7 @@ Now go out there and buy yourself a Golden Globe.
 You deserve it buddy, now that you fully understand exactly what you must achieve in life.
 
 
-### If it weren't for the fact that lists like these are utterly meaningless." 
+#### If it weren't for the fact that lists like these are utterly meaningless." 
 
 
 Here's the deal.
@@ -1864,7 +1864,7 @@ We're not going to concern ourselves with goals and ideals.
 Instead, what we're going to do is focus on hard processes and practices that will help us move forward.
 
 
-### We're going to focus on the things we can do everyday in order to improve as a person." 
+#### We're going to focus on the things we can do everyday in order to improve as a person." 
 
 
 Because at the end of the day, there are no such things as "ideal outcomes" or "best case scenarios". 
@@ -1875,7 +1875,7 @@ Ideas which we use to judge ourselves, as a tool of comparison against these ima
 
 Instead, we need to recognise that there are only ever actions. 
 
-### Actions which since you were born, have defined who you are today." 
+#### Actions which since you were born, have defined who you are today." 
 
 And which will define who you will become tomorrow.
 
@@ -1887,7 +1887,7 @@ This is why much of the content on this website is built around verifiable pract
 
 Ultimately, there is only one rule of NeverFap.
 
-### Practice. Practice. Practice." 
+#### Practice. Practice. Practice." 
 
 Consistent hard work and practice are the only ideals which you should strive towards.
 
@@ -1899,7 +1899,7 @@ Instead, I commit myself to respecting fundamental principles. I work hard to pr
 
 And you know the best thing about focusing on your actions?
 
-### Everything just appears to work and come together, without you even having to worry about it." 
+#### Everything just appears to work and come together, without you even having to worry about it." 
 
 That is the magic of hard work and simplicity.
 
@@ -1947,7 +1947,7 @@ Certainly, while it's great to understand what happens under the hood from a sci
 In no way does that actually help you deal with the day-to-day of being a porn addict, and in no way does it help dealing with being a porn addict any easier.
 
 
-### So lieu of all this, I decided to create NeverFap Deluxe." 
+#### So lieu of all this, I decided to create NeverFap Deluxe." 
 
 
 NeverFap has one very clear purpose that other methods lack: 
@@ -1965,7 +1965,7 @@ In addition, the NeverFap method of overcoming porn addiction has been built aro
 Which serve to help you not only gain a better understand yourself, but also cut through the denial of being a porn addict.
 
 
-### Porn is not the problem"  
+#### Porn is not the problem"  
 
 
 Aside from the fact that NeverFap is a complete solution that aims to take you from porn addict to regular human being.
@@ -1989,7 +1989,7 @@ Rather, I believe that porn addicts are addicted to porn because of some sort of
 Not only is this a reflection of my own experiences with battling porn addiction, however is a reflection of the actual practices and solutions out there which work to help us address porn addiction.
 
 
-### What are we misunderstanding?" 
+#### What are we misunderstanding?" 
 
 
 When you think about it, no one ever wants to be addicted. 
@@ -2004,7 +2004,7 @@ In other cases, they may simply not have the mental capacity to influence their 
 
 In most cases, it's a combination of a number of factors, which they simply haven't figured out yet. 
 
-### This is why I came up with the Five Fundamental Principles of NeverFap, to help guide people towards understanding exactly where they may be going wrong." 
+#### This is why I came up with the Five Fundamental Principles of NeverFap, to help guide people towards understanding exactly where they may be going wrong." 
 
 Perhaps what I like most about NeverFap is how it's designed to always provide you with a path forward.
 
@@ -2042,7 +2042,7 @@ Questioning why we may have become porn addicts within the first place is a plac
 Usually it entails reasoning along the lines that we must first figure out why we watch porn, and then target that thing which we believe is the root cause of our addiction.
 
 
-### After all, it seems like an incredibly logical and reliable thing to do." 
+#### After all, it seems like an incredibly logical and reliable thing to do." 
 
 
 In a lot of cases, this kind of questioning leads us to the conclusion that the reason why we're porn addicts is because porn itself is an addictive behaviour.
@@ -2057,7 +2057,7 @@ In the hope that they can somehow get past their cravings long enough that they 
 
 Which stems solely from first attempting to understand why we are the way we are.
 
-### In fact, trying to understand why we are porn addicts at all, is one of the biggest traps that recovering porn addicts fall into."
+#### In fact, trying to understand why we are porn addicts at all, is one of the biggest traps that recovering porn addicts fall into."
 
 Put simply, the reason why this is the case is because it's a lot less relevant to figuring out how to change it. 
 
@@ -2072,7 +2072,7 @@ You can have purpose for absolutely any reason imaginable, as you can be a porn 
 On the other hand, if you actually want to figure out your life purpose, then I suggest doing a heap of things and seeing what sticks.
 
 
-### You see, you don't figure out what you want in life by thinking about it." 
+#### You see, you don't figure out what you want in life by thinking about it." 
 
 
 You figure out what you want by experiencing it, and then evaluating that experience.
@@ -2088,7 +2088,7 @@ Much like how you don't need to murder someone to realise that you probably don'
 There are plenty of guides and resources out there to help you overcome your porn addiction. 
 
 
-### The great thing about NeverFap Deluxe is that you no longer have to waste your time doing things that do not work." 
+#### The great thing about NeverFap Deluxe is that you no longer have to waste your time doing things that do not work." 
  
 
 If you commit to the practices and exercises on this website, and you'll pretty much be alright. 
@@ -2100,7 +2100,7 @@ Good luck with that.
 In fact, there’s a word used to describe what it means to incessantly ask 'why' all the time. 
 
 
-### It’s called rumination." 
+#### It’s called rumination." 
 
 And I personally consider it a form of self-harm.
 
@@ -2111,7 +2111,7 @@ Understandably, it is an instinctive human response to ask why.
 But when we do it excessively, it serves no purpose and it becomes a literal bottleneck in terms of affecting our ability to process and produce information. 
 
 
-### Which is to say that asking why is great for creating an initial assessment, however beyond that it becomes nothing more than a harmful burden." 
+#### Which is to say that asking why is great for creating an initial assessment, however beyond that it becomes nothing more than a harmful burden." 
 
 
 If we look at something like learning to play basketball, it's clear there are a number of key skills we must learn. 
@@ -2126,7 +2126,7 @@ Regardless of what your understanding of the sentiment behind basketball, those 
 
 
 
-### Another way of putting it is that we must focus on the how, rather than the why." 
+#### Another way of putting it is that we must focus on the how, rather than the why." 
 
 If it helps you can think of the understanding is the 'why', while the core skills are the 'how'.
 
@@ -2208,7 +2208,7 @@ Essentially, it all comes down to a super simple technique we can use to instant
 And furthermore, it's a technique that doesn't require paying a therapist hundreds of dollars per hour for the privilege.
 
 
-### The technique is to pay attention to your emotional reactions." 
+#### The technique is to pay attention to your emotional reactions." 
 
 
 Your emotion reactions are a key indicator of whether you've made a judgement or not, and in order to understand how this works, we need to understand what emotional reactions are.
@@ -2220,7 +2220,7 @@ They exist as a reaction to an event, usually in regards to a thought we have ab
 Enter judgements. 
 
 
-### You see, judgements are much more than mere thoughts." 
+#### You see, judgements are much more than mere thoughts." 
 
 
 If they were just like any other thought, then much like most other thoughts we have, they would disappear completely from our conscious never to bother us again.
@@ -2237,7 +2237,7 @@ For example, a lot of us make the judgement that we're not good enough and that 
 
 
 
-### And when we make these judgements, we dictate how we're going to react on an emotional level." 
+#### And when we make these judgements, we dictate how we're going to react on an emotional level." 
 
 We come up with these deterministic narratives like:
 
@@ -2256,7 +2256,7 @@ For example, feeling sad because we don't have a girlfriend, or getting upset be
 Certainly, these hidden agreements form part of the reason why these judgements can be so hard to identify, because often they take place completely out of conscious sight. 
 
 
-### Yet from the perspective of our emotional reactions, they are never hidden."
+#### Yet from the perspective of our emotional reactions, they are never hidden."
 
 
 Because although these agreements and beliefs are often hidden, the direct effect of those judgements are fully felt via the emotional reactions which shut us down and hold us completely at ransom.
@@ -2274,7 +2274,7 @@ Of course, you're probably wondering. I'm making all these judgements, but what 
 How is identifying them going to help?
 
 
-### Well, the great thing is that we don't need to go any further than simple acknowledgement." 
+#### Well, the great thing is that we don't need to go any further than simple acknowledgement." 
 
 
 Because anything further you do at this point, is unnecessary rationalisation which is the exact opposite of what we are trying to achieve, which is to learn to let go and remain relaxed.
@@ -2286,7 +2286,7 @@ Where people often go wrong is that they feel trapped once they've identified th
 The funny thing is that this behaviour within itself is an emotional reaction, brought about by judgement. For example, you may have the judgement that you're not good enough, and therefore feel the need to do something about it. 
 
 
-### This in part signifies the extent to which a lot of the judgements are simply subconscious habit." 
+#### This in part signifies the extent to which a lot of the judgements are simply subconscious habit." 
 
 
 As well as why it's important that we address these judgements and hidden agreements now, rather than let them continue to develop. 
@@ -2320,7 +2320,7 @@ After all, it's part of the reason why they ended up mentally ill in the first p
 Well, I'm here to tell you otherwise.
 
 
-### In fact, I'm here to tell you that balance is actually a reward, far greater than you may realise." 
+#### In fact, I'm here to tell you that balance is actually a reward, far greater than you may realise." 
 
 
 With balance comes an absurd amount of benefits, and that is something I would like to share with you today.
@@ -2334,7 +2334,7 @@ Instead, balance can merely be thought as a counter-balance to our more destruct
 Balance isn't telling you not to go absolutely wild, and live your life in the face of fear. 
 
 
-### It's telling you to go crazy, but then meditate for 10 minutes after in order to calm down." 
+#### It's telling you to go crazy, but then meditate for 10 minutes after in order to calm down." 
 
 
 It's the yin and yang of balance that people often forget, which is so vital to ensuring that we're effective.
@@ -2346,7 +2346,7 @@ Also known as having self-limiting beliefs.
 One common self-limiting belief people have, is that by adopting balance and proper mental health practice into our lives, that it's going to result in inherently losing part of ourselves. 
 
 
-### Most often, the fun quirkiness that is our personality." 
+#### Most often, the fun quirkiness that is our personality." 
 
 
 Yet this simply isn't the case. The great thing about balance is that it allows you to have your cake and eat it too. 
@@ -2360,7 +2360,7 @@ Ultimately, balance should be viewed as an opportunity to experience something m
 To experience the effectiveness of not only being in control over your mind, but also be comfortable with your feelings and emotions, even if they may be a bit wild.
 
 
-### Of course, an important thing to keep in mind is that it's also a very different way of thinking for most." 
+#### Of course, an important thing to keep in mind is that it's also a very different way of thinking for most." 
 
 
 A way of thinking which a lot of people find limiting, because they're now holding themselves accountable for their actions.
@@ -2406,7 +2406,7 @@ Failure to let go may even extend to the toxic people in our lives, or even the 
 Regardless of what it is we're struggling with, the solution all points to the same thing.
 
 
-### Learning to let go and learning to become free of these unproductive attributes." 
+#### Learning to let go and learning to become free of these unproductive attributes." 
 
 
 Of course, if it were as simple as walking away, none of us would have any problems and we'd all be clear of our addiction and a-ok to continue with our lives.
@@ -2426,7 +2426,7 @@ A part of themselves which they've contributed towards for so long, that they ca
 Under these circumstances, letting go then becomes this deep-seated fear of loss, potentially leaving this hollow shell of nothingness which we may end up regretting.
 
 
-### Well, I'm here to tell you that this makes no sense what-so-ever." 
+#### Well, I'm here to tell you that this makes no sense what-so-ever." 
 
 
 You see, you don't actually lose anything by letting go.
@@ -2444,7 +2444,7 @@ Those brain waves will still keep chugging along at the same rate as they did pr
 So what actually happens then?
 
 
-### Well, what happens is that it allows you to experience different waves." 
+#### Well, what happens is that it allows you to experience different waves." 
 
 
 Much like those brain waves which are being produced each second, it can help to think of the brain as a conveyor belt in an ice-cream factory. 
@@ -2468,7 +2468,7 @@ Put simply, you can't make great ice-cream from crap ice-cream.
 You need to start with neutral base and that's essentially what letting go provides.
 
 
-### What people don't realise is that letting go is in fact an opportunity." 
+#### What people don't realise is that letting go is in fact an opportunity." 
 
 
 It's an opportunity to experience something new. Something exciting. Something magical. 
@@ -2511,7 +2511,7 @@ Often, it's our own inability to respond to these situations, which makes them i
 Either we become too anxious, we find ourselves trapped in fear or we act in a way that is counter-productive without truly realising or understanding why.
 
 
-### Which is to say that more often than not, the problem is us." 
+#### Which is to say that more often than not, the problem is us." 
 
 
 This is in part due to the self-limiting beliefs we may have about ourselves, as well as what responding effectively might entail. 
@@ -2525,7 +2525,7 @@ Which usually prevents us from proceeding with those helpful actions we were aim
 Certainly, while self-limiting beliefs aren't something which can be dismantled overnight, there's a certain mindset which I find helps deal with these situations.
 
 
-### In particular, the trick is to realise that nothing is important." 
+#### In particular, the trick is to realise that nothing is important." 
 
 
 In essence, by learning to treat everything as unimportant, we can learn to dissasociate ourselves from these self-limiting beliefs, and instead just go with the flow. 
@@ -2537,7 +2537,7 @@ Now, although it may seem like reckless advice, it's actually incredibly sound w
 When you make the statement "nothing is important" you're actually making a very essential claim about yourself and the situation. 
 
 
-### In particular, that nothing is ever important enough to self-harm or do harm." 
+#### In particular, that nothing is ever important enough to self-harm or do harm." 
 
 
 You see, you're not preventing anything positive here by learning to let go and assume everything is unimportant - primarily because there was nothing positive to begin with. 
@@ -2557,7 +2557,7 @@ In a lot of cases it's instinctual.
 We feel awful. We feel obliged to do something about it, only to end up relapsing or doing something harmful like eat an entire bag of chips.
 
 
-### However what people don't realise is that in 90% of cases, the correct thing to do is not react." 
+#### However what people don't realise is that in 90% of cases, the correct thing to do is not react." 
 
 
 In fact, that's part of the core tennant of what NeverFap Deluxe is all about, learning to remain calm and composed inspite of what you're feeling.
@@ -2583,7 +2583,7 @@ In particular, by remaining in control.
 
 A lot of people starting out with their porn addiction recovery journey ask me something along the lines of:
 
-### \"How do I know when I'm fully recovered from my porn addiction?\"" 
+#### \"How do I know when I'm fully recovered from my porn addiction?\"" 
 
 Well, believe it or not, there actually is a very comprehensive way to know whether you're fully recovered or not.
 
@@ -2599,7 +2599,7 @@ For example, do you think you would relapse if a close friend/family member pass
 
 If you feel as if you would relapse under those circumstances, then you haven't fully recovered, because you haven't developed the skills to deal with those situations.
 
-### Ultimately, porn addiction recovery is about building our tolerance to effectively deal with difficult situations."
+#### Ultimately, porn addiction recovery is about building our tolerance to effectively deal with difficult situations."
 
 So you may be perfectly fine with only being 80% confident in your ability not to relapse, however obviously the purpose of our recovery is to reach a point of 100% confidence.
 
@@ -2621,7 +2621,7 @@ In fact, a large part of porn addiction recovery comes down to rediscovering thi
 
 Sometimes it may help to ask.
 
-### What does certainty entail? Is certainty purely emotional? Is certainty a process?"
+#### What does certainty entail? Is certainty purely emotional? Is certainty a process?"
 
 How can I guarantee certainty 1 week from now, let alone within 3 months time?
 
@@ -2636,7 +2636,7 @@ So you can develop the skills in order to address those tough situations, as wel
 With this said, there's also no point me telling you what I think certainty is, because it entirely defeats the purpose of what we're trying to achieve here.
 
 
-### Only by consistently working on your mental health, will it actually begin to make any sense to you at all."
+#### Only by consistently working on your mental health, will it actually begin to make any sense to you at all."
 
 
 Reading about it is simply not enough.
@@ -2656,7 +2656,7 @@ You see, certainty comes in many forms. There is "knowing" something and then th
 If you're 100% certain that you'll always "do" that something then you'll be golden.
 
 
-### Personally speaking, I knew I was largely recovered from the moment that I discovered proper meditation technique."
+#### Personally speaking, I knew I was largely recovered from the moment that I discovered proper meditation technique."
 
 
 Because from that moment, I knew I had all the skills necessary in order to be able to deal with almost all the awful emotions and feelings life was willing to throw at me. 
@@ -2690,7 +2690,7 @@ And the complete despair that comes from breaking down a week later, when their 
 A cycle which seems to repeat time and time again.
 
 
-### What I want to do in this article is explain the dynamics of this cycle." 
+#### What I want to do in this article is explain the dynamics of this cycle." 
 
 
 As well as explain how you can put it to an end.
@@ -2702,7 +2702,7 @@ Expectation being our understanding that, "This is the correct thing to do movin
 Emotion being that push which convinces us that what we're experiencing must be true.
 
 
-### After all, positive emotions never lie, right?" 
+#### After all, positive emotions never lie, right?" 
 
 
 And when you combine those two factors together, what you get is a cocktail of mania so strong, that nothing we do or say can convince us otherwise. 
@@ -2714,7 +2714,7 @@ In part, because we're feeling so low that we couldn't possibly think of anythin
 So although nothing has actually changed in that moment, we feel as if something's changed. 
 
 
-### We feel as if we're already there." 
+#### We feel as if we're already there." 
 
 
 Even though it's just our emotions making us feel that way.
@@ -2726,7 +2726,7 @@ Then what happens is that these emotions eventually fade as the hype dies away.
 We find ourselves vulnerable since those very emotions which we've relied on are now telling us that we really want to watch porn.
 
 
-### And then we relapse and start and whole charade again." 
+#### And then we relapse and start and whole charade again." 
 
 
 Perhaps the most common example of this is when we use something like fear to try and motivate us.
@@ -2737,7 +2737,7 @@ Fear which inevitably becomes craving, which becomes fear, which becomes craving
 
 So what's the alternative?
 
-### The alternative is to develop proper self-control over our mind." 
+#### The alternative is to develop proper self-control over our mind." 
 
 The kind of self-control that allows us to dictate what we think, how we feel, as well as detach ourselves from these aspects so we don't take them personally.
 
@@ -2747,7 +2747,7 @@ After all, you may be under the impression that what you've been doing this whol
 
 When in actual fact, chasing our emotions in this fashion could not be further from actual self-control itself.
 
-### Self-control is not reliant on how we feel in any way." 
+#### Self-control is not reliant on how we feel in any way." 
 
 So anytime we pursue any actions or behaviours based on emotion, we essentially train our minds to embrace this instability. 
 
@@ -2776,7 +2776,7 @@ Porn addicts often struggle to dissociate themselves from their addiction.
 In part because porn addiction plays on a very primal, and natural human response.
 
 
-### Otherwise known as attraction." 
+#### Otherwise known as attraction." 
 
 
 After all, what is the difference between being attracted to a person in front of you, as opposed to a person on your computer screen doing rather promiscuous things?
@@ -2790,7 +2790,7 @@ You know, because being attracted to other human beings is just one of those thi
 Which expresses itself into edging, claiming that porn is in fact 'art' and therefore okay in small doses, along a host of hilarious excuses that we can manage to come up with.
 
 
-### I am here to tell you that this is purely your addiction trying to convince you otherwise." 
+#### I am here to tell you that this is purely your addiction trying to convince you otherwise." 
 
 
 From a mechanical perspective, porn addiction is really quite similar to porn recovery.
@@ -2804,7 +2804,7 @@ It's because you never developed the ability.
 And what happens is that people don't realise it's nothing more than an ability, and so they come up with all these excuses instead to try and justify their behaviour.
 
 
-### Instead, what we're going to do is focus on developing this ability." 
+#### Instead, what we're going to do is focus on developing this ability." 
 
 
 No different to porn addiction, the reason why you will be able to successfully overcome porn addiction, is because you have the skills and abilities to refrain from watching porn.
@@ -2816,7 +2816,7 @@ It's because you've managed to develop that ability.
 And once you realise this, no longer will you feel compelled to seek any sort of justification for your actions.
 
 
-### You simply won't need to." 
+#### You simply won't need to." 
 
 
 Instead, you'll identify them for the excuses they are, and actually focus on actions which will meaningfully impact your porn addiction.
@@ -2830,7 +2830,7 @@ Precisely, that it is and always will be completely independent of almost everyt
 Which is to say that there is no inherent "meaning" or "purpose" in life.
 
 
-### There is only your ability and your commitment towards developing it." 
+#### There is only your ability and your commitment towards developing it." 
 
 
 In the case of porn addiction, it's watching porn everyday and subconsciously reinforcing that behaviour every single day with your actions.
@@ -2841,7 +2841,7 @@ No one commitment or ability is truly different from the other.
 
 It is merely a choice you make based on what you want from life.
 
-### Sure, you can claim that you're a porn addict due to x, y and z." 
+#### Sure, you can claim that you're a porn addict due to x, y and z." 
 
 
 However this kind of thinking simply isn't reflective of reality, nor can it help you overcome your porn addiction.
@@ -2857,7 +2857,7 @@ Because porn addiction is a process, not a retrospective idea based in any numbe
 
 One thing which people often ask me is:
 
-### What does it feel like not to be addicted to porn?" 
+#### What does it feel like not to be addicted to porn?" 
 
 And it's an interesting question, because it's something I often think about and I think I've finally found a way to convey this message accurately.
 
@@ -2872,7 +2872,7 @@ I don't remember any particular details, the people in it, nor is it something w
 It just was a period of time within which I existed, no different to my existence now.
 
 
-### Well, that memory kind of sums up how I also feel about my previous porn addiction." 
+#### Well, that memory kind of sums up how I also feel about my previous porn addiction." 
 
 
 Which is to say that my porn addiction is a lot like a distant memory to me.
@@ -2884,7 +2884,7 @@ Furthermore, I don't really have any feelings towards it, since I haven't experi
 Instead, you could say that it feels no different to being 7 years' old.
 
 
-### From a process point of view, it's actually quite astounding to understand why it's all a distant memory to me." 
+#### From a process point of view, it's actually quite astounding to understand why it's all a distant memory to me." 
 
 
 For starters, I'm obviously not watching porn.
@@ -2900,7 +2900,7 @@ Another aspect which people don't consider is the mental overhead of planning an
 In my case, it meant consciously thinking about how I could masturbate to porn without my partner knowing, which not only affected my behaviour around her, but my mood as well if I hadn't orgasmed in a while.
 
 
-### At it's worst, it was completely controlling my behaviour to a point of absolute obsession." 
+#### At it's worst, it was completely controlling my behaviour to a point of absolute obsession." 
 
 
 There were times where I used to even do it at work, because I'd had a bad day or I was feeling particularly desperate.
@@ -2912,7 +2912,7 @@ You know, much like when I was absolutely obsessed with video games as a 7 year 
 Of course, it's funny to look back at these memories and certainly, as awkward as it is to admit some of these things, because I haven't relived these behaviours in such a long time, it no longer affects me personally.
 
 
-### Certainly, the biggest thing that's changed is my mental state." 
+#### Certainly, the biggest thing that's changed is my mental state." 
 
 
 The behaviours that arose from porn addiction aside, the thing which I've noticed most is the improvement in my energy and mental state.
@@ -2926,7 +2926,7 @@ I'm no longer irrationally depressed and my emotions are no longer tipping up an
 But wow, what a difference.
 
 
-### I distinctly remember that feeling of calm I felt when I first started meditating." 
+#### I distinctly remember that feeling of calm I felt when I first started meditating." 
 
 
 It was mind-boggling. It was like I'd finally felt peace and control for the first time in my porn recovery journey.
@@ -2938,7 +2938,7 @@ And that's another thing which a lot of people don't realise: When you overcome 
 Because your emotions aren't all over the place, it becomes really easy to commit to your goals, and an amazing side effect of this is that you actually become happy.
 
 
-### Like, not obsessive happy or manic happy, but just genuinely happy." 
+#### Like, not obsessive happy or manic happy, but just genuinely happy." 
 
 
 The kind of happiness that doesn't ask anything of you, and which makes you feel completely at peace with yourself.
@@ -2984,7 +2984,7 @@ Everything in life revolves around practice.
 No matter what you want to do in life, practice is the means through which we master something.
 
 
-### Practice is what will allow us to overcome porn addiction." 
+#### Practice is what will allow us to overcome porn addiction." 
 
 
 And what you practice is absolutely vital.
@@ -2998,7 +2998,7 @@ And the only way this is going to happen, is if you have an effective routine of
 This means understanding why these practices are effective, finding the time to actually practice them and most importantly, doing these practices consistently.
 
 
-### To start out, I recommend spending approximately 10 minutes per day practicing observation." 
+#### To start out, I recommend spending approximately 10 minutes per day practicing observation." 
 
 
 Specifically, the Observe Your Senses practice which explains how to do this in the most simple way possible.
@@ -3010,7 +3010,7 @@ In part because observation should form the fundamental basis of everything you 
 From how you think to how you perceive the world around you.
 
 
-### It's more-or-less the only exercise I personally do." 
+#### It's more-or-less the only exercise I personally do." 
 
 
 In part because I've already spent years doing all those other practices, and they're now less meaningful now that they're engrained into my head.
@@ -3022,7 +3022,7 @@ Certainly, while those other practices are incredibly useful in developing new p
 The aim is that once you feel you have a grasp of Observe Your Senses, you can start adding additional exercises to your routine.
 
 
-### Personally speaking, I don't recommend doing more than one additional exercise at a time." 
+#### Personally speaking, I don't recommend doing more than one additional exercise at a time." 
 
 
 Which is to say that an ideal routine will consist of doing <u>Observe Your Senses</u> along with one other additional exercise.
@@ -3034,7 +3034,7 @@ Just because doing it only for a day, won't teach us very much in terms of how c
 But of course, finding out what personally works for you is important as well.
 
 
-### My Personal NeverFap Routine" 
+#### My Personal NeverFap Routine" 
 
 
 I have a very basic routine which works really well for me.
@@ -3066,7 +3066,7 @@ I may focus on a very particular sense.
 In other cases, I may simply focus on emptying the thoughts from my mind.
 
 
-### Regardless, I keep it super simple and that's why it works." 
+#### Regardless, I keep it super simple and that's why it works." 
 
 
 Another thing to consider is self-care.
@@ -3139,7 +3139,7 @@ If I had to use one word to describe what NeverFap encompasses.
 I would use the word:
 
 
-### Calm." 
+#### Calm." 
 
 
 Calm is the default NeverFap state of mind. 
@@ -3155,7 +3155,7 @@ When you practice the NeverFap Deluxe exercises everyday and apply them to your 
 In large part because when you practice these exercises which provide you with the required skills and abilities to control your mind, you no longer fear the unknown.
 
 
-### Because you know that you have a strategy in place, and you know exactly what to expect from your ability to address your addiction." 
+#### Because you know that you have a strategy in place, and you know exactly what to expect from your ability to address your addiction." 
 
 
 Another part of the reason why being calm and collected is important, is because it becomes really difficult to self-harm or react emotionally when you're feeling calm.
@@ -3165,7 +3165,7 @@ In fact, it becomes almost impossible.
 Which is exactly what we want, and is part of the reason why calmness is so wonderful within itself. 
 
 
-### Because remaining calm doesn't require any effort." 
+#### Because remaining calm doesn't require any effort." 
 
 
 In it's truest sense, calmness itself is a lack of effort.
@@ -3181,7 +3181,7 @@ Of course, you may struggle to remain calm because you've built this habit of ob
 That's okay too.
 
 
-### It's simply a matter of following your daily routine of NeverFap Deluxe Practices." 
+#### It's simply a matter of following your daily routine of NeverFap Deluxe Practices." 
 
 
 By commiting to meditation and practices which teach you self-control over your mind, you're making changes to how you think and feel.
@@ -3209,7 +3209,7 @@ NeverFap Deluxe consists of a range of exercises which are designed to help you 
 The intention is really quite simple:
 
 
-### To help you develop healthy coping mechanisms in order to help you deal with your porn addiction." 
+#### To help you develop healthy coping mechanisms in order to help you deal with your porn addiction." 
 
 
 Exercises which are designed to not only help expand your capacity for capacity for awareness, however to also teach you to remain calm and relaxed with your feelings and emotions.
@@ -3220,13 +3220,13 @@ It could as a response to excessive stress due to work or school. It could be du
 
 What these exercises set out to do is reprogram the way you think and respond in these situations. 
 
-### Essentially, what this means is developing a new set of understandings and behaviours so you don't need to watch porn anymore to cope with these difficult situations." 
+#### Essentially, what this means is developing a new set of understandings and behaviours so you don't need to watch porn anymore to cope with these difficult situations." 
 
 And the way we get you to do this is by practicing these healthy coping mechanisms so that they can become second-nature to you.
 
 So that you can learn to relax and even accept those negative feelings and not take them personally.
 
-### Encouraging self-discovery" 
+#### Encouraging self-discovery" 
 
 An important thing to note is that what we're truly embarking on is a process of self-discovery.
 
@@ -3238,7 +3238,7 @@ While awareness is certainly one factor, consciously engaging with our behaviour
 
 Otherwise, we aren't truly being aware in a way that is helping us replace our unhealthy coping mechanisms, with more suitable alternatives.
  
-### Helping ourselves" 
+#### Helping ourselves" 
 
 At the end of the day, the ultimate aim of NeverFap Deluxe Practices is to help you better understand ourselves.
 
@@ -3265,7 +3265,7 @@ NeverFap Deluxe is a comprehensive method of overcoming porn addiction.
 It is the easiest and most effective method I know, based on my own experiences with overcoming porn addiction over the past five years.
 
 
-### I would describe NeverFap as a system which is designed to provide you with control." 
+#### I would describe NeverFap as a system which is designed to provide you with control." 
 
 
 Control over your mind. Control over your actions. Control over your thoughts. Control over your feelings and emotions.
@@ -3279,7 +3279,7 @@ Maybe your porn cravings still get the best of you. Maybe you feel as if you don
 Maybe you've completely normalised all these feelings and you don't believe that self-control is even possible.
 
 
-### Well, chances are that you've been doing it wrong this whole time." 
+#### Well, chances are that you've been doing it wrong this whole time." 
 
 
 Certainly, I was doing it completely wrong for the first five years of my porn recovery and there's absolutely nothing wrong with that.
@@ -3299,7 +3299,7 @@ Porn addicts know about being addicted to porn, because that's what they are.
 It's what they live on a daily basis. It's how they understand and relate to the world around them.
 
 
-### So there's a few steps we must take in order to address this."
+#### So there's a few steps we must take in order to address this."
 
 
 For starters, we need to learn self-control from someone who knows how.
@@ -3315,7 +3315,7 @@ Porn addicts are generally skeptics and can barely commit to anything, since the
 In part because they over-rely on their emotions, which change in an instant from "I can do this!" to "Man, I really need to watch porn".
 
 
-### So what hope is there?" 
+#### So what hope is there?" 
 
 
 Well, it can help to understand that no one is expecting you to beat this thing within a day.
@@ -3329,7 +3329,7 @@ A key thing to understand is that learning self-control, and really anything for
 Learning is driven by the small things you do each day to practice it.
 
 
-### Instead, the problem is that you're spending so much time fighting these goals and expectations." 
+#### Instead, the problem is that you're spending so much time fighting these goals and expectations." 
 
 
 That you don't feel motivated, nor even comfortable committing to these practices, due to fear, doubt and a whole trope of negative emotions.
@@ -3353,7 +3353,7 @@ In order to address this, the NeverFap method takes a strong focus on practicing
 Put simply.
 
 
-### Meditation is the easiest and most effective way that I know how to develop self-control." 
+#### Meditation is the easiest and most effective way that I know how to develop self-control." 
 
 
 The primary skill we will be learning in regards to meditation is observation. 
@@ -3378,7 +3378,7 @@ From there you can learn more about the various ways in which teach you self-con
 You may be wondering:
 
 
-### \"Is it okay to orgasm if you have a porn addiction?\"" 
+#### \"Is it okay to orgasm if you have a porn addiction?\"" 
 
 
 Whenever asking these kinds of questions, it can always help to come back to The Five Principles Of NeverFap.
@@ -3390,7 +3390,7 @@ Personally speaking I do not think it's okay to orgasm if you have a porn addict
 Essentially, the reason why I don't orgasm is quite simple.
 
 
-### The act of orgasming messes with your emotions." 
+#### The act of orgasming messes with your emotions." 
 
 
 At the end of the day, I don't particularly care about the philosophical, nor even the moral arguments behind watching porn, nor even abstaining from it. 
@@ -3404,7 +3404,7 @@ Whenever you orgasm you still experience that intense dopamine rush which more-o
 And as I state on this website, 5% of your time should be spent practicing Healthy Coping Mechanisms, while the other 95% of your time should be spent remaining calm and relaxed. 
 
 
-### Certainly, it's incredibly difficult to remain calm and relaxed after an orgasm." 
+#### Certainly, it's incredibly difficult to remain calm and relaxed after an orgasm." 
 
 
 Especially if you've been abstaining for weeks on end, as well as avoiding any kind of stimulus.
@@ -3448,7 +3448,7 @@ All situations which pique our urge to masturbate or watch porn, to a point wher
 Ultimately, when we lose control over our emotions, we lose control over our ability to act effectively and it's these situations where we can begin to spiral down the path of relapse and helplessness.
 
 
-### All situations where we collapse because we decide to give into our emotions and take them personally." 
+#### All situations where we collapse because we decide to give into our emotions and take them personally." 
 
 And this really signifies the importance of why we shouldn't take our emotions personally.
 
@@ -3463,7 +3463,7 @@ In fact, learning to be able to effectively manage our emotions is usually the f
 We have a craving, we hesitate, we attempt to postpone it (usually unsuccessfully), and then we eventually give in.
 
 
-### It's where many of us are stuck mentally, and that's why I'm here to help." 
+#### It's where many of us are stuck mentally, and that's why I'm here to help." 
 
 
 I want to start off by saying that learning not to take your emotions personally is actually a super simple process once you understand the dynamics of how we take things personally.
@@ -3479,7 +3479,7 @@ Yet because we're largely not aware of our own behaviours which cause us to reac
 Often because we've simply never been taught otherwise.
 
 
-### So what typically happens when we feel uncomfortable with our emotions, is that we try to assume control over them." 
+#### So what typically happens when we feel uncomfortable with our emotions, is that we try to assume control over them." 
 
 
 Mentally on some level we think:
@@ -3509,7 +3509,7 @@ And the funny thing, is that none of these strategies work. In the end, it merel
 So here's what we're going to do.
 
 
-### Instead, we're going to refrain entirely." 
+#### Instead, we're going to refrain entirely." 
 
 
 And refraining from our emotions is the simplest way we can learn not take our emotions personally.
@@ -3531,7 +3531,7 @@ So in the case of being anxious, going and watching a calming YouTube video to c
 Now it's important that we really think about this. 
 
 
-### Because going and watching a calming YouTube video is actually a form of reaction." 
+#### Because going and watching a calming YouTube video is actually a form of reaction." 
 
 
 It's you reacting to your anxiety by indirectly finding an activity to preoccupy you from thinking about it.
@@ -3549,7 +3549,7 @@ Because when you react, you actually give that train of thought power.
 When you react what you're mentally communicating is.
 
 
-### \"Yes, these feelings are valid and now I am going to address them and respond to them\"." 
+#### \"Yes, these feelings are valid and now I am going to address them and respond to them\"." 
 
 
 Which is the opposite what we're trying to achieve with refraining from reaction at all.
@@ -3582,7 +3582,7 @@ People will come to me asking if producing pre-cum, edging or experiencing a wet
 And it's a question which always produces the same two counter questions:
 
 
-### What is your definition of relapse and how does that help you develop Healthy Coping Mechanisms?" 
+#### What is your definition of relapse and how does that help you develop Healthy Coping Mechanisms?" 
 
 
 At the end of the day, whatever definition we have of relapse is pointless, because it has nothing to do with developing Healthy Coping Mechanisms.
@@ -3610,7 +3610,7 @@ Without actually empowering you to learn and move forward.
 Regardless, if you want a very concrete definition of what I personally think relapse is within the context of NeverFap Deluxe.
 
 
-### Relapse is anything which doesn't help you develop control over your mind." 
+#### Relapse is anything which doesn't help you develop control over your mind." 
 
 
 I don't care if it's edging. Googling "safe" images of women. Slightly touching your appendage. Hell, even hesitating to make a simple decision such as what you're going to wear for that day.
@@ -3626,7 +3626,7 @@ And my gosh, I couldn't even begin to tell you how destructive this philosophy i
 It's possibly one of the worst inventions to have ever been conceived in regards to any kind of addiction recovery, and it's one of the primary reasons why so many people are struggling today with their recovery.
 
 
-### And yet people swear by it, in part because it's literally all they know." 
+#### And yet people swear by it, in part because it's literally all they know." 
 
 
 They see others do and so it's created this knock-on effect of bad practice.
@@ -3678,7 +3678,7 @@ Like, think of the sex that you imagine you're having while watching porn and ma
 And usually it takes around 90+ days to finally get to that point of sensual pleasure.
 
 
-### Of course, chances are the reason why you're reading this article is because you personally struggle with sex is some way." 
+#### Of course, chances are the reason why you're reading this article is because you personally struggle with sex is some way." 
 
 
 Maybe you can't get hard. Maybe you can't finish. Maybe you finish too soon. 
@@ -3696,7 +3696,7 @@ In a lot of cases it might be because you simply don't have a connection with th
 That's also super common as well.
 
 
-### Personally for me, the way porn negatively impacted my ability to have sex was due to the false standards of women I'd developed from watching porn." 
+#### Personally for me, the way porn negatively impacted my ability to have sex was due to the false standards of women I'd developed from watching porn." 
 
 
 It warped my understand of what sex was as this highly visual, dopamine-driven experience, as opposed to this activity of love and connection.
@@ -3714,7 +3714,7 @@ At least that's been my own personal experience, as well as the experience of al
 I think a more interesting side-effect I've noticed from abstaining from porn, masturbation and orgasm overall, is that my desire to have sex has probably decreased. 
 
 
-### Not in any inherent way, but because it's simply not my focus in my life." 
+#### Not in any inherent way, but because it's simply not my focus in my life." 
 
 
 Instead, my focus is to help others and self-improve as an individual, and NeverFap Deluxe allows me to do that.
@@ -3744,7 +3744,7 @@ If you're always relaxed and in-touch with your emotions, then there is no possi
 And the reason why you're experiencing those cravings to begin with is because you've lost balance in some way i.e. you lost your cool.
 
 
-### Put simply, there are no opportunities to experience cravings when you are relaxed." 
+#### Put simply, there are no opportunities to experience cravings when you are relaxed." 
 
 
 A key thing to understand about cravings is that they don't just happen all of a sudden, inspite of the fact that it may often feel like this is the case.
@@ -3774,7 +3774,7 @@ In fact, when it comes down to it, this is all the NeverFap Deluxe Method really
 A key misunderstanding a lot of people have with awareness is that it somehow gives you "super powers".
 
 
-### Like, you just practice your 10 minutes of meditation each day, and that suddenly makes you immune from everything." 
+#### Like, you just practice your 10 minutes of meditation each day, and that suddenly makes you immune from everything." 
 
 
 Absolutely incorrect.
@@ -3792,7 +3792,7 @@ Only to breakdown into a puddle of mud the moment your mind decides to do a comp
 If you don't replace the habits, nothing will change.
 
 
-### Like most things in life, there's good news and there's bad news." 
+#### Like most things in life, there's good news and there's bad news." 
 
 
 The bad news is that once you've experienced an episode, there's very little you can do, because at that point you've already lost balance and you're truly on your own at that point.
@@ -3827,7 +3827,7 @@ Usually because when we make a judgement it can happen so quickly and so automat
 
 To a point where we may have even begun to view it as something normal, rather than something harmful that needs to be addressed.
 
-### Especially, if it's a judgement directed at ourselves." 
+#### Especially, if it's a judgement directed at ourselves." 
 
 Which is to say that we are our own worst critic.
 
@@ -3848,7 +3848,7 @@ All trains of thought which lead to despair, hopelessness and self-harm i.e. wat
 Of course, if reacting with judgement is all you know, then it will inherently feel like a natural thing to do, even inspite of reading these words.
 
 
-### Well, I'm here to tell you today that it's not natural, and that it's a learnt habit no different to smoking everyday or being abusive towards others." 
+#### Well, I'm here to tell you today that it's not natural, and that it's a learnt habit no different to smoking everyday or being abusive towards others." 
 
 
 It's an aspect of your personality which you have developed, and which you have likely reinforced every single day since you were young.
@@ -3899,7 +3899,7 @@ They're often completely oblivious to almost all their own short-comings, in a w
 It's like, although we're both speaking the same language, that doesn't necessarily translate in a way that another person can adopt in a constructive way.
 
 
-### Certainly, this is most prevalent when I talk to people about awareness and in particular, this concept of conscious awareness." 
+#### Certainly, this is most prevalent when I talk to people about awareness and in particular, this concept of conscious awareness." 
 
 
 Part of the problem is that this idea of 'awareness' is such an individual concept that it's almost impossible to truly explain what it is without getting lost in the subjectivity that is our own living experience.
@@ -3921,7 +3921,7 @@ And perhaps if I'd been taught differently, I would have recovered much, much so
 So with all this in mind, what is the biggest mistake that porn addicts make in regards to their porn addiction recovery?
 
 
-### The biggest mistake people make is that they don't conscious engage with their minds." 
+#### The biggest mistake people make is that they don't conscious engage with their minds." 
 
 
 A key thing to understand about practices such as meditation, is that their sole purpose is to assist you in consciously engage with your mind. 
@@ -3945,7 +3945,7 @@ So for example, when you experience an urge to watch porn and you're feeling as 
 Because you sitting there and "emptying your thoughts" without consciously engaging your mind as you may have been doing, simply isn't going to cut it when you have an urge. 
 
 
-### The idea being that by practicing this activity while our mind is relatively stable, it will help us to actually deal with these difficult situations with ease." 
+#### The idea being that by practicing this activity while our mind is relatively stable, it will help us to actually deal with these difficult situations with ease." 
 
 
 So to the tough question, how do you consciously engage with your mind? Well, there are a number of exercises in our practices section which deal with this. 
@@ -3979,7 +3979,7 @@ I just know what I have to do to get through each day with a positive and health
 Which I suppose is the first thing to note about what happens when you do eventually recover from your porn addiction.
 
 
-### It honestly feels as if you were never addicted to porn to begin with." 
+#### It honestly feels as if you were never addicted to porn to begin with." 
 
 
 For the first time in my life, I've finally come to realise what it means to be this word 'normal'.
@@ -3991,7 +3991,7 @@ And unlike what I thought normal would be as this average drudge into adulthood,
 Like, it's the version of me which I've always wanted to be and always dreamed of, but could never quite figure out in any capacity, and it's something which truly needs to be experienced to be understood.
 
 
-### In terms of hard benefits there are a few key areas I would like to discuss." 
+#### In terms of hard benefits there are a few key areas I would like to discuss." 
 
 
 And before I continue this article, I'd to preface this information with a very important point I've come to discover about porn addiction recovery. 
@@ -4011,7 +4011,7 @@ While obviously no longer being an addict contributes significantly to my mental
 Anyway, I digress. I just thought it would be important to point out. 
 
 
-### The first thing I'd like to note is the energy increase that I've experienced from no longer masturbating on a daily basis." 
+#### The first thing I'd like to note is the energy increase that I've experienced from no longer masturbating on a daily basis." 
 
 
 Obviously, in part because orgasm is inherently draining on both a physical and emotion level.
@@ -4060,7 +4060,7 @@ I mean, sure. I'm still a guy. I still love women. I still want to more-or-less 
 But it's not something that dominates my mind in any capacity. I have a million other focuses in my mind, like actively wanting to maintain my mental health or focusing on my work. 
 
 
-### \"How do I know when I'm fully recovered from porn addiction?\"" 
+#### \"How do I know when I'm fully recovered from porn addiction?\"" 
 
 
 
@@ -4096,7 +4096,7 @@ Obviously if you're eating junk food every night, getting stoned on a daily basi
 So here are just some common sense tips which you might find useful.
 
 
-### Don't meditate with your eyes closed." 
+#### Don't meditate with your eyes closed." 
 
 
 This is probably the first mistake most people starting out with meditation make.
@@ -4108,11 +4108,11 @@ Meditation ultimately is about actively engaging your mind and for those new to 
 Furthermore, it's a lot easier because our vision is what helps us connect with reality, and so to remove that sense makes it incredibly difficult to focus on reality itself.
 
 
-### Don't meditate lying down." 
+#### Don't meditate lying down." 
 
 This is another one of those things which people do, which is a HUGE no-no. 
 
-### Meditation is a form of observation." 
+#### Meditation is a form of observation." 
 
 The other issue is that meditation is often explained really poorly to people, even by professionals.
 
@@ -4127,10 +4127,10 @@ Instead, it's actually about observing your senses and once you understand that,
 I've written about the process extensively in this article
 
 
-### Meditation is a form of observation." 
+#### Meditation is a form of observation." 
 
 
-### \"How do I know when I'm fully recovered from porn addiction?\"" 
+#### \"How do I know when I'm fully recovered from porn addiction?\"" 
 
 
 
@@ -4192,7 +4192,7 @@ What a lot of people don't understand is that being in a relationship is simply 
 Only once you have your mental health down-pat, will your ability to pursue relationships become effortless.
 
 
-### In particular, understanding that that nothing is important." 
+#### In particular, understanding that that nothing is important." 
 
 
 
@@ -4205,7 +4205,7 @@ People seem to be interested in what The Reade&copy; is up to, so I thought I mi
 Essentially, I keep it simple.
 
 
-### I meditate 10 minutes before bed each night, and that's really all there is to it." 
+#### I meditate 10 minutes before bed each night, and that's really all there is to it." 
 
 
 Furthermore, that's all we really need.
@@ -4226,7 +4226,7 @@ Essentially there are two things which meditation helps us to
 If I had to recommend more meditation, I would say it's more effective to do short sessions, than long ones.
 
 
-### In particular, understanding that that nothing is important." 
+#### In particular, understanding that that nothing is important." 
 
 
 
@@ -4280,7 +4280,7 @@ In fact, I would go as far as to say that one of the primary reasons why people 
 
 
 
-### \"How do I know when I'm fully recovered from porn addiction?\"" 
+#### \"How do I know when I'm fully recovered from porn addiction?\"" 
 
 
 
@@ -4301,7 +4301,7 @@ The alternative to willpower is technique.
 
 My personal meditation routine
 
-### In particular, understanding that that nothing is important." 
+#### In particular, understanding that that nothing is important." 
 
 
 
@@ -4339,7 +4339,7 @@ Change which can only come from practice and consistency in all areas of our lif
 
 
 
-### In particular, understanding that that nothing is important." 
+#### In particular, understanding that that nothing is important." 
 
 
 
@@ -4368,7 +4368,7 @@ Instead, what
 There are no such things as "".
 
 
-### Is that everything is fine, until it's not." 
+#### Is that everything is fine, until it's not." 
 
 
 
@@ -4394,7 +4394,7 @@ Furthermore, it's a great way to understand how we think in relation to our perc
 Here's the thing about struggle.
 
 
-### Struggle is largely a reflection of how we feel about ourselves, rather than a reflection of the task itself." 
+#### Struggle is largely a reflection of how we feel about ourselves, rather than a reflection of the task itself." 
 
 
 Struggle is a two-sided interaction, in that it's a choice you consciously make.
@@ -4416,7 +4416,7 @@ In no way does it reflect on the difficulty, or perhaps even absurdity of mathem
 Please keep this in mind as you do this exercise, and really try and explore the thoughts and feelings associated with your personal struggles. 
 
 
-### Instructions" 
+#### Instructions" 
 
 
 In this exercise, what you want to do is list all the things that you personally struggle with.
@@ -4443,6 +4443,18 @@ Again, this is your own personal experience with reality, so how you feel in rel
  2019-08-27
 
 
+It's funny how what you think you know is correct can actually be blatantly incorrect, and positive affirmations is one of those things.
+
+The important thing to note about our existing coping mechanisms, is that we don't often do them because they work. We often do them because that's all we know, and certainly positive affirmations are one of those coping mechanisms.
+
+Perhaps it's how our parents and friends tried to console us when we're feeling down, or maybe it's simply you've seen other react in regards to helping themselves.
+
+Regardless, I'm here to tell you why positive affirmations don't work well as a coping strategy, as well as what you can do instead in order to cope more effectively.
+
+
+#### When you take a deeper look into how positive affirmations work, " 
+
+
 
 why positive affimrioant don't work - it's a bit like saying that everytime you want to be happy, you need to do ten jumping jacks, eat a candy baar etc. it's absurd
 
@@ -4467,7 +4479,7 @@ There are so many moving parts to consider when it comes to trying to understand
 In this article I want to address some of these concerns on a high level so you can have a better understanding of what is actually going on.
 
 
-### For starters, I want to say that there's nothing wrong with you." 
+#### For starters, I want to say that there's nothing wrong with you." 
 
 
 Sure, you be suffering from some form of mental illness and yes, you are very much an addict - but that doesn't mean there's anything wrong with you per-say.
@@ -4483,7 +4495,7 @@ Essentially, the problem is that you're not functioning effectively because you 
 And that's really all there is to know about it.
 
 
-### Which is also to say that all those aspects which you believe are wrong with you are due to your porn addiction." 
+#### Which is also to say that all those aspects which you believe are wrong with you are due to your porn addiction." 
 
 
 So to go back to our first question, are you actually addicted to those extreme fetishes you watch?
@@ -4497,7 +4509,7 @@ Once you begin to realise that most of these problems are due to your addiction 
 Part of the problem with porn addicts is that they can only think in terms of being addict. They can't empathise with what it's like not to be addicted, and so they're completely oblivious to a whole range of potential outcomes.
 
 
-### Of course, these outcomes are only possible given one very important aspect that most people overlook." 
+#### Of course, these outcomes are only possible given one very important aspect that most people overlook." 
 
 
 That you actively work on your mental health throughout this process of recovery, and commit to your daily routine of meditation.
@@ -4555,7 +4567,7 @@ You may sort articles by latest or category.
 This exercise is designed to help dissolve your ego.
 
 
-### In particular, by getting you actively reinterpret your visual field." 
+#### In particular, by getting you actively reinterpret your visual field." 
 
 
 Before we commence however, we must first come to understand how humans interpret reality.
@@ -4569,7 +4581,7 @@ And yet, although we live in this predefined world of assumptions based on our c
 None of it is actually 'real'.
 
 
-### Numbers, for example, are not real. They're just mathematical descriptions." 
+#### Numbers, for example, are not real. They're just mathematical descriptions." 
 
 
 On a cultural level, this conceptuality extends to all the predefined rules we have in regards to how we should act and behave.
@@ -4579,7 +4591,7 @@ For example, some cultures prefer kissing as opposed to shaking hands as a way t
 Although society attempts to define us based on our behaviours and how we act, it still doesn't change the fact that we all have five fingers, two eyes and need to be loved.
 
 
-### We're all still merely people, after all." 
+#### We're all still merely people, after all." 
 
 
 By the same token, our addiction to porn maintains a very similar same layer of conceptual 'description' which prevents us from truly seeing what we're actually doing.
@@ -4591,7 +4603,7 @@ Even though, when you think about it, it's all just a bunch of light emanating f
 Which when you put it like that, makes porn addiction seem quite silly.
 
 
-### I mean, is that arrangement of light and colour on your computer screen really that special enough for you to be completely dependent upon it?" 
+#### I mean, is that arrangement of light and colour on your computer screen really that special enough for you to be completely dependent upon it?" 
 
 
 Essentially, what we intend to do with this exercise is help your brain distinguish between what you see (i.e. light and colour).
@@ -4603,7 +4615,7 @@ We want to remove this bias from our visual understanding of reality, not only t
 So really, what we're trying to discover is.
 
 
-### What information do we lose with all this additional mental processing?" 
+#### What information do we lose with all this additional mental processing?" 
 
 
 Can we call what we even see with this additional processing 'reality'?
@@ -4617,7 +4629,7 @@ For example, we typically use a variety of objects in our visual field to constr
 Ultimately, this is the process we are trying to understand.
 
 
-### Instructions" 
+#### Instructions" 
 
 
 For this exercise, what we want to do is attempt to treat our visual field as a simple plane of a light and colour. 
@@ -4654,7 +4666,7 @@ Otherwise, we can truly struggle with this exercise, and more often than not whe
 
 So please do not proceed until you've mastered more fundamental awareness exercises. 
 
-### What is focus?" 
+#### What is focus?" 
 
 The funny thing about focus is that it's a bit of a paradox, at least according to conventional wisdom.
 
@@ -4663,7 +4675,7 @@ A lot of people treat focus as if it's supposed to be this kind of intense perio
 In reality, effective focus is not like that and cannot come from tensing up and trying 'really hard' to get into that mental zone.
 
 
-### Instead, effective focus comes from being calm and relaxed with a clear intention in mind." 
+#### Instead, effective focus comes from being calm and relaxed with a clear intention in mind." 
 
 
 I mean, I'm sure anyone could maintain intense focus by trying 'really hard' however it certainly wouldn't be effective in the sense of being in control.
@@ -4677,7 +4689,7 @@ Definitely, not fun.
 As stated earlier, if I had to describe what focus is.
 
 
-### I would say that it's nothing more than awareness with a clear intention."  
+#### I would say that it's nothing more than awareness with a clear intention."  
 
 
 Which is to say that it's the same thing as being aware in the traditional sense (i.e. observation), only now you're choosing an intention outside of simply being aware of your senses.
@@ -4693,7 +4705,7 @@ In essence, it's easier to be fully attuned to all your senses at once without f
 Simply because there's less overhead.
 
 
-### Instructions" 
+#### Instructions" 
 
 
 There are essentially two key steps towards performing this exercise.
@@ -4727,7 +4739,7 @@ Play around with it and see where your mind takes you.
 This exercise is one of the easiest ways to start building your awareness.
 
 
-### Essentially, it involves slowing down your mind so that you can open yourself to the opportunity of being aware." 
+#### Essentially, it involves slowing down your mind so that you can open yourself to the opportunity of being aware." 
 
 
 One of the most common ways we weaken our ability to be aware is by losing control over our thoughts.
@@ -4741,7 +4753,7 @@ In most cases we don't even realise we're overthinking, because we're so consume
 Which over time can form into an instinctual reaction towards dealing with our negative feelings and emotions.
 
 
-### Certainly, for most people, porn addiction is merely a subconscious response." 
+#### Certainly, for most people, porn addiction is merely a subconscious response." 
 
 
 And this exercise is designed to help break that cycle.
@@ -4751,7 +4763,7 @@ Rather than attempt to identify and qualify these thoughts, what we're going to 
 And in doing so, embrace the physical sensation of what it actually feels like to be in control of our minds, in order to create a strong foundation for being able to control what we think and feel.
 
 
-### Because when we're in control of our mind, it's almost as if everything is moving in slow motion." 
+#### Because when we're in control of our mind, it's almost as if everything is moving in slow motion." 
 
 
 The key thing to understand about maintaining control over our minds is that isn't necessarily about being able to react to what's in front of us.
@@ -4763,7 +4775,7 @@ The idea being that we can then catch ourselves before we begin overthinking, an
 Because when our mind is racing at a million miles per hour, it can become incredibly difficult, if not impossible to slow it down.
 
 
-### Which is why people inevitably relapse." 
+#### Which is why people inevitably relapse." 
 
 
 Because at that point, you've already lost control.
@@ -4775,7 +4787,7 @@ In order to demonstrate control, and create those neural connections in your bra
 In addition, it will help you understand how to become a more calm and collected person, exposing in the process the futility and self-destructiveness of letting our thoughts control us.
 
 
-### Instructions" 
+#### Instructions" 
 
 
 When you have a moment, just slow down your mind.
@@ -4815,7 +4827,7 @@ Usually via intense meditation and awareness study, as well as an almost exquist
 Well, I'm here to tell you that it's quite the opposite. 
 
 
-### In actual fact, focus and attention are largely conceptual ideas which have no rigid implementation." 
+#### In actual fact, focus and attention are largely conceptual ideas which have no rigid implementation." 
 
 
 Which is to say that there is no one, nor necessarily correct way to obtain focus. And that all the limitations we perceive about our own ability to focus, are purely self-made.
@@ -4831,7 +4843,7 @@ I would definitely describe it as a fun exercise, which ultimately has you utili
 It will also help introduce you to a way of thinking which has unique applications when it comes to learning, if you so choose to use it.
 
 
-### Instructions" 
+#### Instructions" 
 
 
 In order to practice this exercise, you'll first need to pay attention to your surroundings.
@@ -4847,7 +4859,7 @@ Noticing this object, I want you to really take note of it's shape, as well as h
 Really think about this object and place it at the centre of your conscious attention.
 
 
-### Now, with your attention remained on this object, I want you to close your eyes." 
+#### Now, with your attention remained on this object, I want you to close your eyes." 
 
 
 Continuing to pay attention to this object, can you still feel it's presence in spite of the fact that you cannot see it? 
@@ -4859,7 +4871,7 @@ Now, with your eyes still closed, I now want you to imagine as if you're moving 
 Perhaps you might want to lift it up and move it to around to your left. Perhaps you might even want to spin it around 180 degrees, and then throw it behind your back.
 
 
-### Use your imagination and see what you can do with this object." 
+#### Use your imagination and see what you can do with this object." 
 
 
 Next, with your eyes still closed, I want you to place your attention on a different object you noticed earlier. 
@@ -4877,7 +4889,7 @@ And that really is what I'm trying to get at here: Focus is nothing more than a 
 There's nothing scary, nor mystic about it. 
 
 
-### It really is as simple as practicing these exercises on a consistent basis, in order to develop the skill of focus." 
+#### It really is as simple as practicing these exercises on a consistent basis, in order to develop the skill of focus." 
 
 
 Once you understand this, then it helps you realise not only that we have full-control over our attention.
@@ -4922,7 +4934,7 @@ As outlined in Blind Attention it can be absolutely anything you want it to be, 
 So without further ado, let's get to the meat of it.
 
 
-### Instructions" 
+#### Instructions" 
 
 
 For this exercise what you want to do is focus your attention on the right side of your vision.
@@ -4987,7 +4999,7 @@ You know, about a giraffe or that you're well and alive with two wonderful eyes?
 Chances are those thoughts have simply never occurred to you, because instead, you go into autopilot mode where you just follow the motions.
 
 
-### For this exercise, we want to do is start engaging our brain so that we can have those thoughts at these key moments throughout the day." 
+#### For this exercise, we want to do is start engaging our brain so that we can have those thoughts at these key moments throughout the day." 
 
 
 The idea is that once we become more conscious of what's happening throughout our day, it can become a lot easier to detect and stop negative habits from reoccurring. 
@@ -5001,7 +5013,7 @@ Becoming aware is not easy when you haven't consciously made an effort in the pa
 Of course, practice makes perfect.
 
 
-### Instructions" 
+#### Instructions" 
 
 
 Essentially this is an exercise of acknowledgement.
@@ -5062,7 +5074,7 @@ They are designed to teach you to consciously engage with your mind, so that whe
 Rather than flail around as if you have no control over yourself, which simply isn't true. 
 
 
-### Instructions" 
+#### Instructions" 
 
 
 That's right kids!
@@ -5098,7 +5110,7 @@ However, it's an exercise that's very difficult to master in the traditional sen
 I find I learn new things each time I try this exercise, and you'll be surprised at the extent to which you'll also discover new things each time you try it too.
 
 
-### In this exercise what we'll be doing is coming up with a variety of different ways we can use our hands." 
+#### In this exercise what we'll be doing is coming up with a variety of different ways we can use our hands." 
 
 
 How we can move them. Arrange them. Touch them.
@@ -5114,7 +5126,7 @@ By practicing this exercise we can learn to not only think creatively, but also 
 Something which often has to be experienced to be believed, hence this exercise. 
 
 
-### Instructions" 
+#### Instructions" 
 
 
 To begin this exercise I want you to first look at your hand. 
@@ -5157,7 +5169,7 @@ By "classic" I mean it's another variation of the tried-and-true "pay attention 
 Well, the reason why I write so many of them is because they're incredibly effective at getting you to think about awareness in a unique way.
 
 
-### In essence, because this is what you should be doing with your attention anyway." 
+#### In essence, because this is what you should be doing with your attention anyway." 
 
 
 Which is to say that you should be practicing awareness in everything you do, and that this exercise is merely a shortcut to having you eventually do this automatically.
@@ -5173,7 +5185,7 @@ The more we practice this, the more it will help us to think in terms of using o
 Overtime we will become more aware of all our behaviours and quirks, and this is when we will develop full-control over our lives. 
 
 
-### Instructions" 
+#### Instructions" 
 
 
 In this exercise we're going to be paying attention to our body and how it interacts with touch.
@@ -5225,7 +5237,7 @@ No longer does it mean seeking that which we see in reality and instead, is more
 Regardless, it's a great way to engage the mind on a conscious level, which is actually incredibly difficult to do.
 
 
-### Instructions" 
+#### Instructions" 
 
 
 Throughout the day, I want you to take notice of your knee.
@@ -5273,7 +5285,7 @@ So once you understand your senses and truly become comfortable with them, you c
 Not only will this exercise help you better understand your existing senses and your perceived limitations of them, however it will help you better project your understandings of reality overall.
 
 
-### Instructions" 
+#### Instructions" 
 
 
 For this exercise, what we want to do pretend as if we can see through walls. 
@@ -5325,7 +5337,7 @@ And the fact that what we're doing here is conscious is really key here, as we'r
 Because that's ultimately what awareness is all about - learning to use our minds effectively so we no longer allow our subconscious fears and behaviours to control who we are.
 
 
-### Instructions" 
+#### Instructions" 
 
 
 While the instructions for this exercise are simple, the real benefit comes from the introspection that comes from practicing this exercise.
@@ -5398,7 +5410,7 @@ And when we don't realise this, or aren't consciously aware of this label that w
 By learning to understand this identity, we provide ourselves with the opportunity to be able to directly control how we operate, without relying on the expectations of this persona.
 
 
-### What this exercise attempts to do is help you better disassociate yourself from this persona." 
+#### What this exercise attempts to do is help you better disassociate yourself from this persona." 
 
 
 The end goal isn't necessarily to completely dissolve this persona.
@@ -5412,7 +5424,7 @@ Essentially, what this exercise teaches you is to learn to let go from a physica
 I think you'll have fun with this one.
 
 
-### Instructions" 
+#### Instructions" 
 
 
 This exercise generally only works while you're doing something.
@@ -5468,7 +5480,7 @@ And part of the magic of this exercise is learning to come to terms with the fac
 This is where you'll discover the most benefit from practicing this exercise.
 
 
-### Instructions" 
+#### Instructions" 
 
 
 I want you to think about your mind.
@@ -5479,7 +5491,7 @@ When we bunch all these things together what we effectively create is our consci
 
 Now, I want you to ask yourself.
 
-### Where does your consciousness come from?" 
+#### Where does your consciousness come from?" 
 
 Does your consciousness come from your mind? Does it come from your eyes? Is there any single point of consciousness you can pin point, in the cloud of sensation that you're currently experiencing?
 
@@ -5530,7 +5542,7 @@ And see where it takes you.
 This exercise encompasses one of the most fundamental skills in regards to practicing meditation.
 
 
-### Your ability to remain aware of your senses in the present moment." 
+#### Your ability to remain aware of your senses in the present moment." 
 
 
 It's a skill which will form the foundation of almost all the practices on this website, in particular the introspection aspect of these practices i.e. how these exercises make you feel as you practice them.
@@ -5542,7 +5554,7 @@ In part, because of the great amount of misunderstanding and confusion surroundi
 And this happens for a number of reasons.
 
 
-### For starters, we severely overcomplicate what it is, thinking it must be so much more than simply paying attention to what we're feeling." 
+#### For starters, we severely overcomplicate what it is, thinking it must be so much more than simply paying attention to what we're feeling." 
 
 
 Instead, we develop this idea that it must be this highly-trained skill that only Bhuddist monks can attain following years of practice in a remote location. 
@@ -5556,7 +5568,7 @@ So let's change that.
 To put it into the most simple terms I know how.
 
 
-### Observation is nothing more than paying attention to your senses." 
+#### Observation is nothing more than paying attention to your senses." 
 
 
 If you're at a cafe for example, it means paying attention to the sounds of the people chatting around you, what the atmosphere around you smells like etc.
@@ -5576,7 +5588,7 @@ Instead, it's about noticing your surroundings, thoughts and feelings, in additi
 That's for you to discover.
 
 
-### Where I personally feel a lot of people explaining observation go wrong, is that they focus on this whole \"really try to empty your thoughts\" or \"attempt to refrain from judgement\" mindset." 
+#### Where I personally feel a lot of people explaining observation go wrong, is that they focus on this whole \"really try to empty your thoughts\" or \"attempt to refrain from judgement\" mindset." 
 
 
 Because it essentially implies that you have to do "more" to somehow achieve what is effectively an empty state of mind.
@@ -5592,7 +5604,7 @@ So don't worry about trying to prevent your thoughts, or getting frustrating if 
 That's precisely the problem we're trying to address, and the way we do that is by focusing on the task at hand, which is observation itself.
 
 
-### Another important thing to keep in mind is that we're not necessarily attempting to 'achieve' anything with observation." 
+#### Another important thing to keep in mind is that we're not necessarily attempting to 'achieve' anything with observation." 
 
 
 Instead, what we're doing is exploring. 
@@ -5602,7 +5614,7 @@ We're exploring how we feel, how we think, as well as discovering what we person
 So that we can better understand ourselves. 
 
 
-### Instructions" 
+#### Instructions" 
 
 
 This exercise is outrageously simple.
@@ -5614,7 +5626,7 @@ Observe what you're feeling. Observe what you're thinking. Observe what's around
 The world is your oyster.
 
 
-### Observe all the various interactions that are taking place in your mind." 
+#### Observe all the various interactions that are taking place in your mind." 
 
 
 It's about sitting there (or standing, or walking, or whatever you happen to be doing) and paying attention to what you're sensing, whether it be thought, emotion or absolutely nothing at all. 
@@ -5668,7 +5680,7 @@ Not to mention, humans usually function better when they have a clear goal in mi
 
 
 
-### Instructions" 
+#### Instructions" 
 
 
 What you'll want to do is stare straight ahead while you're walking in public (obviously common sense applies here, don't cross the road while doing this etc.)
@@ -5744,7 +5756,7 @@ Because if you're feeling particularly negative about someone (or possibly posit
 Which is to say that our empathy is often a reflection of our ability to judge and self-criticise.
 
 
-### Instructions" 
+#### Instructions" 
 
 
 For this exercise what we want to do is try and imagine what it's like to be others from their point of view.
@@ -5817,7 +5829,7 @@ Essentially, it's a very effective way to learn mastery over your thoughts and e
 
 So whenever you're doing these kinds of exercises, remember to always try and guage how you feel. Does the exercise make you feel frustrated? Do you think anything at all?
 
-### If you skip this step, then you'll gain very little from these exercises because you won't be actively engaging your brain." 
+#### If you skip this step, then you'll gain very little from these exercises because you won't be actively engaging your brain." 
 
 And if you don't engage your brain, then you won't engage in physical changes that take place between your neural connections, and subscequently you won't be truly changing in the sense of conscious realisation.
 
@@ -5832,7 +5844,7 @@ There are no right or wrong answers.
 There is only what you feel and how you perceive. 
 
 
-### Instructions" 
+#### Instructions" 
 
 
 For this exercise, what we want to do is relax and you can do this whenever you want. 
@@ -5899,7 +5911,7 @@ In other words, this exercise can be thought of as a test to train us to deal wi
 As well as help us better appreciate the difficulty of unfamiliarity of being limited in some way, not as an obstacle, but as an opportunity to learn, develop and grow as individuals.
 
 
-### Instructions" 
+#### Instructions" 
 
 
 For this exercise what we essentially want to do is utilise our less-dominant hand to complete everyday tasks.
@@ -5968,7 +5980,7 @@ Much like with the **Observe Your Senses** exercise, all we really want to do is
 We're not trying to change our behaviour, nor condemn it in any way.
 
 
-### In fact, the entire purpose of this exercise is to practice our ability to observe." 
+#### In fact, the entire purpose of this exercise is to practice our ability to observe." 
 
 
 And what a lot of people don't know, is that observation itself is what brings about change. 
@@ -5990,7 +6002,7 @@ Furthermore, your struggle merely becomes another reference point for you to obs
 **"Ah, so that's what my mind does when I react to a judgement. Duely noted."**
 
 
-### Instructions" 
+#### Instructions" 
 
 
 All we want to do with this exercise is catch ourselves and acknowledge when we've made a judgement. 
@@ -6012,7 +6024,7 @@ The reason why this is important is because becoming aware of our feelings is of
 Essentially, because most judgements produce some sort of feeling in some way, so there's usually a direct correlation between the two.
 
 
-### Ultimately, this is an exercise of observation, and observation is the skill we're trying to develop." 
+#### Ultimately, this is an exercise of observation, and observation is the skill we're trying to develop." 
 
 
 We're not doing this to feel justified that we caught a judgement. (which funnily enough is a judgement within itself)
@@ -6043,7 +6055,7 @@ Routine is a very important part of the recovery process, and this exercise is a
 In addition, it's a wonderful way to engage your brain, which is really half the battle when it comes to addressing porn addiction.
 
 
-### Instructions" 
+#### Instructions" 
 
 
 Essentially, your aim with this exercise is to keep a mental timer every 30 minutes, and to record or even just acknowledge what you're doing within in that moment.
@@ -6099,7 +6111,7 @@ The word "understand" of course, meaning the conglomerate of knowledge you've ga
 Part of the reason why we want to break down your understanding of life and reality, is because what you currently "know" is largely counter-intuitive.
 
 
-### You see, what you \"understand\" is part of the reason why you're addicted to porn." 
+#### You see, what you \"understand\" is part of the reason why you're addicted to porn." 
 
 
 What you currently "understand" is that you really want to watch porn.
@@ -6119,7 +6131,7 @@ For today's exercise, what we want to do is break down our visual understanding 
 Which is to say that we want to separate our thoughts and feelings from what we're actually seeing in front of us.
 
 
-### As human beings, we tend to attach meaning and value to that which we can physically see." 
+#### As human beings, we tend to attach meaning and value to that which we can physically see." 
 
 
 It could be a trinket that belongs to your family which evokes emotions of pride and belonging.
@@ -6159,7 +6171,7 @@ Both exercises focus on manipulating our visual understanding in some way, howev
 **Dissolve Your Visual Perception Of Reality** attempts to completely absolve our understanding of reality, while this exercise attempts to rearrange our understanding of it.
 
 
-### Instructions" 
+#### Instructions" 
 
 
 For this exercise, what we want to do is look at some things, and try and figure out the difference between what we're seeing and what we're feeling. 
@@ -6196,7 +6208,7 @@ The world truly is your oyster ^^
 This exercise is really about 
 
 
-### Instructions" 
+#### Instructions" 
 
 
 
@@ -6242,7 +6254,7 @@ So in essence, this exercise is designed to help you change how your mind works 
 Which is why a lot of people find it very challenging to do, despite of how simple it actually is.
 
 
-### Instructions" 
+#### Instructions" 
 
 The idea behind this exercise is to challenge our beliefs and pre-conceived notions of what we believe is necessary.
 
@@ -6292,7 +6304,7 @@ It's why I recommend it's super helpful to learn new things. It doesn't matter w
 
 A key component to this exercise is truly understanding the nature of actions and consequences. Precisely that all your actions have consequences and that focusing on these actions is a great way to train our mind to.
 
-### Instructions" 
+#### Instructions" 
 
 
 
@@ -6331,7 +6343,7 @@ And this is important for us to realise, because often we can subconsciously put
 
 
 
-### Instructions" 
+#### Instructions" 
 
 
 
@@ -6368,7 +6380,7 @@ Certainly, I know I felt the same way about love, even within my own family, and
 Although I digress.
 
 
-### Instructions" 
+#### Instructions" 
 
 
 For this exercise I want you express gratitude throughout your day.
@@ -6395,7 +6407,7 @@ Identify the choice we have in life, or our perception of what choice we have.
 
 
 
-### Instructions" 
+#### Instructions" 
 
 
 
@@ -6440,7 +6452,7 @@ In fact, chances are that you may never done this before, and you might not even
 Well, let's find out.
 
 
-### Instructions" 
+#### Instructions" 
 
 
 An important thing to note about expression is that it's purely about intention.
@@ -6452,7 +6464,7 @@ For example, when you smile you're acting with the intention of being happy. Whe
 Now, here's the thing about expression which people seem to overlook or even outright misunderstand.
 
 
-### Intention doesn't come as a reaction to something which takes place in life." 
+#### Intention doesn't come as a reaction to something which takes place in life." 
 
 
 Which is to say that you being sad isn't the reason why you're crying, no different to a happy event not being the reason why you're smiling.
@@ -6508,7 +6520,7 @@ When we're not functioning to the best of our ability, it's because we're fighti
 
 In this exercise, we want to identify the key areas in our life where we .
 
-### Instructions" 
+#### Instructions" 
 
 
 
@@ -6534,10 +6546,10 @@ First we start with objects.
 Then we move onto people and concepts. 
 
 
-### Because when we're in control of our mind, it's almost as if everything is moving in slow motion." 
+#### Because when we're in control of our mind, it's almost as if everything is moving in slow motion." 
 
 
-### Instructions" 
+#### Instructions" 
 
 
 
@@ -6578,2091 +6590,7 @@ Which for a lot people, is a lot simpler than trying to identify the things whic
 In addition, it can help them understand more about themselves, by merely identifying the things which they don't care about. 
 
 
-### Instructions" 
-
-
-The exercise is simple.
-
-Your task is to think about the things you don't feel judgemental about. 
-
-Things which you couldn't possibly care about, which don't evoke any kind of reaction.
-
-Then once you've identified that thing, ask yourself why? Why doesn't that particular subject evoke a feeling? 
-
-Why are you not attached to that particular subject?
-
-For example, I'm not judgemental about medical surgeons. I have literally zero opinion on medical surgeons. 
-
-Why? Well, I guess because I don't actually know any medical surgeons, and it's simply not a subject which ever enters my conscious. 
-
-The key with this exercise is to progressively try to find subjects which you're not judgemental about, yet may be related to or have something in common with the things you are judgemental about. 
-
-For example, you may feel judgemental about celebrities or politicians, but feel significantly less judgement about popular sporting figures.
-
-Try and discover some common themes. Perhaps you might discover something. Perhaps you might not. 
-
-We're all here to learn more about how our individual minds work.
-
-
-
-
-
-
-
-
-
-
-
-# NeverFap Deluxe Practices
- 2019-01-07
-
-
-A complete list of all of the mental health practices here on NeverFap Deluxe. Yipee!
-
-If instead if you're looking for a more structured approach towards addressing your porn addiction, then I recommend checking out our NeverFap Deluxe Courses section!
-
-If however you were searching for a complete list of all our contextual articles on the website, please check out the impeccably arranged NeverFap Deluxe Articles page.
-
-You may sort practices by latest or category.
-
-
-
-
-
-
-# Dissolve Your Visual Field
- 2019-02-03
-
-
-
-
-This exercise is designed to help dissolve your ego.
-
-
-### In particular, by getting you actively reinterpret your visual field." 
-
-
-Before we commence however, we must first come to understand how humans interpret reality.
-
-On a conceptual level, humans relate to the world with language. We use words and symbols in order to define and describe the world around us.
-
-It's what allows us to gauge social situations, learn new theoretical concepts and better understand the relationship between ourselves and our environment.
-
-And yet, although we live in this predefined world of assumptions based on our conceptual understanding of the world.
-
-None of it is actually 'real'.
-
-
-### Numbers, for example, are not real. They're just mathematical descriptions." 
-
-
-On a cultural level, this conceptuality extends to all the predefined rules we have in regards to how we should act and behave.
-
-For example, some cultures prefer kissing as opposed to shaking hands as a way to greet others ...and yet this preference doesn't actually help describe what humans are.
-
-Although society attempts to define us based on our behaviours and how we act, it still doesn't change the fact that we all have five fingers, two eyes and need to be loved.
-
-
-### We're all still merely people, after all." 
-
-
-By the same token, our addiction to porn maintains a very similar same layer of conceptual 'description' which prevents us from truly seeing what we're actually doing.
-
-For example, we can find ourselves drawn to certain types of porn or online fetishes.
-
-Even though, when you think about it, it's all just a bunch of light emanating from our computer screens.
-
-Which when you put it like that, makes porn addiction seem quite silly.
-
-
-### I mean, is that arrangement of light and colour on your computer screen really that special enough for you to be completely dependent upon it?" 
-
-
-Essentially, what we intend to do with this exercise is help your brain distinguish between what you see (i.e. light and colour).
-
-In contrast to that extra layer of conceptuality clouding your vision (i.e. the actual person standing in front of you).
-
-We want to remove this bias from our visual understanding of reality, not only to see a 'clearer' picture of reality, but to better understand what we're actually experiencing.
-
-So really, what we're trying to discover is.
-
-
-### What information do we lose with all this additional mental processing?" 
-
-
-Can we call what we even see with this additional processing 'reality'?
-
-Is it possible to truly 'see' when our minds are in a constant state of evaluation?
-
-These are the questions will be attempting to answer and of course, it can help to understand that there are many ways we cloud our vision with description.
-
-For example, we typically use a variety of objects in our visual field to construct depth. Then, we often evaluate those objects. Are they alive? Are they human? Are they dangerous?
-
-Ultimately, this is the process we are trying to understand.
-
-
-### Instructions" 
-
-
-For this exercise, what we want to do is attempt to treat our visual field as a simple plane of a light and colour. 
-
-No objects. No descriptions. No focusing on certain details over another. No intepretations.
-
-Nuthin'.
-
-Instead, what we want to do is treat our visual field as a non-descript arrangement of light and colour.
-
-It usually helps to imagine everything as a cloud of sensation, although I'm sure there are other more meaningful ways to describe it.
-
-Certainly, don't try to focus. 
-
-Keep your attention wide and merely feel as if you're intaking the visual information around you, rather than from the point of view of you actively perceiving that information.
-
-While you can do this anywhere, I personally find it works best when I have a few minutes alone, where you can really explore this idea uninterupted.
-
-
-
-# Focus Your Attention
- 2019-01-04
-
-
-
-
-Learning to focus our attention is an important skill.
-
-However, I would also argue that it's quite an advanced skill that should only be attempted once you feel more comfortable being aware in general.
-
-In fact, it's an exercise which builds upon Observe Your Senses so it makes sense to master that first.
-
-Otherwise, we can truly struggle with this exercise, and more often than not when people attempt to learn this exercise first, it almost always leads to more confusion than clarity.
-
-So please do not proceed until you've mastered more fundamental awareness exercises. 
-
-### What is focus?" 
-
-The funny thing about focus is that it's a bit of a paradox, at least according to conventional wisdom.
-
-A lot of people treat focus as if it's supposed to be this kind of intense period of concentration, which is designed to consume all you energy and attention.
-
-In reality, effective focus is not like that and cannot come from tensing up and trying 'really hard' to get into that mental zone.
-
-
-### Instead, effective focus comes from being calm and relaxed with a clear intention in mind." 
-
-
-I mean, I'm sure anyone could maintain intense focus by trying 'really hard' however it certainly wouldn't be effective in the sense of being in control.
-
-Ultimately, you cannot focus effectively if you're spending all your mental energy on creating an environment in which you feel comfortable to focus.
-
-Because then you're left with significantly less energy to actually focus, and instead it leaves you incredibly vulnerable and quite ironically, without focus.
-
-Definitely, not fun.
-
-As stated earlier, if I had to describe what focus is.
-
-
-### I would say that it's nothing more than awareness with a clear intention."  
-
-
-Which is to say that it's the same thing as being aware in the traditional sense (i.e. observation), only now you're choosing an intention outside of simply being aware of your senses.
-
-This is why I say that you must first learn to master basic awareness before moving onto these kinds of exercises. 
-
-Because it actually requires more skill to remain calm and aware, while also selectively focusing on a certain aspect of your awareness.
-
-Which people generally find more difficult than simply being aware of all their sense.
-
-In essence, it's easier to be fully attuned to all your senses at once without focus, than it is to be fully attuned to just one of your senses
-
-Simply because there's less overhead.
-
-
-### Instructions" 
-
-
-There are essentially two key steps towards performing this exercise.
-
-First, relax and put yourself into a state of unconditional awareness, as per the instructions in Observe Your Senses.
-
-In this state of mind, you should have completely emptied your mind and become fully attuned to your senses.
-
-Then, once you have achieved this, attempt to place your attention on a very particular aspect of your awareness. 
-
-It could be something visual, like a lamp or a door. It could be a sound that is occurring in the background. It could be a physical sensation that you're experiencing in your body. 
-
-Play around with it and see where your mind takes you.
-
-
-
-
-
-
-
-
-
-
-
-# Slow Down Time
- 2019-01-18
-
-
-
-
-This exercise is one of the easiest ways to start building your awareness.
-
-
-### Essentially, it involves slowing down your mind so that you can open yourself to the opportunity of being aware." 
-
-
-One of the most common ways we weaken our ability to be aware is by losing control over our thoughts.
-
-And the reason why we lose control over our thoughts is because they can be almost impossible to track when they're zooming around in our head at a million miles per hour.
-
-In other words, because we're overthinking.
-
-In most cases we don't even realise we're overthinking, because we're so consumed by our thoughts that we don't even allow ourselves the opportunity to realise what's going on.
-
-Which over time can form into an instinctual reaction towards dealing with our negative feelings and emotions.
-
-
-### Certainly, for most people, porn addiction is merely a subconscious response." 
-
-
-And this exercise is designed to help break that cycle.
-
-Rather than attempt to identify and qualify these thoughts, what we're going to do is simply going to focus on the raw process and sensation of thinking.
-
-And in doing so, embrace the physical sensation of what it actually feels like to be in control of our minds, in order to create a strong foundation for being able to control what we think and feel.
-
-
-### Because when we're in control of our mind, it's almost as if everything is moving in slow motion." 
-
-
-The key thing to understand about maintaining control over our minds is that isn't necessarily about being able to react to what's in front of us.
-
-Instead, a large part of maintaining control is about being able to prepare ourselves mentally for the events that will take place in the future.
-
-The idea being that we can then catch ourselves before we begin overthinking, and identify these patterns before they become unmanagable.
-
-Because when our mind is racing at a million miles per hour, it can become incredibly difficult, if not impossible to slow it down.
-
-
-### Which is why people inevitably relapse." 
-
-
-Because at that point, you've already lost control.
-
-By practicing **Slow it down** you will learn how to slow down your mind on a regular basis.
-
-In order to demonstrate control, and create those neural connections in your brain.
-
-In addition, it will help you understand how to become a more calm and collected person, exposing in the process the futility and self-destructiveness of letting our thoughts control us.
-
-
-### Instructions" 
-
-
-When you have a moment, just slow down your mind.
-
-This tends to work best when you're in the middle of doing something, because that's usually when your mind is engaged and requires relaxation.
-
-Keep in mind that there are two different aspects to this exercise:
-Mental and physical.
-
-For example, when I'm walking down the street, aside from slowing down my thoughts, I will also sometimes physically slow down, even stopping where I stand.
-
-The idea is to prove control over yourself, even when you have other intentions, such as getting to a destination on time.
-
-An idea that will prove very important in following exercises.
-
-
-
-
-
-
-
-
-
-# Blind Attention
- 2019-04-07
-
-
-
-
-
-This is a great exercise in terms of being able to understand what it means to truly focus our minds and train our attention.
-
-Part of the reason why many of us struggle with this idea of focus, is because many of us have this very rigid understanding of what focus is, as a "hardcore" state of mind that is attained in a very specific way.
-
-Usually via intense meditation and awareness study, as well as an almost exquiste sense of self-control over our minds.
-
-Well, I'm here to tell you that it's quite the opposite. 
-
-
-### In actual fact, focus and attention are largely conceptual ideas which have no rigid implementation." 
-
-
-Which is to say that there is no one, nor necessarily correct way to obtain focus. And that all the limitations we perceive about our own ability to focus, are purely self-made.
-
-Certainly, this isn't to say that you may not be struggling with developing focus.
-
-However, it merely indicates that the perceived limitations we have in regards to our inability to focus can be solved with a simple change of mind.
-
-And the way we are going to do this is by playing around with our focus and attention in a unique way.
-
-I would definitely describe it as a fun exercise, which ultimately has you utilising your imagination in order to practice the unlimited number of ways we can develop and utilise focus. 
-
-It will also help introduce you to a way of thinking which has unique applications when it comes to learning, if you so choose to use it.
-
-
-### Instructions" 
-
-
-In order to practice this exercise, you'll first need to pay attention to your surroundings.
-
-For starters, attempt to take note of the various objects within your surrounding area. 
-
-It could be a door. It could be a lamp on your desk. Perhaps even a plant or tree outside.
-
-Now, with this information in mind I want you to place your focus and attention onto one of these objects. 
-
-Noticing this object, I want you to really take note of it's shape, as well as how the object would feel in your hands or what you would do if you had to interact with it. 
-
-Really think about this object and place it at the centre of your conscious attention.
-
-
-### Now, with your attention remained on this object, I want you to close your eyes." 
-
-
-Continuing to pay attention to this object, can you still feel it's presence in spite of the fact that you cannot see it? 
-
-Afterall the object is still there in your mind, and your attention is still on that object as if it were there, visually in front of you.
-
-Now, with your eyes still closed, I now want you to imagine as if you're moving that object around with your mind. 
-
-Perhaps you might want to lift it up and move it to around to your left. Perhaps you might even want to spin it around 180 degrees, and then throw it behind your back.
-
-
-### Use your imagination and see what you can do with this object." 
-
-
-Next, with your eyes still closed, I want you to place your attention on a different object you noticed earlier. 
-
-Do the same thing with this object as you did with the previous object.
-
-Rinse and repeat.
-
-While a lot of this may seem silly, the idea behind this exercise is to help you understand that there is nothing concrete, nor necessarily 'real' about our ability to focus.
-
-At the end of the day, it's purely a self-created construct that is developed through practice (and largely desire).
-
-And that really is what I'm trying to get at here: Focus is nothing more than a skill that's developed through practice, exactly as you have been doing over the past 5 minutes or so.
-
-There's nothing scary, nor mystic about it. 
-
-
-### It really is as simple as practicing these exercises on a consistent basis, in order to develop the skill of focus." 
-
-
-Once you understand this, then it helps you realise not only that we have full-control over our attention.
-
-However that we can develop these simple understandings by changing the way we think about reality. 
-
-It really is that simple.
-
-The same goes for all your urges and negative feelings surrounding your addiction. Much like your focus and attention, these things are entirely malleable and are in no way bound by anything in particular. 
-
-The sooner you realise this, the sooner you'll be able to overcome your addiction without the constant struggle that often comes with fighting our feelings and emotions.
-
-All you have to do is change the way you interpret reality.
-
-By practicing these exercises everyday.
-
-
-
-
-
-
-
-
-
-
-# Focus Your Attention On The Right Side Of Your Vision
- 2019-04-28
-
-
-This is another classic awareness exercise which is short and straight-to-the-point.
-
-It's designed to help you think about something which you ordinarily wouldn't think about, which can help you expand your conscious awareness.
-
-I suppose what I like about this particular variation of awareness exercise, is that it really points out how subtle our focus and attention can be.
-
-While there are much more demanding awareness exercises such as Observe Your Senses this exercise highlights that focus and attention can still be achieved in the day-to-day of our busy lives.
-
-And that's really the beauty of focus and attention. 
-
-As outlined in Blind Attention it can be absolutely anything you want it to be, it simply comes down to your ability to conceptually think about it in everyday situations, and this exercise is designed to help you do that.
-
-So without further ado, let's get to the meat of it.
-
-
-### Instructions" 
-
-
-For this exercise what you want to do is focus your attention on the right side of your vision.
-
-I find this exercise works most effectively while you're in the middle of doing something, because it's not designed to be particularly taxing.
-
-In fact, it's designed to exist as a subtle overlay over your current thinking and daily functioning, as opposed to a dedicated practice you do when you have 10 minutes to yourself.
-
-I tend to find the real benefit of this exercise comes from how we decide to focus on the right side of our vision.
-
-For example, you may want to physically look at something in the right side of your vision. Alternatively, you may decide to simply imagine something appearing in the right side of your vision.
-
-In a lot of cases, it can be as simple as acknowledging that you have a right arm. There's an infinite number of ways you can practice this exercise throughout the day.
-
-Furthermore, another important aspect of this exercise is consistency. Try to see how often and how long you can maintain your attention on the right side of your vision for.
-
-Not to mention, question why you think you've been successful/unsuccessful in doing so.
-
-Do you get distracted when you attempt to focus your attention on the right side of your vision? Do you find it hard placing your focus on anything at all?
-
-Certainly, as with all awareness exercises, the more you practice them the better you'll become at training your mind to think in those terms.
-
-
-
-
-
-
-
-
-# Identify Points Of Awareness Throughout Your Day
- 2019-03-12
-
-
-
-
-
-This exercise is designed to help you keep on top of your awareness throughout the day.
-
-By becoming more conscious of the events throughout our day, we can become more conscious of the things we do within it.
-
-With this exercise, what we're attempting to do is become conscious of key moments throughout our day. 
-
-<hr class="hrul"/>
-
-- **When we wake up.**
-- **When we shower.**
-- **When we travel to work.**
-- **During our lunch break.**
-- **At dinner.**
-- **Before bed.**
-
-<hr class="hrul__bottom"/>
-
-The key thing to understand about awareness is that we're not actually aware unless if we exercise it.
-
-Largely, most of us do all of the things mentioned above, without truly being aware that they're actually happening.
-
-I mean, how many times have you consciously thought about something from the very moment you've woken up?
-
-You know, about a giraffe or that you're well and alive with two wonderful eyes?
-
-Chances are those thoughts have simply never occurred to you, because instead, you go into autopilot mode where you just follow the motions.
-
-
-### For this exercise, we want to do is start engaging our brain so that we can have those thoughts at these key moments throughout the day." 
-
-
-The idea is that once we become more conscious of what's happening throughout our day, it can become a lot easier to detect and stop negative habits from reoccurring. 
-
-In particular, to better address our cravings, as well as those moments associated to our addiction where we feel as if we are not in control. 
-
-And despite this exercise being relatively straight forward, it's an exercise that a lot of people struggle with, because it's a completely different way of engaging with the world.
-
-Becoming aware is not easy when you haven't consciously made an effort in the past to be aware before.
-
-Of course, practice makes perfect.
-
-
-### Instructions" 
-
-
-Essentially this is an exercise of acknowledgement.
-
-Throughout your day, simply acknowledge what's taking place at that time.
-
-For more specificity, you can identify the location, time and what exactly you're doing.
-
-"It's 7am and I'm currently brushing my teeth in the bathroom."
-
-At this point, I want you to focus on how you feel.
-
-Are you feeling tired? Are you feeling neutral? Are you feeling angry?
-
-Regardless of how you feel, the idea is to get you to think about these events and how they relate to your emotions.
-
-The other reason behind doing this, is that by identifying how you feel, it actually allows you to dissociate from your emotions and not take them personally. 
-
-Of course, you don't need to think about. It simply comes naturally.
-
-The end goal here, aside from engaging your awareness, is to acknowledge and not react emotionally.
-
-Because the more you do this, the more you know ahead of time how you will feel, and progressively overtime you will simply feel neutral at these particular time triggers throughout your day. 
-
-This is a truly fantastic exercise that I do everyday and it serves as an amazing anchor for my emotions.
-
-You engage your awareness from the very moment you wake up, and it just gives you such a strong foothold over how you feel throughout the day.
-
-
-
-
-
-
-
-
-
-
-# Take Note Of The Colour Yellow
- 2019-05-28
-
-
-This is another one of those classic awareness exercises where we pay attention to some aspect of our reality.
-
-In this exercise we're going to be paying attention to the colour yellow.
-
-Essentially, I want you to make a mental note any time you see the colour yellow.
-
-It could be as simple as a mere thought. You may even want to stare at it and really gauge it's presence. 
-
-For this particular exercise what we really want to do is gain inspiration from our surroundings and really focus our attention on what is currently taking place within our vision.
-
-It's a relatively simple exercise, yet a highly effective one at engaging with your conscious mind.
-
-Which is a key point to make with all these exercises.
-
-They are designed to teach you to consciously engage with your mind, so that when you're having an urge for example, you can engage with it in a meaningful way.
-
-Rather than flail around as if you have no control over yourself, which simply isn't true. 
-
-
-### Instructions" 
-
-
-That's right kids!
-
-For this exercise what we're going to do is notice the colour yellow.
-
-How you decide to do this is up to you. You can write it down. You can simply acknowledge it in your head.
-
-Furthermore, how do you react when you see the colour yellow? Do you react at all? Is there a particular feeling that this exercise evokes?
-
-Fun Fact: Yellow is apparently the most appealing and memorable colour.
-
-
-
-
-
-
-
-
-
-# What Can Your Hand Do?
- 2019-05-01
-
-
-
-
-This exercise is designed to help you think outside of the box.
-
-It's not a particularly difficult exercise in the sense that it allows for unlimited creativity. 
-
-However, it's an exercise that's very difficult to master in the traditional sense of being able to consistently replicate the same thing each time.
-
-I find I learn new things each time I try this exercise, and you'll be surprised at the extent to which you'll also discover new things each time you try it too.
-
-
-### In this exercise what we'll be doing is coming up with a variety of different ways we can use our hands." 
-
-
-How we can move them. Arrange them. Touch them.
-
-And in doing so, realise the extent to which we haven't been thinking before, or at least allowed ourselves the opportunity to think previously.
-
-Because although we use our hands everyday, it's not as if we think about them in certain odd ways, such as how we can arrange them into different shapes and patterns.
-
-I suppose it's a lot like when you're walking down a street you're familiar with, and you happen to notice something completely new that's always been there, yet you hadn't noticed up until that very moment. 
-
-By practicing this exercise we can learn to not only think creatively, but also understand that no matter how much we think we know, we don't truly know it all. 
-
-Something which often has to be experienced to be believed, hence this exercise. 
-
-
-### Instructions" 
-
-
-To begin this exercise I want you to first look at your hand. 
-
-What do you see? Take notice of the wrinkles on your knuckles. The hair on your fingers. The tone of your skin.
-
-Already, you're probably doing something unique. Chances are you've never considered staring at your hand for an extended period of time, ever. 
-
-Next try and move your fingers around. See if you can make your hand into weird shapes by moving your fingers into odd positions. 
-
-What happens once you move your wrist as well? Does it feel natural? What is natural?
-
-Once you've played around with that idea, get your other hand involved as well. 
-
-What arrangements/combinations can you create with two hands? What if you interlace all your fingers together? What if you put both the backs of your hands together?
-
-Remember, this truly is an exercise of creativity, so the aim is to play around and see what you can come up with. 
-
-Not only will it help open up your mind, but it will get you thinking about something which you ordinarily wouldn't be thinking about.
-
-No different to your recovery if you're just starting out.
-
-
-
-
-
-
-
-
-
-
-# Where Do You Touch?
- 2019-03-30
-
-
-<b>Where Do You Touch?</b> is another classic awareness exercise which is designed to help you develop focus and attention.
-
-By "classic" I mean it's another variation of the tried-and-true "pay attention to X thing throughout the day" that I'm sure you've seen in abundance on this website.
-
-Well, the reason why I write so many of them is because they're incredibly effective at getting you to think about awareness in a unique way.
-
-
-### In essence, because this is what you should be doing with your attention anyway." 
-
-
-Which is to say that you should be practicing awareness in everything you do, and that this exercise is merely a shortcut to having you eventually do this automatically.
-
-Awareness is important because it's what allows you to understand and learn your own behaviours, not only to change them, but also to enhance them.
-
-By practicing awareness in any capacity, we train our ability to catch ourselves doing silly things, like watching porn when we're feeling stressed.
-
-And instead, consciously decide within that moment, to replace that unhealthy coping mechanism with a healthy coping mechanism instead.
-
-The more we practice this, the more it will help us to think in terms of using our awareness in an empowering way, and eventually it will become second-nature to us. 
-
-Overtime we will become more aware of all our behaviours and quirks, and this is when we will develop full-control over our lives. 
-
-
-### Instructions" 
-
-
-In this exercise we're going to be paying attention to our body and how it interacts with touch.
-
-Essentially, I want you to take note of whenever you're touching something. 
-
-For example, I'm currently using my fingers to tap against this keyboard in order to type these words.
-
-And yet although it's something I spend most my day doing, it's not something I've ever really thought about.
-
-Well, that's precisely the problem we're trying to address. To begin thinking about behaviours which your brain has subconsciously ignored for decades.
-
-For example, your response to masturbate daily as a way to deal with certain feelings and emotions.
-
-In addition, an important aspect of this exercise is to pay attention to the feeling of touch as well.
-
-What does it feel like when you bump into something? Does it hurt when you touch something? Does it feel hot or cold? Does it evoke emotion? 
-
-Only by becoming aware of our senses can we not only learn to better understand how they relate to our conscious experience.
-
-However it can help us to better control the experience itself once we become aware of our behaviours related to touch.
-
-
-
-
-
-
-
-
-
-# Where Is Your Knee?
- 2019-08-28
-
-
-This is another one of those classic awareness exercises where we pay attention to some aspect of our reality.
-
-They're classic because you've probably seen them a thousand times before on this website, but the reason I create them is because they're effective.
-
-In this exercise what you're going to be doing is paying attention to the location of your knee.
-
-The idea is nothing remarkable, yet it's an effective way for us to develop control over our mind and expand our capacity for awareness.
-
-I suppose what makes this awareness exercise different to something like **Take Note Of The Colour Yellow** is that the focus of this exercise is on some aspect that is attached to yourself, rather than something which is external to you.
-
-And although it may seem like a small thing, it actually changes quite a lot in terms of your focus.
-
-No longer does it mean seeking that which we see in reality and instead, is more about being aware of some aspect of our physicality. 
-
-Regardless, it's a great way to engage the mind on a conscious level, which is actually incredibly difficult to do.
-
-
-### Instructions" 
-
-
-Throughout the day, I want you to take notice of your knee.
-
-It can be as simple as a brief acknowledgement, or perhaps you may even want to look at your knee for a moment.
-
-I know this exercise can be a bit of a surreal experience for a lot of people, as your knee is something you've probably never thought about before.
-
-What purpose does it serve? Are you grateful that you have a knee? Is it something which deserves the expression of gratitude?
-
-All questions which can help you better understand yourself.
-
-Furthermore, what's important is to observe how you react to the exercise itself. 
-
-Do you get frustrated if you find out that you've forgetten to observe your knee? Do you take it personally?
-
-
-
-
-
-
-
-
-
-# Can You Look Through Walls?
- 2019-04-14
-
-
-
-
-
-
-The idea behind this exercise is to teach you to think of your senses differently.
-
-As humans we're essentially limited by our senses. Which is to say that we can only see, feel and hear as far as our body will allow. 
-
-What this exercise is designed to do is help us imagine what it would be like if our senses were extended.
-
-A large part of the exercises here on NeverFap Deluxe revolve around training ourselves to perceive and understand our senses, and so learning to imagine them is an important part of enhancing that process.
-
-Because when you think about it, our senses really are the rawest indications of not only who we are, but what we know of reality.
-
-So once you understand your senses and truly become comfortable with them, you can learn to develop great control over your mind, as well as cement your ability to remain centred. 
-
-Not only will this exercise help you better understand your existing senses and your perceived limitations of them, however it will help you better project your understandings of reality overall.
-
-
-### Instructions" 
-
-
-For this exercise, what we want to do pretend as if we can see through walls. 
-
-So pick a wall, and pretend as if you can see clearly what is on the other side. 
-
-Now, this truly is a skill within it's own and I encourage you to really play around with this idea of what it means to be able to "see through something".
-
-For example, can you see through multiple walls? If so, can walls ever exist out of principle, if no one can see them?
-
-What does it look like on the other side? Is it clear? Does the fact that because you're looking through something, change the nature of that object?
-
-Is your ability to see through walls a reflection of your eyes, or your mind? Perhaps, is it a reflection of the wall itself? Is it only walls you can see through?
-
-In addition, see if you can imagine different things through that same wall. Perhaps you see a great big ocean, or a vast wide desert. Perhaps it's nothing more than just a single colour.
-
-By playing around with this idea, you can truly explore your senses in a magical way, that will help you not only realise how fantastically fluid they really are.
-
-But also dissolve the self-limiting beliefs you may have about them.
-
-
-
-
-
-
-
-
-
-# Focus On Your Finger And Your Background
- 2019-05-07
-
-
-This is a simple exercise most people can benefit from straight-away without too much effort.
-
-Certainly, it was one of the first awareness exercises I learnt when I was starting out with my own mental health journey, and it's one that has stuck with me since.
-
-This exercise involves manipulating your visual field in order to change the depth perception of the objects in front of you, notably your finger and the foreground.
-
-It's a powerful exercise because humans are largely visual creatures, and so to rapidly change our focus so vividly can help us better understand the power which we have over ourselves and our perception of reality.
-
-At a conscious level, we may not realise the extent to which we have control over ourselves and in particular our thoughts, feelings and even senses.
-
-On the other hand, demonstrating first-hand that we do have control over these things aspects of our consciousness is a great way to open our minds and dissolve some of the self-limiting beliefs we may have about what we're capable of as people.
-
-In other words, help us detach from the misconceptions within our own minds, including our ego and all things conceptual.
-
-And the fact that what we're doing here is conscious is really key here, as we're trying to demonstrate power over our mind through our actions.
-
-Because that's ultimately what awareness is all about - learning to use our minds effectively so we no longer allow our subconscious fears and behaviours to control who we are.
-
-
-### Instructions" 
-
-
-While the instructions for this exercise are simple, the real benefit comes from the introspection that comes from practicing this exercise.
-
-No different to any other awareness exercises.
-
-In order to practice this exercise, what you'll want to do is place your hand in front of your face with one finger pointing up.
-
-Essentially, have it far away enough so you can see your finger clearly, but not so close that... I'm sure you get the drift.
-
-Now, what you'll want to do is focus on that finger. Simply focus your vision on that finger, and notice what you see.
-
-If practiced successfully, you should be able to see your finger very clearly. I mean, it is right in front of your face, afterall.
-
-Now, ask yourself a few questions. Are you able to focus on anything else while focusing on your finger? What about the background, are you able to focus on that as well?
-
-Once you've done this for about a minute-or-so, I now want you to focus your attention on something in the background.
-
-It could be a tree. It could be something on you wall. Generally, the further away it is the better this works.
-
-And with your focus shifted, I want you to gauge your change of perspective and truly understand the significance of what you've achieved here.
-
-With your focus on that object in the distance, what do you notice? Are you able to see your finger clearly at all?
-
-Ultimately, this exercise teaches us a few different things.
-
-It teaches us that although we can have two objects in front of us, where we place our attention ultimately dictates what our experience will be.
-
-In addition, it also teaches us the importance that we play as individuals in regards to how we perceive reality.
-
-When we focused on the background, our finger itself didn't change. What changed was our perception of that finger, due to where we placed our attention.
-
-There are also a number of additional lessons we can learn from this exercise, however I'll leave that up to you to explore!
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Stop Absolutely Everything You're Doing
- 2019-01-22
-
-
-
-
-
-
-
-I love this exercise.
-
-I can't quite tell if this exercise is an analogue to Slow Down Your Perception Of Time or a percursor to it, however they're both different approaches to the same concept of awareness. 
-
-Usually you'll end up using both in conjunction, but it's arguably easier to learn them as separate, unique skills.
-
-All awareness exercises essentially come down to finding different ways to break down you perception of who you are.
-
-And this is a very important practice because our perception of who we are, isn't actually who we are.
-
-It is merely an identity we carry to help us navigate through life. 
-
-And when we don't realise this, or aren't consciously aware of this label that we prescribe to ourselves on a daily basis, then we can become ransom to this persona.
-
-By learning to understand this identity, we provide ourselves with the opportunity to be able to directly control how we operate, without relying on the expectations of this persona.
-
-
-### What this exercise attempts to do is help you better disassociate yourself from this persona." 
-
-
-The end goal isn't necessarily to completely dissolve this persona.
-
-(Not that there's anything wrong with dissolving it. It's simply impractical for most people, including myself)
-
-However to have the capacity to be able to dissolve it at will, as well keep on top of it when it may be beginning to get out of hand is a wonderful skill to have.
-
-Essentially, what this exercise teaches you is to learn to let go from a physical perspective in the sense of stopping your mind altogether.
-
-I think you'll have fun with this one.
-
-
-### Instructions" 
-
-
-This exercise generally only works while you're doing something.
-
-You could be studying. You could be walking down the street in an attempt to get somewhere. Definitely don't do it mid-conversation.
-
-However during that activity, what you want to do is turn off your mind completely.
-
-Like, just shut it off. 
-
-It can help to pretend as if you're a robot that's just had it's power supply cut off.
-
-One thing to keep in mind is that it's an exercice that's largely conceptual and based on feeling.
-
-So really play around with the character and explore this idea of what it means to shut down like a robot on it's last legs. 
-
-What does shutting down entail? Are there any steps towards shutting down, or is it an instantaneous action? 
-
-What does it feel like to be shut down? Can you feel at all once you've shut down? 
-
-When you've shut down do you feel relaxed or tense? Is this a reflection on your own ability to relax at will?
-
-Play with it and see where it takes you.
-
-...and obviously don't do this while crossing a road.
-
-
-
-
-
-
-
-
-
-# Who Is Looking?
- 2019-05-20
-
-
-This is arguably one of the hardest exercises you can practice.
-
-Certainly, it's an exercise that I continue to struggle with and perhaps will never truly understand.
-
-Of course, this isn't to say that it isn't useful as a thought exercise. More that it's an exercise that can tend to produce more anger and frustration, than enlightenment.
-
-Although, that's also part of the challenge. 
-
-This exercise is a bit like asking you to imagine what a cube would look like in 4D. It's not something we can inherently do provided our limited ability to perceive only in 3D.
-
-No matter how we try to think about it, we can provide no meaningful answer that will intuitively make sense based on our 3D understanding of the world.
-
-And part of the magic of this exercise is learning to come to terms with the fact that there is no perfect answer, let alone any coherent answer at all.
-
-This is where you'll discover the most benefit from practicing this exercise.
-
-
-### Instructions" 
-
-
-I want you to think about your mind.
-
-Your mind is what allows you to think, feel and perceive reality.
-
-When we bunch all these things together what we effectively create is our conscious experience.
-
-Now, I want you to ask yourself.
-
-### Where does your consciousness come from?" 
-
-Does your consciousness come from your mind? Does it come from your eyes? Is there any single point of consciousness you can pin point, in the cloud of sensation that you're currently experiencing?
-
-Furthermore, I want you to attempt to do something profound. I want you to attempt to look at that which is perceiving. 
-
-Which is to say, I want you to try and locate the centre of your consciousness.
-
-What does it look like? Is there even a centre? Is the centre merely temporary? Is there even a consciousness to locate at all?
-
-The difficulty of this exercise derives from the fact that it's incredibly difficult to interpret something you are.
-
-It's a bit like asking someone to describe what they look like, when they've never seen a reflection of themselves in the mirror.
-
-Now to add to the perplexity of the situation, imagine how frustrating it would be trying to describe what you look like, when you've never even seen another human being before? 
-
-That's a bit what this exercise is like, because we only have our own consciousness to relate to, and even then no one quite knows what it is.
-
-So not only does this exercise require an incredible amount of thinking outside of the box, however it's a thought exercise which may not even be possible at all.
-
-Regardless, like all awareness exercises the benefit comes from the process, so play around with the idea and see where it takes you.
-
-Certainly, none of it may make any sense at all, let alone ever. 
-
-However the more you think about the idea, the easier it will become to remove those conceptual barriers and even come to a point of acceptance where this may make sense to you in some form, even if it doesn't directly address all your concerns. 
-
-I highly encourage you stick with it for a few days at least.
-
-And see where it takes you.
-
-
-
-
-
-
-
-
-
-# Observe Your Senses
- 2019-01-27
-
-
-
-
-
-
-
-
-This exercise encompasses one of the most fundamental skills in regards to practicing meditation.
-
-
-### Your ability to remain aware of your senses in the present moment." 
-
-
-It's a skill which will form the foundation of almost all the practices on this website, in particular the introspection aspect of these practices i.e. how these exercises make you feel as you practice them.
-
-The interesting thing about this exercise is that despite the inherent simplicity of what it is, it's an exercise most people struggle with.
-
-In part, because of the great amount of misunderstanding and confusion surrounding what 'observation' truly is.
-
-And this happens for a number of reasons.
-
-
-### For starters, we severely overcomplicate what it is, thinking it must be so much more than simply paying attention to what we're feeling." 
-
-
-Instead, we develop this idea that it must be this highly-trained skill that only Bhuddist monks can attain following years of practice in a remote location. 
-
-So what ends up happening is put all this effort and strain into trying to develop this 'zen-like' state of mind, which ends up exhausting us more than it does helping us. 
-
-We become so distracted in the expectation of what observation should be, that we ironically spend all our mental effort judging and feeling pressured, rather than observing at all.
-
-So let's change that.
-
-To put it into the most simple terms I know how.
-
-
-### Observation is nothing more than paying attention to your senses." 
-
-
-If you're at a cafe for example, it means paying attention to the sounds of the people chatting around you, what the atmosphere around you smells like etc.
-
-Because when you think about it, you're already observing reality. 
-
-You're already breathing. You're already blinking. You're already seeing. 
-
-You simply haven't applied that extra step of making yourself aware of all those things which you are currently doing. 
-
-It's literally that simple. 
-
-You don't need to attempt to find something that's not there, nor even manipulate your interpretation of what you're feeling or thinking via thought or judgement.
-
-Instead, it's about noticing your surroundings, thoughts and feelings, in addition to any particular reactions you may be having to those aspects of your reality. Hell, perhaps you're not even thinking or feeling at all? 
-
-That's for you to discover.
-
-
-### Where I personally feel a lot of people explaining observation go wrong, is that they focus on this whole \"really try to empty your thoughts\" or \"attempt to refrain from judgement\" mindset." 
-
-
-Because it essentially implies that you have to do "more" to somehow achieve what is effectively an empty state of mind.
-
-Which doesn't make any sense, and is even contradictory.
-
-You don't have to change anything. Observation isn't about changing anything or setting expectations. It's the exact opposite of that.
-
-Instead, it's about observing what you're currently sensing via your thoughts and emotions. 
-
-So don't worry about trying to prevent your thoughts, or getting frustrating if you can't stop thinking.
-
-That's precisely the problem we're trying to address, and the way we do that is by focusing on the task at hand, which is observation itself.
-
-
-### Another important thing to keep in mind is that we're not necessarily attempting to 'achieve' anything with observation." 
-
-
-Instead, what we're doing is exploring. 
-
-We're exploring how we feel, how we think, as well as discovering what we personally find enjoyable and empowering. 
-
-So that we can better understand ourselves. 
-
-
-### Instructions" 
-
-
-This exercise is outrageously simple.
-
-Observe your senses. 
-
-Observe what you're feeling. Observe what you're thinking. Observe what's around you.
-
-The world is your oyster.
-
-
-### Observe all the various interactions that are taking place in your mind." 
-
-
-It's about sitting there (or standing, or walking, or whatever you happen to be doing) and paying attention to what you're sensing, whether it be thought, emotion or absolutely nothing at all. 
-
-And remember, you're not attempting to change anything here. Instead you're merely keeping note and acknowledging the cloud of sensation that is your reality. 
-
-Certainly, you may struggle with it initially.
-
-Which is to say that you may not be used to simply observing, and instead be in a constant state of reaction and judgement.
-
-That's okay too. It's why we're practicing this exercise, so we can improve and develop these skills.
-
-So don't be alarmed if you find observation to be difficult.
-
-There's always a first for everything.
-
-
-
-
-
-
-
-
-
-
-# Looking Straight Ahead
- 2019-06-26
-
-
-
-
-This exercise is truly extraordinary and it's an exercise I try to practice as much as I can when I'm out in public.
-
-The premise behind it is simple, however it's an exercise that a lot of people struggle with.
-
-Essentially with this exercise what we want to do is to always look straight ahead without turning our heads unnecessarily.
-
-Part of the problem when our focus and attention is weak, or even if we've never bother to question otherwise, is that we can find ourselves procrastinating or getting distracted easily.
-
-And this can often be noticed in full-force when we're out in public.
-
-Without proper focus, we can find ourselves staring unnecessarily at every person we walk by (often, to try and seek attractive men/women) or perhaps it might even be looking into the windows of shops.
-
-Well, today we're going to do something about that, and we're going to consciously refraing from staring at others in public.
-
-This is an amazing exercise, especially in regards to developing control over our focus and attention, and by learning to ignore other people in public, you can learn to focus on what's truly important.
-
-Yourself.
-
-Not to mention, humans usually function better when they have a clear goal in mind, and this exercise has been designed to teach you how to focus on your goals in a very simple way.
-
-
-
-### Instructions" 
-
-
-What you'll want to do is stare straight ahead while you're walking in public (obviously common sense applies here, don't cross the road while doing this etc.)
-
-Focus your vision and attention right in front of you.
-
-As weird as it sounds, it can even help to think or yourself as a train on rails, which can only move in one direction and which doesn't have the capacity to even turn left or right.
-
-The aim of this exercise is to learn not to stare at others, nor have your attention hooked in any way by anything in particular, whether that be people, nature or even store-fronts.
-
-Often what I find helps is if you try and look above people's heads into the far distance, so that even though there may be people in front of them, you're technically not looking at them persay.
-
-Of course, find what personally works for you.
-
-Often what happens, especially if you're a porn addict, is that you'll intentionally go and search around in public looking for attractive people, which merely reinforces our porn addiction and doesn't help us develop control over our minds.
-
-With this exercise, we're going to train ourselves not to do this, by having a higher principle in mind.
-
-Rather than search around, we are instead going to be focus on the journey and our destination instead.
-
-Certainly, this exercise works best if you're in public where there are plenty of people, otherwise it can still work around the house, although to significantly less effect.
-
-Just remember that no matter what, you are 100% in control of your body and you determine where your eyes look.
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Put Yourself In Other People's Shoes
- 2019-03-18
-
-
-This exercise can be inherently difficult. 
-
-In large part because it demands you to think consciously beyond which you may feel comfortable.
-
-In fact, half the reason why you're addicted to porn is because of all the subconscious behaviours you've been constructing over the years, in order to deal with your own feelings of inadequacy etc.
-
-Which meant putting your conscious awareness aside, which has now grown weak and must be retrained again from scratch.
-
-With this exercise what we're going to attempt to do is to try and understand what it's like to be in the shoes of others.
-
-And this kind of empathy is most prominent when we're watching documentaries based on humanitarian crisis or exploitation, where we get to see people struggle first-hand.
-
-Certainly part of the reason why this is easy, as opposed to what you'll be attempting to do, is because you get to hear the stories of those people first-hand.
-
-Instead of these people however, I want you to try and understand the people around you, whether that be your own friends and family, or even random strangers in public.  
-
-At the very least, to observe your own feelings of how you perceive others.
-
-Now, although this may seem like an opportunity to judge, mock and possibly even condemn others, this truly isn't the purpose of the exercise. 
-
-Essentially, it comes down to two different thing: 
-
-**How you genuinely feel about others from their own individual point of view.**
-
-**Observing and questioning the validity of those feelings.**
-
-And the benefits of this exercise are numerous.
-
-Most prominently, attempting to try and understand others is an excellent way to uncover the extent to which we misunderstand ourselves.
-
-Because if you're feeling particularly negative about someone (or possibly positive) then that usually reflects in how we see ourselves.
-
-Which is to say that our empathy is often a reflection of our ability to judge and self-criticise.
-
-
-### Instructions" 
-
-
-For this exercise what we want to do is try and imagine what it's like to be others from their point of view.
-
-This exercise works best when you're in public, usually sitting on public transport where you and the other person are both present.
-
-Obviously, don't go crazy and stare at the other person, but I'm sure you get the idea. 
-
-What can really help with this exercise is to first put all of your feelings and emotions aside, and just imagine a neutral version of yourself. 
-
-Then with this neutral version, imagine the other person being the same as well.
-
-Starting with this blank slate can help immensely, because there's no point jumping to conclusions straight away.
-
-Then once you're in that neutral mindset, you can begin to observe.
-
-Does the other person look tense, or perhaps is it you who's actually tense?
-
-Are they happy, sad or entirely neutral? Does it look like their mind is pre-occupied? How can you possibly know?
-
-How do you personally feel doing this exercise? Do you find it difficult or easy? 
-
-In addition, also realise the extent to which you simply cannot be empathetic. 
-
-What aspects of a person can you not feel? Is it because they're aspects which you struggle to feel yourself? 
-
-Certainly, you may be surprised with what you discover.
-
-
-
-
-
-
-
-
-
-# Relax Everything
- 2019-02-13
-
-
-
-
-
-
-This exercise is incredibly effective, especially for those new to awareness.
-
-I mean, I'd go as far as to say that all exercises are effective. It's just that some exercises a lot simpler to execute than others. 
-
-One thing you'll notice as you trawl this website, is that there are a range of different exercises which all seem quite similar to each other.
-
-This includes Slow Down Time where we attempt to slow down and speed up reality, as well as Stop Absolutely Everything You're Doing where we attempt to shut down our mind completely, as if we've consciously flicked off a switch at the back of our minds.
-
-The idea is that with different perspectives, we can learn to understand ourselves and our conscious experience with a more open mind, as well as embrace different ways of thinking.
-
-So that we can effectively challenge the denial that comes with being an addict.
-
-With **Relax Everything**, what we're essentially trying to do is learn to relax and let go, as opposed to say, consciously manipulate our interpretation of reality or make judgements about how we're feeling.
-
-It's a skill which will allow us to effectively deal with our urges and uncomfortable feelings and emotions.
-
-An important thing to keep in mind with these awareness exercises is that while we're ultimately aiming to develop hard skills, it's also important for us to focus on the introspection aspect of these exercises as well.
-
-In other words, how these different exercises make us feel as we practice them. 
-
-From an introspection point of view, we're not necessarily trying to 'achieve' anything per-say. 
-
-Instead, what we're merely attempting to do is observe and develop our ability to view ourselves with a more open mind.
-
-Essentially, it's a very effective way to learn mastery over your thoughts and emotions. 
-
-So whenever you're doing these kinds of exercises, remember to always try and guage how you feel. Does the exercise make you feel frustrated? Do you think anything at all?
-
-### If you skip this step, then you'll gain very little from these exercises because you won't be actively engaging your brain." 
-
-And if you don't engage your brain, then you won't engage in physical changes that take place between your neural connections, and subscequently you won't be truly changing in the sense of conscious realisation.
-
-So ask yourself when doing the exercise:
-
-Do you feel more comfortable when you relax? Is there anything you don't like about relaxing? How does it compare to other awareness exercises? Do you even understand what it means to be relaxed at all?
-
-Remember, this is a process of self-discovery.
-
-There are no right or wrong answers. 
-
-There is only what you feel and how you perceive. 
-
-
-### Instructions" 
-
-
-For this exercise, what we want to do is relax and you can do this whenever you want. 
-
-I personally find it's quite effective to engage in this activity while doing something, because it's arguably easier to relax when you're in a non-relaxed state, as opposed to sitting silently in a chair.
-
-So what does it mean to relax?
-
-Well, let's start with some of the physical attributes.
-
-Relaxing from a physical perspective means letting go of all the tension in your body. It means slowing your mental pace, as well as taking things easy.
-
-If I had to describe the essence of relaxation, I would say that it's about experiencing life without obligation or care. You just are. 
-
-It means not worrying about anything, because you know what? There's simply no obligation to worry, because when you are relaxed you have no responsibilty to anything.
-
-Again, I urge you to remember that this is a process of self-discovery, and that I'm not asking you to permanently dissolve into a puddle of jelly. 
-
-These are short bursts of perspective I am asking you to engage in throughout the day, in order to develop a more open mind.
-
-Certainly, while I can describe what relaxation is all day, unless if you actually attempt to practice it, then you simply won't learn what it actually is, nor be able to effectively use it when required.
-
-One key thing to understand about relaxation is that it's a feeling, so if you can't feel it on demand, then you won't be able to cope when you find yourself in a situation where you feel compelled to watch porn or do something equally self-destructive. 
-
-In other words, relaxation is one of the many health coping mechanisms we will be developing in order to help us cope with life in a more effective way.
-
-
-
-
-
-
-
-
-
-
-# Use Your Opposite Hand
- 2019-03-22
-
-
-This exercise is a great way to force yourself out of your comfort zone.
-
-Essentially, the idea behind this exercise is to force limitation upon ourselves and gauge not only how we respond, but how we can better react inspite of our circumstances.
-
-As I've written about extensively, part of what makes NeverFap Deluxe effective is learning to respond effectively in the face of adversity.
-
-It can be easy to get frustrated when we're forced to slow down, or even do something which we're entirely unfamiliar with, but the key thing to understand here is that when we do get frustrated we're essentially fighting with ourselves.
-
-Which is to say that these "limitations" are merely perceptions or expectations we have based in the belief that we deserve better.
-
-It's important that we learn to dissolve these expectations in order to learn to live without these self-percieved limitations.
-
-Not only because they're not real, but also because they truly hinder us in the sense that they do not empower us in any way.
-
-What happens if we get hit by a car and we're no longer able to walk again? What if something does truly happen to our dominant hand and we're no longer able to use it?
-
-This also extends to situations in life which are simply out of our control. It could be the death of a family member. It could be the loss of your job.
-
-And things which due to our beliefs, can cause us to derail and end in self-harm if we choose to react inappropriately i.e. masturbate to porn.
-
-Rather, what's important is that we learn to remain calm and relaxed inspite of what we're experiencing, both with and without limitations.
-
-In other words, this exercise can be thought of as a test to train us to deal with difficult situations.
-
-As well as help us better appreciate the difficulty of unfamiliarity of being limited in some way, not as an obstacle, but as an opportunity to learn, develop and grow as individuals.
-
-
-### Instructions" 
-
-
-For this exercise what we essentially want to do is utilise our less-dominant hand to complete everyday tasks.
-
-It could be brushing your teeth. It could be washing the dishes. It could be writing. It could be using your phone.
-
-It could be any number of things and I want you to take note of a few things which will help you get the most out of this exercise.
-
-For starters, I want you to notice the physical feeling of using your non-dominant hand. What does it feel like to use your other hand in ways you've probably never used before?
-
-Does it feel unnatural? Does it feel slightly unreal? Is the task just as easy to complete with your non-dominant hand? In what ways does it feel similar? It what ways do you have less control?
-
-Next, I want you to focus on how it makes you feel emotionally.
-
-Do you feel any less capable as a human being? Does it make you feel "stuck"? Does it make you feel graitude or frustration? Do you feel as if you want to blame yourself?
-
-As always, there are no right or wrong answers when practicing these kinds of exercises. These exercises are merely designed to gauge your response in regards to a complete change of pace.
-
-Ultimately, it's up to you how you choose to respond.
-
-They exist to help you become aware of your thoughts, actions and behaviours, so you can decide to consciously change or replace them if you so desire.
-
-Otherwise, nothing will change and you will continue to repeat the same behaviours time and time again.
-
-Open your mind and the rest will follow.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Catch Out Your Judgements
- 2019-05-12
-
-
-
-
-This exercise is a great way to help you understand when and why you make judgements throughout the day.
-
-Furthermore, it's a relatively straight-forward exercise, so let's get started! 
-
-First of all, I want to start off by saying that there's nothing necessarily wrong with making judgements. 
-
-What often happens when people do this exercise, is that they freak out at the true extent of which they're being judgemental.
-
-Which ironically enough, causes people to react with even more judgement and that's exactly what we're trying to avoid.
-
-Sure, being excessively judgemental isn't the best thing for your mental health, however negatively reacting to it is equally as counter-productive.
-
-
-
-Much like with the **Observe Your Senses** exercise, all we really want to do is acknowledge and observe how our mind works.
-
-We're not trying to change our behaviour, nor condemn it in any way.
-
-
-### In fact, the entire purpose of this exercise is to practice our ability to observe." 
-
-
-And what a lot of people don't know, is that observation itself is what brings about change. 
-
-Not focusing on raw change itself, which usually results in some form of emotional manipulation or judgement - which simply doesn't work as an effective, nor long-term strategy.
-
-Only once we've mastered observation can we then understand the true nature of effective change, which you'll discover the more you practice observation within your own life.
-
-One thing to keep in mind is that if you are the kind of person who generally reacts with judgement, then this will be a tough exercise for you.
-
-In part because it means you're stuck within your own bubble of unconscious judgement, which you may not quite realise.
-
-But that's okay too. 
-
-We all have to start somewhere with addressing certain aspects of our mental health, and this is a great exercise for doing just that.
-
-Furthermore, your struggle merely becomes another reference point for you to observe. Where you can mentally say to yourself: 
-
-**"Ah, so that's what my mind does when I react to a judgement. Duely noted."**
-
-
-### Instructions" 
-
-
-All we want to do with this exercise is catch ourselves and acknowledge when we've made a judgement. 
-
-Now, there's really only one recommended way that you approach this, which is to acknowledge the judgement as I briefly demonstrated above.
-
-**"Ah, so that's what my mind does. Duely noted."**
-
-The idea behind acknowledgement is that we merely want to take note of it, without creating any further judgements.
-
-In essence we want to remain neutral, if not because you should be neutral in all your thoughts anyway.
-
-It's part of what being calm and collected is all about.
-
-In addition, take note of your feelings at the point of judgement. Did you make the judgement because you were feeling angry? Was it because you were feeling depressed?
-
-The reason why this is important is because becoming aware of our feelings is often the easiest way to catch a judgement before it happens.
-
-Essentially, because most judgements produce some sort of feeling in some way, so there's usually a direct correlation between the two.
-
-
-### Ultimately, this is an exercise of observation, and observation is the skill we're trying to develop." 
-
-
-We're not doing this to feel justified that we caught a judgement. (which funnily enough is a judgement within itself)
-
-We're doing this so we can learn to become more aware of ourselves through observation, and really develop this skill so we can continue to remain aware into the future.
-
-And the sooner we can do this, the sooner we can gain control over our porn addiction.
-
-
-
-
-
-
-
-
-# Every 30 Minutes
- 2019-04-20
-
-
-The idea behind this exercise is to help you develop awareness throughout your day on an interval basis.
-
-Essentially, the intention behind **Every 30 Minutes** is to help keep a constant gauge of what you're doing.
-
-And by doing so, gain a deeper understanding of awareness and routine, in particular of your own life and how you play it out each day.
-
-Routine is a very important part of the recovery process, and this exercise is a way to streamline that process, or at least get you thinking about it in a meaningful way.
-
-In addition, it's a wonderful way to engage your brain, which is really half the battle when it comes to addressing porn addiction.
-
-
-### Instructions" 
-
-
-Essentially, your aim with this exercise is to keep a mental timer every 30 minutes, and to record or even just acknowledge what you're doing within in that moment.
-
-In order for this to be effective, you will not be using an alarm to do this. 
-
-Instead, you will be using your own intuition, and then checking the clock to see what time it is, and whether you should record what you're doing yet. 
-
-The whole idea is that we want to develop this mental timeline ourselves, and the only way we can do this is through practice.
-
-Put simply, an alarm is not a substitute for your own conscious awareness, which is what we are attempting to develop. 
-
-Personally I find it helps to do this exercise starting at a time like 8:00am in order to make it easier to track those 30 minute segment. 
-
-Although, you're free to do whatever interval works best for you. For example, you might want to experiment with hourly intervals instead. 
-
-(although I tend to find the longer the duration, the harder it is for people starting out)
-
-In addition, I want to add that this is can be a real tough one!
-
-Although it sounds easy in practice, humans tend to forget. It's a bit like when we feel distracted during meditation, and we find ourselves thinking about something irrelevant.
-
-Sometimes we can have a hard time maintaining our conscious awareness, however this is precisely why we're practicing this exercise.
-
-So we can focus on what's important.
-
-Our mental health.
-
-ka-ching
-
-
-
-
-
-
-
-
-# Separate Your Seeing From Your Feeling
- 2019-01-12
-
-
-
-
-
-This is an exercise which porn addicts benefit from greatly, due to the way it changes your visual perception of reality.
-
-So let's get crackin'.
-
-The intention behind a lot of these exercises is to assist you in breaking down what you understand of your mind.
-
-The word "understand" of course, meaning the conglomerate of knowledge you've gained and learned up until now.
-
-Part of the reason why we want to break down your understanding of life and reality, is because what you currently "know" is largely counter-intuitive.
-
-
-### You see, what you \"understand\" is part of the reason why you're addicted to porn." 
-
-
-What you currently "understand" is that you really want to watch porn.
-
-What you "understand" is that you don't have the self-control not to watch porn, and that it's a lot easier if you just relapse and watch porn.
-
-And certainly, there's nothing wrong with that.
-
-I mean, it's what you understand. You can't help what you've been taught up until now, it's all your brain knows.
-
-On the other hand, it's also perfectly fine to change your understanding of reality so that you can allow yourself the opportunity to overcome your own porn addiction.
-
-Which is exactly what this website aims to do.
-
-For today's exercise, what we want to do is break down our visual understanding of reality, and how that relates to our own thoughts and feelings. 
-
-Which is to say that we want to separate our thoughts and feelings from what we're actually seeing in front of us.
-
-
-### As human beings, we tend to attach meaning and value to that which we can physically see." 
-
-
-It could be a trinket that belongs to your family which evokes emotions of pride and belonging.
-
-It could be the sight of a McDonalds in the distance, and the memories that place evokes. It could even be something more conceptual, like a particular scene within a movie. 
-
-And with this exercise we want to learn to separate these two elements, because what we see is not what we feel. 
-
-They are two completely separate elements which we've learnt to associate together, no different to watching porn and all the feelings associated with it.
-
-Both empowering and overwhelmingly negative.
-
-Think of them as being two completely different sensations. The sensation of seeing, and the sensation of feeling. 
-
-So why is this important?
-
-Well, let's look at porn addiction for example.
-
-For porn addicts porn isn't just "two people having sex". Rather, it's a complex relationship which evokes a whole range of feelings and emotions.
-
-Porn is also feeling immense guilt for having relapsed, porn is feeling completely empty and drained on the inside, porn is the shame of lying about our habit to our friends and family.
-
-Yet when you think about it, porn really is nothing more than "two people having sex". 
-
-Sure, it's something that a lot of humans find destructively addictive, but it's hard to deny that from a visual perspective, there really is nothing that awful about it. 
-
-With this in mind, what this exercise attempts to do is help you come to the understand that porn is simply "two people having sex".
-
-And the way we do this is by separating what we feel and what we see into two different categories. 
-
-Because currently we may have developed a habit of jumbling the two together, and not quite realising all the steps our mind makes internal when jumping to the conclusion of "I really want to watch porn".
-
-One thing to notice is that this exercise may seem incredibly similar to Dissolve Your Visual Perception Of Reality.
-
-Both exercises focus on manipulating our visual understanding in some way, however both exercises do completely different things.
-
-**Dissolve Your Visual Perception Of Reality** attempts to completely absolve our understanding of reality, while this exercise attempts to rearrange our understanding of it.
-
-
-### Instructions" 
-
-
-For this exercise, what we want to do is look at some things, and try and figure out the difference between what we're seeing and what we're feeling. 
-
-We can do this sitting down at home, or anywhere really. Observe what you see. Observe what you feel.
-
-It could be a building. It could be another person. I tend to do this exercise using everyday objects, although sentimental objects can work well too. 
-
-Especially objects that we've kept around the house for a while, that you've spent a lot of time with. (for example, it could be a video game console)
-
-Can you distinguish any difference between the object and the feeling? What are those differences? Is there even a difference?
-
-Is there any feeling at all, and are you responsible for creating that feeling or is it the object which is responsible for how you feel
-
-Play around with it. 
-
-Try this exercises in different areas and different places. See if you can discover any common themes. 
-
-The world truly is your oyster ^^
-
-
-
-
-
-
-
-
-
-
-# You Are Present
- 2019-09-04
-
-
-This exercise is really about 
-
-
-### Instructions" 
-
-
-
-
-
-
-
-
-
-
-# Challenge Existing Obligations
- 2019-06-13
-
-
-This exercise is incredibly powerful.
-
-It's a very direct and physical way of changing how our minds works and as you'll find, this exercise takes a lot of inspiration from other exercises such as **Stop Absolutely Everything You're Doing** in a more reactive way.
-
-Ultimately, the premise behind this exercise relates to this idea of change, so let's talk about that for a moment.
-
-The interesting thing about change is that people often assume that it's some kind of switch that flicks on in the back of your mind, which sudden propels you into a state of doing and becoming.
-
-Certainly, this kind of attitude culminates from a typical victim mindset, whereby we believe we are not responsible for the outcomes in our life, and instead are victim to our circumstances.
-
-Instead, what we are going to do with this exercise is express change as a fully active and conscious idea which you are 100% fully in control of.
-
-After all, the premise of NeverFap Deluxe is to develop our capacity for conscious awareness, so that we can develop our ability to act inspite of the existing dysfunction which we are trying to address.
-
-And the very thing which we are attempting to address in this exercise is the current obligation you feel not to succeed.
-
-That's correct, your obligation not to succeed. 
-
-When you decide not to meditate, not to follow through on your dreams and not to use your time in a meaningful and productive way, you are giving into your obligation not to succeed. 
-
-Because often the reason why we don't do those things is because we don't feel like doing them. Which is to say that we may feel obliged not to succeed.
-
-Of course, we never frame it like that. Instead, we say that we're too tired to try or that we never had a chance to begin with. 
-
-Which when you put it like that, doesn't seem so harmful. Yet in the bigger picture of your own goals, is nothing more than delaying your success in life. 
-
-So in essence, this exercise is designed to help you change how your mind works and responds in regards to that sense of obligation you feel when you don't feel like being your best self. 
-
-Which is why a lot of people find it very challenging to do, despite of how simple it actually is.
-
-
-### Instructions" 
-
-The idea behind this exercise is to challenge our beliefs and pre-conceived notions of what we believe is necessary.
-
-In the previous exercise, what we wanted to do is first identify our obligations.
-
-In this exercise, what we want to do is directly disobey them.
-
-For example, you may feel obliged to read your email at a certain hour, or to check our phone for messages.
-
-What we want to do is not do that.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Hard routines
- 2019-09-13
-
-
-In this exercise we're going to be taking the initial steps towards developing a routine.
-
-
-
-Simply, for routine's sake. 
-
-Often a lot of people have a difficult time figuring out exactly what they want to do in life, so they. 
-
-We are going to develop a hard routine.
-
-
-
-This exercise signifies the importance of trying new things.
-
-It's why I recommend it's super helpful to learn new things. It doesn't matter what you're learning. its
-
-
-
-
-A key component to this exercise is truly understanding the nature of actions and consequences. Precisely that all your actions have consequences and that focusing on these actions is a great way to train our mind to.
-
-### Instructions" 
-
-
-
-
-
-
-
-
-
-
-
-
-# Identifying The Feeling Of Obligation
- 2019-03-06
-
-
-
-
-Human responsibility is a funny thing.
-
-When we are deemed responsible for something, it can provide us with an incredible amount of incentive and motivation to act in concert with these responsibilities.
-
-For example, if we have a child we have to look after, it can feel as if we've been provided with an insurmountable task whereby we must do absolutely everything within our power to ensure the child remains safe. 
-
-What's funny is that much like everything else in life, responsibilty is merely a feeling.
-
-Which is to say that it is not concrete, merely an expectation you've set yourself.
-
-In essence, the reason why you end up looking after that child is because you feel obliged to do it, not because you necesarily have to in any capacity.
-
-Sure, there are consequences. But there's literally nothing stopping you from walking out the door and never returning. 
-
-And this is important for us to realise, because often we can subconsciously put ourselves into positions where we feel obliged to act, when that may not necessarily make any sense for anyone. 
-
-
-
-
-
-### Instructions" 
-
-
-
-
-
-
-
-
-
-
-
-# Expressing Gratitude
- 2019-07-01
-
-
-This exercise is surprisingly effective.
-
-This is the first exercise that I ever started with, and it's an exercise which always ends up flooring me in terms of the impact that it can have in the day-to-day of our conscious awareness.
-
-Not to mention, it helps teach us a few important key things about how our mind works.
-
-For starters, it can help to understand what gratitude is. 
-
-I would personally say that it's equal parts feeling as it is a state-of-mind.
-
-Certainly, while you only notice the feeling of gratitude, I find that it's a lot easier to remain grateful throughout the day with a particular state of mind.
-
-Of course, that's precisely why we're practicing this exercise so you can learn these things for yourself.
-
-Afterall, you may genuinely not know what it means to be grateful, in part because you may have never felt it in any meaningful way.
-
-Certainly, I know I felt the same way about love, even within my own family, and it wasn't until I experienced my first relationship did I finally feel it in any meaningful way.
-
-Although I digress.
-
-
-### Instructions" 
-
-
-For this exercise I want you express gratitude throughout your day.
-
-What does this mean? 
-
-Gratitude is an important part of the human experience.
-
-
-
-
-
-
-
-
-
-# What Do You Believe
- 2019-08-02
-
-
-Identify the choice we have in life, or our perception of what choice we have.
-
-
-
-
-
-### Instructions" 
-
-
-
-
-
-
-
-
-
-# Engaging Expression
- 2019-06-02
-
-
-Expression is an important part of the human experience.
-
-It's what allows us to communicate who we are and what we want to the world around us, which is a pretty significant thing when you think about it.
-
-In order to better understand this concept of expression, it's important to understand that expression is an action.
-
-It's a form of doing which is deliberate, and yet many hold a different view as to what we can develop some pretty unrealistic expectations of reality itself.
-
-For example, if you believe expression is passive, you can develop this idea that others should be able to read your mind and understand what you're going through simply by looking at you.
-
-Yet this is not how life works, at all. It works through active communication and so the moral of this story is that unless if you express that something is wrong, others won't be able to help you.
-
-Of course, part of the reason for this is that may be afraid or uncomfortable to express yourself, or you may simply have not expressed yourself frequently in the past.
-
-Well, this exercise aims to address that.
-
-The only way for us to truly understand what expression is, is to actually express ourselves and get ourselves involved with the process of expression.
-
-Furthermore, to discover what expression means to you.
-
-Of course, there's a few principles we want to consider here.
-
-For starters, what we want to practice is an open and honest communication with ourselves.
-
-Because the alternative is dishonest communication, which is just as bad as not communicating at all.
-
-In fact, chances are that you may never done this before, and you might not even know what honest and open communication actually is.
-
-Well, let's find out.
-
-
-### Instructions" 
-
-
-An important thing to note about expression is that it's purely about intention.
-
-When you express yourself, what you're essentially doing is acting with intention.
-
-For example, when you smile you're acting with the intention of being happy. When you cry, you're acting with the intention of being sad.
-
-Now, here's the thing about expression which people seem to overlook or even outright misunderstand.
-
-
-### Intention doesn't come as a reaction to something which takes place in life." 
-
-
-Which is to say that you being sad isn't the reason why you're crying, no different to a happy event not being the reason why you're smiling.
-
-These are merely learnt behaviours which we have develop since childhood.
-
-Rather, your response in regards to these events derives from your intention to feel those things, whether this is happening on a conscious or subconscious level.
-
-In fact, what this truly means is that you have the power to feel whatever intent you desire.
-
-You can be happy right now if you want, just as you can be sad if that is your intention.
-
-In essence, it is your intent of expression of these things which gives you power to feel them.
-
-So for this exercise, what we want to do is practice that intent.
-
-For example, practice being happy for ten minutes.
-
-Ultimately, what's important is paying attention to how you do this, and gauging which actions make you feel which things.
-
-For example, does smiling inherently make you happy? Is expressing the intent of happiness more than just a physical action? Does a mental shift also have to take place?
-
-These are all things which you need to think about and discover for your own, as there are no right or wrong answers to this exercise.
-
-Everyone thinks and feels differently, and it's up to you to discover how you personally operate.
-
-Safe travels, and have fun.
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Fighting Spirit
- 2019-07-09
-
-
-
-There's a quote that goes something along the lines of "You are your own worst enemy" and this rings particularly true when it comes to porn addiction recovery.
-
-Often we are fighting ourselves on multiple levels, whether it be resistance to meditating and committing to the process or even finding ourselves engaged in judgement and self-criticism.
-
-The core of this exercise really relates to **Struggle over none**
-
-When we're not functioning to the best of our ability, it's because we're fighting ourselves in some way.
-
-In this exercise, we want to identify the key areas in our life where we .
-
-### Instructions" 
-
-
-
-
-
-
-
-
-
-
-
-# Object Attachment
- 2019-07-25
-
-
-
-
-
-The idea behind this exercises is to further understand why we get attached to certain things in our life.
-
-First we start with objects. 
-
-Then we move onto people and concepts. 
-
-
-### Because when we're in control of our mind, it's almost as if everything is moving in slow motion." 
-
-
-### Instructions" 
-
-
-
-
-
-
-
-
-
-
-
-# Catching The Odd Judge Out
- 2019-02-28
-
-
-
-
-
-
-A lot of people find this exercise super useful, because it can help us identify our biases much easier than trying to identify those biases directly.
-
-It's a great thinking exercise, which makes you realise how well optimised our minds truly are when it comes to filtering information. 
-
-Judgement by function is conditional.
-
-We discover some sort of condition which triggers us to react, either negatively or positively.
-
-For a lot of people, these triggers are aspects of their personality they're completely unaware of. 
-
-Most judgemental people don't even realise they're judgemental, because it's such an ingrained aspect of who they are, that they assume it's all just some continuum of everyday thought.
-
-In these situations, it can be very difficult to actually identify what is judgement and what is not. 
-
-And so the purpose of this exercise is to help you make that distinction, by bringing to your attention the things which you don't feel compelled to be judgemental about. 
-
-Which for a lot people, is a lot simpler than trying to identify the things which they feel passionately judgemental about.
-
-In addition, it can help them understand more about themselves, by merely identifying the things which they don't care about. 
-
-
-### Instructions" 
+#### Instructions" 
 
 
 The exercise is simple.
