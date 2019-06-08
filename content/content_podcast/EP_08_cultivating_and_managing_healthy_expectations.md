@@ -5,7 +5,7 @@
   draft: true
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
-  # image: "/images/face.jpg"
+  
   slug: "ep-08-cultivating-and-managing-healthy-expectations"
 
   mp3Url: ""

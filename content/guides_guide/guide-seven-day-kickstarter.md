@@ -1,5 +1,5 @@
 ---
-  title: "05"
+  title: "Learn more about the NeverFap Deluxe Method within a seven day period."
   description: "05"
   date: 2019-01-17
   draft: false
@@ -10,9 +10,6 @@
   pageId: "188f83b3-92d5-4e2f-afa2-8cb694f30aba"
 
 ---
-
-### Learn more about the NeverFap Deluxe Method within a seven day period.
-
 
 Well, well, well.
 

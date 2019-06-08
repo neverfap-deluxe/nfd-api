@@ -7,7 +7,7 @@
   categories: [ "struggle-over-none" ]
   category: "Struggle over none"
 
-  # image: "/images/face.jpg"
+  
   slug: "engaging-expression"
 
   what: "Learn to engage with and express emotion."

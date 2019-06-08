@@ -1,5 +1,5 @@
 ---
-  title: "04"
+  title: "Train your capacity for awareness by keeping track of your mental health progress"
   description: "04"
   date: 2019-01-17
   draft: false
@@ -10,9 +10,6 @@
   pageId: "188f83b3-92d5-4e2f-afa2-8cb694f30aba"
 
 ---
-
-### Train your capacity for awareness by keeping track of your mental health progress.
-
 
 The first thing we are going to do is put in place a system of accountability that is designed to not only get us excited, but also help us keep on top of the healthy coping mechanisms we practice everyday.
 

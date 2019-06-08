@@ -5,7 +5,7 @@
   draft: false
   tags: [ "articles", "index", "porn addiction", "porn recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "index" ]
-  # image: "/images/face.jpg"
+  
   slug: "content_menu"
 
   item1Title: "Home" 

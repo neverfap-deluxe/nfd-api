@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "neverfap schedule", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-ultimate-aim-of-neverfap-deluxe-practices"
 
   tldr1: "NeverFap Deluxe Practices are designed to help you develop healthy coping mechanisms through awareness and perspective."

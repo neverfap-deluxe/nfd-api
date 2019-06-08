@@ -7,7 +7,7 @@
   categories: [ "meditation" ]
   category: "Meditation"
 
-  # image: "/images/face.jpg"
+  
   slug: "leave-your-eyes-open"
 
   mp3Url: ""

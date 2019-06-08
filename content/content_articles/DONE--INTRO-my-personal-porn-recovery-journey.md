@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "popular", "porn recovery", "neverfap basics", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]
-  # image: "/images/face.jpg"
+  
   slug: "my-personal-porn-recovery-journey"
 
   tldr1: "I last watched porn in October 20th 2018."

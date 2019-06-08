@@ -5,7 +5,7 @@
   draft: false
   tags: [ "newneverfapper" ]
   categories: [ "index" ]
-  # image: "/images/face.jpg"
+  
   slug: "new-neverfapper-reddit-guidelines"
 
   pageId: "3bee16f8-f35a-4cca-bc72-2d2652f87db8"

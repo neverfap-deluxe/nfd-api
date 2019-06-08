@@ -7,7 +7,7 @@
   categories: [ "uncondition-over-judgement" ]
   category: "Uncondition over judgement"
 
-  # image: "/images/face.jpg"
+  
 
   # <!-- Seeing is not a feeling. -->
   slug: "separate-your-seeing-from-your-feeling"

@@ -7,7 +7,7 @@
   categories: [ "choice-over-mind" ]
   category: "Choice over mind"
 
-  # image: "/images/face.jpg"
+  
   slug: "what-do-you-believe"
   
   what: "."

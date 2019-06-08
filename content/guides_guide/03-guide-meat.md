@@ -1,5 +1,5 @@
 ---
-  title: "03"
+  title: "Getting Started"
   description: "03"
   date: 2019-01-17
   draft: false
@@ -10,9 +10,6 @@
   pageId: "188f83b3-92d5-4e2f-afa2-8cb694f30aba"
 
 ---
-
-# Getting Started
-
 
 If you haven't yet had the chance, I highly recommend that you check out the <a class="link" href="https://neverfapdeluxe.com/">NeverFap Deluxe Homepage</a>.
 

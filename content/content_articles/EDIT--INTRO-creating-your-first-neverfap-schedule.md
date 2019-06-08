@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "neverfap schedule", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]
-  # image: "/images/face.jpg"
+  
   slug: "creating-your-first-neverfap-schedule"
 
   tldr1: "Start out by practicing observation for ten minutes each day with <a class=\"link\" href=\"/practices\">Observe Your Senses</a>."

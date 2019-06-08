@@ -5,7 +5,7 @@
   draft: false
   tags: [ "course", "meditation", "visual meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
-  # image: "/images/face.jpg"
+  
   slug: "choice-over-mind"
 
   overview: "Understand why and how you have full control over your mind."

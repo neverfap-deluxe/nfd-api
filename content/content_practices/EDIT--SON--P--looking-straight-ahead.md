@@ -7,7 +7,7 @@
   categories: [ "struggle-over-none" ]
   category: "Struggle over none"
 
-  # image: "/images/face.jpg"
+  
   slug: "looking-straight-ahead"
 
   what: "Train our attention and focus."

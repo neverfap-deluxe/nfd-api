@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "popular", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-five-fundamental-principles-of-neverfap"
 
   tldr1: "Fundamental principles are hard truths, irrespective of how you think about them."

@@ -6,7 +6,7 @@
   draft: false
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-trick-is-to-realise-that-nothing-is-important"
 # The Importance Of Letting Go. 
   tldr1: "Nothing is important, since everything relates to your ego."

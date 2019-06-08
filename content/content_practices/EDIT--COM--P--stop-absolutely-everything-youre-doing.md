@@ -6,7 +6,7 @@
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
   category: "Choice over mind"
-  # image: "/images/face.jpg"
+  
   slug: "stop-absolutely-everything-you-are-doing"
   aliases: [ 
     "practices/stop-it-all"

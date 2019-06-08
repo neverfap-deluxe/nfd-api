@@ -7,7 +7,7 @@
   categories: [ "choice-over-mind" ]
   category: "Choice over mind"
 
-  # image: "/images/face.jpg"
+  
   slug: "can-you-look-through-walls"
   
   what: "Train your ability to perceive and sense reality."

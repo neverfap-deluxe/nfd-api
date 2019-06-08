@@ -1,5 +1,5 @@
 ---
-  title: "04"
+  title: "Next Steps"
   description: "04"
   date: 2019-01-18
   draft: false
@@ -10,8 +10,6 @@
   pageId: "e58de34a-41ab-4d44-a210-a34632e1ac6a"
 
 ---
-
-## Next Steps
 
 If you haven't yet already, I highly recommend checking out the <a class="link" href="https://neverfapdeluxe.com/">NeverFap Deluxe Homepage</a>.
 

@@ -5,7 +5,7 @@
   draft: false
   tags: [ "coaching", "porn addiction coaching" ]
   categories: [ "index" ]
-  # image: "/images/face.jpg"
+  
   slug: "coaching"
 
   pageId: "1f0a6384-b6b1-4da9-ace7-ad5f6dcbe0c8"

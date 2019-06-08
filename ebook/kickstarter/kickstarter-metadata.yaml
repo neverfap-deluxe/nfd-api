@@ -4,6 +4,15 @@
     text: The Seven Day NeverFap Deluxe Kickstarter
   - type: subtitle
     text: Kickstart your NeverFap Deluxe journey with our seven day program, designed to help you better understand the power of NeverFap Deluxe.
+  # subtitle:
+  # description:
+  # category
+  keywords:
+    - NoFap
+    - NeverFap
+    - NeverFap Deluxe
+  # author:
+  #   - Julius Reade
   creator:
   - role: author
     text: Julius Reade
@@ -15,7 +24,7 @@
   publisher:  NeverFap Deluxe
   rights: © 2019 NeverFap Deluxe, CC BY-NC
   cover-image: ./ebook/kickstarter/kickstarter-cover.png
-  lang: en-UK
+  lang: en-GB
   date: 2019-06-07
   # css:
   ibooks:

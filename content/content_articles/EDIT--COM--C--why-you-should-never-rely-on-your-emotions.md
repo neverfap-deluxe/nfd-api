@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "understanding choice", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
-  # image: "/images/face.jpg"
+  
   slug: "why-you-should-never-depend-on-your-emotions"
 
   tldr1: "Using our emotions to motivate us is a brittle approach towards developing self-control."

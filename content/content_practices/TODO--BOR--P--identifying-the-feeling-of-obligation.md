@@ -7,7 +7,7 @@
   categories: [ "balance-over-reward" ]
   category: "Balance over reward"
 
-  # image: "/images/face.jpg"
+  
   slug: "identifying-the-feeling-of-obligation"
 
   what: "Develop our awareness of the feeling of obligation."

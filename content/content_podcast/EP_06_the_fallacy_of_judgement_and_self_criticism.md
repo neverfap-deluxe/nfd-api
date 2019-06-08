@@ -5,7 +5,7 @@
   draft: false
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
-  # image: "/images/face.jpg"
+  
   slug: "ep-06-the-fallacy-of-judgement-and-self-criticism"
 
   mp3Url: "https://s3.castbox.fm/66/20/68/ec65604b629039a70032004ae5.mp3"

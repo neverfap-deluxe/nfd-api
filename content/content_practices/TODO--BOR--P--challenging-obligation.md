@@ -7,7 +7,7 @@
   categories: [ "balance-over-reward" ]
   category: "Balance over reward"
 
-  # image: "/images/face.jpg"
+  
   slug: "challenge-existing-obligation"
 
   what: "Develop our aca."

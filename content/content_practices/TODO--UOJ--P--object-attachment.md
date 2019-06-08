@@ -7,7 +7,7 @@
   categories: [ "uncondition-over-judgement" ]
   category: "Uncondition over judgement"
 
-  # image: "/images/face.jpg"
+  
   slug: "object-attachment"
 
   what: ""

@@ -7,7 +7,7 @@
   categories: [ "awareness-over-all" ]
   category: "Awareness over all"
 
-  # image: "/images/face.jpg"
+  
   slug: "identify-points-of-awareness-throughout-your-day"
   aliases: [ 
     "practices/point-to-point" 

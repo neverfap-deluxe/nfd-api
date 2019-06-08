@@ -7,7 +7,7 @@
   categories: [ "awareness-over-all" ]
   category: "Awareness over all"
 
-  # image: "/images/face.jpg"
+  
   slug: "focus-your-attention-on-the-right-side-of-your-vision"
   # aliases: [
   # ]

@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "popular", "neverfap basics", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap deluxe guide", "neverfap basics" ]
   categories: [ "introduction" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-five-principles-of-neverfap-as-they-relate-to-my-life"
 
   tldr1: "The Five Fundamental Principles of NeverFap have been devised from my own personal approach towards addressing porn addiction."

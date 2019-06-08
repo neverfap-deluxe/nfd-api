@@ -7,7 +7,7 @@
   categories: [ "uncondition-over-judgement" ]
   category: "Uncondition over judgement"
 
-  # image: "/images/face.jpg"
+  
   slug: "catching-the-odd-judge-out"
   aliases: [
     "the-odd-judge-out"

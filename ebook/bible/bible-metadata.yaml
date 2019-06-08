@@ -4,6 +4,15 @@
     text: The NeverFap Deluxe Bible
   - type: subtitle
     text: The complete collection of the NeverFap Deluxe Method of overcoming porn addiction.
+  # subtitle:
+  # description:
+  # category
+  keywords:
+    - NoFap
+    - NeverFap
+    - NeverFap Deluxe
+  # author:
+  #   - Julius Reade
   creator:
   - role: author
     text: Julius Reade
@@ -15,7 +24,7 @@
   publisher:  NeverFap Deluxe
   rights: © 2019 NeverFap Deluxe, CC BY-NC
   cover-image: ./ebook/bible/bible-cover.png
-  lang: en-UK
+  lang: en-GB
   date: 2019-06-07
   # css:
   ibooks:

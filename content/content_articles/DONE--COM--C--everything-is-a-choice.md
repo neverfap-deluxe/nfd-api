@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "understanding choice", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
-  # image: "/images/face.jpg"
+  
   slug: "everything-is-a-choice"
 
   tldr1: "Your ability to respond is the only choice you have in life."

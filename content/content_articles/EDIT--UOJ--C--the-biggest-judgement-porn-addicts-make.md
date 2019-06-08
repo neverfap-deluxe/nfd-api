@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-biggest-judgement-porn-addicts-make"
 
   tldr1: "The biggest judgement we make is when we self-criticise for doing something we feel we shouldn't have."

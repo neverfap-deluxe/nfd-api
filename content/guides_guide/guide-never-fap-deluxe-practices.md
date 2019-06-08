@@ -1,5 +1,5 @@
 ---
-  title: "07"
+  title: "Develop a greater understanding of awareness and meditation best practices."
   description: "07"
   date: 2019-01-17
   draft: false
@@ -10,8 +10,6 @@
   pageId: "B61D358A-AA71-41AB-8B17-2298FB470135"
 
 ---
-
-### Develop a greater understanding of awareness and meditation best practices.
 
 
 NeverFap Deluxe Practices focus solely on verifiable steps you can do on a daily basis to help you build awareness and calmness.

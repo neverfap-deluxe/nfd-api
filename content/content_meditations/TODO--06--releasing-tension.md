@@ -7,7 +7,7 @@
   categories: [ "meditation" ]
   category: "Meditation"
 
-  # image: "/images/face.jpg"
+  
   slug: "releasing-tension"
 
   mp3Url: ""

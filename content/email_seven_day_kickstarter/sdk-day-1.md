@@ -6,7 +6,7 @@
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-trust"
 
   pageId: "843fa5f8-5a9d-422f-bcec-753bd50921b4"
@@ -14,7 +14,7 @@
 ---
 
 
-### Welcome to the trust.
+## Welcome to the trust.
 
 Before we begin exploring some of these high-level concepts.
 
@@ -27,7 +27,7 @@ Honestly, it's as simple as working through the practices on the website, commit
 There's no guesswork required. No logical analysis of your past in some attempt to uncover childhood trauma, and furthermore it's a process which doesn't discriminate against who you are, nor how much knowledge you may currently have about the porn addiction recovery process.
 
 
-#### You simply follow the instructions and everything will literally fall into place.
+### You simply follow the instructions and everything will literally fall into place.
 
 
 Now.

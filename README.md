@@ -1,9 +1,5 @@
 # NeverFap Deluxe API
 
-
-https://www.npmjs.com/package/turndown
-
-<<<<<<< HEAD
 Website: https://neverfapdeluxe.netlify.com/
 
 This is where the content API is hosted for all our NeverFap Deluxe applications which take advantage of all the written content for NeverFap Deluxe!

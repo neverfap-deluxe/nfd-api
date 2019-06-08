@@ -7,7 +7,7 @@
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-most-important-thing-porn-addicts-dont-do"
 # . 
   tldr1: "The most important thing porn addicts don't do is engage with their conscious mind."

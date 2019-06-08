@@ -6,7 +6,7 @@
   draft: false
   tags: [ "challenge" ]
   categories: [ "challenge" ]
-  # image: "/images/face.jpg"
+  
   slug: "introduction"
 
   pageId: "936D249C-53E0-4104-AF7C-E1336532ED23"

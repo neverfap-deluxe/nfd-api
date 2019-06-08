@@ -5,7 +5,7 @@
   draft: false
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
-  # image: "/images/face.jpg"
+  
   slug: "ep-03-how-to-become-comfortable-with-your-emotions"
 
   mp3Url: "https://s3.castbox.fm/38/31/f8/2162f94cd6938b6ed3452269b9.mp3"

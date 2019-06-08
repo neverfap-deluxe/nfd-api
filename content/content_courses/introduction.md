@@ -5,7 +5,7 @@
   draft: false
   tags: [ "course", "meditation", "visual meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "introduction" ]
-  # image: "/images/face.jpg"
+  
   slug: "introduction"
 
   overview: "Understand the fundamental principles of NeverFap Deluxe."

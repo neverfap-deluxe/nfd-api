@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-importance-of-meditation-for-porn-addiction"
   aliases: [
     "articles/hello.json.json"

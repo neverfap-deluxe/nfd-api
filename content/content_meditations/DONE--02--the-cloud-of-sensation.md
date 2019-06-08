@@ -7,7 +7,7 @@
   categories: [ "meditation" ]
   category: "Meditation"
 
-  # image: "/images/face.jpg"
+  
   slug: "the-cloud-of-sensation"
 
   mp3Url: ""

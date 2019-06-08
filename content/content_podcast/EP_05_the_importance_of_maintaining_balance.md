@@ -5,7 +5,7 @@
   draft: false
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
-  # image: "/images/face.jpg"
+  
   slug: "ep-05-the-importance-of-maintaining-balance"
 
   mp3Url: "https://s3.castbox.fm/4a/a4/56/f9c28a4389abae2c31ba0ee61d.mp3"

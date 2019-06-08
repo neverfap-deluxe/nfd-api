@@ -7,7 +7,7 @@
   categories: [ "uncondition-over-judgement" ]
   category: "Uncondition over judgement"
 
-  # image: "/images/face.jpg"
+  
   slug: "every-30-minutes"
   aliases: [
     "every-30-minutes"

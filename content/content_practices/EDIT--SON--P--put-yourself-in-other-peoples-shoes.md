@@ -7,7 +7,7 @@
   categories: [ "struggle-over-none" ]
   category: "Struggle over none"
 
-  # image: "/images/face.jpg"
+  
   slug: "put-yourself-in-other-peoples-shoes"
   
   what: "Develop your capacity for empathy, as well as self-introspection."

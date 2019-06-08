@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
-  # image: "/images/face.jpg"
+  
   slug: "paying-the-neverfap-maintenance-tax"
 
   tldr1: "Maintenance of our mental and physical health is a hard requirement."

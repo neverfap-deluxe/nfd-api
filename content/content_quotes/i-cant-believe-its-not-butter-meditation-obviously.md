@@ -5,7 +5,7 @@
   draft: false
   tags: [ "quotes" ]
   categories: [ "index" ]
-  # image: "/images/face.jpg"
+  
   slug: "i-cant-believe-its-not-butter-meditation-obviously"
 
   pageId: "b7e3b273-f3f9-4098-afff-334a2522258c"

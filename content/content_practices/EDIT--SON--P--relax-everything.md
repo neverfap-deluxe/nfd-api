@@ -7,7 +7,7 @@
   categories: [ "struggle-over-none" ]
   category: "Struggle over none"
 
-  # image: "/images/face.jpg"
+  
   slug: "relax-everything"
   aliases: [
     "relax-it-out"

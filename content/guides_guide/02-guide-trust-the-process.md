@@ -1,5 +1,5 @@
 ---
-  title: "02"
+  title: "Introduction"
   description: "02"
   date: 2019-01-16
   draft: false
@@ -10,8 +10,6 @@
   pageId: "b4bce8cb-9912-49fa-90de-d5cb9927a05f"
 
 ---
-
-# Introduction
 
 
 Coming to the realisation that you're a porn addict, as well as making the decision to overcome your porn addiction is arguably one of the most profound things you will ever do.

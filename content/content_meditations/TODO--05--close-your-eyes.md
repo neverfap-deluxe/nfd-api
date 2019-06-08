@@ -7,7 +7,7 @@
   categories: [ "meditation" ]
   category: "Meditation"
 
-  # image: "/images/face.jpg"
+  
   slug: "close-your-eyes"
 
   mp3Url: ""

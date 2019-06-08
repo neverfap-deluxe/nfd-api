@@ -7,7 +7,7 @@
   categories: [ "meditation" ]
   category: "Meditation"
 
-  # image: "/images/face.jpg"
+  
   slug: "observe-what-you-see"
 
   mp3Url: "https://s3.castbox.fm/61/6f/59/95055247d0b6fe18ccc053aaec.mp3"

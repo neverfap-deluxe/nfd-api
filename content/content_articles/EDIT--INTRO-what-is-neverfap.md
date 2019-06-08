@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "neverfap schedule", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]
-  # image: "/images/face.jpg"
+  
   slug: "what-is-neverfap"
 
   tldr1: "NeverFap Deluxe is designed to teach you self-control."
@@ -60,7 +60,7 @@ Porn addicts know about being addicted to porn, because that's what they are.
 It's what they live on a daily basis. It's how they understand and relate to the world around them.
 
 
-{{< hr3 "So there's a few steps we must take in order to address this.">}}
+{{< hr3 "So there's a few steps we must take in order to address this." >}}
 
 
 For starters, we need to learn self-control from someone who knows how.

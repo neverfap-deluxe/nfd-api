@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "popular", "neverfap basics", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap deluxe guide", "neverfap basics" ]
   categories: [ "introduction" ]
-  # image: "/images/face.jpg"
+  
   slug: "introduction-to-the-neverfap-deluxe-guide"
 
   tldr1: "It is totally possible to overcome porn addiction by following a series of verifiable steps."

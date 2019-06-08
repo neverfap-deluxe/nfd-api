@@ -5,7 +5,7 @@
   draft: false
   tags: [ "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap practices", "neverfap practices" ]
   categories: [ "" ]
-  # image: "/images/face.jpg"
+  
   slug: "practices"
 
   pageId: "c950cb5c-aab6-4a03-9b02-5c346e2f7593"

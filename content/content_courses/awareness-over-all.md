@@ -5,7 +5,7 @@
   draft: false
   tags: [ "course", "meditation", "visual meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
-  # image: "/images/face.jpg"
+  
   slug: "awareness-over-all"
 
   overview: "Understand the role of awareness and observation as a core strategy towards overcoming porn addiction."
