@@ -14,6 +14,8 @@
     "bible-md": "node ./util/generateBible.js",
     "bible-pub": "pandoc ./ebook/bible/bible.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/bible/bible-metadata.yaml -o ./ebook/bible/bible.epub -f markdown -t epub",
     "bible-pdf": "pandoc ./ebook/bible/bible.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/bible/bible-metadata.yaml -o ./ebook/bible/bible.pdf",
+    "bible-check": "java -jar ./epub_check/epubcheck.jar ./ebook/bible/bible.epub",
+
 
     "kickstarter": "npm run kickstarter-md && npm run kickstarter-pub",
     "kickstarter-md": "node ./util/generateKickstarter.js",

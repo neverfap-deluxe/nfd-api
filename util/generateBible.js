@@ -77,9 +77,9 @@ const generateBible = async () => {
     generateContent(practices_folder),
 
     // LEGAL
-    generatePage(disclaimer_folder),
-    generatePage(privacy_folder),
-    generatePage(terms_and_conditions_folder),
+    // generatePage(disclaimer_folder),
+    // generatePage(privacy_folder),
+    // generatePage(terms_and_conditions_folder),
   ]);
 
   const website_content_array = [
@@ -95,9 +95,9 @@ const generateBible = async () => {
     practices.string,
 
     // LEGAL
-    disclaimer.string,
-    privacy.string,
-    terms_and_conditions.string,
+    // disclaimer.string,
+    // privacy.string,
+    // terms_and_conditions.string,
   ];
 
   let final_string = '';
