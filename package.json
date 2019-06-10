@@ -13,18 +13,22 @@
     "bible": "npm run bible-md && npm run bible-pub",
     "bible-md": "node ./util/generateBible.js",
     "bible-pub": "pandoc ./ebook/bible/bible.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/bible/bible-metadata.yaml -o ./ebook/bible/bible.epub -f markdown -t epub",
+    "bible-pdf": "pandoc ./ebook/bible/bible.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/bible/bible-metadata.yaml -o ./ebook/bible/bible.pdf",
 
     "kickstarter": "npm run kickstarter-md && npm run kickstarter-pub",
     "kickstarter-md": "node ./util/generateKickstarter.js",
     "kickstarter-pub": "pandoc ./ebook/kickstarter/kickstarter.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/kickstarter/kickstarter-metadata.yaml -o ./ebook/kickstarter/kickstarter.epub -f markdown -t epub",
+    "kickstarter-pdf": "pandoc ./ebook/kickstarter/kickstarter.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/kickstarter/kickstarter-metadata.yaml -o ./ebook/kickstarter/kickstarter.pdf",
 
     "primer": "npm run primer-md && npm run primer-pub",
     "primer-md": "node ./util/generatePrimer.js",
     "primer-pub": "pandoc ./ebook/primer/primer.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/primer/primer-metadata.yaml -o ./ebook/primer/primer.epub -f markdown -t epub",
+    "primer-pdf": "pandoc ./ebook/primer/primer.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/primer/primer-metadata.yaml -o ./ebook/primer/primer.pdf",
 
     "challenge": "npm run challenge-md && npm run challenge-pub",
     "challenge-md": "node ./util/generateChallenge.js",
     "challenge-pub": "pandoc ./ebook/challenge/challenge.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/challenge/challenge-metadata.yaml -o ./ebook/challenge/challenge.epub -f markdown -t epub",
+    "challenge-pdf": "pandoc ./ebook/challenge/challenge.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/challenge/challenge-metadata.yaml -o ./ebook/challenge/challenge.pdf",
 
     "generate-quotes": "node ./util/transformQuoteToMD.js"
   },

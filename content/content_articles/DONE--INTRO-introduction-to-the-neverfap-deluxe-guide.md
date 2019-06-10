@@ -95,15 +95,23 @@ As for a non-exhaustive list of these skills, here are some of the things which 
 
 <hr class="hrul"/>
 
-- Learn to focus on the how, not the why.
-- Learn to value your mental health above all.
-- Develop the ability to quiet and focus your mind.
-- Learn to love and accept yourself and others unconditionally.
-- Learn to invest in yourself.
-- Change the way you think about sex and women.
-- Value commitment and long-term thinking.
-- Identify and understanding any potential mental disorders.
-- Properly understand how to live life without porn.
+- Learn to focus on the how, not the why
+  
+- Learn to value your mental health above all
+
+- Develop the ability to quiet and focus your mind
+
+- Learn to love and accept yourself and others unconditionally
+
+- Learn to invest in yourself
+
+- Change the way you think about sex and women
+
+- Value commitment and long-term thinking
+
+- Identify and understanding any potential mental disorders
+
+- Properly understand how to live life without porn
 
 <hr class="hrul__bottom"/>
 

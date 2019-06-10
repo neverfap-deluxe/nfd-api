@@ -53,7 +53,7 @@ When you make the statement "nothing is important" you're actually making a very
 {{< hr3 "In particular, that nothing is ever important enough to self-harm or do harm." >}}
 
 
-You see, you're not preventing anything positive here by learning to let go and assume everything is unimportant - primarily because there was nothing positive to begin with. 
+You see, you're not preventing anything positive here by learning to let go and assume everything is unimportant, primarily because there was nothing positive to begin with. 
 
 If all you know is self-destructive behaviours, which in most cases is true, then detaching from them certainly isn't a negative thing.
 

@@ -95,7 +95,7 @@ It's an opportunity to experience something new. Something exciting. Something m
 
 Of course, half the challenge is that people remain so devoid of experiencing anything nice, that they therefore assume that these 'non-awful' experiences simply don't exist.
 
-Well, they do - as long as you change your understanding of loss and fear in relation to letting go, as I've mentioned in this article.
+Well, they do, as long as you change your understanding of loss and fear in relation to letting go, as I've mentioned in this article.
 
 Often what can help is to simply commit to the process without expectation. A lot of the time that's how I approach my gym workouts. 
 

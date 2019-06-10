@@ -28,4 +28,4 @@ Regardless, I'm here to tell you why positive affirmations don't work well as a 
 
 
 
-why positive affimrioant don't work - it's a bit like saying that everytime you want to be happy, you need to do ten jumping jacks, eat a candy baar etc. it's absurd
+why positive affimrioant don't work, it's a bit like saying that everytime you want to be happy, you need to do ten jumping jacks, eat a candy baar etc. it's absurd

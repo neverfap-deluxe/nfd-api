@@ -13,3 +13,4 @@
 ---
 
 The NeverFap Deluxe Bible is a complete collection of all the text, email campaigns and advice on the website.
+rst
