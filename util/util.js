@@ -12,6 +12,8 @@ const filterContent = (content) => (
     .replace(/{{< hr[1] "/g, '\n\n## ')
     .replace(/" >}}/g, '\n\n')
     .replace(/\\-/g, '-')
+    .replace(/\\#/g, '\n#')
+    .replace(/[#]{2}/g, '\n##')
     .replace(/- /g, '\n- ')
     .replace(/[\\*]{2}/g, '*')
 

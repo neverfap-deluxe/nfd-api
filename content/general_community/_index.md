@@ -30,10 +30,10 @@ These different resources include:
 
 <hr class="hrul"/>
 
-- **Guided audio meditations to help assist you through your practices.**
-- **Structured perspective courses utilising the practices on this website.**
-- **A web/mobile application to assist you in recording your progress through the website.**
-- **Personal one on one coaching sessions.**
+- Guided audio meditations to help assist you through your practices.
+- Structured perspective courses utilising the practices on this website.
+- A web/mobile application to assist you in recording your progress through the website.
+- Personal one on one coaching sessions.
 
 <hr class="hrul__bottom"/>
 

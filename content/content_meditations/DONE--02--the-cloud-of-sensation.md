@@ -1,7 +1,7 @@
 ---
   title: "EP2 - The Cloud Of Sensation"
   description: "NeverFap Deluxe Guided Meditation Series. The Cloud Of Sensation"
-  date: 2019-06-01
+  date: 2019-06-10
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
@@ -21,6 +21,8 @@
 
 In this guided meditation we explore observing the cloud of sensation that we feel within our body.
 
+
+<!-- Focus on your conscious experience -->
 
 ## Script
 

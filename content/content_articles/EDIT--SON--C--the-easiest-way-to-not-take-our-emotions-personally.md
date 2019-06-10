@@ -78,7 +78,7 @@ And so rather than making us feel better, it ends up making us feel worse about 
 
 In other cases, this can even manifest from anger and frustration: 
 
-**"F*ck you PMO! I will conquer you!"**
+**"Screw you PMO! I will conquer you!"**
 
 And the funny thing, is that none of these strategies work. In the end, it merely exhausts us as deep-down inside it's not what we actually believe about ourselves.
 

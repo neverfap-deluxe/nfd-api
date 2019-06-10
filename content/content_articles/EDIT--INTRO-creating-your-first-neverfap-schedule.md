@@ -86,9 +86,9 @@ Here's how I would break it down:
 
 <hr class="hrul"/>
 
-- <b>15 minutes of meditation as I walk to the train station in the morning for work.</b>
-- <b>15 minutes of meditation as I walk to the train station in the morning for work.</b>
-- <b>10 minutes of meditation while sitting down in a room, around 15 minutes before bed.</b>
+- 15 minutes of meditation as I walk to the train station in the morning for work.
+- 15 minutes of meditation as I walk to the train station in the morning for work.
+- 10 minutes of meditation while sitting down in a room, around 15 minutes before bed.
 
 <hr class="hrul__bottom"/>
 
