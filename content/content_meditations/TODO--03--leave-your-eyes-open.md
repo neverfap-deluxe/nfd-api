@@ -29,7 +29,7 @@ Essentially, what I want you to do is to leave your eyes open and to focus your 
 
 There’s nothing to question. Nothing to think about. 
 
-All we’re doing is focusing our attention on our eyes.
+All we are doing is focusing our attention on our eyes.
 
 And rather than think deeply about them, instead what I want you to do is focus on the feeling of your eyes. 
 
