@@ -24,7 +24,7 @@ In this guided meditation we explore this idea of experience.
 
 
 <!-- Focus on your conscious experience -->
-
+<!--
 ## Script
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
@@ -103,7 +103,12 @@ And continue to truly notice what your body is sensing.
 
 
 And that brings us to the end of today's session. Thank you for listening. I wish you best of luck with your day. This has been. The neverfap Deluxe Guided meditation series.
+ -->
 
+
+
+
+<!-- SOME LEFT OVER MATERIAL FOR CLOUD OF SENSATION -->
 
 <!--
 
