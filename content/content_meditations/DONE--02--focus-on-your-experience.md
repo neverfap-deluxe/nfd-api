@@ -1,27 +1,28 @@
 ---
-  title: "EP2 - The Cloud Of Sensation"
-  description: "NeverFap Deluxe Guided Meditation Series. The Cloud Of Sensation"
-  date: 2019-06-01
-  draft: true
+  title: "EP2 - Focus On Your Experience"
+  description: "NeverFap Deluxe Guided Meditation Series. Focus On Your Experience"
+  date: 2019-06-08
+  draft: false
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
   category: "Meditation"
 
   # image: "/images/face.jpg"
-  slug: "the-cloud-of-sensation"
+  slug: "focus-on-your-experience"
 
-  mp3Url: ""
+  mp3Url: "https://s3.castbox.fm/1c/a1/fd/9412524841bc21c6229083c42c.mp3"
 
-  podcastUrl: ""
-  podcastPlayer: ""
+  podcastUrl: "https://castbox.fm/episode/id2113294-id162026671?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_162026671&utm_content=EP2%20-%20Focus%20On%20Your%20Experience-CastBox_FM"
+  podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2113294/id162026671?v=8.0.190531&autoplay=0' frameborder='0' width='100%' height='300'></iframe>
+"
 
-  pageId: "ca66b4c6-d2be-4c89-94c5-5e9f6e0dfcdc"
+  pageId: "D3FA1576-2998-4C60-BF8F-006CF5785381"
 
 ---
 
-In this guided meditation we explore observing the cloud of sensation that we feel within our body.
+In this guided meditation we explore this idea of experience.
 
-<!-- 
+<!--
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
 My name is Julius Reade and today we are going to focus on the cloud of sensation that is your own conscious experience.

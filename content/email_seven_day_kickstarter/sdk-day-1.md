@@ -2,7 +2,7 @@
   day: 1
   title: "The Trust"
   description: "Learn about why it's important to trust the process, as well as the consequences if you don't."
-  date: 2019-03-22
+  date: 2019-03-23
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]

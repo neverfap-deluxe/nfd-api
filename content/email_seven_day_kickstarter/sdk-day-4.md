@@ -2,7 +2,7 @@
   day: 4
   title: "The Meditation"
   description: "Learn how meditation ties in both awareness and calmness into a suitable practice."
-  date: 2019-03-22
+  date: 2019-03-26
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]

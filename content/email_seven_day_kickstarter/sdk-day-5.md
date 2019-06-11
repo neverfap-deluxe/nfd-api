@@ -2,7 +2,7 @@
   day: 5
   title: "The Relapse"
   description: "Understand what relapse means in the broader context of your porn addiction recovery."
-  date: 2019-03-22
+  date: 2019-03-27
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]

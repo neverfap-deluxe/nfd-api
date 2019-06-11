@@ -2,7 +2,7 @@
   day: 7
   title: "The Community"
   description: "Understand the power of community and how it can help you overcome your porn addiction."
-  date: 2019-03-22
+  date: 2019-03-29
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]

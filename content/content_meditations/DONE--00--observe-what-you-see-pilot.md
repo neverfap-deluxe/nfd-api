@@ -1,5 +1,5 @@
 ---
-  title: "EP0 - Observe What You See"
+  title: "EP0 - Observe What You See (pilot)"
   description: "NeverFap Deluxe Guided Meditation Series. Observe What You See (pilot)"
   date: 2019-05-25
   draft: false

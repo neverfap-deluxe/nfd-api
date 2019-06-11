@@ -2,7 +2,7 @@
   day: 3
   title: "The Calmness"
   description: "Understand how calmness makes you deadly effective in your day-to-day life."
-  date: 2019-03-22
+  date: 2019-03-25
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]
