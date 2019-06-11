@@ -18,40 +18,27 @@
 
 ---
 
-This exercise is incredibly powerful.
+Ultimately, this exercise is the direct follow up to **Identifying the feeling of obligation** so I highly recommend checking that out.
 
-It's a very direct and physical way of changing how our minds work and as you'll find, this exercise takes a lot of inspiration from other exercises such as **Stop Absolutely Everything You're Doing** in a more conditional way.
+Human responsibility is a funny thing.
 
-Ultimately, the premise behind this exercise relates to this idea of change, so let's talk about that for a moment.
+When we are deemed responsible for something, it can provide us with an incredible amount of incentive and motivation to act in concert with these responsibilities.
 
-An interesting thing to note about change is that people often assume that it's some kind of switch that flicks on in the back of our mind, which sudden propels you into a state of doing and becoming.
+For example, if we have a child we have to look after, it can feel as if we've been provided with an insurmountable task whereby we must do absolutely everything within our power to ensure the child remains safe.
 
-Certainly, this kind of attitude culminates from typical victim mindsets, whereby we believe we are not responsible for the outcomes in our life, and are instead are subject to our circumstances.
+What's funny is that much like everything else in life, responsibilty is merely a feeling.
 
-Instead, what we are going to do with this exercise is express change as a fully active and conscious idea which you are 100% fully in control of.
+Which is to say that it is not concrete, merely an expectation you've set yourself.
 
-After all, the premise of NeverFap Deluxe is to develop our capacity for conscious awareness, so that we can develop our ability to act inspite of the existing dysfunction which we are trying to address.
+In essence, the reason why you end up looking after that child is because you feel obliged to do it, not because you necesarily have to in any capacity.
 
-And the very thing which we are attempting to address in this exercise is the current obligation you feel not to succeed.
+Sure, there are consequences. But there's literally nothing stopping you from walking out the door and never returning.
 
-That's correct, your obligation not to succeed. 
-
-When you decide not to meditate, not to follow through on your dreams and not to use your time in a meaningful and productive way, you are giving into your obligation not to succeed. 
-
-Because often the reason why we don't do those things is because we don't feel like doing them. Which is to say that we may feel obliged not to succeed.
-
-Of course, we never frame it like that. Instead, we say that we're too tired to try or that we never had a chance to begin with. 
-
-Which when you put it like that, doesn't seem so harmful. Yet in the bigger picture of your own goals, is nothing more than delaying your success in life. 
-
-So in essence, this exercise is designed to help you change how your mind works and responds in regards to that sense of obligation you feel when you don't feel like being your best self. 
-
-Which is why a lot of people find it very challenging to do, despite of how simple it actually is.
+And this is important for us to realise, because often we can subconsciously put ourselves into positions where we feel obliged to act, when that may not necessarily make any sense for anyone.
 
 
 {{< hr2 "Instructions" >}}
 
-The idea behind this exercise is to challenge our beliefs and pre-conceived notions of what we believe is necessary.
 
 In the previous exercise, what we wanted to do is first identify our obligations.
 
@@ -60,9 +47,6 @@ In this exercise, what we want to do is directly disobey them.
 For example, you may feel obliged to read your email at a certain hour, or to check our phone for messages.
 
 What we want to do is not do that.
-
-
-
 
 
 

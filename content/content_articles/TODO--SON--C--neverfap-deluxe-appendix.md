@@ -5,7 +5,7 @@
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
-  
+
   slug: "neverfap-deluxe-appendix"
 
   tldr1: "Currently your addiction is who you are, because it is the life you currently live."
@@ -14,6 +14,8 @@
   pageId: "57356635-5dfe-45af-97c9-d09e2a04ef23"
 
 ---
+
+I thought I'd compile an appendix of common terms for NFD 
 
 NF - NeverFap
 
@@ -25,14 +27,14 @@ HCM(s) - Healthy Coping Mechanisms
 
 UCM(s) - Unhealthy Coping Mechanisms
 
-AUDYDM - Are You Doing Your Daily Meditation? 
+AUDYDM - Are You Doing Your Daily Meditation?
 
-<!-- 
+<!--
 {{< hr3 "Of course, these outcomes are only possible given one very important aspect that most people overlook." >}} -->
 
 
 
-<!-- 
+<!--
 
 So let's get back to basics and talk about what "functioning effectively" actually means.
 
