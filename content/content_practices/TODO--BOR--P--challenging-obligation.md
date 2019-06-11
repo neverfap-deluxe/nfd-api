@@ -1,7 +1,7 @@
 ---
   title: "Challenge Existing Obligations"
   description: "By challenging our pre-existing ideas of feeling and obligation we can learn to develop control over how we react and respond in life."
-  date: 2019-06-13
+  date: 2019-08-10
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
@@ -20,9 +20,13 @@
 
 Ultimately, this exercise is the direct follow up to **Identifying the feeling of obligation** so I highly recommend checking that out.
 
-Human responsibility is a funny thing.
+This exercise is incredibly powerful.
 
-When we are deemed responsible for something, it can provide us with an incredible amount of incentive and motivation to act in concert with these responsibilities.
+It's a very direct and physical way of changing how our minds work and as you'll discover, this exercise takes a lot of inspiration from other exercises such as **Stop Absolutely Everything You're Doing** in a more conditional way.
+
+I want start off this exercise by saying that human responsibility is a funny thing.
+
+When we are deemed "responsible" for something, it can provide us with an incredible amount of incentive and motivation to act in concert with these responsibilities.
 
 For example, if we have a child we have to look after, it can feel as if we've been provided with an insurmountable task whereby we must do absolutely everything within our power to ensure the child remains safe.
 
