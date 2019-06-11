@@ -7,7 +7,7 @@
   categories: [ "choice-over-mind" ]
   category: "Choice over mind"
 
-  # image: "/images/face.jpg"
+  
   slug: "focus-on-your-finger-and-your-background"
 
   what: "Learn about the significance of moving around our visual attention."

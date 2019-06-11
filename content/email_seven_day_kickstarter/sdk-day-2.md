@@ -6,7 +6,7 @@
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-awareness"
 
   pageId: "418A1E4E-25A1-47BB-9A88-709E5E380941"

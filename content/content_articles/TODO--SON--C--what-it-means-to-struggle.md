@@ -7,7 +7,7 @@
   categories: [ "balance-over-reward" ]
   category: "Struggle over none"
 
-  # image: "/images/face.jpg"
+  
   slug: "what-it-means-to-struggle"
 
   what: "Be able to better identify our areas of frustration."

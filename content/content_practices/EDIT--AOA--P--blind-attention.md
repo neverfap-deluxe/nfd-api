@@ -7,7 +7,7 @@
   categories: [ "awareness-over-all" ]
   category: "Awareness over all"
 
-  # image: "/images/face.jpg"
+  
   slug: "blind-attention"
   aliases: [
     "blind-attention"

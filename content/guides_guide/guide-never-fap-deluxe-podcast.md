@@ -1,5 +1,5 @@
 ---
-  title: "08"
+  title: "Learn more about porn addiction recovery in audio form!"
   description: "08"
   date: 2019-01-17
   draft: false
@@ -10,8 +10,6 @@
   pageId: "037E8FB1-E6C4-45D1-AD26-ACB01C67C34A"
 
 ---
-
-### Learn more about porn addiction recovery in audio form!
 
 The NeverFap Deluxe Podcast is a fornightly podcast about porn addiction recovery. It aims to be informative, silly and somewhat hopelessly chic.
 

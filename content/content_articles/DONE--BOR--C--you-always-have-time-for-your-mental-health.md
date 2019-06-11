@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "balance-over-reward" ]
-  # image: "/images/face.jpg"
+  
   slug: "you-always-have-time-for-your-mental-health"
 
   tldr1: "Your mental health should always a priority, no matter what."
@@ -46,7 +46,7 @@ Or perhaps, it's merely the feeling of productivity you crave.
 
 For example, checking your phone every five minutes to see if someone's messaged you over Facebook.
 
-On the otherhand, you may just be so obsessed with your goals and ambitions, that everything else which sits outside of those goals is seen as being irrelevant.
+On the other hand, you may just be so obsessed with your goals and ambitions, that everything else which sits outside of those goals is seen as being irrelevant.
 
 Regardless of your interpretation, I'm here to tell you that thinking that you do not have enough time for your mental health is a disorder.
 
@@ -159,4 +159,4 @@ Because in the overall scheme of things, your mental health is what determines h
 
 So in the overall scheme of things, 10 minutes, or even an hour a day spent working on your mental health is miniscule, compared to the benefits it will provide in helping you better understand yourself.
 
-Moving forward, I recommend checking out our list of <a class="link" href="">NeverFap Deluxe Practices</a> for a list of exercises you can do to develop awareness in your life.
+Moving forward, I recommend checking out our list of <a class="link" href="https://neverfapdeluxe.com/practices">NeverFap Deluxe Practices</a> for a list of exercises you can do to develop awareness in your life.

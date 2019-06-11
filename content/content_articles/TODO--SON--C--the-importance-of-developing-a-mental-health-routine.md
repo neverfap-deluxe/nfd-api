@@ -5,7 +5,7 @@
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-importance-of-developing-a-mental-health-routine"
   tldr1: "."
   tldr2: "."

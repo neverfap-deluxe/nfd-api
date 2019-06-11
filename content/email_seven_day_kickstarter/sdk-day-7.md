@@ -6,7 +6,7 @@
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-community"
 
   pageId: "B7B6B601-BDA9-4C27-B188-B564D5ED8B01"

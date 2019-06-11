@@ -6,7 +6,7 @@
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-consistency"
 
   pageId: "C64998D9-7D0D-4E28-A82A-B144E8091725"

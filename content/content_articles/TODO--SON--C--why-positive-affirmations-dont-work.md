@@ -5,7 +5,7 @@
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
-  # image: "/images/face.jpg"
+  
   slug: "why-positive-affirmations-dont-work"
 
   tldr1: ""
@@ -28,4 +28,4 @@ Regardless, I'm here to tell you why positive affirmations don't work well as a 
 
 
 
-why positive affimrioant don't work - it's a bit like saying that everytime you want to be happy, you need to do ten jumping jacks, eat a candy baar etc. it's absurd
+why positive affimrioant don't work, it's a bit like saying that everytime you want to be happy, you need to do ten jumping jacks, eat a candy baar etc. it's absurd

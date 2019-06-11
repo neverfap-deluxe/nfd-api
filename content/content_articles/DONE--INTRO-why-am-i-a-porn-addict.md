@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "NoFap Companion" ]
   categories: [ "introduction" ]
-  # image: "/images/face.jpg"
+  
   slug: "why-am-i-a-porn-addict"
 
   tldr1: "Asking why we are has little to do with actually changing who we are."
@@ -42,7 +42,7 @@ In the hope that they can somehow get past their cravings long enough that they 
 
 Which stems solely from first attempting to understand why we are the way we are.
 
-{{< hr3 "In fact, trying to understand why we are porn addicts at all, is one of the biggest traps that recovering porn addicts fall into.">}}
+{{< hr3 "In fact, trying to understand why we are porn addicts at all, is one of the biggest traps that recovering porn addicts fall into." >}}
 
 Put simply, the reason why this is the case is because it's a lot less relevant to figuring out how to change it. 
 

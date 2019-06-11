@@ -5,7 +5,7 @@
   draft: false
   tags: [ "porn addiction", "porn recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "" ]
-  # image: "/images/face.jpg"
+  
   slug: "open-source"
 
   pageId: "e74eb718-58d8-492b-b8c2-9b112574a88b"

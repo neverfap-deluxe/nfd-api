@@ -6,7 +6,7 @@
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
   category: "Choice over mind"
-  # image: "/images/face.jpg"
+  
   slug: "stop-absolutely-everything-you-are-doing"
   aliases: [ 
     "practices/stop-it-all"
@@ -28,7 +28,7 @@
 
 I love this exercise.
 
-I can't quite tell if this exercise is an analogue to <a class="link" href="/articles/slow-down-your-perception-of-time">Slow Down Your Perception Of Time</a> or a percursor to it, however they're both different approaches to the same concept of awareness. 
+I can't quite tell if this exercise is an analogue to <a class="link" href="https://neverfapdeluxe.com/articles/slow-down-your-perception-of-time">Slow Down Your Perception Of Time</a> or a percursor to it, however they're both different approaches to the same concept of awareness. 
 
 Usually you'll end up using both in conjunction, but it's arguably easier to learn them as separate, unique skills.
 

@@ -5,7 +5,7 @@
   draft: true
   tags: [ "ebook-introduction" ]
   categories: [ "ebook-introduction" ]
-  # image: "/images/face.jpg"
+  
   slug: "ebook-introduction"
 
   pageId: "ebook-introduction"

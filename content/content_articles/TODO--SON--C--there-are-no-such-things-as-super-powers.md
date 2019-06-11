@@ -5,7 +5,7 @@
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
-  # image: "/images/face.jpg"
+  
   slug: "there-are-no-super-powers-only-super-actions"
 
   tldr1: "."

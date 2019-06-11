@@ -5,7 +5,7 @@
   draft: false
   tags: [ "course", "meditation", "visual meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
-  # image: "/images/face.jpg"
+  
   slug: "choice-over-mind"
 
   overview: "Understand why and how you have full control over your mind."
@@ -23,7 +23,7 @@
 
 Welcome to the NeverFap Deluxe Choice Over Mind course!
 
-I recommend that people move onto the Choice Over Mind course once they have completed the Introduction Course and are comfortably practicing <a class="link" href="/practices/observe-your-senses">Observe Your Senses</a> as part of their daily routine.
+I recommend that people move onto the Choice Over Mind course once they have completed the Introduction Course and are comfortably practicing <a class="link" href="https://neverfapdeluxe.com/practices/observe-your-senses">Observe Your Senses</a> as part of their daily routine.
 
 Many people find the Choice Over Mind course to be useful as a tool to help cut through the years of cynicism that may have been developed as part of being a porn addict for so long.
 

@@ -5,7 +5,7 @@
   draft: false
   tags: [ "10 day meditation challenge" ]
   categories: [ "index" ]
-  # image: "/images/face.jpg"
+  
   slug: "ten-day-meditation-primer"
 
   pageId: "57a5ce57-8c53-43eb-b97e-bccae78c29ab"

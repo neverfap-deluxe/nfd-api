@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-one-rule-of-neverfap"
 
   tldr1: "Metrics, goals, lists and ideals are meaningless."

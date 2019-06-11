@@ -7,7 +7,7 @@
   categories: [ "awareness-over-all" ]
   category: "Awareness over all"
 
-  # image: "/images/face.jpg"
+  
   slug: "identify-points-of-awareness-throughout-your-day"
   aliases: [ 
     "practices/point-to-point" 
@@ -33,12 +33,12 @@ With this exercise, what we're attempting to do is become conscious of key momen
 
 <hr class="hrul"/>
 
-- **When we wake up.**
-- **When we shower.**
-- **When we travel to work.**
-- **During our lunch break.**
-- **At dinner.**
-- **Before bed.**
+- When we wake up.
+- When we shower.
+- When we travel to work.
+- During our lunch break.
+- At dinner.
+- Before bed.
 
 <hr class="hrul__bottom"/>
 

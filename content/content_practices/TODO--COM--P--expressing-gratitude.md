@@ -7,7 +7,7 @@
   categories: [ "choice-over-mind" ]
   category: "Choice over mind"
 
-  # image: "/images/face.jpg"
+  
   slug: "expressing-gratitude"
 
   what: "Develop our ability to express ourselves."

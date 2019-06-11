@@ -5,7 +5,7 @@
   draft: false
   tags: [ "course", "meditation", "visual meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
-  # image: "/images/face.jpg"
+  
   slug: "struggle-over-none"
 
   overview: "Understand that porn recovery is about embracing calm and learning not to fight yourself mentally."

@@ -4,18 +4,27 @@
     text: 10 Day Meditation Primer
   - type: subtitle
     text: Learn more about awareness and meditation with our 10 day meditation primer.
+  # subtitle:
+  # description:
+  # category
+  keywords:
+    - NoFap
+    - NeverFap
+    - NeverFap Deluxe
+  # author:
+  #   - Julius Reade
   creator:
   - role: author
     text: Julius Reade
-  - role: editor
-    text: Julius Reade
+  # - role: editor
+  #   text: Julius Reade
   identifier:
   - scheme: DOI
     text: doi:10.234234.234/33
   publisher:  NeverFap Deluxe
-  rights: © 2019 Julius Reade, CC BY-NC
+  rights: © 2019 NeverFap Deluxe, CC BY-NC
   cover-image: ./ebook/primer/primer-cover.png
-  lang: en-UK
+  lang: en-GB
   date: 2019-06-07
   # css:
   ibooks:

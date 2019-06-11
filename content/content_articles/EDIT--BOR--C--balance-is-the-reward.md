@@ -5,7 +5,7 @@
   draft: true
   tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "balance-over-reward" ]
-  # image: "/images/face.jpg"
+  
   slug: "balance-is-the-reward"
   # TODO: Rename this to something better, like "addessing self-limiting beliefs towards balance"
 

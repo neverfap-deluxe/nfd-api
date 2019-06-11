@@ -5,7 +5,7 @@
   draft: false
   tags: [ "quotes" ]
   categories: [ "index" ]
-  # image: "/images/face.jpg"
+  
   slug: "get-started-with-your-neverfap-deluxe-journey-today"
 
   pageId: "b7e3b273-f3f9-4098-afff-334a2522258c"

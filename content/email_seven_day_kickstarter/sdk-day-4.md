@@ -6,7 +6,7 @@
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-meditation"
 
   pageId: "2F13FDD6-237D-4FDE-8C60-5ECCE021BE4B"

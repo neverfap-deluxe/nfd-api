@@ -34,7 +34,7 @@ No more excuses. No more compromises.
 This is the real deal.
 
 <!-- 
-<a class="link" href="/articles/what-makes-neverfap-so-different/">This is the real deal.</a> -->
+<a class="link" href="https://neverfapdeluxe.com/articles/what-makes-neverfap-so-different/">This is the real deal.</a> -->
 <!-- 
 If I had to describe what NeverFap Deluxe is, I would describe it as an online resource that is dedicated to teaching people healthy coping mechanisms.
 

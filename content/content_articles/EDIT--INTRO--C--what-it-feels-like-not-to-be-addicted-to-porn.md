@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "struggle", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
-  # image: "/images/face.jpg"
+  
   slug: "what-it-feels-like-not-to-be-addicted-to-porn"
 
   tldr1: "My porn addiction feels like a distant memory."

@@ -5,7 +5,7 @@
   draft: false
   tags: [ "course", "meditation", "visual meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
-  # image: "/images/face.jpg"
+  
   slug: "balance-over-reward"
 
   overview: "Understand the crucial role balance plays in maintaining your feelings and emotions."

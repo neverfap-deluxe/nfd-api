@@ -6,7 +6,7 @@
   draft: false
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-importance-of-letting-go"
 # . 
   tldr1: "Learning to let go is one of the most important things we can do as human beings."
@@ -95,7 +95,7 @@ It's an opportunity to experience something new. Something exciting. Something m
 
 Of course, half the challenge is that people remain so devoid of experiencing anything nice, that they therefore assume that these 'non-awful' experiences simply don't exist.
 
-Well, they do - as long as you change your understanding of loss and fear in relation to letting go, as I've mentioned in this article.
+Well, they do, as long as you change your understanding of loss and fear in relation to letting go, as I've mentioned in this article.
 
 Often what can help is to simply commit to the process without expectation. A lot of the time that's how I approach my gym workouts. 
 

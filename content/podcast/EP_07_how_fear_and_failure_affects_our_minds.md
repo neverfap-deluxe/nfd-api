@@ -5,7 +5,7 @@
   draft: false
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
-  # image: "/images/face.jpg"
+  
   slug: "ep-07-how-fear-and-failure-affects-our-minds"
 
   mp3Url: "https://s3.castbox.fm/e2/0a/8b/6092734ceca0ce9e459be3f342.mp3"

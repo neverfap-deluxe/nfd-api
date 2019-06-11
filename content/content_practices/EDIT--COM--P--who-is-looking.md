@@ -7,7 +7,7 @@
   categories: [ "choice-over-mind" ]
   category: "Choice over mind"
 
-  # image: "/images/face.jpg"
+  
   slug: "who-is-looking"
   
   what: "Develop the ability to introspect your own existence by questioning the source of your consciousness."

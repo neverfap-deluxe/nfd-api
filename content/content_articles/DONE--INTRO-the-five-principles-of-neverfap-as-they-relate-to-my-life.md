@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "popular", "neverfap basics", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap deluxe guide", "neverfap basics" ]
   categories: [ "introduction" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-five-principles-of-neverfap-as-they-relate-to-my-life"
 
   tldr1: "The Five Fundamental Principles of NeverFap have been devised from my own personal approach towards addressing porn addiction."
@@ -20,7 +20,7 @@ To be quite honest, the five principles are quite arbitrary.
 
 Which is to say that they're meaningless until you develop a personal understanding of how they apply to your own life.
 
-While my article <a class="link" href="/articles/the-five-fundamental-principles-of-neverfap">The Five Fundamental Principles of NeverFap</a> is a good introduction into what they are, today I want to talk about what they actually mean in my own everyday life.
+While my article <a class="link" href="https://neverfapdeluxe.com/articles/the-five-fundamental-principles-of-neverfap">The Five Fundamental Principles of NeverFap</a> is a good introduction into what they are, today I want to talk about what they actually mean in my own everyday life.
 
 Because theory is one thing, however you may derive additional benefit from understanding how this theory applies to everyday situations.
 
@@ -170,4 +170,4 @@ Largely through meditation.
 
 Well, I hope that's helped you gain a better understanding of The Five Fundamental Principles of NeverFap and how they apply to my own life.
 
-If you'd like to learn more, I'd recommend going over my article <a class="link" href="/articles/the-five-fundamental-principles-of-neverfap">The Five Fundamental Principles of NeverFap</a> which does into more details from a theoretical perspective.
+If you'd like to learn more, I'd recommend going over my article <a class="link" href="https://neverfapdeluxe.com/articles/the-five-fundamental-principles-of-neverfap">The Five Fundamental Principles of NeverFap</a> which does into more details from a theoretical perspective.

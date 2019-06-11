@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
-  # image: "/images/face.jpg"
+  
   slug: "what-does-it-mean-to-relapse"
 
   tldr1: "Relapse is a pointless concept which does nothing to empower you with positive action."

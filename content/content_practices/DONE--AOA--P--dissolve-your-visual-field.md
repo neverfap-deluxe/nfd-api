@@ -6,7 +6,7 @@
   tags: [ "practice", "meditation", "visual meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
   category: "Awareness over all"
-  # image: "/images/face.jpg"
+  
   slug: "dissolve-your-visual-field"
   aliases: [
     "practices/dissolve-it-down"

@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "NoFap Companion" ]
   categories: [ "introduction" ]
-  # image: "/images/face.jpg"
+  
   slug: "what-makes-neverfap-so-different"
 
   tldr1: "NeverFap Deluxe describes exactly what you need to do in order to overcome porn addiction."

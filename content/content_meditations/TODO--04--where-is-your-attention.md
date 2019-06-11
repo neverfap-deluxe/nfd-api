@@ -7,7 +7,7 @@
   categories: [ "" ]
   category: "Meditation"
 
-  # image: "/images/face.jpg"
+  
   slug: "where-is-your-attention"
 
   mp3Url: ""

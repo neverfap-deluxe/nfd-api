@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "neverfap schedule", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]
-  # image: "/images/face.jpg"
+  
   slug: "what-is-neverfap"
 
   tldr1: "NeverFap Deluxe is designed to teach you self-control."
@@ -60,7 +60,7 @@ Porn addicts know about being addicted to porn, because that's what they are.
 It's what they live on a daily basis. It's how they understand and relate to the world around them.
 
 
-{{< hr3 "So there's a few steps we must take in order to address this.">}}
+{{< hr3 "So there's a few steps we must take in order to address this." >}}
 
 
 For starters, we need to learn self-control from someone who knows how.
@@ -126,6 +126,6 @@ Observation truly encompasses the default state of mind that you should be in al
 <!--TODO: I talk more about it in this article Article on observation -->
 And furthermore, developing observation is easy. 
 
-For further information of the exercises and practices on this website, please head to our <a class="link" href="/practices">Practices</a> section.
+For further information of the exercises and practices on this website, please head to our <a class="link" href="https://neverfapdeluxe.com/practices">Practices</a> section.
 
 From there you can learn more about the various ways in which teach you self-control through meditation and various perspective exercises.

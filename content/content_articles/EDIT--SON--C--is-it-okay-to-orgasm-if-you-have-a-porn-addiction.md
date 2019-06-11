@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
-  # image: "/images/face.jpg"
+  
   slug: "is-it-okay-to-orgasm-if-you-have-a-porn-addiction"
 
   tldr1: "In general, you should not orgasm during your porn addiction recovery."

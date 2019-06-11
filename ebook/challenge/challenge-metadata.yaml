@@ -4,18 +4,27 @@
     text: 28 Day Awareness Challenge
   - type: subtitle
     text: Improve your capacity for awareness with our 28 Day Awareness Challenge.
+  # subtitle:
+  # description:
+  # category
+  keywords:
+    - NoFap
+    - NeverFap
+    - NeverFap Deluxe
+  # author:
+  #   - Julius Reade
   creator:
   - role: author
     text: Julius Reade
-  - role: editor
-    text: Julius Reade
+  # - role: editor
+  #   text: Julius Reade
   identifier:
   - scheme: DOI
     text: doi:10.234234.234/33
   publisher:  NeverFap Deluxe
-  rights: © 2019 Julius Reade, CC BY-NC
+  rights: © 2019 NeverFap Deluxe, CC BY-NC
   cover-image: ./ebook/challenge/challenge-cover.png
-  lang: en-UK
+  lang: en-GB
   date: 2019-06-07
   # css:
   ibooks:

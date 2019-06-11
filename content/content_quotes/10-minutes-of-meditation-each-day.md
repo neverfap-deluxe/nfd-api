@@ -5,7 +5,7 @@
   draft: false
   tags: [ "quotes" ]
   categories: [ "index" ]
-  # image: "/images/face.jpg"
+  
   slug: "10-minutes-of-meditation-each-day"
 
   pageId: "C44545DA-DFA3-4528-B8F5-3464F60FB969"

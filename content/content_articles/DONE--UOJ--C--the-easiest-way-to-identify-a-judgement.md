@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-easiest-way-to-identify-a-judgement"
 
   tldr1: "The easiest way to identify a judgement is by paying attention to our emotional reactions."
@@ -76,7 +76,7 @@ For example, feeling sad because we don't have a girlfriend, or getting upset be
 Certainly, these hidden agreements form part of the reason why these judgements can be so hard to identify, because often they take place completely out of conscious sight. 
 
 
-{{< hr3 "Yet from the perspective of our emotional reactions, they are never hidden.">}}
+{{< hr3 "Yet from the perspective of our emotional reactions, they are never hidden." >}}
 
 <!-- UP TO HERE, WILL NEED TO FINISH -->
 Because although these agreements and beliefs are often hidden, the direct effect of those judgements are fully felt via the emotional reactions which shut us down and hold us completely at ransom.

@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-importance-of-meditation-for-porn-addiction"
   aliases: [
     "articles/hello.json.json"
@@ -123,4 +123,4 @@ Aside from observation, there is also introspection (our ability to look into ou
 
 These skills are broken into Five Fundamental Principles which allow us to focus on particular outcomes related to overcoming porn addiction.
 
-I recommend checking out our list of <a class="link" href="">NeverFap Deluxe Practices</a> for a list of exercises you can do to develop awareness in your life.
+I recommend checking out our list of <a class="link" href="https://neverfapdeluxe.com/practices">NeverFap Deluxe Practices</a> for a list of exercises you can do to develop awareness in your life.

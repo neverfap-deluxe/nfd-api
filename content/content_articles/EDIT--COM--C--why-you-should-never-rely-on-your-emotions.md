@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "understanding choice", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
-  # image: "/images/face.jpg"
+  
   slug: "why-you-should-never-depend-on-your-emotions"
 
   tldr1: "Using our emotions to motivate us is a brittle approach towards developing self-control."
@@ -93,6 +93,6 @@ As opposed to this idea that our mind is in control of our emotions.
 
 Hopefully this article helps you better understand exactly what happens in our minds when we pursue this cycle of emotion.
 
-In terms of moving forward, I highly recommend checking out our range of comprehensive <a class="link" href="/practices">NeverFap Practices</a> which are designed to help you regain control over your mind.
+In terms of moving forward, I highly recommend checking out our range of comprehensive <a class="link" href="https://neverfapdeluxe.com/practices">NeverFap Practices</a> which are designed to help you regain control over your mind.
 
 

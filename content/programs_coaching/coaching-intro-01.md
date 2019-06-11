@@ -23,4 +23,4 @@ Which obviously can be an incredibly difficult thing for you to do, if you don't
 
 I have certainly been in that position before and can understand what it's like, which is why I've decided to offer personal coaching as a service.
 
-It's also the reason why I run an <a class="link" href="<%= Application.get_env(:nfd, :social_discord_url) %>">#accountability</a> Discord channel, so users can get that level of interaction with other people on some level.
+It's also the reason why I run an <a class="link" href="https://discord.gg/YETRkSj">#accountability</a> Discord channel, so users can get that level of interaction with other people on some level.

@@ -7,7 +7,7 @@
   categories: [ "awareness-over-all" ]
   category: "Awareness over all"
 
-  # image: "/images/face.jpg"
+  
   slug: "where-do-you-touch"
   # aliases: [
   # ]

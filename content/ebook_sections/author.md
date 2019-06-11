@@ -5,7 +5,7 @@
   draft: true
   tags: [ "author" ]
   categories: [ "author" ]
-  # image: "/images/face.jpg"
+  
   slug: "author"
 
   pageId: "author"

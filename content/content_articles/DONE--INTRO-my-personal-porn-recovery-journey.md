@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "popular", "porn recovery", "neverfap basics", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]
-  # image: "/images/face.jpg"
+  
   slug: "my-personal-porn-recovery-journey"
 
   tldr1: "I last watched porn in October 20th 2018."
@@ -176,6 +176,6 @@ To create a vibrant resource for other porn addicts to learn from, so we no long
 
 The information is all here.
 
-<a class="link" href="/guide">Get started</a> today.
+<a class="link" href="https://neverfapdeluxe.com/guide">Get started</a> today.
 
 

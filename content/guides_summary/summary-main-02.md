@@ -11,7 +11,6 @@
 
 ---
 
-
 Welcome to the NeverFap Deluxe Summary.
 
 If I had to fundamentally describe what we're trying to achieve here with NeverFap Deluxe, one particular word comes to mind.

@@ -5,7 +5,7 @@
   draft: false
   tags: [ "quotes" ]
   categories: [ "index" ]
-  # image: "/images/face.jpg"
+  
   slug: "are-you-feeling-deluxe"
 
   pageId: "92b408aa-83bf-434b-9816-0a3c50e60a35"

@@ -1,5 +1,11 @@
 # you have a taste.
 
+https://davidwalsh.name/convert-html-markdown
+
+https://www.npmjs.com/package/turndown
+
+<<<<<<< HEAD
+
 https://pandoc.org/installing.html
 
 https://pandoc.org/MANUAL.html

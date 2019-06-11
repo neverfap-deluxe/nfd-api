@@ -7,7 +7,7 @@
   categories: [ "struggle-over-none" ]
   category: "Struggle over none"
 
-  # image: "/images/face.jpg"
+  
   slug: "relax-everything"
   aliases: [
     "relax-it-out"
@@ -32,7 +32,7 @@ I mean, I'd go as far as to say that all exercises are effective. It's just that
 
 One thing you'll notice as you trawl this website, is that there are a range of different exercises which all seem quite similar to each other.
 
-This includes <a class="link" href="/practices/slow-it-down">Slow Down Time</a> where we attempt to slow down and speed up reality, as well as <a class="link" href="/practices/stop-absolutely-everything-you-are-doing">Stop Absolutely Everything You're Doing</a> where we attempt to shut down our mind completely, as if we've consciously flicked off a switch at the back of our minds.
+This includes <a class="link" href="https://neverfapdeluxe.com/practices/slow-it-down">Slow Down Time</a> where we attempt to slow down and speed up reality, as well as <a class="link" href="https://neverfapdeluxe.com/practices/stop-absolutely-everything-you-are-doing">Stop Absolutely Everything You're Doing</a> where we attempt to shut down our mind completely, as if we've consciously flicked off a switch at the back of our minds.
 
 The idea is that with different perspectives, we can learn to understand ourselves and our conscious experience with a more open mind, as well as embrace different ways of thinking.
 

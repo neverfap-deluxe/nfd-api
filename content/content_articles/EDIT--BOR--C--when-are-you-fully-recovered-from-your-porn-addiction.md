@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
-  # image: "/images/face.jpg"
+  
   slug: "when-are-you-fully-recovered-from-your-porn-addiction"
 
   tldr1: "You are fully recovered when you're 100% confident you can deal with any possible situation without relapsing."
@@ -33,7 +33,7 @@ For example, do you think you would relapse if a close friend/family member pass
 
 If you feel as if you would relapse under those circumstances, then you haven't fully recovered, because you haven't developed the skills to deal with those situations.
 
-{{< hr3 "Ultimately, porn addiction recovery is about building our tolerance to effectively deal with difficult situations.">}}
+{{< hr3 "Ultimately, porn addiction recovery is about building our tolerance to effectively deal with difficult situations." >}}
 
 So you may be perfectly fine with only being 80% confident in your ability not to relapse, however obviously the purpose of our recovery is to reach a point of 100% confidence.
 
@@ -55,7 +55,7 @@ In fact, a large part of porn addiction recovery comes down to rediscovering thi
 
 Sometimes it may help to ask.
 
-{{< hr3 "What does certainty entail? Is certainty purely emotional? Is certainty a process?">}}
+{{< hr3 "What does certainty entail? Is certainty purely emotional? Is certainty a process?" >}}
 
 How can I guarantee certainty 1 week from now, let alone within 3 months time?
 
@@ -70,7 +70,7 @@ So you can develop the skills in order to address those tough situations, as wel
 With this said, there's also no point me telling you what I think certainty is, because it entirely defeats the purpose of what we're trying to achieve here.
 
 
-{{< hr3 "Only by consistently working on your mental health, will it actually begin to make any sense to you at all.">}}
+{{< hr3 "Only by consistently working on your mental health, will it actually begin to make any sense to you at all." >}}
 
 
 Reading about it is simply not enough.
@@ -90,7 +90,7 @@ You see, certainty comes in many forms. There is "knowing" something and then th
 If you're 100% certain that you'll always "do" that something then you'll be golden.
 
 
-{{< hr3 "Personally speaking, I knew I was largely recovered from the moment that I discovered proper meditation technique.">}}
+{{< hr3 "Personally speaking, I knew I was largely recovered from the moment that I discovered proper meditation technique." >}}
 
 
 Because from that moment, I knew I had all the skills necessary in order to be able to deal with almost all the awful emotions and feelings life was willing to throw at me. 

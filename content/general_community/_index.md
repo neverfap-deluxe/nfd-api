@@ -5,7 +5,7 @@
   draft: false
   tags: [ "porn addiction", "porn recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "" ]
-  # image: "/images/face.jpg"
+  
   slug: "community"
 
   pageId: "bbdf83b4-8bc7-4ecf-9ff1-021efe095922"
@@ -30,10 +30,10 @@ These different resources include:
 
 <hr class="hrul"/>
 
-- **Guided audio meditations to help assist you through your practices.**
-- **Structured perspective courses utilising the practices on this website.**
-- **A web/mobile application to assist you in recording your progress through the website.**
-- **Personal one on one coaching sessions.**
+- Guided audio meditations to help assist you through your practices.
+- Structured perspective courses utilising the practices on this website.
+- A web/mobile application to assist you in recording your progress through the website.
+- Personal one on one coaching sessions.
 
 <hr class="hrul__bottom"/>
 

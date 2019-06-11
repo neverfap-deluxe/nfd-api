@@ -7,7 +7,7 @@
   categories: [ "balance-over-reward" ]
   category: "Balance over reward"
   
-  # image: "/images/face.jpg"
+  
   slug: "hard-routines"
 
   what: "."

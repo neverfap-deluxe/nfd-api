@@ -7,7 +7,7 @@
   categories: [ "awareness-over-all" ]
   category: "Awareness over all"
 
-  # image: "/images/face.jpg"
+  
   slug: "what-can-your-hand-do"
   aliases: [
     # "what-can-your-hand-do"

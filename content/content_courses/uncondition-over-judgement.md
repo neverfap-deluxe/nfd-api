@@ -5,7 +5,7 @@
   draft: false
   tags: [ "course", "meditation", "visual meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]
-  # image: "/images/face.jpg"
+  
   slug: "uncondition-over-judgement"
 
   overview: "Understand the power of acceptance as a driving force for self-control."

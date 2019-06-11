@@ -7,13 +7,12 @@
   categories: [ "balance-over-reward" ]
   category: "Balance over reward"
 
-  # image: "/images/face.jpg"
-  slug: "challenge-existing-obligation"
+  slug: "challenge-existing-obligations"
 
-  what: "Develop our aca."
-  how: "."
-  when: "."
-  duration: "."
+  what: "Develop our capacity for change."
+  how: "By challenging this idea of obligation when the feeling of obligation arises."
+  when: "When we feel obliged to do something."
+  duration: "For a few seconds at a time."
 
   pageId: "168aaed0-b963-452a-b0da-d4bde130efb9"
 
@@ -21,13 +20,13 @@
 
 This exercise is incredibly powerful.
 
-It's a very direct and physical way of changing how our minds works and as you'll find, this exercise takes a lot of inspiration from other exercises such as **Stop Absolutely Everything You're Doing** in a more reactive way.
+It's a very direct and physical way of changing how our minds work and as you'll find, this exercise takes a lot of inspiration from other exercises such as **Stop Absolutely Everything You're Doing** in a more conditional way.
 
 Ultimately, the premise behind this exercise relates to this idea of change, so let's talk about that for a moment.
 
-The interesting thing about change is that people often assume that it's some kind of switch that flicks on in the back of your mind, which sudden propels you into a state of doing and becoming.
+An interesting thing to note about change is that people often assume that it's some kind of switch that flicks on in the back of our mind, which sudden propels you into a state of doing and becoming.
 
-Certainly, this kind of attitude culminates from a typical victim mindset, whereby we believe we are not responsible for the outcomes in our life, and instead are victim to our circumstances.
+Certainly, this kind of attitude culminates from typical victim mindsets, whereby we believe we are not responsible for the outcomes in our life, and are instead are subject to our circumstances.
 
 Instead, what we are going to do with this exercise is express change as a fully active and conscious idea which you are 100% fully in control of.
 

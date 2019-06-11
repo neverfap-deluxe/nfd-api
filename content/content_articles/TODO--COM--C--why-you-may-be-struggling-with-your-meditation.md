@@ -5,7 +5,7 @@
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
-  # image: "/images/face.jpg"
+  
   slug: "why-you-may-be-struggling-with-your-meditation"
 
   tldr1: "."

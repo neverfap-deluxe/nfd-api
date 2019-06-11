@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "neverfap schedule", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "struggle-over-none" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-neverfap-state-of-mind"
 
   tldr1: "Calmness is a default state of mind, which helps you address porn addiction easily."
@@ -87,7 +87,7 @@ The more you change and the closer you get to experiencing completely calmness i
 
 So what are you waiting for?
 
-I recommend checking out our list of <a class="link" href="">NeverFap Deluxe Practices</a> for a list of exercises you can do to develop calmness in your life.
+I recommend checking out our list of <a class="link" href="https://neverfapdeluxe.com/practices">NeverFap Deluxe Practices</a> for a list of exercises you can do to develop calmness in your life.
 
 <!-- 
 Often, our level of calmness is any single situation is usually a good indicator of our mental health at the time. 

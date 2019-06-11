@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "popular", "porn recovery", "neverfap basics", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]
-  # image: "/images/face.jpg"
+  
   slug: "the-five-fundamental-principles-of-neverfap"
 
   tldr1: "Fundamental principles are hard truths, irrespective of how you think about them."
@@ -24,7 +24,7 @@ Each principle maintains a purpose, along with a range of associated skills whic
 
 Without mastery of all five of these principles, we cannot hope to consistently manage the emotions, thoughts and  behaviours which may be contributing towards our porn addiction.
 
-For more of a relaxed introduction, I highly recommend reading my article <a class="link" href="/articles/the-five-principles-of-neverfap-as-they-relate-to-my-life">The Five Principles Of Neverfap As They Relate To My Life</a> which explains how they apply to my own life.
+For more of a relaxed introduction, I highly recommend reading my article <a class="link" href="https://neverfapdeluxe.com/articles/the-five-principles-of-neverfap-as-they-relate-to-my-life">The Five Principles Of Neverfap As They Relate To My Life</a> which explains how they apply to my own life.
 
 Before we begin, we must ask ourselves a very important question:
 
@@ -113,7 +113,7 @@ I would personally say that this fundamental principle is both equal parts under
 
 Certainly while practicing and exercising choice is important, understanding the extent to which we have choice will help us gain the confidence to truly feel comfortable dictating our thoughts, feelings, emotions and behaviour.
 
-By in large, the way this confidence is achieved is through controlled meditation and perspective training, which is covered extensively throughout the <a class="link" href="/practices">NeverFap Deluxe Practices</a> section.
+By in large, the way this confidence is achieved is through controlled meditation and perspective training, which is covered extensively throughout the <a class="link" href="https://neverfapdeluxe.com/practices">NeverFap Deluxe Practices</a> section.
 
 For example, a situation where many porn addicts believe they do not have control is in public.
 

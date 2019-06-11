@@ -7,7 +7,7 @@
   categories: [ "awareness-over-all" ]
   category: "Awareness over all"
 
-  # image: "/images/face.jpg"
+  
   slug: "focus-your-attention"
   aliases: [
     "practices/focus-it-forward"
@@ -28,7 +28,7 @@ Learning to focus our attention is an important skill.
 
 However, I would also argue that it's quite an advanced skill that should only be attempted once you feel more comfortable being aware in general.
 
-In fact, it's an exercise which builds upon <a class="link" href="/practices/observe-your-senses">Observe Your Senses</a> so it makes sense to master that first.
+In fact, it's an exercise which builds upon <a class="link" href="https://neverfapdeluxe.com/practices/observe-your-senses">Observe Your Senses</a> so it makes sense to master that first.
 
 Otherwise, we can truly struggle with this exercise, and more often than not when people attempt to learn this exercise first, it almost always leads to more confusion than clarity.
 
@@ -78,7 +78,7 @@ Simply because there's less overhead.
 
 There are essentially two key steps towards performing this exercise.
 
-First, relax and put yourself into a state of unconditional awareness, as per the instructions in <a class="link" href="/practices/observe-your-senses">Observe Your Senses</a>.
+First, relax and put yourself into a state of unconditional awareness, as per the instructions in <a class="link" href="https://neverfapdeluxe.com/practices/observe-your-senses">Observe Your Senses</a>.
 
 In this state of mind, you should have completely emptied your mind and become fully attuned to your senses.
 

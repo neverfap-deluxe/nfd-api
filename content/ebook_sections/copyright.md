@@ -5,7 +5,7 @@
   draft: true
   tags: [ "copyright" ]
   categories: [ "copyright" ]
-  # image: "/images/face.jpg"
+  
   slug: "copyright"
 
   pageId: "copyright"
