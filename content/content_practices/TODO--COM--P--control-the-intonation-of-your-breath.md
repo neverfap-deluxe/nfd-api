@@ -21,6 +21,16 @@
 
 <!-- {{< hr2 "Context" >}} -->
 
+Mindfulness truly is a core concept we're trying to grasp as we practice these exercises, and this exercise is particularly well equiped to teach you these fundamentals in a meaningful way.
+
+A lot of what mindfulness comes down to is learning how to use our minds in a conscious way, and so practicing this will help you develop this ability.
+
+Our breath is a great place to start with this, because it's a subconscious behaviour we do which we don't think about.
+
+And so bringing these behaviours to our attention can help us train our brains to be more aware and mindful of other behaviours, such as when we find ourselves peeking at porn or fantasising about that which we are attracted to.
+
+Ultimately, the exr
+
 
 {{< hr2 "Instructions" >}}
 

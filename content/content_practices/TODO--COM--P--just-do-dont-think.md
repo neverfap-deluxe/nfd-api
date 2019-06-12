@@ -23,7 +23,15 @@
 
 I absolutely LOVE this exercise.
 
-I would say it's probably one of the best exercises I've come up with, especially in terms of demonstrating what exactly it is we're trying to achieve with NeverFap Deluxe on a process level. 
+I would say it's probably one of the best exercises I've come up with, especially in terms of demonstrating what exactly it is we're trying to achieve with NeverFap Deluxe from a process perspective.
+
+
+
+Essentially what we want to do for this exercise is to carry out a bunch of tasks without thinking.
+
+At all.
+
+What we are training ourselves to do is to embrace the power of process, without mentally meddling with the process in any way.
 
 
 {{< hr2 "Instructions" >}}
