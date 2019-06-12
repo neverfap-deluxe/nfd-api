@@ -109,7 +109,7 @@ Of course, the hard part is getting to a point where you finally do feel this ki
 
 As long as you stick with the process, you will absolutely succeed with your goal of overcoming porn addiction. 
 
-It's also part of the reason why I've put so much effort into crafting this website so that the process can make intuitive sense to you.
+It's also part of the reason why I've put so much effort into crafting NeverFap Deluxe so that the process can make intuitive sense to you.
 
 I know you can do it.
 

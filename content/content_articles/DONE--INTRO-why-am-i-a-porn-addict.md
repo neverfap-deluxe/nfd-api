@@ -1,5 +1,5 @@
 ---
-  title: "\"Why am I A Porn Addict?\""
+  title: "Why am I A Porn Addict?"
   description: "Understand why we are addicted to porn has very little in common with figuring out how to overcome porn addiction."
   date: 2018-11-13
   draft: false
@@ -76,7 +76,7 @@ There are plenty of guides and resources out there to help you overcome your por
 {{< hr3 "The great thing about NeverFap Deluxe is that you no longer have to waste your time doing things that do not work." >}}
  
 
-If you commit to the practices and exercises on this website, and you'll pretty much be alright. 
+If you commit to the practices and exercises on NeverFap Deluxe, and you'll pretty much be alright. 
 
 Otherwise, the alterative is to continue asking 'why' and hope that we have some sudden spark of awareness which will magically alter our brain so as not to pursue the behaviours we've been doing since we were a young child.
 
@@ -171,7 +171,7 @@ Instead, these are the types of questions we need to be thinking about:
 
 <hr class="hrul__bottom"/>
 
-Aside from the rest of the introductory articles on this website, I highly recommend taking a look at some of the practices on offer, so you can begin to make actual changes to your life today.
+Aside from the rest of the introductory articles on NeverFap Deluxe, I highly recommend taking a look at some of the practices on offer, so you can begin to make actual changes to your life today.
 
 Hopefully this article clarifies the change of thinking that needs to take place, in order for us to overcome our porn addiction.
 

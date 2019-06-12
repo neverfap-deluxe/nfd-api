@@ -1,7 +1,7 @@
 ---
   title: "Control The Intonation Of Your Breath"
   description: ""
-  date: 2019-08-12
+  date: 2019-09-30
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]

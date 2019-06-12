@@ -19,7 +19,7 @@ Today I would like to elaborate further on why, as it's arguably the reason why 
 
 It is absolutely toxic and it needs to end today.
 
-As I state on the website, everything you do needs to come back down to developing Healthy Coping Mechanisms and in no way does maintaining a PMO streak do that. 
+As I state on NeverFap Deluxe, everything you do needs to come back down to developing Healthy Coping Mechanisms and in no way does maintaining a PMO streak do that. 
 
 Therefore, it is an Unhealthy Coping Mechanism because it is merely a distration from meaningful change. 
 

@@ -35,7 +35,7 @@ Of course, the reason why this doesn't happen is because most porn addicts are c
 
 Not to mention, most porn addicts have a hard time sticking to a routine of meditation, which is entirely necessary in order for it to be successful.
 
-Which is why the other 99% of this website exists, to help you understand why it's absolutely vital.
+Which is why the other 99% of what's contained in NeverFap Deluxe exists, to help you understand why it's absolutely vital.
 
 
 {{< hr2 "Why meditation?" >}}

@@ -1,7 +1,7 @@
 ---
   title: "The Difference Between NoFap And NeverFap Deluxe"
   description: "."
-  date: 2019-11-16
+  date: 2019-11-12
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-none" ]

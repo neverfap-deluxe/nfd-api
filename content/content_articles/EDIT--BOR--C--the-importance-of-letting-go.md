@@ -105,7 +105,7 @@ So how do you effectively let go?
 
 Well, like anything in life, it simply comes down to a matter of practice and consistency.
 
-There are quite a few exercises in our practices section of the NeverFap Deluxe website, which are designed to help dissolve your ego.
+There are quite a few exercises in our practices section on NeverFap Deluxe, which are designed to help dissolve your ego.
 
 And help you dissociate from your thoughts and feelings, so your ability to enact conscsious action can be exercised in full.
 

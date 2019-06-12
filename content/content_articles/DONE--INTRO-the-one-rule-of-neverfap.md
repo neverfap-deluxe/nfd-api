@@ -77,7 +77,7 @@ That's what we're interest in. Movement, not ideas.
 
 Movement is what helps us get to our destination, not describing what that destination ideally should be.
 
-This is why much of the content on this website is built around verifiable practices, so that you can actively improve and make changes to your life on a regular basis.
+This is why much of the content on NeverFap Deluxe is built around verifiable practices, so that you can actively improve and make changes to your life on a regular basis.
 
 Ultimately, there is only one rule of NeverFap.
 

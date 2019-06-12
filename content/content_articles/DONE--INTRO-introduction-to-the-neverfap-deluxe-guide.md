@@ -85,7 +85,7 @@ We'll be feeling completely confident one week into our recovery, only to face w
 
 My intention is to help you fill in all the gaps, so you don’t have to run around like a headless chook, the same way that I did for five years.
 
-In this website, I hope to talk about every single aspect of how to successfully become porn free. What you’ll need to learn. How you can learn those things. How not to fall into certain traps.
+I hope to talk about every single aspect of how to successfully become porn free. What you’ll need to learn. How you can learn those things. How not to fall into certain traps.
 
 How it's actually an incredibly straight-forward process if you just follow the motions.
 

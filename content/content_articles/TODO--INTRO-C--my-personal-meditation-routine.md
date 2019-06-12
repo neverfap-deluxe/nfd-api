@@ -84,6 +84,6 @@ Essentially what meditation does is that it grounds you back to your present sel
 
 But of course, you'll come to develop your own routine that works for you, as we all have different areas which we struggle with.
 
-For example, you may want to focus on some of the awareness and calmness practices we have on the website, which can be super useful if you're just starting out.
+For example, you may want to focus on some of the awareness and calmness practices we have on NeverFap Deluxe, which can be super useful if you're just starting out.
 
 Feel free to also checkout the NeverFap Deluxe Guided Meditation Series if you require additional help with your daily meditation.

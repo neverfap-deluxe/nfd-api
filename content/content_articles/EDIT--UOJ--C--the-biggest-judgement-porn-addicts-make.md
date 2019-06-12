@@ -77,7 +77,7 @@ However the longer you practice this, the better you'll be able to catch yoursel
 
 You will simply exist judgement free. 
 
-There's a specific practice which helps target this called **Catch Out Your Judgements** in the practices section of the website. 
+There's a specific practice which helps target this called **Catch Out Your Judgements** in the practices section of NeverFap Deluxe. 
 
 I highly recommend checking it out.
 

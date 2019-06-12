@@ -1,7 +1,7 @@
 ---
   title: "You Are Present"
   description: "Learning to be present in the current moment is a vital skill."
-  date: 2019-09-04
+  date: 2019-09-06
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]

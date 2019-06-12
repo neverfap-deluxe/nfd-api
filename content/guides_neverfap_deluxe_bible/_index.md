@@ -28,5 +28,8 @@ The only issue is it doesn't contain any of the fancy visualisations on the webs
 
 Regardless, I simply wanted to create a different format for people to appreciate the website through.
 
-The ebook is available to download via Leanpub and is free to download, although it has a suggested price of $14.99 if you'd like to help support and grow NeverFap Deluxe!
+The ebook is available for download via Leanpub and it has a suggested price of $12.99 if you'd like to help support and grow NeverFap Deluxe!
 
+https://leanpub.com/neverfap-deluxe-bible
+
+Otherwise, it can be obtained at a cheaper rate via my Patreon if you're interested in becoming a backer!

@@ -41,7 +41,7 @@ So with this in mind, orgasming simply makes it harder to overcome porn addictio
 
 Whenever you orgasm you still experience that intense dopamine rush which more-or-less makes regulating your emotions impossible.
 
-And as I state on this website, 5% of your time should be spent practicing Healthy Coping Mechanisms, while the other 95% of your time should be spent remaining calm and relaxed. 
+And as I state on NeverFap Deluxe, 5% of your time should be spent practicing Healthy Coping Mechanisms, while the other 95% of your time should be spent remaining calm and relaxed. 
 
 
 {{< hr3 "Certainly, it's incredibly difficult to remain calm and relaxed after an orgasm." >}}

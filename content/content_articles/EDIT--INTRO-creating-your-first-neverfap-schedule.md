@@ -113,7 +113,7 @@ Ultimately, the reason why NeverFap works as a solution is because the core phil
 
 And self-care is simply another aspect we can focus on, to make things even simpler. 
 
-Certainly, this isn't a focus of this website, so you can certainly do your own research into this.
+Certainly, this isn't a focus of NeverFap Deluxe, so you can certainly do your own research into this.
 
 However below is a list of what I personally do to maintain self-care in my life.
 

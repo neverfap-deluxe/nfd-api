@@ -35,7 +35,7 @@ Of course, assuming you put in the required practice.
 
 In this article I want to help you better understand where you may be misunderstanding this idea of choice.
 
-Because if you truly understood the power you currently have to change as an individual, you most likely wouldn't be on this website.
+Because if you truly understood the power you currently have to change as an individual, you most likely wouldn't be reading NeverFap Deluxe.
 
 So let's consider this your formal re-education.
 

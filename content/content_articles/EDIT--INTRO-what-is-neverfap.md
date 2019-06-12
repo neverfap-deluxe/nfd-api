@@ -126,6 +126,6 @@ Observation truly encompasses the default state of mind that you should be in al
 <!--TODO: I talk more about it in this article Article on observation -->
 And furthermore, developing observation is easy. 
 
-For further information of the exercises and practices on this website, please head to our <a class="link" href="https://neverfapdeluxe.com/practices">Practices</a> section.
+For further information of the exercises and practices on NeverFap Deluxe, please head to our <a class="link" href="https://neverfapdeluxe.com/practices">Practices</a> section.
 
 From there you can learn more about the various ways in which teach you self-control through meditation and various perspective exercises.

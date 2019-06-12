@@ -72,4 +72,4 @@ Essentially, it allows you the freedom to choose how you want to live your life,
 
 You can use it to pursue women if you want and have a heap of sex. Maybe you're more interested in productivity and business. Really, that's entirely up to you. 
 
-I am merely the guide afterall, and this website and what you're currently reading is a by-product of what you can achieve when you finally have control over your mind.
+I am merely the guide afterall, and the NeverFap Deluxe website and what you're currently reading is a by-product of what you can achieve when you finally have control over your mind.

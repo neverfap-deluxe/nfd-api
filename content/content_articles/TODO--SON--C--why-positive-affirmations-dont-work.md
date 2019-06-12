@@ -1,7 +1,7 @@
 ---
   title: "Why Positive Affirmations Dont Work"
   description: ""
-  date: 2019-08-27
+  date: 2019-10-01
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]

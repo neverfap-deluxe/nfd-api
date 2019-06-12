@@ -162,7 +162,7 @@ It allowed me to relax my mind at will. To prevent incessant thinking and most i
 
 It is possibly the most essential thing you can do to assist you in overcoming porn addiction. 
 
-Of course, what's also important is how you meditate, and that's precisely what I cover in this website.
+Of course, what's also important is how you meditate, and that's precisely what I cover in NeverFap Deluxe.
 
 For example, a form of meditation I personally find incredibly useful is walking in public, and simply avoiding placing our attention on people walking past us.
 

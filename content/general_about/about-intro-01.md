@@ -13,7 +13,7 @@
 
 Welcome to NeverFap Deluxe!
 
-I decided to create this website in 2019 to help people overcome porn addiction, in the easiest and most effective way possible.
+I decided to create NeverFap Deluxe in 2019 to help people overcome porn addiction, in the easiest and most effective way possible.
 
 In essence, I aim to teach people how to be in complete control of their minds using the power of meditation and other various awareness and mental health practices.
 

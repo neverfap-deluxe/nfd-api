@@ -3,29 +3,25 @@ const {
 } = require('./util');
 
 const generatePrimer = async () => {
-  // Primer
-  const primer_list = fs.readdirSync(primer_folder);
-  let new_primer_list = [];
-  let new_primer_string = '';
-  try {
-    for (const primer_file_name of primer_list) {
-      const file = await fse.readFile(`${primer_folder}/${primer_file_name}`, 'utf8');
-      const { new_list_item, new_string_item } = extractData(file, "page_children");
-      new_primer_list.push(new_list_item);
-      new_primer_string += new_string_item;
-    }
-  } catch (error) {
-    throw new Error(error);
-  }
+  const [
+    primerIndex,
+    primerChildren,
+  ] = await Promise.all([ 
+    generatePage(primer_folder),
+    generatePageChildren(primer_folder),
+  ]);
 
-  const final_string_array = [new_primer_string]
+  const website_content_array = [
+    primerIndex.string,
+    primerChildren.string,
+  ];
+
   let final_string = '';
-  for (const final_string_section of final_string_array) {
+  for (const final_string_section of website_content_array) {
     final_string += final_string_section;
   }
 
-  console.log(final_string);
-  fse.outputFileSync(`ebook/primer/seven_day_primer.md`, final_string);
+  fse.outputFileSync(`ebook/primer/primer.md`, final_string);
 };
 
 generatePrimer();

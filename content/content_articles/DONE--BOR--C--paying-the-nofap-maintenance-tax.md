@@ -80,7 +80,7 @@ And most importantly, regain control over my emotions so that my cravings for po
 
 Of course, you may have an opposite problem. You may not be motivated enough.
 
-Everyone is different in this regard, and this website is designed to help you figure out exactly where your weaknesses are.
+Everyone is different in this regard, and NeverFap Deluxe is designed to help you figure out exactly where your weaknesses are.
 
 
 {{< hr2 "Change in attitude" >}}

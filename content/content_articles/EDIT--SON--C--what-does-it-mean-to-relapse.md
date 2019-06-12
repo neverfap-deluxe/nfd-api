@@ -26,7 +26,7 @@ And it's a question which always produces the same two counter questions:
 
 At the end of the day, whatever definition we have of relapse is pointless, because it has nothing to do with developing Healthy Coping Mechanisms.
 
-As I state on the website, anything which doesn't help you develop Healthy Coping Mechanisms is an Unhealthy Coping Mechanisms, and this is no different.
+As I state on NeverFap Deluxe, anything which doesn't help you develop Healthy Coping Mechanisms is an Unhealthy Coping Mechanisms, and this is no different.
 
 In fact, even thinking about this question is an Unhealthy Coping Mechanism within itself, because it detracts from focusing on meaningful change.
 

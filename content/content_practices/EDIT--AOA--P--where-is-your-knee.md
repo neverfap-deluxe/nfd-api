@@ -1,7 +1,7 @@
 ---
   title: "Where Is Your Knee?"
   description: "By taking note of certain aspects of our physical presence we can learn to be more present with ourselves."
-  date: 2019-08-28
+  date: 2019-08-22
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
