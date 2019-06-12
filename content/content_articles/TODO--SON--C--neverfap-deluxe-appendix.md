@@ -15,9 +15,12 @@
 
 ---
 
-I thought I'd compile an appendix of common terms for NFD 
+We don't have a large appendix of terms, because NeverFap Deluxe is a super simple at it's core.
 
-NF - NeverFap
+Why complicate an already complicated addiction?
+
+
+### Terms
 
 NFD - NeverFap Deluxe
 
@@ -26,17 +29,4 @@ PMO - Porn, Masturbation, Orgasm
 HCM(s) - Healthy Coping Mechanisms
 
 UCM(s) - Unhealthy Coping Mechanisms
-
-AUDYDM - Are You Doing Your Daily Meditation?
-
-<!--
-{{< hr3 "Of course, these outcomes are only possible given one very important aspect that most people overlook." >}} -->
-
-
-
-<!--
-
-So let's get back to basics and talk about what "functioning effectively" actually means.
-
-It means doing things which are counter-productive to your growth as a human being. It means going against  -->
 
