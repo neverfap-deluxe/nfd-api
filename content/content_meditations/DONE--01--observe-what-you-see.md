@@ -7,7 +7,7 @@
   categories: [ "meditation" ]
   category: "Meditation"
 
-  
+
   slug: "observe-what-you-see"
 
   mp3Url: "https://s3.castbox.fm/61/6f/59/95055247d0b6fe18ccc053aaec.mp3"
@@ -154,3 +154,54 @@ Well, that brings us to the end of today's session. If you enjoyed this meditati
 Regardless, I hope you have a wonderful rest of the day.
 
 Stay safe. Stay calm and don't forget to relax.  -->
+
+
+
+
+
+
+<!-- SOME LEFT OVER MATERIAL FOR CLOUD OF SENSATION -->
+
+<!--
+
+An interesting thing to think about, is where these sensations may be coming from.
+
+Is there a single source where these feelings originate?
+
+Is it possible to feel multiple senses at the same time?
+
+Personally speaking, it helps me to visualise my own feelings as a cloud of sensation.
+
+Which is to say that there is no seperate body or mind, so-to-speak.
+
+Instead, there is merely a cloud of sensation from which I am experiencing myself.
+
+Just an interesting take on this exercise,something to think about, as you practice this exercise. -->
+
+
+<!--
+If you are having difficulty observing your senses, then perhaps you're struggling with this concept of observation.
+
+An important thing to note about observation, is that it's the opposite to thinking.
+
+Because when you are thinking, it means you're not engaged with your senses.
+
+Which in other words, is to say that it is impossible to effectively think and sense at the same time.
+
+Of course, the purpose of this exercise is to develop our skills of observation.
+
+Because it is a skill many of us have not spent time developing.
+
+Especially if you are the kind of person who tends to over-think and has difficulty remaining calm and focused. -->
+
+
+
+<!--
+If you find your mind wandering off during this exercise, then just gently remind yourself to continue observing.
+
+Observe what your body is feeling and sensing.
+
+Observe the calmness you may be feeling.
+
+Observe the sensations interacting with your mind.
+ -->
