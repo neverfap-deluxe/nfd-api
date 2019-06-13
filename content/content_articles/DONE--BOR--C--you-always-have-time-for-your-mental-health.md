@@ -86,7 +86,7 @@ Without our mental health, days may seem like years in situations we largely fin
 Without our mental health, life becomes very difficult.
 
 
-{{< hr4 "Of course, there's a reason why poor mental health is often described as a self-repeating cycle." >}}
+{{< hr3 "Of course, there's a reason why poor mental health is often described as a self-repeating cycle." >}}
 
 
 We choose to obsess over something which we believe will make us happy i.e. addiction, uncheked ambitions etc.
@@ -112,7 +112,7 @@ Certainly, I don't blame you.
 It's hard to evaluate anything when your emotions are completely out of whack, and you genuinely believe that pursuing the same behaviours again and again will truly be "different this time" despite producing the exact same results of hope and depression in what seems to be a never ending cycle.
 
 
-{{< hr4 "But let me say that there's never a bad time to commit to your mental health." >}}
+{{< hr3 "But let me say that there's never a bad time to commit to your mental health." >}}
 
 
 One key thing to understand about mental health is that it's accumulative.

@@ -62,7 +62,7 @@ The idea being that we can then catch ourselves before we begin overthinking, an
 Because when our mind is racing at a million miles per hour, it can become incredibly difficult, if not impossible to slow it down.
 
 
-{{< hr4 "Which is why people inevitably relapse." >}}
+{{< hr3 "Which is why people inevitably relapse." >}}
 
 
 Because at that point, you've already lost control.

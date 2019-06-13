@@ -43,7 +43,7 @@ And when we don't realise this, or aren't consciously aware of this label that w
 By learning to understand this identity, we provide ourselves with the opportunity to be able to directly control how we operate, without relying on the expectations of this persona.
 
 
-{{< hr4 "What this exercise attempts to do is help you better disassociate yourself from this persona." >}}
+{{< hr3 "What this exercise attempts to do is help you better disassociate yourself from this persona." >}}
 
 
 The end goal isn't necessarily to completely dissolve this persona.

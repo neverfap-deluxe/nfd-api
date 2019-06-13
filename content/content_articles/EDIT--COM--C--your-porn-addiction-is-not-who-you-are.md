@@ -89,7 +89,7 @@ No one commitment or ability is truly different from the other.
 
 It is merely a choice you make based on what you want from life.
 
-{{< hr4 "Sure, you can claim that you're a porn addict due to x, y and z." >}}
+{{< hr3 "Sure, you can claim that you're a porn addict due to x, y and z." >}}
 
 
 However this kind of thinking simply isn't reflective of reality, nor can it help you overcome your porn addiction.

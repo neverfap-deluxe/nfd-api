@@ -50,7 +50,7 @@ When you practice the NeverFap Deluxe exercises everyday and apply them to your 
 In large part because when you practice these exercises which provide you with the required skills and abilities to control your mind, you no longer fear the unknown.
 
 
-{{< hr4 "Because you know that you have a strategy in place, and you know exactly what to expect from your ability to address your addiction." >}}
+{{< hr3 "Because you know that you have a strategy in place, and you know exactly what to expect from your ability to address your addiction." >}}
 
 
 Another part of the reason why being calm and collected is important, is because it becomes really difficult to self-harm or react emotionally when you're feeling calm.

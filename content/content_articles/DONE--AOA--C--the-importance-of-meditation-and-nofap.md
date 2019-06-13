@@ -24,7 +24,7 @@
 Meditation is the single most important thing you can do for your porn addiction.
 
 
-{{< hr4 "In fact, ten minutes of meditation each day is probably enough for most porn addicts to overcome their addiction." >}}
+{{< hr3 "In fact, ten minutes of meditation each day is probably enough for most porn addicts to overcome their addiction." >}}
 
 
 No, seriously. 
@@ -78,7 +78,7 @@ In terms of developing control over your emotions, it means practicing meditatio
 In terms of understanding your own emotions, it's about having the capacity to not take your own emotions personally, and to remain calm when you feel as if your emotions are out of your control.
 
 
-{{< hr4 "If you can manage those two things, you'll more-or-less be 90% of the way there to overcoming your porn addiction." >}}
+{{< hr3 "If you can manage those two things, you'll more-or-less be 90% of the way there to overcoming your porn addiction." >}}
 
 
 Yet most people struggle.

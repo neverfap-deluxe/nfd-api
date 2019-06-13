@@ -30,7 +30,7 @@
 This exercise encompasses one of the most fundamental skills in regards to practicing meditation.
 
 
-{{< hr4 "Your ability to remain aware of your senses in the present moment." >}}
+{{< hr3 "Your ability to remain aware of your senses in the present moment." >}}
 
 
 It's a skill which will form the foundation of almost all the practices on this website, in particular the introspection aspect of these practices i.e. how these exercises make you feel as you practice them.
@@ -76,7 +76,7 @@ Instead, it's about noticing your surroundings, thoughts and feelings, in additi
 That's for you to discover.
 
 
-{{< hr4 "Where I personally feel a lot of people explaining observation go wrong, is that they focus on this whole \"really try to empty your thoughts\" or \"attempt to refrain from judgement\" mindset." >}}
+{{< hr3 "Where I personally feel a lot of people explaining observation go wrong, is that they focus on this whole \"really try to empty your thoughts\" or \"attempt to refrain from judgement\" mindset." >}}
 
 
 Because it essentially implies that you have to do "more" to somehow achieve what is effectively an empty state of mind.
@@ -92,7 +92,7 @@ So don't worry about trying to prevent your thoughts, or getting frustrating if 
 That's precisely the problem we're trying to address, and the way we do that is by focusing on the task at hand, which is observation itself.
 
 
-{{< hr4 "Another important thing to keep in mind is that we're not necessarily attempting to 'achieve' anything with observation." >}}
+{{< hr3 "Another important thing to keep in mind is that we're not necessarily attempting to 'achieve' anything with observation." >}}
 
 
 Instead, what we're doing is exploring. 
@@ -114,7 +114,7 @@ Observe what you're feeling. Observe what you're thinking. Observe what's around
 The world is your oyster.
 
 
-{{< hr4 "Observe all the various interactions that are taking place in your mind." >}}
+{{< hr3 "Observe all the various interactions that are taking place in your mind." >}}
 
 
 It's about sitting there (or standing, or walking, or whatever you happen to be doing) and paying attention to what you're sensing, whether it be thought, emotion or absolutely nothing at all. 

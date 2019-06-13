@@ -96,7 +96,7 @@ If your ability to respond is the only true choice that you have, then it signif
 Because response happens through actions, and actions are the only means through which we can change as human beings. 
 
 
-{{< hr4 "Which really is to say that you have full control over who you want to become." >}}
+{{< hr3 "Which really is to say that you have full control over who you want to become." >}}
 
 
 In addition, it also signifies that we are all equal in terms of our ability to take action.
@@ -136,7 +136,7 @@ Success is meditating daily so that we can learn the skills to properly address 
 Remember.
 
 
-{{< hr4 "The only difference between someone who has successfully overcome porn addiction and someone who continually fails, is that the person who overcame porn addiction took the right actions to get there." >}}
+{{< hr3 "The only difference between someone who has successfully overcome porn addiction and someone who continually fails, is that the person who overcame porn addiction took the right actions to get there." >}}
 
 
 Porn addicts really are no different from each other.

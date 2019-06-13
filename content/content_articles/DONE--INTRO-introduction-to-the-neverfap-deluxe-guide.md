@@ -117,7 +117,7 @@ As for a non-exhaustive list of these skills, here are some of the things which 
 
 I explore each of these aspects (and more) in detail, as well as why they are so crucial for in regards to successfully overcoming porn addiction.
 
-{{< hr4 "Personally speaking it took me around 5 years of trial and error before everything finally clicked in my head." >}}
+{{< hr3 "Personally speaking it took me around 5 years of trial and error before everything finally clicked in my head." >}}
 
 And I’m now at a point where porn has no control over me.
 

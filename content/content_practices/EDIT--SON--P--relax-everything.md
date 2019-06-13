@@ -54,7 +54,7 @@ Essentially, it's a very effective way to learn mastery over your thoughts and e
 
 So whenever you're doing these kinds of exercises, remember to always try and guage how you feel. Does the exercise make you feel frustrated? Do you think anything at all?
 
-{{< hr4 "If you skip this step, then you'll gain very little from these exercises because you won't be actively engaging your brain." >}}
+{{< hr3 "If you skip this step, then you'll gain very little from these exercises because you won't be actively engaging your brain." >}}
 
 And if you don't engage your brain, then you won't engage in physical changes that take place between your neural connections, and subscequently you won't be truly changing in the sense of conscious realisation.
 

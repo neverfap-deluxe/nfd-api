@@ -38,7 +38,7 @@ The word "understand" of course, meaning the conglomerate of knowledge you've ga
 Part of the reason why we want to break down your understanding of life and reality, is because what you currently "know" is largely counter-intuitive.
 
 
-{{< hr4 "You see, what you \"understand\" is part of the reason why you're addicted to porn." >}}
+{{< hr3 "You see, what you \"understand\" is part of the reason why you're addicted to porn." >}}
 
 
 What you currently "understand" is that you really want to watch porn.
@@ -58,7 +58,7 @@ For today's exercise, what we want to do is break down our visual understanding 
 Which is to say that we want to separate our thoughts and feelings from what we're actually seeing in front of us.
 
 
-{{< hr4 "As human beings, we tend to attach meaning and value to that which we can physically see." >}}
+{{< hr3 "As human beings, we tend to attach meaning and value to that which we can physically see." >}}
 
 
 It could be a trinket that belongs to your family which evokes emotions of pride and belonging.

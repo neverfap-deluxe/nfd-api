@@ -48,7 +48,7 @@ Now go out there and buy yourself a Golden Globe.
 You deserve it buddy, now that you fully understand exactly what you must achieve in life.
 
 
-{{< hr4 "If it weren't for the fact that lists like these are utterly meaningless." >}}
+{{< hr3 "If it weren't for the fact that lists like these are utterly meaningless." >}}
 
 
 Here's the deal.
@@ -93,7 +93,7 @@ Instead, I commit myself to respecting fundamental principles. I work hard to pr
 
 And you know the best thing about focusing on your actions?
 
-{{< hr4 "Everything just appears to work and come together, without you even having to worry about it." >}}
+{{< hr3 "Everything just appears to work and come together, without you even having to worry about it." >}}
 
 That is the magic of hard work and simplicity.
 

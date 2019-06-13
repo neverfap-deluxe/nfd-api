@@ -87,7 +87,7 @@ The reason why this is important is because becoming aware of our feelings is of
 Essentially, because most judgements produce some sort of feeling in some way, so there's usually a direct correlation between the two.
 
 
-{{< hr4 "Ultimately, this is an exercise of observation, and observation is the skill we're trying to develop." >}}
+{{< hr3 "Ultimately, this is an exercise of observation, and observation is the skill we're trying to develop." >}}
 
 
 We're not doing this to feel justified that we caught a judgement. (which funnily enough is a judgement within itself)
