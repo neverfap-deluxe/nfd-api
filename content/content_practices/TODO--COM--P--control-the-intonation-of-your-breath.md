@@ -19,9 +19,10 @@
 
 ---
 
+
 <!-- {{< hr2 "Context" >}} -->
 
-Mindfulness truly is a core concept we're trying to grasp as we practice these exercises, and this exercise is particularly well equiped to teach you these fundamentals in a meaningful way.
+Mindfulness truly is a core concept when it comes to what we're trying to develop with these exercises, and this exercise is particularly well equiped to teach you how it functions in a meaningful way.
 
 A lot of what mindfulness comes down to is learning how to use our minds in a conscious way, and so practicing this will help you develop this ability.
 
@@ -39,4 +40,5 @@ Ultimately, the exr
 {{< hr2 "Additional Resources" >}}  -->
 
 <!-- maybe link to other  -->
+
 
