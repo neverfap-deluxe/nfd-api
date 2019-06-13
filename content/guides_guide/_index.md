@@ -1,5 +1,6 @@
 ---
-  title: "The NeverFap Deluxe Guide"
+  title: "Guide"
+  # TODO: Meta? - The NeverFap Deluxe
   description: "NeverFap Deluxe Guide. Gain Control Over Your Porn Addiction With Our Series Of Articles And Practice Exercises."
   date: 2018-12-18
   draft: false

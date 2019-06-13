@@ -16,5 +16,3 @@ The second way you can donate is via Paypal, which is preferred if you'd like to
 Either way, I'm grateful that you've decided to pledge some money towards all the hard work that goes into making this a reality.
 
 It helps maintain NeverFap Deluxe as a largely free resource for everyone, regardless of age, gender, wealth or privilege.
-
-<!-- TODO: Actually put a link for the Donations button for paypal AND Patreon-->
