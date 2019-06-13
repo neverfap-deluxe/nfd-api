@@ -30,7 +30,7 @@ Personally speaking I do not think it's okay to orgasm if you have a porn addict
 Essentially, the reason why I don't orgasm is quite simple.
 
 
-{{< hr4 "The act of orgasming messes with your emotions." >}}
+{{< hr3 "The act of orgasming messes with your emotions." >}}
 
 
 At the end of the day, I don't particularly care about the philosophical, nor even the moral arguments behind watching porn, nor even abstaining from it. 
