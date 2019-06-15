@@ -7,7 +7,7 @@
   categories: [ "" ]
   slug: "premium"
 
-  pageId: "dcbf0522-0f02-4e19-a608-da99b160b0bb"
+  pageId: "447902fd-728d-4c47-aab6-2de20bbd22e1"
 
 ---
 
@@ -15,16 +15,33 @@ While we keep the core of our content free, NeverFap Deluxe offers a range of pa
 
 Certainly, I don't believe these offerings are strictly necessary from a knowledge point of view, however they're a great addition for those who'd like to explore my ideas further!
 
+It may help to note as well that these offerings can be accessed in two different ways. They can be bought stand-alone, or they can be  
+
+# Patron Tiers 
+
 ## The NeverFap Deluxe Bible
 
-The NeverFap Deluxe Bible is a compiled ebook. It doesn't present any new information that isn't already on the website itself, however it reads surprisingly well and is great for those who want
+The NeverFap Deluxe Bible is a ebook that I've decided to put together, which essentially compiles all the guides, articles and practices into a convenient epub format!  
+
+It doesn't present any information that isn't already on the website itself, however it reads surprisingly well and is great for those who want to experience NeverFap Deluxe in a different format. 
+
+Certainly, not essential. But a great way to support NeverFap Deluxe.
+
+
+(Patron Tiers )
+
 
 ## Awareness+
 
-## Schedule
+I've written a lot of different practices, however 
 
 
+## 10 Day Meditation Primer
 
-## Interested?
 
-There's a few different ways you can pay for these
+## 28 Day Awareness Challenge
+
+
+## Coaching 
+
+

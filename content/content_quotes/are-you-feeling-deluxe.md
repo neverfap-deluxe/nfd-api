@@ -10,7 +10,7 @@
 
   pageId: "92b408aa-83bf-434b-9816-0a3c50e60a35"
 
-  imageUrl: "https://neverfapdeluxe.netlify.com/quotes/are-you-feeling-deluxe.png"
+  imageUrl: "https://neverfapdeluxe.netlify.com/content_quotes/are-you-feeling-deluxe.png"
 ---
 
 Quotes r us.

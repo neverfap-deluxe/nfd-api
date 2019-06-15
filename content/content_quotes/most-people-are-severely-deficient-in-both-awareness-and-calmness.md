@@ -10,7 +10,7 @@
 
   pageId: "ebd1890f-d12d-44b7-b1ff-59630529d270"
 
-  imageUrl: "https://neverfapdeluxe.netlify.com/quotes/most-people-are-severely-deficient-in-both-awareness-and-calmness.png"
+  imageUrl: "https://neverfapdeluxe.netlify.com/content_quotes/most-people-are-severely-deficient-in-both-awareness-and-calmness.png"
 ---
 
 some random words to valdate or something.

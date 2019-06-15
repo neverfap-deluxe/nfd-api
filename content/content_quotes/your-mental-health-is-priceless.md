@@ -10,7 +10,7 @@
 
   pageId: "f48916ba-9121-4552-8cd8-bf21a3482627"
 
-  imageUrl: "https://neverfapdeluxe.netlify.com/quotes/your-mental-health-is-priceless.png"
+  imageUrl: "https://neverfapdeluxe.netlify.com/content_quotes/your-mental-health-is-priceless.png"
 ---
 
 some random words to valdate or something.

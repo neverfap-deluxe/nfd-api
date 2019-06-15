@@ -27,7 +27,7 @@ const generateTemplate = (title, slug, pageId, date) =>
 
   pageId: "${pageId}"
 
-  imageUrl: "https://neverfapdeluxe.netlify.com/quotes/${slug}.png"
+  imageUrl: "https://neverfapdeluxe.netlify.com/content_quotes/${slug}.png"
 ---
 
 some random words to valdate or something.

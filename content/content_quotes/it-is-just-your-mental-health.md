@@ -10,7 +10,7 @@
 
   pageId: "de1bb505-d97b-4bd8-a8c1-2817688bd2b7"
 
-  imageUrl: "https://neverfapdeluxe.netlify.com/quotes/it-is-just-your-mental-health.png"
+  imageUrl: "https://neverfapdeluxe.netlify.com/content_quotes/it-is-just-your-mental-health.png"
 ---
 
 some random words to valdate or something.

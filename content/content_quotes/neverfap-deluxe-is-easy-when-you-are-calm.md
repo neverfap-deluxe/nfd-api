@@ -10,7 +10,7 @@
 
   pageId: "07ded11c-b092-4a1b-ac1c-adf4d356920d"
 
-  imageUrl: "https://neverfapdeluxe.netlify.com/quotes/neverfap-deluxe-is-easy-when-you-are-calm.png"
+  imageUrl: "https://neverfapdeluxe.netlify.com/content_quotes/neverfap-deluxe-is-easy-when-you-are-calm.png"
 ---
 
 some random words to valdate or something.

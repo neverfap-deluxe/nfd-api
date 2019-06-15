@@ -10,7 +10,7 @@
 
   pageId: "268e00bf-8f87-4646-9b9b-7532e35cb7ed"
 
-  imageUrl: "https://neverfapdeluxe.netlify.com/quotes/meditation-is-so-much-cooler-in-japanese.png"
+  imageUrl: "https://neverfapdeluxe.netlify.com/content_quotes/meditation-is-so-much-cooler-in-japanese.png"
 ---
 
 some random words to valdate or something.

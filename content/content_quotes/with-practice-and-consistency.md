@@ -10,7 +10,7 @@
 
   pageId: "541181f8-90d0-458e-b4b6-849931d87efc"
 
-  imageUrl: "https://neverfapdeluxe.netlify.com/quotes/with-practice-and-consistency.png"
+  imageUrl: "https://neverfapdeluxe.netlify.com/content_quotes/with-practice-and-consistency.png"
 ---
 
 some random words to valdate or something.

@@ -10,7 +10,7 @@
 
   pageId: "b7e3b273-f3f9-4098-afff-334a2522258c"
 
-  imageUrl: "https://neverfapdeluxe.netlify.com/quotes/fucking-meditate-already.png"
+  imageUrl: "https://neverfapdeluxe.netlify.com/content_quotes/fucking-meditate-already.png"
 ---
 
 cake

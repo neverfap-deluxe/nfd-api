@@ -10,7 +10,7 @@
 
   pageId: "02844961-5369-4d5a-9201-c42ac67b0736"
 
-  imageUrl: "https://neverfapdeluxe.netlify.com/quotes/you-have-a-mental-health-problem.png"
+  imageUrl: "https://neverfapdeluxe.netlify.com/content_quotes/you-have-a-mental-health-problem.png"
 ---
 
 some random words to valdate or something.

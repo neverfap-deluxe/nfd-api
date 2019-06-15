@@ -10,7 +10,7 @@
 
   pageId: "9f5e796d-b9b8-4e8e-959d-a0cde7b5b55f"
 
-  imageUrl: "https://neverfapdeluxe.netlify.com/quotes/please-stop-fucking-around-and-just-meditate.png"
+  imageUrl: "https://neverfapdeluxe.netlify.com/content_quotes/please-stop-fucking-around-and-just-meditate.png"
 ---
 
 some random words to valdate or something.

@@ -10,7 +10,7 @@
 
   pageId: "C44545DA-DFA3-4528-B8F5-3464F60FB969"
 
-  imageUrl: "https://neverfapdeluxe.netlify.com/quotes/10-minutes-of-meditation-each-day.png"
+  imageUrl: "https://neverfapdeluxe.netlify.com/content_quotes/10-minutes-of-meditation-each-day.png"
 
 ---
 
