@@ -63,7 +63,7 @@ In addition, the NeverFap method of overcoming porn addiction has been built aro
 Which serve to help you not only gain a better understand yourself, but also cut through the denial of being a porn addict.
 
 
-{{< hr2 "Porn is not the problem" >}} 
+{{< hr3 "Porn is not the problem" >}} 
 
 
 Aside from the fact that NeverFap is a complete solution that aims to take you from porn addict to regular human being.

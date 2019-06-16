@@ -48,7 +48,7 @@ In part because observation should form the fundamental basis of everything you 
 From how you think to how you perceive the world around you.
 
 
-{{< hr2 "It's more-or-less the only exercise I personally do." >}}
+{{< hr3 "It's more-or-less the only exercise I personally do." >}}
 
 
 In part because I've already spent years doing all those other practices, and they're now less meaningful now that they're engrained into my head.
@@ -72,7 +72,7 @@ Just because doing it only for a day, won't teach us very much in terms of how c
 But of course, finding out what personally works for you is important as well.
 
 
-{{< hr2 "My Personal NeverFap Routine" >}}
+{{< hr3 "My Personal NeverFap Routine" >}}
 
 
 I have a very basic routine which works really well for me.

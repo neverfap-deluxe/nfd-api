@@ -53,7 +53,7 @@ Regardless of your interpretation, I'm here to tell you that thinking that you d
 That is correct.
 
 
-{{< hr2 "If you believe that you do not have enough time for your mental health then you have a mental disorder." >}}
+{{< hr3 "If you believe that you do not have enough time for your mental health then you have a mental disorder." >}}
 
 
 It's a mental disorder because it's a choice to willingly neglect one's mental health, due to habit and desire.
@@ -98,7 +98,7 @@ We end up feeling empty once the obsession wears off, inspite of all the time we
 Then we go and repeat the cycle again and again and again.
 
 
-{{< hr2 "And to be honest, it's a bit shit." >}}
+{{< hr3 "And to be honest, it's a bit shit." >}}
 
 
 I'm sure you think so too.
@@ -150,7 +150,7 @@ Which is to say that your achievements outside of mental health will never serve
 And when you do decide to work on your mental health, you may very well discover that everything you've pursued up until then has been utterly pointless.
 
 
-{{< hr2 "From this point of view, you have nothing to gain from neglecting your mental health." >}}
+{{< hr3 "From this point of view, you have nothing to gain from neglecting your mental health." >}}
 
 
 No matter what other benefits those other achievements may provide.

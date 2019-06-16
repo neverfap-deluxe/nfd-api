@@ -45,7 +45,7 @@ Certainly, I’ve been there.
 And only now in retrospect do I realise how I was making something like giving up porn addiction almost impossible due to my own negative attitudes towards self-care.
 
 
-{{< hr2 "In other words, if you’re struggling with your porn addiction it may be because you’re not paying your maintenance tax in full." >}}
+{{< hr3 "In other words, if you’re struggling with your porn addiction it may be because you’re not paying your maintenance tax in full." >}}
 
 
 In order to demonstrate this, I’m first going to talk about where I personally was making those compromises in my life.
@@ -83,7 +83,7 @@ Of course, you may have an opposite problem. You may not be motivated enough.
 Everyone is different in this regard, and NeverFap Deluxe is designed to help you figure out exactly where your weaknesses are.
 
 
-{{< hr2 "Change in attitude" >}}
+{{< hr3 "Change in attitude" >}}
 
 
 Embracing self-care requires a change in attitude. 

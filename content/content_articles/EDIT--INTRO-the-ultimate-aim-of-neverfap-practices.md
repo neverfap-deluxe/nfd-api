@@ -39,7 +39,7 @@ And the way we get you to do this is by practicing these healthy coping mechanis
 
 So that you can learn to relax and even accept those negative feelings and not take them personally.
 
-{{< hr2 "Encouraging self-discovery" >}}
+{{< hr3 "Encouraging self-discovery" >}}
 
 An important thing to note is that what we're truly embarking on is a process of self-discovery.
 

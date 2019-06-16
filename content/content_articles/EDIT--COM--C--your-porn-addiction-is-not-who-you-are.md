@@ -38,7 +38,7 @@ You know, because being attracted to other human beings is just one of those thi
 Which expresses itself into edging, claiming that porn is in fact 'art' and therefore okay in small doses, along a host of hilarious excuses that we can manage to come up with.
 
 
-{{< hr2 "I am here to tell you that this is purely your addiction trying to convince you otherwise." >}}
+{{< hr3 "I am here to tell you that this is purely your addiction trying to convince you otherwise." >}}
 
 
 From a mechanical perspective, porn addiction is really quite similar to porn recovery.
@@ -64,7 +64,7 @@ It's because you've managed to develop that ability.
 And once you realise this, no longer will you feel compelled to seek any sort of justification for your actions.
 
 
-{{< hr2 "You simply won't need to." >}}
+{{< hr3 "You simply won't need to." >}}
 
 
 Instead, you'll identify them for the excuses they are, and actually focus on actions which will meaningfully impact your porn addiction.

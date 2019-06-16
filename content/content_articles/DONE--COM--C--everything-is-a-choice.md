@@ -40,7 +40,7 @@ Because if you truly understood the power you currently have to change as an ind
 So let's consider this your formal re-education.
 
 
-{{< hr2 "What is choice?" >}}
+{{< hr3 "What is choice?" >}}
 
 
 It begs to state that everything in life is a choice.
@@ -66,7 +66,7 @@ You do have one choice which is so powerful that it effectively overrides every 
 In part, because it is the only choice you truly have control over.
 
 
-{{< hr2 "You get to choose how you want to respond." >}}
+{{< hr3 "You get to choose how you want to respond." >}}
 
 
 And it's a choice which overrides every other choice imaginable. 
@@ -116,7 +116,7 @@ We both have the exact same potential to respond on a low level with our thought
 Which is to say that if you responded in the same way that I did, then you also would not be a porn addict.
 
 
-{{< hr2 "Success and your actions" >}}
+{{< hr3 "Success and your actions" >}}
 
 
 The important thing to understand about success is that it doesn't happen at a high level.

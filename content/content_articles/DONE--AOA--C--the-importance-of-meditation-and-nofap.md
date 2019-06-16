@@ -38,7 +38,7 @@ Not to mention, most porn addicts have a hard time sticking to a routine of medi
 Which is why the other 99% of what's contained in NeverFap Deluxe exists, to help you understand why it's absolutely vital.
 
 
-{{< hr2 "Why meditation?" >}}
+{{< hr3 "Why meditation?" >}}
 
 
 Without diving too deep into the intricate details of how to meditate, nor necessarily what meditation actually is, let's start off by talking about what meditation effectively achieves. 
@@ -66,7 +66,7 @@ It may be that you never developed those healthy coping mechanisms growing up, a
 Certainly, this is the category that most people fit into.
 
 
-{{< hr2 "Meditation and Porn addiction" >}}
+{{< hr3 "Meditation and Porn addiction" >}}
 
 
 Overcoming porn addiction is actually a relatively straight-forward process.
@@ -108,7 +108,7 @@ So what exactly are some of the skills and practices of meditation?
 For starters, there's observation. 
 
 
-{{< hr2 "Observation is perhaps the most fundamental skill you can learn in regards to developing your awareness." >}}
+{{< hr3 "Observation is perhaps the most fundamental skill you can learn in regards to developing your awareness." >}}
 
 
 It is the skill we will focus on and develop most throughout the practices here on NeverFap Deluxe.
