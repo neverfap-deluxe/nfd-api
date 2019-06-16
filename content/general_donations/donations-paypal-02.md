@@ -11,8 +11,26 @@
 
 ---
 
-The second way you can donate is via Paypal, which is preferred if you'd like to make a once-off, no-fuss payment to The Reade &copy; and you already have a PayPal account.
+Although, my deceptively young grasshopper!
 
-Either way, I'm grateful that you've decided to pledge some money towards all the hard work that goes into making this a reality.
+Perhaps you're not acquainted with the quirky ways of Patreon!? 
 
-It helps maintain NeverFap Deluxe as a largely free resource for everyone, regardless of age, gender, wealth or privilege.
+Perhaps, you're untrusting of the Web 2.0 and all things post-2000s' Elon Musk. I mean, bro, what's the deal with cars that run on electricity!?
+
+
+{{< hr3 "The second way you can donate is via Paypal, which is preferred if you'd like to make a once-off, no-fuss payment to The Reade &copy; and you already have a PayPal account." >}}
+
+
+It's fast. It's simple. It's sexy.
+
+There really is nothing not to like about it, and I know for some folks, this is how they feel they can give back to NeverFap Deluxe. 
+
+The only downside is that you don't get any of the benefits of Patreon, and I would recommend first using this money to actually pay for the paid courses and guides on the website (assuming that they exist, as of when you're reading this)
+
+Regardless, your help is immensely appreciated and it's people like you who help keep NeverFap Deluxe alive.
+
+I'm grateful for all donations, both large and small, and the fact that someone out there has decided to reward all this hard work truly goes a long way towards helping me stay on-track with my goals. 
+
+I must now return to the drudge of writing code.
+
+**Yes, my precious.** 
