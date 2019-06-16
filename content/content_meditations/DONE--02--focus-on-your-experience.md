@@ -29,9 +29,11 @@ In this guided meditation we explore this idea of experience.
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
-My name is Julius Reade and today we are going to focus on what our mind is currently experiencing, right in this very moment.
+My name is Julius Reade and today we are going to focus on this idea of experience.
 
-So for this exercise, I want you to let go of your thoughts and worries, and feel relaxed.
+Specifically, what you are currently experiencing right now, in this very moment.
+
+So for this exercise, I want you to feel relaxed.
 
 Relaxed, within your body.
 
@@ -41,32 +43,42 @@ Preferably sitting in a comfortable position.
 
 I also want you to leave your eyes open, so you can remain as aware as possible.
 
-Essentially, what I want you to do for this exercise, is to observe what you, as an individual, is currently experiencing in this very moment.
+What I want you to do for this exercise, is to observe what you are currently experiencing in this very moment.
 
-You may want to observe the light that is currently making contact with your eyes.
 
-You may want to observe the sensations your body is currently feeling.
+
+You may want to experience the light your eyes see.
+
+You may want to experience the sensations your body currently feels.
 
 You may even want to focus your attention on the intonation of your breath.
 
 How you decide to observe your experience is entirely up to you.
 
 
-There is nothing to question. Nothing to think about.
+There is nothing to question. 
 
-All we are doing is observing your current experience.
+Nothing to think about.
+
+All we are doing is observing our current experience.
 
 
 
-So what exactly does it mean to experience something?
+So what exactly does it mean to experience?
 
-Are you currently experiencing something right now?
+Does experience require effort?
 
-Does experiencing require effort?
+Or is experience something something that always happens, regardless of our input?
 
-Are you struggling to experience life right in this very moment, or is that the experience itself?
+Are you struggling to experience life right now in this very moment?
 
-All things to consider about, while you practice gauging your experience.
+All things to consider about, while you practice this exercise.
+
+Take your time. 
+
+Observe your experience. 
+
+I'll give you a moment, to take this all in.
 
 
 
@@ -76,17 +88,13 @@ Just gently remind yourself of what we are trying to achieve here.
 
 Which is focus on what we are currently experiencing right now.
 
-Perhaps it's an emotional experience.
+We are not here to judge.
 
-Perhaps, it's a thoughtless, calm experience.
+Nor react to our thoughts or feelings.
 
-Perhaps your mind is actually racing, right now.
 
-If so, that's okay.
 
-We are not here to judge, or necessarily react to our experience.
-
-But instead, let's focus our attention back to our senses.
+But instead, let's focus our attention back to our experience.
 
 Remaining calm.
 
@@ -94,12 +102,19 @@ Without thought.
 
 Without expectation.
 
-And I’ll let you continue to do this within your own time.
+And I’ll let you continue to do this within your own space.
 
 
-If you find yourself wandering off again, that’s okay. Just gently remind yourself to continue observing.
 
-And continue to truly notice what your body is sensing.
+
+If you find yourself wandering off again, that’s okay. 
+
+Just gently remind yourself to continue observing your experience.
+
+Truly noticing what you're experiencing. 
+
+So you can be at one with yourself. 
+
 
 
 And that brings us to the end of today's session. Thank you for listening. I wish you best of luck with your day. This has been. The neverfap Deluxe Guided meditation series.

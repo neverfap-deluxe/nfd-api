@@ -7,7 +7,7 @@
   categories: [ "" ]
   slug: "premium"
 
-  pageId: "447902fd-728d-4c47-aab6-2de20bbd22e1"
+  pageId: "53943441-8c26-4c38-8d4f-fe298630389d"
 
 ---
 
@@ -18,6 +18,16 @@ Certainly, I don't believe these offerings are strictly necessary from a knowled
 It may help to note as well that these offerings can be accessed in two different ways. They can be bought stand-alone, or they can be  
 
 # Patron Tiers 
+
+## The Fluffer 
+
+## Serial Offender
+
+## Serial Offender
+
+
+
+
 
 ## The NeverFap Deluxe Bible
 
