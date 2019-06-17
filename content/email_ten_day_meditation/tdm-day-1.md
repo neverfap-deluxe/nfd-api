@@ -1,13 +1,13 @@
 ---
   day: 1
-  title: "Introduction"
+  title: "Meditation Best Practice"
   description: ""
-  date: 2019-03-22
+  date: 2019-03-23
   draft: true
   tags: [ "primer" ]
   categories: [ "primer" ]
 
-  slug: "introduction"
+  slug: "meditation-best-practice"
 
   pageId: "B04DE197-B3B3-4D5C-BC3A-F5EC61E726E6"
 

@@ -13,13 +13,8 @@
 
 ---
 
-# title.
+Hello, and welcome to the 10 Day Meditation Primer!
 
-yo
+This series has been designed to help those new to meditation, as well serve as a strong foundation for those wanting to learn more about meditation best practice.
 
----
-
-# Next steps.
-
-Over the coming days we will be exploring various high-level concepts such as calmness, awareness and meditation.
-
+Each day takes you through different ideas. 

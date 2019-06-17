@@ -1,15 +1,15 @@
 ---
-  day: 2
-  title: "Understanding The Purpose Of Meditation"
+  day: 3
+  title: "Developing Our Capacity For Awareness"
   description: ""
-  date: 2019-03-24
+  date: 2019-03-25
   draft: true
   tags: [ "primer" ]
   categories: [ "primer" ]
 
-  slug: "understanding-the-purpose-of-meditation"
+  slug: "developing-awareness"
 
-  pageId: "44C1FBF6-8285-47F0-AAC2-3EA4A9BD3508"
+  pageId: "AC6FEDCA-9AFA-417C-8925-0BE0802854E6"
 
 ---
 
@@ -24,3 +24,4 @@ Which is also to say, that balance is key to living a
 Meditation works, because it helps us train both our capacity for awareness, as well as our ability to remain calm.
 
 Which is essentially what balance is.
+
