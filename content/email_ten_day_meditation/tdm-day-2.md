@@ -3,7 +3,7 @@
   title: ""
   description: ""
   date: 2019-03-22
-  draft: false
+  draft: true
   tags: [ "primer" ]
   categories: [ "primer" ]
 
@@ -21,6 +21,6 @@ If I had to describe what meditation is designed to help us achieve; I would des
 
 Which is also to say, that balance is key to living a
 
-Meditation works, because it helps us train both our capacity for awareness, as well as our ability to remain calm. 
+Meditation works, because it helps us train both our capacity for awareness, as well as our ability to remain calm.
 
 Which is essentially what balance is.
