@@ -39,9 +39,6 @@ The NeverFap Deluxe Bible is a e-book that I've decided to put together, which e
 
 It reads surprisingly well, and is great for those who want to experience NeverFap Deluxe in a different format.
 
-<!-- ### Individual Pricing
-
-NeverFap Deluxe Bible  -->
 
 ## Swallow Me Timbers - $15
 
