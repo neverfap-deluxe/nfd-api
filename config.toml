@@ -7,6 +7,8 @@ enableRobotsTXT = true
 canonifyURLs = true
 googleAnalytics = "UA-132863786-1"
 
+ignoreFiles = [ "\\.notes$" ]
+
 [taxonomies]
   category = "categories"
   tag = "tags"

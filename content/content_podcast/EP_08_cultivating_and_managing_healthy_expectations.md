@@ -1,6 +1,6 @@
 ---
   title: "EP8 - Cultivating And Managing Healthy Expectations"
-  description: "NeverFap Deluxe Podcast. "
+  description: "NeverFap Deluxe Podcast. In this episode I talk about how we can manage and ultimately dissolve our expectations in a healthy way."
   date: 2019-06-16
   draft: false
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
@@ -18,3 +18,5 @@
 ---
 
 In this episode explore how we can manage and ultimately dissolve our expectations in a healthy way.
+
+
