@@ -15,6 +15,12 @@
 
 Hello and welcome to the NeverFap Deluxe 10 day meditation primer.
 
-My name is Julius Reade, and on day two, we are going to continue exploring this idea of being calm, and at one with ourselves.
+My name is Julius Reade, and on day two, we are going to continue exploring this idea of being calm, as well as better understand how meditation is designed to help us.
 
+If I had to describe what meditation is designed to help us achieve; I would describe it as a practice that helps remain balanced.
 
+Which is also to say, that balance is key to living a
+
+Meditation works, because it helps us train both our capacity for awareness, as well as our ability to remain calm. 
+
+Which is essentially what balance is.
