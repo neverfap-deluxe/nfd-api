@@ -1,6 +1,6 @@
 ---
   day: 0
-  title: "Introduction"
+  title: "The Introduction"
   description: "A brief introduction into the series, as well as what to expect over the coming days."
   date: 2019-03-22
   draft: false
