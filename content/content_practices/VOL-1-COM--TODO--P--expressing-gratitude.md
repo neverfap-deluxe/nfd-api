@@ -1,12 +1,11 @@
 ---
   title: "Expressing Gratitude"
   description: "By learning to express gratitude we can learn to develop a more positive attitude towards life."
-  date: 2019-07-01
+  date: 2019-07-13
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
   category: "Choice over mind"
-
   
   slug: "expressing-gratitude"
 

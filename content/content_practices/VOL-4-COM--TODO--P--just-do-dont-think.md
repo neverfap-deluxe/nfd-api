@@ -1,7 +1,7 @@
 ---
   title: "Just Do Don't Think"
   description: ""
-  date: 2019-08-28
+  date: 2019-12-28
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]

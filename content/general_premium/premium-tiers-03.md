@@ -53,8 +53,6 @@ In addition to what you receive from The Fluffer, Serial Offender, Compulsive Tu
 
 You gain a one-time face-to-face 20 minute consultation, where we talk about strategy, as well as a face-to-face 1 x 10 minute catch up once a month.
 
-This can be super useful if you're in need for some personal advice or help.
-
 
 ## Peter Reade (my actual father) - $50
 

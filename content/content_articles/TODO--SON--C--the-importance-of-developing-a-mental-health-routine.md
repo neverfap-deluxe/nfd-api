@@ -1,7 +1,7 @@
 ---
   title: "The Importance Of Developing A Mental Health Routine"
   description: "."
-  date: 2019-09-01
+  date: 2019-12-24
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]

@@ -1,7 +1,7 @@
 ---
   title: "Why We Struggle"
   description: "By identifying how we struggle, we can better understand the dynamics with which we think about the problems in our life."
-  date: 2019-07-28
+  date: 2019-11-28
   draft: true
   tags: [ "context", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
