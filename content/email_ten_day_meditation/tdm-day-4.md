@@ -1,5 +1,5 @@
 ---
-  day: 3
+  day: 4
   title: "Developing Our Capacity For Awareness"
   description: ""
   date: 2019-03-25
@@ -15,10 +15,7 @@
 
 Hello and welcome to the NeverFap Deluxe 10 day meditation primer.
 
-My name is Julius Reade, and on day two, we are going to continue exploring this idea of awareness.
-
-
-being calm, as well as better understand how meditation is designed to help us.
+My name is Julius Reade, and on day two, we are going to continue exploring this idea of being calm, as well as better understand how meditation is designed to help us.
 
 If I had to describe what meditation is designed to help us achieve; I would describe it as a practice that helps remain balanced.
 

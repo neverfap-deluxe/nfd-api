@@ -1,14 +1,14 @@
 ---
-  day: 0
-  title: "Introduction"
+  day: 7
+  title: "Focus Your Attention"
   description: "7 Week Awareness Challenge Vol 4."
-  date: 2019-03-15
+  date: 2019-03-22
   draft: true
   tags: [ "challenge-vol-4" ]
   categories: [ "challenge-vol-4" ]
 
-  slug: "introduction"
+  slug: "focus-your-attention"
 
-  pageId: "38ABC39E-CC01-4EAE-9A4E-0345FD84789F"
+  pageId: "23A4C5FE-C634-4413-992B-75160CF2476B"
 
 ---

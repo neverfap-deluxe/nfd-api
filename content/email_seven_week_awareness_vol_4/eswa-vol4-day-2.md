@@ -1,14 +1,15 @@
 ---
-  day: 0
-  title: "Introduction"
+  day: 2
+  title: "Just Do Don't Think"
   description: "7 Week Awareness Challenge Vol 4."
-  date: 2019-03-15
+  date: 2019-03-17
   draft: true
   tags: [ "challenge-vol-4" ]
   categories: [ "challenge-vol-4" ]
 
-  slug: "introduction"
+  slug: "just-do-dont-think"
 
-  pageId: "38ABC39E-CC01-4EAE-9A4E-0345FD84789F"
+  pageId: "2721C209-A5AD-49BB-A6C9-2AC4B8CB824F"
 
 ---
+

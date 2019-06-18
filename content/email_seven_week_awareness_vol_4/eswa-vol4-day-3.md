@@ -1,14 +1,15 @@
 ---
-  day: 0
-  title: "Introduction"
+  day: 3
+  title: "Fighting Spirit"
   description: "7 Week Awareness Challenge Vol 4."
-  date: 2019-03-15
+  date: 2019-03-18
   draft: true
   tags: [ "challenge-vol-4" ]
   categories: [ "challenge-vol-4" ]
 
-  slug: "introduction"
+  slug: "fighting-spirit"
 
-  pageId: "38ABC39E-CC01-4EAE-9A4E-0345FD84789F"
+  pageId: "B8D600FC-1EAF-4772-89CA-9617035D9FEF"
 
 ---
+
