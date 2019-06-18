@@ -1,21 +1,18 @@
 ---
-  day: 0
-  title: "Introduction"
+  day: 3
+  title: "Relax Everything"
   description: "7 Week Awareness Challenge Vol 1."
-  date: 2019-03-15
-  draft: false
+  date: 2019-03-18
+  draft: true
   tags: [ "challenge" ]
   categories: [ "challenge" ]
 
-  slug: "introduction"
+  slug: "relax-everything"
 
-  pageId: "E2EBB298-4FB1-44BB-9C24-0224AD4B933A"
+  pageId: "3D6EF26C-5318-4283-894C-0112B56E12B8"
 
 ---
 
-expressing gratitude - Awareness/Observation
-focus on your finger and your background - Focus/Attention
-Relax everything - Awareness/Observation
 slow down time - Focus/Attention
 identify points of awareness throughout the day - Awareness/Observation
 can you look through walls? - Focus/Attention

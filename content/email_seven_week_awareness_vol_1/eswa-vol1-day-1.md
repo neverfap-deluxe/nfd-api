@@ -1,19 +1,18 @@
 ---
-  day: 0
-  title: "Introduction"
+  day: 1
+  title: "Expressing Gratitude"
   description: "7 Week Awareness Challenge Vol 1."
-  date: 2019-03-15
+  date: 2019-03-16
   draft: false
   tags: [ "challenge" ]
   categories: [ "challenge" ]
 
-  slug: "introduction"
+  slug: "expressing-gratitude"
 
-  pageId: "E2EBB298-4FB1-44BB-9C24-0224AD4B933A"
+  pageId: "65387FEC-6EE5-4854-BCB4-91EF4E6FA46B"
 
 ---
 
-expressing gratitude - Awareness/Observation
 focus on your finger and your background - Focus/Attention
 Relax everything - Awareness/Observation
 slow down time - Focus/Attention

@@ -16,3 +16,10 @@ Hello reader!
 
 My name is Julius and I'm the creator of the NeverFap Deluxe and the 7 Week Awareness Series!
 
+where do you touch
+use your opposite hand
+identifying the feeling of obligation
+slow spinning circle
+who is looking?
+engaging expression
+object attachment

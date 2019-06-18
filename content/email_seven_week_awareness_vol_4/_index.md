@@ -16,3 +16,11 @@ Hello reader!
 
 My name is Julius and I'm the creator of the NeverFap Deluxe and the 7 Week Awareness Series!
 
+
+annoy yourself
+just do dont think
+fighting spirit
+catching the odd judge out
+control the intonation of your breath
+every 30 minutes
+focus your attention

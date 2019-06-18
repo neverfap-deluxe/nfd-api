@@ -1,17 +1,19 @@
 ---
-  day: 0
-  title: "Introduction"
+  day: 5
+  title: "Stop Absolutely Everything You're Doing"
   description: "7 Week Awareness Challenge Vol 2."
-  date: 2019-03-15
-  draft: false
+  date: 2019-03-20
+  draft: true
   tags: [ "challenge" ]
   categories: [ "challenge" ]
 
-  slug: "introduction"
+  slug: "stop-absolutely-everything-you-are-doing"
 
-  pageId: "6F8BAC4F-500E-4E80-AB17-F7F7B50B5311"
+  pageId: "1AADCF36-430E-4BFA-8CE1-2AA57BEDD884"
 
 ---
+
+
 
 take note of the colour yellow - awareness/observation
 dissolve your visual field - awareness/observation
@@ -20,3 +22,4 @@ what can your hand do - awareness/observation
 stop abolutely everything you are doing - focus/attention
 developing routine - awareness/observation
 blind attention - focus/observation
+

@@ -1,0 +1,19 @@
+---
+  day: 4
+  title: "Slow Down Time"
+  description: "7 Week Awareness Challenge Vol 1."
+  date: 2019-03-19
+  draft: true
+  tags: [ "challenge" ]
+  categories: [ "challenge" ]
+
+  slug: "slow-down-time"
+
+  pageId: "3D6EF26C-5318-4283-894C-0112B56E12B8"
+
+---
+
+identify points of awareness throughout the day - Awareness/Observation
+can you look through walls? - Focus/Attention
+looking straight ahead - Focus/Attention
+
