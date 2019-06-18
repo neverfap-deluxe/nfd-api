@@ -1,14 +1,15 @@
 ---
-  day: 0
-  title: "Introduction"
+  day: 1
+  title: "Annoy Yourself"
   description: "7 Week Awareness Challenge Vol 4."
-  date: 2019-03-15
+  date: 2019-03-16
   draft: true
   tags: [ "challenge-vol-4" ]
   categories: [ "challenge-vol-4" ]
 
-  slug: "introduction"
+  slug: "annoy-yourself"
 
-  pageId: "38ABC39E-CC01-4EAE-9A4E-0345FD84789F"
+  pageId: "D010B5AA-9B22-4033-90D1-6ADBAF51EE92"
 
 ---
+

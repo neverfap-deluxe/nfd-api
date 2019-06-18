@@ -1,14 +1,15 @@
 ---
-  day: 0
-  title: "Introduction"
+  day: 4
+  title: "Every 30 Minutes"
   description: "7 Week Awareness Challenge Vol 4."
-  date: 2019-03-15
+  date: 2019-03-19
   draft: true
   tags: [ "challenge-vol-4" ]
   categories: [ "challenge-vol-4" ]
 
-  slug: "introduction"
+  slug: "every-30-minutes"
 
-  pageId: "38ABC39E-CC01-4EAE-9A4E-0345FD84789F"
+  pageId: "F0D8D896-729C-4581-A756-27D31A39E79C"
 
 ---
+
