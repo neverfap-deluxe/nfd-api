@@ -13,6 +13,15 @@
 
 ---
 
+## Day 4 - Embracing Calmness
+
+Welcome to Day 4 of the 10 Day Meditation Primer.
+
+In today's meditation we will be focusing on
+
+
+## Script
+
 Hello and welcome to the NeverFap Deluxe 10 day meditation primer.
 
 My name is Julius Reade, and on day two, we are going to continue exploring this idea of being calm, as well as better understand how meditation is designed to help us.

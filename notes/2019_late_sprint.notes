@@ -1,51 +1,47 @@
 ## Content - Strategy
-  - Come up with weekly meditation strategy until December
-
 ## Content - Boiler
-  - Come up with weekly meditation boiler
-  - Come up with 10 day meditation primer meditation boiler
-
-## Content - Scripting
+## Content - Write
   - Write all articles.
   - Write all practices.
   - Write all meditations.
   - Write all podcasts.
-  - Write all 10 day meditation primer 
+    - 18/06/2019 - wrote scattered high-level content
+  - Write all 10 day meditation primer
     - 18/06/2019 - tdm-day-0 DONE
   - Write all seven week awareness strategy - vol 1.
   - Write all seven week awareness strategy - vol 2.
   - Write all seven week awareness strategy - vol 3.
   - Write all seven week awareness strategy - vol 4.
 
-## Content - Production 
-  - Produce all Meditations
-  - Produce all Podcasts
-  - Produce all 10 day meditation primer
-  - Produce all seven week awareness strategy - vol 1.
-  - Produce all seven week awareness strategy - vol 2.
-  - Produce all seven week awareness strategy - vol 3.
-  - Produce all seven week awareness strategy - vol 4.
+## Content - Record/Edit
+  - Record/Edit all meditations
+  - Record/Edit all podcasts
+  - Record/Edit all 10 day meditation primer
+  - Record/Edit all seven week awareness strategy - vol 1.
+  - Record/Edit all seven week awareness strategy - vol 2.
+  - Record/Edit all seven week awareness strategy - vol 3.
+  - Record/Edit all seven week awareness strategy - vol 4.
 
-## Marketing 
+## Marketing
   - Build UI into Practices Pages to advertise these courses.
   - Build UI into Meditations Page to advertise these courses.
   - Come up with pages for these paid resources
   - Come up with designs for paid content
+  - Seven week awareness strategy banner
+  - 10 day meditation primer banner
 
 ## Infrastructure
   - Build Paypal/Stripe into backend.
   - Build subscription system so it doesn’t have to be daily. Instead, it can be weekly, or at certain intervals. Maybe via an array of days, so to speak, and when it sends what.
   - Create suitable email templates for subscription series.
   - Figure out e-Book options for all these resources
-  - Figure out how to ration these courses, so users can’t sign up to too many different ones. 
+  - Figure out how to ration these courses, so users can’t sign up to too many different ones.
   - Add validation to email subscription to see if they have paid for the subscription before modifying matrix. - yes, very smart and makes sense.
-
 
 
 # DONE
 
-
-## Content - Strategy
+## Content - Strategy - 19/06/19 - DONE
   - 17/06/19 - Come up with articles strategy
   - 17/06/19 - Come up with practices strategy
   - 17/06/19 - Come up with podcast strategy
@@ -54,25 +50,28 @@
   - 18/06/19 - Come up with seven week awareness strategy - vol 3.
   - 18/06/19 - Come up with seven week awareness strategy - vol 4.
   - 18/06/19 - Come up with 10 day meditation primer meditation strategy
+  - 19/06/19 - Come up with weekly meditation strategy until December
 
-## Content - Boiler
+## Content - Boiler - 19/06/19 - DONE
   - 17/06/19 - Come up with articles boiler
   - 17/06/19 - Come up with practices boiler
   - 18/06/19 - Come up with seven week awareness boiler - vol 1.
   - 18/06/19 - Come up with seven week awareness boiler - vol 2.
   - 18/06/19 - Come up with seven week awareness boiler - vol 3.
   - 18/06/19 - Come up with seven week awareness boiler - vol 4.
-  - 18-19/06/2018 - Come up with podcast boiler
-  - 
-## Content - Scripting
+  - 18-19/06/2019 - Come up with podcast boiler
+  - 19/06/19 - Come up with weekly meditation boiler
+  - 19/06/19 - Come up with 10 day meditation primer meditation boiler
 
+## Content - Write
 
-## Content - Production 
+## Content - Record/Edit
 
+## Content - Production
 
-## Marketing 
-
-
+## Marketing
 
 ## Infrastructure
   - 18/06/19 - Fix seven_day_kickstarter generator
+  - 18/06/19 - Sorted out all the email templates/pages for all the content - web app
+  - 18/06/19 - Sorted out all the email templates/pages for all the content - web api
