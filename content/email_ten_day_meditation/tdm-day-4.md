@@ -1,15 +1,15 @@
 ---
   day: 4
-  title: "Developing Our Capacity For Awareness"
+  title: "Embracing Calmness"
   description: ""
-  date: 2019-03-25
+  date: 2019-03-26
   draft: true
   tags: [ "primer" ]
   categories: [ "primer" ]
 
-  slug: "developing-awareness"
+  slug: "embracing-calmness"
 
-  pageId: "AC6FEDCA-9AFA-417C-8925-0BE0802854E6"
+  pageId: "82D7FCE5-DA46-440C-B206-082BD49E292E"
 
 ---
 

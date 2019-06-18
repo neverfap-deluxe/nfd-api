@@ -1,13 +1,13 @@
 ---
   day: 1
-  title: "Meditation Best Practice"
+  title: "Meditation Basics"
   description: ""
   date: 2019-03-23
   draft: true
   tags: [ "primer" ]
   categories: [ "primer" ]
 
-  slug: "meditation-best-practice"
+  slug: "meditation-basics"
 
   pageId: "B04DE197-B3B3-4D5C-BC3A-F5EC61E726E6"
 
