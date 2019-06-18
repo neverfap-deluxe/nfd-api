@@ -6,7 +6,7 @@
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]
-  
+
   slug: "the-calmness"
 
   pageId: "8AED0855-67A3-4448-9A90-EBE3096F906B"
@@ -71,7 +71,7 @@ Of course, much like awareness, calmness is also a skill which takes time and pr
 However, once you do become comfortable with learning to remain calm, it will become invaluable to your mental health strategy.
 
 
----
+888
 
 
 ## Next steps.

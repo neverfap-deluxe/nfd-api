@@ -6,7 +6,7 @@
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]
-  
+
   slug: "the-trust"
 
   pageId: "843fa5f8-5a9d-422f-bcec-753bd50921b4"
@@ -79,7 +79,7 @@ Usually within a matter of months.
 You have been informed.
 
 
----
+888
 
 
 ## Next steps.

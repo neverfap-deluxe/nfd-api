@@ -6,7 +6,7 @@
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]
-  
+
   slug: "the-awareness"
 
   pageId: "418A1E4E-25A1-47BB-9A88-709E5E380941"
@@ -89,7 +89,7 @@ It is your capacity for conscious action and your core mechanism for maintaining
 It will be key to your success.
 
 
----
+888
 
 ## Next steps.
 
