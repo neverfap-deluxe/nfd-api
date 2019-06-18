@@ -6,7 +6,7 @@
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]
-  
+
   slug: "the-consistency"
 
   pageId: "C64998D9-7D0D-4E28-A82A-B144E8091725"
@@ -67,7 +67,7 @@ And the quicker we can realise the significance of maintaining our mental health
 Of course, only you can make this happen. I can merely provide you with the guide to help move you forward.
 
 
----
+888
 
 
 ## Next steps.

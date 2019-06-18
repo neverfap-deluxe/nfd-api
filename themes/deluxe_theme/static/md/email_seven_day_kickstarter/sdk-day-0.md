@@ -6,7 +6,7 @@
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]
-  
+
   slug: "introduction"
 
   pageId: "843fa5f8-5a9d-422f-bcec-753bd50921b4"
@@ -26,7 +26,7 @@ Certainly, with the right guidance it can be achieved with a much greater level 
 
 So thank you for letting me take you on this journey, and together we can beat this thing for good.
 
----
+888
 
 ## Next steps.
 

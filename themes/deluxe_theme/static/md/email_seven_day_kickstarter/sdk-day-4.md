@@ -6,7 +6,7 @@
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]
-  
+
   slug: "the-meditation"
 
   pageId: "2F13FDD6-237D-4FDE-8C60-5ECCE021BE4B"
@@ -126,7 +126,7 @@ If you'd like to explore this topic further, I've written a few articles which e
 I hope you've gained a better understanding of meditation, as well as why it's important.
 
 
----
+888
 
 
 ## Next steps.
