@@ -19,4 +19,14 @@
 
 In this episode I talk about the cycle of guilt and shame we can fall into during the porn addiction recovery process.
 
+# Script
 
+- In this episode I talk about the cycle of guilt and shame we can find ouselves into
+  - I don't know a single Both Guilt 
+
+
+- Where does the guilt come from? 
+  
+
+- The key thing to understand about guilt is that we create it. 
+  

@@ -19,4 +19,15 @@
 
 In this episode I talk about self-limiting beliefs, how to identify them, as well as dissolve them from our lives.
 
+# Script
+
+- In this episode I talk about beliefs, in particular self-limiting beliefs.
+  - What are self-limiting beliefs?
+  - How do we develop self-limiting beliefs?
+
+
+- What are self-limiting beliefs?
+
+- How are self-limiting beliefs developed?
+  - Often, from our parents and peers.
 
