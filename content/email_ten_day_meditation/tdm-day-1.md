@@ -13,7 +13,14 @@
 
 ---
 
+## Day 1 - Meditation Basics 
 
+Welcome to Day 1 of the 10 Day Meditation Primer.
+
+In today's meditation we will be focusing on the basics of meditation, with the intention of easing you into the feeling of meditation, which you may not yet be familiar with.
+
+
+## Script
 
 Hello and welcome to the NeverFap Deluxe 10 day meditation primer.
 
