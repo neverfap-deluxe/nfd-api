@@ -15,10 +15,10 @@
 My name is Julius and I'm the creator of the NeverFap Deluxe and the 7 Week Awareness Series!
 
 
-expressing gratitude - Awareness/Observation
-focus on your finger and your background - Focus/Attention
-Relax everything - Awareness/Observation
-slow down time - Focus/Attention
-identify points of awareness throughout the day - Awareness/Observation
-can you look through walls? - Focus/Attention
-looking straight ahead - Focus/Attention
+Expressing Gratitude
+Focus On Your Finger And Your Background
+Relax Everything
+Slow Down Time
+Identify Points Of Awareness Throughout The Day
+Can You Look Through Walls?
+Looking Straight Ahead

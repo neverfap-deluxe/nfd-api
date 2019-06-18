@@ -1,6 +1,6 @@
 ---
   day: 2
-  title: "Just Do Don't Think"
+  title: "Just Do, Don't Think"
   description: "7 Week Awareness Challenge Vol 4."
   date: 2019-03-17
   draft: true
