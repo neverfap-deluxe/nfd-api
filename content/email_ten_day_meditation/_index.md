@@ -16,3 +16,15 @@ Hello reader!
 
 My name is Julius and I'm the creator of the NeverFap Deluxe and the 10 Day Meditation Primer!
 
+
+1 - Meditation Basics
+2 - Understanding The Purpose Of Meditation
+3 - Developing Our Capacity For Awareness
+4 - Embracing Calmness
+5 - Observing What You See 
+6 - Observing What You Hear
+7 - Observing What You Feel 
+8 - Feeling Empowered
+9 - Acknowledgement
+10 - Acceptance
+

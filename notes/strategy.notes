@@ -1,29 +1,11 @@
-
-## Infrastructure
-  - Build Paypal/Stripe into backend.
-  - Build subscription system so it doesn’t have to be daily. Instead, it can be weekly, or at certain intervals. Maybe via an array of days, so to speak, and when it sends what.
-  - Create suitable email templates for subscription series.
-  - Fix seven_day_kickstarter generator
-  - Figure out e-Book options for all these resources
-  - Figure out how to ration these courses, so users can’t sign up to too many different ones. 
-  - Add validation to email subscription to see if they have paid for the subscription before modifying matrix. - yes, very smart and makes sense.
-
 ## Content - Strategy
-  - Come up with weekly meditation strategy till December
+  - Come up with weekly meditation strategy until December
   - Come up with 10 day meditation primer meditation strategy
-  - Come up with seven week awareness strategy - vol 1.
-  - Come up with seven week awareness strategy - vol 2.
-  - Come up with seven week awareness strategy - vol 3.
-  - Come up with seven week awareness strategy - vol 4.
 
 ## Content - Boiler
-  - Come up with podcast meditation boiler
+  - Come up with podcast boiler
   - Come up with weekly meditation boiler
   - Come up with 10 day meditation primer meditation boiler
-  - Come up with seven week awareness boiler - vol 1.
-  - Come up with seven week awareness boiler - vol 2.
-  - Come up with seven week awareness boiler - vol 3.
-  - Come up with seven week awareness boiler - vol 4.
 
 ## Content - Scripting
   - Write all articles.
@@ -45,28 +27,41 @@
   - Produce all seven week awareness strategy - vol 3.
   - Produce all seven week awareness strategy - vol 4.
 
-
 ## Marketing 
   - Build UI into Practices Pages to advertise these courses.
   - Build UI into Meditations Page to advertise these courses.
   - Come up with pages for these paid resources
   - Come up with designs for paid content
 
+## Infrastructure
+  - Build Paypal/Stripe into backend.
+  - Build subscription system so it doesn’t have to be daily. Instead, it can be weekly, or at certain intervals. Maybe via an array of days, so to speak, and when it sends what.
+  - Create suitable email templates for subscription series.
+  - Figure out e-Book options for all these resources
+  - Figure out how to ration these courses, so users can’t sign up to too many different ones. 
+  - Add validation to email subscription to see if they have paid for the subscription before modifying matrix. - yes, very smart and makes sense.
+
 
 
 # DONE
 
-## Infrastructure
-
 
 ## Content - Strategy
-  - Come up with articles strategy
-  - Come up with practices strategy
-  - Come up with podcast strategy
+  - 17/06/19 - Come up with articles strategy
+  - 17/06/19 - Come up with practices strategy
+  - 17/06/19 - Come up with podcast strategy
+  - 18/06/19 - Come up with seven week awareness strategy - vol 1.
+  - 18/06/19 - Come up with seven week awareness strategy - vol 2.
+  - 18/06/19 - Come up with seven week awareness strategy - vol 3.
+  - 18/06/19 - Come up with seven week awareness strategy - vol 4.
 
 ## Content - Boiler
-  - Come up with articles boiler
-  - Come up with practices boiler
+  - 17/06/19 - Come up with articles boiler
+  - 17/06/19 - Come up with practices boiler
+  - 18/06/19 - Come up with seven week awareness boiler - vol 1.
+  - 18/06/19 - Come up with seven week awareness boiler - vol 2.
+  - 18/06/19 - Come up with seven week awareness boiler - vol 3.
+  - 18/06/19 - Come up with seven week awareness boiler - vol 4.
 
 ## Content - Scripting
 
@@ -75,3 +70,8 @@
 
 
 ## Marketing 
+
+
+
+## Infrastructure
+  - 18/06/19 - Fix seven_day_kickstarter generator
