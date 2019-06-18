@@ -21,9 +21,19 @@ In this episode I talk about the cycle of guilt and shame we can fall into durin
 
 # Script
 
+- Welcome to the NeverFap Deluxe podcast. 
+  - My name is Julius Reade. 
+  - So you might be wondering, what is this podcast about? Well, let me tell you, young stranger! it’s a podcast about overcoming porn addiction *
+  - I also run a website called NeverFap Deluxe which aims to help people suffering from Porn addiction.
+  - In addition, I also run a Discord channel where I run an accountability program to help porn addicts like yourself, get advice and information, as well as commit to daily awareness and meditation practices.
+  - I also run a subreddit. 
+  - If you’d like to support the podcast, feel free to visit my Patreon (The easiest thing is if you just Google NeverFap Deluxe into Google)
+
 - In this episode I talk about the cycle of guilt and shame we can find ouselves into
   - I don't know a single Both Guilt 
 
+- Mental health update
+  - 
 
 - Where does the guilt come from? 
   

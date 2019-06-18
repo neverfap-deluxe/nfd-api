@@ -1,13 +1,13 @@
 ---
-  title: "EP3 - Focus On Being Relaxed"
-  description: "NeverFap Deluxe Guided Meditation Series."
+  title: "EP1 - Free Guided Meditation Series"
+  description: "NeverFap Deluxe Guided Meditation Series. This is episode 1 of the free guided meditation series"
   date: 2019-06-16
   draft: false
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
   category: "Meditation"
 
-  slug: "focus-on-being-relaxed"
+  slug: "ep-1-free-guided-meditation-series"
 
   mp3Url: "https://s3.castbox.fm/13/7d/7c/c21bb14be1ac34728ec1b93e95.mp3"
 
@@ -17,6 +17,8 @@
   pageId: "483d4bdb-638c-44b3-a981-a96711b1779c"
 
 ---
+
+<!-- relaxation -->
 
 In this guided meditation we explore relaxation as a primary topic.
 

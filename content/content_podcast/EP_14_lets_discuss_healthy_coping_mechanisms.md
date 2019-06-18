@@ -20,6 +20,7 @@
 In this episode I talk about Healthy Coping Mechanisms, what they are and why they are vital to developing control.
 
 
+# Script 
 
 1. Introduction
 
@@ -31,11 +32,12 @@ In this episode I talk about Healthy Coping Mechanisms, what they are and why th
     - I also have a subreddit. r/NeverFapDeluxe. It’s a great place to post nudes and hook up with desperate guys who can’t stop watching porn. 
     - If you’d like to support the podcast, feel free to visit my Patreon (The easiest thing is if you just Google NeverFap Deluxe into Google)
 
-- Today I wanted to talk about routine. 
-    - In particular, what you can fill that routine with. In other words, I want to talk about healthy coping mechanisms.
+- Today I wanted to talk about healthy coping mechanisms. 
     - We’re going to cover everything, from exercise, to diet, to mental health strategies, to relationships, to literally everything. 
     - Largely, drawing from my own life.
 
+- Mental health update
+  - 
 
 - Talk about Unhealthy Coping Mechanisms - What makes them unhealthy? What are some common unhealthy coping mechanisms?
 
@@ -44,7 +46,7 @@ In this episode I talk about Healthy Coping Mechanisms, what they are and why th
 - Fundamentally, what is a healthy coping mechanism?
 
 
-2. Career
+1. Career
 
 - Firstly we’re going to talk about career. 
     - I don’t care how old you are,

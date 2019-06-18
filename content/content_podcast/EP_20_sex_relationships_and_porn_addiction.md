@@ -21,13 +21,21 @@ In this episode I talk about sex, relationships and how porn addiction can affec
 
 # Script
 
+- Welcome to the NeverFap Deluxe podcast. 
+  - My name is Julius Reade. 
+  - So you might be wondering, what is this podcast about? Well, let me tell you, young stranger! it’s a podcast about overcoming porn addiction *
+  - I also run a website called NeverFap Deluxe which aims to help people suffering from Porn addiction.
+  - In addition, I also run a Discord channel where I run an accountability program to help porn addicts like yourself, get advice and information, as well as commit to daily awareness and meditation practices.
+  - I also run a subreddit. 
+  - If you’d like to support the podcast, feel free to visit my Patreon (The easiest thing is if you just Google NeverFap Deluxe into Google)
+
 - In today's show, we're going to talk about sex and relationships!
   - We're going to talk about how porn addictions affects sex? Things like erectile dysfunction.
   - How porn addiction affects relationships, and how it changes something like our perception of our partners, both on a mental and physical level.
   - And that's really key and what I want to discuss today - porn and perception, and how porn changes that on a very fundamental level. 
 
 - Mental health update
-
+  - 
 
 - Is porn addiction the reason why you struggle with sex? 
   - Maybe. It really is an individual thing. *

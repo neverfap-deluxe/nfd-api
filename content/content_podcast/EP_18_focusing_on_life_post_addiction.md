@@ -22,8 +22,19 @@ In this episode I talk about what you can expect once you overcome your porn add
 
 # Script
 
+- Welcome to the NeverFap Deluxe podcast. 
+  - My name is Julius Reade. 
+  - So you might be wondering, what is this podcast about? Well, let me tell you, young stranger! it’s a podcast about overcoming porn addiction *
+  - I also run a website called NeverFap Deluxe which aims to help people suffering from Porn addiction.
+  - In addition, I also run a Discord channel where I run an accountability program to help porn addicts like yourself, get advice and information, as well as commit to daily awareness and meditation practices.
+  - I also run a subreddit. 
+  - If you’d like to support the podcast, feel free to visit my Patreon (The easiest thing is if you just Google NeverFap Deluxe into Google)
+
 - In today's episode we'll be talking life post-addiction
   - You know, what it's like to be free of addiction
+
+- Mental health update
+  - 
 
 - A good question to begin with, am I fully recovered from porn addiction? 
   - Well, once you truly come to understand porn addiction recovery, you realise it's a silly question. 

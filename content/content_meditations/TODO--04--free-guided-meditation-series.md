@@ -1,14 +1,14 @@
 ---
-  title: "EP7 - What Is Beauty?"
+  title: "EP4 - Free Guided Meditation Series"
   description: "NeverFap Deluxe Guided Meditation Series."
-  date: 2019-07-05
+  date: 2019-07-06
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
   category: "Meditation"
 
   
-  slug: "what-is-beauty"
+  slug: "ep-4-free-guided-meditation-series"
 
   mp3Url: ""
 
@@ -19,6 +19,28 @@
 
 ---
 
+
+<!-- relaxed -->
+
+Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
+
+My name is Julius Reade and today we are going to be
+
+
+If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with ourselves.
+
+
+If you find yourself wandering off again, that’s okay. Just gently remind yourself to 
+
+
+If you find yourself getting distracted during this exercise, that's okay. Just gently remind yourself, to 
+
+
+And that brings us to the end of this session. Thank you for listening. I wish you best of luck with your day. This has been the NeverFap Deluxe Guided meditation series.
+
+
+
+<!-- 
 Hello, and welcome to the NeverFap Deluxe Meditation series.
 
 My name is Julius Reade and today I will be guiding you through the wonderful world of awareness.
@@ -64,4 +86,4 @@ So that's what I want you to do, is to feel beautiful. To embrace that feeling a
 Like all feelings, it really does just come down to practice.
 
 The more you practice feeling anything, the better you will become at experiencing it and producing that feeling.
-
+ -->

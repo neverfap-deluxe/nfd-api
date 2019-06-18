@@ -19,7 +19,15 @@
 
 In this episode I talk about The Five Fundamental Principles of NeverFap Deluxe and how they can help you ovecome porn addiction.
 
+# Script
 
+- Welcome to the NeverFap Deluxe podcast. 
+  - My name is Julius Reade. 
+  - So you might be wondering, what is this podcast about? Well, let me tell you, young stranger! it’s a podcast about overcoming porn addiction *
+  - I also run a website called NeverFap Deluxe which aims to help people suffering from Porn addiction.
+  - In addition, I also run a Discord channel where I run an accountability program to help porn addicts like yourself, get advice and information, as well as commit to daily awareness and meditation practices.
+  - I also run a subreddit. 
+  - If you’d like to support the podcast, feel free to visit my Patreon (The easiest thing is if you just Google NeverFap Deluxe into Google)
 
 - In today’s episode we’re going to be talking about the five fundamental principles of NeverFap Deluxe
   - The interesting thing is that when I first started NeverFap Deluxe, I actually built it around these five principles in mind. In fact, that was going to be the whole schtick of NeverFap Deluxe. You follow the principles, you cum into a jar, you’re golden! 
@@ -28,6 +36,8 @@ In this episode I talk about The Five Fundamental Principles of NeverFap Deluxe 
   - But with that said, those principles are super important - so they’re making a comeback, baby! 
   - So yeah, today we’re going to cover each principle in-depth. And, I’m sure I’ve already referenced them to some degree, so not all these concepts will be new to you, but they’re super important so it can help to have a bit of a refresher into them!
 
+- Mental health update
+  - 
 
 - So what do the five principles help you achieve? Well, they essentially help you achieve balance. The reason why I created them is because people overcomplicate porn addiction recovery. So I was like, let’s make it simple again. Let’s be like, “okay, I’m really struggling, but that’s okay, because I have these principles which can help guide me through it all. 
   - Another important question to ask is, what makes a principle fundamental? 

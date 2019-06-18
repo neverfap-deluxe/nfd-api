@@ -20,8 +20,15 @@
 In this episode I talk about the value of practice and consistency in helping us develop healthy habits in life.
 
 
+# Script
 
-The Foundations Of Practice And Consistency
+- Welcome to the NeverFap Deluxe podcast. 
+  - My name is Julius Reade. 
+  - So you might be wondering, what is this podcast about? Well, let me tell you, young stranger! it’s a podcast about overcoming porn addiction *
+  - I also run a website called NeverFap Deluxe which aims to help people suffering from Porn addiction.
+  - In addition, I also run a Discord channel where I run an accountability program to help porn addicts like yourself, get advice and information, as well as commit to daily awareness and meditation practices.
+  - I also run a subreddit. 
+  - If you’d like to support the podcast, feel free to visit my Patreon (The easiest thing is if you just Google NeverFap Deluxe into Google)
 
 - In today's episode we're going to be talking about the foundations of practice and consistency.
     - Obviously, how we can get into a routine of consistent practice, you know, doing things like meditation, remaining calm and aware, E T BLOODY C. Obviously, meaning etcetera.
@@ -30,9 +37,7 @@ The Foundations Of Practice And Consistency
 
 - Until then however, let's approach this week's mental health update.
     - I have some sad news everyone, however it turns out that I have prostate cancer, LOL JKS, it's actually AIDS, LOL JKS, it's actually back to cancer ....aaaaand I apologise if you have either of those things, although obviously I'm The Reade, it's what I do. You know, what's he gonna do next!?
-    - But yes, it's been a great two weeks! Things have been... I guess maturing for me. NeverFap Deluxe is no longer becoming a challenge for me anymore. It's sort of like, I'm so used to it and I have so many processes down, that it's really not a huge deal anymore.
-    - Put simply, I'm familiar with the process, I know what to expect and yeah, it's hard in a way because it's also about learning to grow out of that because you're so used to literally doing the same thing every day, you can kind of be stuck in that mindset and not realise there are other ideas out there.
-    - With that said, I feel like I'm in a good position.
+    - 
 
 
 - So, onto the main course. You starving carivore. Well, here's the meat of the episode for you to chunk into.

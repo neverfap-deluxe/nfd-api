@@ -19,9 +19,7 @@
 
 In this episode I talk about how we can pursue effective meditation in our daily lives. 
 
-
-
-EP09 - What Is Effective Meditation?
+# Script
 
 - Welcome to the NeverFap Deluxe podcast. 
   - My name is Julius Reade. 
@@ -35,6 +33,9 @@ EP09 - What Is Effective Meditation?
   - Man, and it’s going to be a big one. 
   - I mean, if you thought the empire state building was big, you ain’t seen nothin’ yet buddy. 
   - We’re going to talk about why it’s important 
+
+- Mental health upate
+  -
 
 - It’s kind of funny because I haven’t actually talked about these things yet, I’m just hyping it up. 
 

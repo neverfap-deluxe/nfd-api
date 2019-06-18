@@ -1,81 +1,82 @@
 ---
-  title: "EP8 - Invisible Line"
-  description: "NeverFap Deluxe Guided Meditation Series. Invisible Line"
-  date: 2019-07-12
+  title: "EP1 - Observe Your Senses"
+  description: "NeverFap Deluxe Guided Meditation Series. Observe Your Senses"
+  date: 2019-06-01
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
   category: "Meditation"
 
-  
-  slug: "invisible-line"
-  
-  mp3Url: ""
 
-  podcastUrl: ""
-  podcastPlayer: ""
-  pageId: "dbfe5872-568c-4c1a-90ae-c51baf0add10"
+  slug: "observe-what-you-see"
+
+  mp3Url: "https://s3.castbox.fm/61/6f/59/95055247d0b6fe18ccc053aaec.mp3"
+
+  podcastUrl: "https://castbox.fm/episode/id2113294-id160447956?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_160447956&utm_content=EP1%20-%20Observe%20What%20You%20See-CastBox_FM"
+
+  podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2113294/id160447956?v=8.0.190531&autoplay=0' frameborder='0' width='100%' height='300'></iframe>"
+
+  pageId: "0c341fc6-e723-4284-815b-3f3af4c1d221"
 
 ---
 
-Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
+In this guided meditation we explore observation as a concept to help us to learn to develop control over our thoughts.
 
-My name is Julius Reade and today we are going to focus on the cloud of sensation that is your own conscious experience.
+<!--
+Neverfap meditate
 
-So for this exercise I want you to bring yourself to a relaxed state.
+Helllo, and welcome to the NeverFap Deluxe Guided Meditation series.
 
-Preferably sitting in a comfortable position.
+My name is Julius Reade and today we are going to keep it simple.
 
-And for this exercise I want you to leave your eyes open, so you can remain as aware as possible.
+In part, because meditation is one of the most simple things you can do as a human being.
 
-Essentially, what I want you to do, is to observe all things which your body is currently sensing.
+So for this exercise I want you to get relaxed, preferably sitting in a comfortable position. and I want you to leave your eyes open for this exercise.
 
-In other words, I want you to observe the cloud of sensation which you are currently experiencing.
+Essentially, what I want you to do, without moving your eyes, or searching, is to observe what is in front of you right now.
 
-You may want to observe the light that is currently making contact with your eyes.
+There is nothing to question. Nothing to think about. All we are doing is observing what is in front of us.
 
-You may want to observe the sensations you are currently feeling on your skin.
+What do you see?
 
-Perhaps, you may even want to focus your attention on the temperature of your body.
+You know, an interesting thing that happens when I ask that question.
 
+What usually happens is that people will start thinking about what’s in front of them.
 
+They’ll start trying to identify that which they are looking at.
 
-There is nothing to question. Nothing to think about. All we are doing is observing what our body is currently sensing.
+Without realising that observation doesn’t require thought.
 
+Your eyes are already seeing and observing.
 
+They are already sensing your surroundings, regardless of what your mind thinks.
 
-If you are having difficulty observing your senses, then it most likely means you are instead preoccupied with thinking.
+Which is to say that what we want to focus on is that sensing, rather than that thinking aspect we’re so used to.
 
-An important thing to note about sensing, is that it's completely seperate from the process of thinking.
-
-When you're thinking, it means you're not engaged with your senses.
-
-Which is to say that it is incredibly difficult to both think and sense at the same time.
-
-Our focus for this exercise is to develop our skill of observation.
-
-Because it is a skill many of us have not spent time developing.
-
-Especially if you are the kind of person who tends to over-think and has difficulty remaining calm and focused.
-
-So let's focus our attention back to our senses.
-
-Remaining calm.
+So with that said, simply observe what’s in front of you.
 
 Without thought.
 
 Without expectation.
 
-And I’ll let you do this on your own for a few minutes.
+And I’ll let you do this for a few minutes.
 
 
 If you find your mind wandering off during this exercise, then just gently remind yourself to continue observing.
 
-Observing what your body is feeling.
+Of course, you may not be used to observing.
 
+Instead, you may be used to thinking.
 
+They’re quite different concepts.
 
+But that’s okay, because the skill we’re developing is an important skill.
 
+Which will allow you to quiet your mind.
+
+Gain control over your thoughts.
+
+And simply exist with the present moment.
 
 Calm.
 
@@ -88,6 +89,7 @@ If you find your mind wandering off again, that’s okay. Just gently remind you
 To continue to truly notice what is in front of you.
 
 And that brings us to the end of this session. Thank you for listening. I wish you best of luck with your day. This has been. The neverfap Deluxe Guided meditation series.
+ -->
 
 
 <!-- Welcome to the NeverFap Deluxe Meditation series.
@@ -152,3 +154,54 @@ Well, that brings us to the end of today's session. If you enjoyed this meditati
 Regardless, I hope you have a wonderful rest of the day.
 
 Stay safe. Stay calm and don't forget to relax.  -->
+
+
+
+
+
+
+<!-- SOME LEFT OVER MATERIAL FOR CLOUD OF SENSATION -->
+
+<!--
+
+An interesting thing to think about, is where these sensations may be coming from.
+
+Is there a single source where these feelings originate?
+
+Is it possible to feel multiple senses at the same time?
+
+Personally speaking, it helps me to visualise my own feelings as a cloud of sensation.
+
+Which is to say that there is no seperate body or mind, so-to-speak.
+
+Instead, there is merely a cloud of sensation from which I am experiencing myself.
+
+Just an interesting take on this exercise,something to think about, as you practice this exercise. -->
+
+
+<!--
+If you are having difficulty observing your senses, then perhaps you're struggling with this concept of observation.
+
+An important thing to note about observation, is that it's the opposite to thinking.
+
+Because when you are thinking, it means you're not engaged with your senses.
+
+Which in other words, is to say that it is impossible to effectively think and sense at the same time.
+
+Of course, the purpose of this exercise is to develop our skills of observation.
+
+Because it is a skill many of us have not spent time developing.
+
+Especially if you are the kind of person who tends to over-think and has difficulty remaining calm and focused. -->
+
+
+
+<!--
+If you find your mind wandering off during this exercise, then just gently remind yourself to continue observing.
+
+Observe what your body is feeling and sensing.
+
+Observe the calmness you may be feeling.
+
+Observe the sensations interacting with your mind.
+ -->

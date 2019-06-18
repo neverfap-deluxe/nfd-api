@@ -1,14 +1,13 @@
 ---
-  title: "EP3 - Leave Your Eyes Open"
+  title: "EP6 - Free Guided Meditation Series"
   description: "NeverFap Deluxe Guided Meditation Series."
-  date: 2019-06-08
+  date: 2019-07-20
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
   category: "Meditation"
 
-  
-  slug: "leave-your-eyes-open"
+  slug: "ep-6-free-guided-meditation-series"
 
   mp3Url: ""
 
@@ -18,6 +17,28 @@
   pageId: "0251954e-56e1-405e-a866-39949e5a705a"
 
 ---
+
+<!-- senses -->
+
+Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
+
+My name is Julius Reade and today we are going to be
+
+
+If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with ourselves.
+
+
+If you find yourself wandering off again, that’s okay. Just gently remind yourself to 
+
+
+If you find yourself getting distracted during this exercise, that's okay. Just gently remind yourself, to 
+
+
+And that brings us to the end of this session. Thank you for listening. I wish you best of luck with your day. This has been the NeverFap Deluxe Guided meditation series.
+
+
+
+<!-- 
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
@@ -92,4 +113,4 @@ If you find your mind wandering off again, that’s okay. Just gently remind you
 
 And that brings us to the end of this session. Thank you for listening. I wish you best of luck with your day. This has been. The neverfap Deluxe Guided meditation series.
 
-
+ -->

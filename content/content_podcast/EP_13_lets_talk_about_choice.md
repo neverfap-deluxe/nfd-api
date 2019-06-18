@@ -20,13 +20,24 @@
 In this episode I talk about choice, what it means, how you can exercise it and all things decision.
 
 
+# Script 
 
+- Welcome to the NeverFap Deluxe podcast. 
+  - My name is Julius Reade. 
+  - So you might be wondering, what is this podcast about? Well, let me tell you, young stranger! it’s a podcast about overcoming porn addiction *
+  - I also run a website called NeverFap Deluxe which aims to help people suffering from Porn addiction.
+  - In addition, I also run a Discord channel where I run an accountability program to help porn addicts like yourself, get advice and information, as well as commit to daily awareness and meditation practices.
+  - I also run a subreddit. 
+  - If you’d like to support the podcast, feel free to visit my Patreon (The easiest thing is if you just Google NeverFap Deluxe into Google)
 
 - In today's podcast we're going to be talking about this concept of choice? Why, Choice, Mr. Reade? *Dun dun dun*
     - Because it's a huge point of confusion and in particular, doubt. Like, do I lose all my progress when I relapse?
     - In most cases, people just don't know what they even have choice over. So I hope to answer literally every single question you may have in regards to this. 
     - So really, what today's 
     - And it relates back to this idea of "Choice over mind" which is one of the five fundamental principles of NeverFap Deluxe. 
+
+- Mental health update
+  - 
 
 - Firstly, what choice do you have over your porn addiction? Well, really you have two choices, and I can almost guarantee that you most likely have the wrong idea as to what is actually preferred. I mean unless if you've reading the website like a good boy, and girl, or boy, or girl, or boy, or girl, or boy ...or girl aaaaand that never gets old.
 

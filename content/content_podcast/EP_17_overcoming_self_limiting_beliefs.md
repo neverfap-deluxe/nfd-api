@@ -22,13 +22,21 @@ In this episode I talk about masturbation and orgasm and whether these things ar
 
 # Script
 
+- Welcome to the NeverFap Deluxe podcast. 
+  - My name is Julius Reade. 
+  - So you might be wondering, what is this podcast about? Well, let me tell you, young stranger! it’s a podcast about overcoming porn addiction *
+  - I also run a website called NeverFap Deluxe which aims to help people suffering from Porn addiction.
+  - In addition, I also run a Discord channel where I run an accountability program to help porn addicts like yourself, get advice and information, as well as commit to daily awareness and meditation practices.
+  - I also run a subreddit. 
+  - If you’d like to support the podcast, feel free to visit my Patreon (The easiest thing is if you just Google NeverFap Deluxe into Google)
+
 - In today's episode I thought I'd talk more about masturbation and orgasm, and how those things affect our porn addiction?
   - Is it okay to masturbate and orgasm? *
   - Is it normal to mastrubate and orgasm? I mean, it's what our bodies are designed to do? *
   - Ultimately, what I hope to do with this show is to change the narrative in regards to how we think about masturbation and orgasm, because currently it seems people have an overly positive or overly negative P.O.V #trigger, so let's have a meaningful discussion about that.
 
 - Mental health update
-
+  - 
 
 - So, is masturbation healthy?
   - I get a lot of people telling me it's normal/healthy, but it's a lot more intricate than that.
