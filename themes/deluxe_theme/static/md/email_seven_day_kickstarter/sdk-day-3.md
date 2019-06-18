@@ -2,7 +2,7 @@
   day: 3
   title: "The Calmness"
   description: "Understand how calmness makes you deadly effective in your day-to-day life."
-  date: 2019-03-22
+  date: 2019-03-25
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]
@@ -71,7 +71,7 @@ Of course, much like awareness, calmness is also a skill which takes time and pr
 However, once you do become comfortable with learning to remain calm, it will become invaluable to your mental health strategy.
 
 
-888
+---
 
 
 ## Next steps.

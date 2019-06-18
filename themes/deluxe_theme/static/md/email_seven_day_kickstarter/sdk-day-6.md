@@ -2,7 +2,7 @@
   day: 6
   title: "The Consistency"
   description: "Develop an appreciation for consistency and learn to respect consistent practice."
-  date: 2019-03-22
+  date: 2019-03-28
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]
@@ -67,7 +67,7 @@ And the quicker we can realise the significance of maintaining our mental health
 Of course, only you can make this happen. I can merely provide you with the guide to help move you forward.
 
 
-888
+---
 
 
 ## Next steps.

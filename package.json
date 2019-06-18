@@ -4,11 +4,15 @@
   "description": "NeverFap Deluxe API",
   "main": "index.js",
   "scripts": {
-    "start": "npm run cp_kickstarter && npm run cp_primer && npm run cp_challenge && hugo server -DF",
+    "start": "npm run cp_kickstarter && npm run cp_primer && npm run cp_challenge && npm run cp_challenge_vol_1 && npm run cp_challenge_vol_2 && npm run cp_challenge_vol_3 && npm run cp_challenge_vol_4 && hugo server -DF",
 
     "cp_kickstarter": "rsync -r content/email_seven_day_kickstarter themes/deluxe_theme/static/md",
     "cp_primer": "rsync -r content/email_ten_day_meditation themes/deluxe_theme/static/md",
     "cp_challenge": "rsync -r content/email_twenty_eight_day_awareness themes/deluxe_theme/static/md",
+    "cp_challenge_vol_1": "rsync -r content/email_seven_week_awareness_vol_1 themes/deluxe_theme/static/md",
+    "cp_challenge_vol_2": "rsync -r content/email_seven_week_awareness_vol_2 themes/deluxe_theme/static/md",
+    "cp_challenge_vol_3": "rsync -r content/email_seven_week_awareness_vol_3 themes/deluxe_theme/static/md",
+    "cp_challenge_vol_4": "rsync -r content/email_seven_week_awareness_vol_4 themes/deluxe_theme/static/md",
 
     "bible": "npm run bible-md && npm run bible-pub",
     "bible-md": "node ./util/generateBible.js",

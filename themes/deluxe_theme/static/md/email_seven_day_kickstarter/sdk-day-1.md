@@ -2,7 +2,7 @@
   day: 1
   title: "The Trust"
   description: "Learn about why it's important to trust the process, as well as the consequences if you don't."
-  date: 2019-03-22
+  date: 2019-03-23
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]
@@ -14,7 +14,7 @@
 ---
 
 
-### Welcome to the trust.
+## Welcome to the trust.
 
 Before we begin exploring some of these high-level concepts.
 
@@ -79,7 +79,7 @@ Usually within a matter of months.
 You have been informed.
 
 
-888
+---
 
 
 ## Next steps.

@@ -1,6 +1,6 @@
 ---
   day: 0
-  title: "Introduction"
+  title: "The Introduction"
   description: "A brief introduction into the series, as well as what to expect over the coming days."
   date: 2019-03-22
   draft: false
@@ -26,7 +26,7 @@ Certainly, with the right guidance it can be achieved with a much greater level 
 
 So thank you for letting me take you on this journey, and together we can beat this thing for good.
 
-888
+---
 
 ## Next steps.
 

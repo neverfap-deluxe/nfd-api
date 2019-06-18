@@ -2,7 +2,7 @@
   day: 2
   title: "The Awareness"
   description: "Understand the importance of awareness as your power for conscious action."
-  date: 2019-03-22
+  date: 2019-03-24
   draft: false
   tags: [ "kickstarter" ]
   categories: [ "kickstarter" ]
@@ -89,7 +89,7 @@ It is your capacity for conscious action and your core mechanism for maintaining
 It will be key to your success.
 
 
-888
+---
 
 ## Next steps.
 
