@@ -23,7 +23,15 @@
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
-My name is Julius Reade and today we are going to be
+My name is Julius Reade and today we are going to be paying attention to our breath. 
+
+In particular, I want you to notice the intonation of your breath. 
+
+When you breathe in.
+
+And when you breathe out. 
+
+And I want you to pay attention to the rhythm that you create, as you breathe in, and out. 
 
 
 If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with ourselves.

@@ -35,7 +35,17 @@ In this episode I talk about the cycle of guilt and shame we can fall into durin
 - Mental health update
   - 
 
+- What is guilt?
+  - Guilt is defined as a deep feeling of remorse for an act which may or may not have occurred in the past.
+  - In large part, because we feel as if we've done something wrong, that we deeply regret. (list examples *)
+  - In the context of porn addiction, it essentially comes from watching porn (*)
+  - Why we feel guilt is for a wide number of reasons
+    - For example, because we know it's a form of self-harm *
+    - Because we know on some level it's bad for society and the people involved *
+    - Because of the self-judgement we feel, for being unable to change *
+
 - Where does the guilt come from? 
+  - 
   
 
 - The key thing to understand about guilt is that we create it. 
