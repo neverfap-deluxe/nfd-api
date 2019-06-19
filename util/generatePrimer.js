@@ -1,12 +1,13 @@
 const {
-  primer_folder
+  primer_folder,
+  stringFromArray,
 } = require('./util');
 
 const generatePrimer = async () => {
   const [
     primerIndex,
     primerChildren,
-  ] = await Promise.all([ 
+  ] = await Promise.all([
     generatePage(primer_folder),
     generatePageChildren(primer_folder),
   ]);
@@ -16,10 +17,7 @@ const generatePrimer = async () => {
     primerChildren.string,
   ];
 
-  let final_string = '';
-  for (const final_string_section of website_content_array) {
-    final_string += final_string_section;
-  }
+  const final_string = stringFromArray(website_content_array);
 
   fse.outputFileSync(`ebook/primer/primer.md`, final_string);
 };

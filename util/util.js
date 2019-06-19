@@ -3,6 +3,14 @@ const fs = require('fs');
 const TurndownService = require('turndown')
 const turndownService = new TurndownService()
 
+const stringFromArray = (website_content_array) => {
+  let final_string = '';
+  for (const final_string_section of website_content_array) {
+    final_string += final_string_section;
+  }
+  return final_string;
+}
+
 // TODO replace the links within the md file to sections within the ebook itself.
 const filterContent = (content) => (
   content
@@ -28,11 +36,11 @@ const getHead = (fileContents) => {
     const rawWithHTMLContent = fileContents.split('---')[2];
     const rawWithMDContent = turndownService.turndown(rawWithHTMLContent);
     const content = filterContent(rawWithMDContent);
-  
+
     return {
       head,
       content,
-    }  
+    }
 }
 
 const extractHeadContents = (headContents) => {
@@ -67,7 +75,7 @@ const extractData = (file_contents, file_name, type) => {
           new_list_item,
           new_string_item: `# ${title}\n${content}\n\n\n`, // \n${date}
         }
-        
+
       case "page_children":
         return {
           new_list_item,
@@ -77,7 +85,7 @@ const extractData = (file_contents, file_name, type) => {
             `\n${content}\n\n`
           )
         }
-  
+
       case "content":
         return {
           new_list_item,
@@ -101,7 +109,7 @@ const generatePage = async (folder) => {
       const { new_list_item, new_string_item } = extractData(file_contents, '_index.md', 'page');
       new_list.push(new_list_item);
       new_string += new_string_item;
-    }  
+    }
     return {
       list: new_list,
       string: new_string,
@@ -153,6 +161,7 @@ const generateContent = async (folder) => {
 }
 
 module.exports = {
+  stringFromArray,
   generatePage,
   generateContent,
   generatePageChildren,

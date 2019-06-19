@@ -35,6 +35,11 @@
     "challenge-pub": "pandoc ./ebook/challenge/challenge.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/challenge/challenge-metadata.yaml -o ./ebook/challenge/challenge.epub -f markdown -t epub",
     "challenge-pdf": "pandoc ./ebook/challenge/challenge.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/challenge/challenge-metadata.yaml -o ./ebook/challenge/challenge.pdf",
 
+    "vol-1": "npm run vol-1-md && npm run vol-1-pub",
+    "vol-1-md": "node ./util/generateVol1.js",
+    "vol-1-pub": "pandoc ./ebook/vol-1/vol-1.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-1/vol-1-metadata.yaml -o ./ebook/vol-1/vol-1.epub -f markdown -t epub",
+    "vol-1-pdf": "pandoc ./ebook/vol-1/vol-1.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-1/vol-1-metadata.yaml -o ./ebook/vol-1/vol-1.pdf",
+
     "generate-quotes": "node ./util/transformQuoteToMD.js"
   },
   "repository": {

@@ -41,10 +41,12 @@ const {
   // contact_folder,
 } = require('./const');
 
-const { 
+const {
   generatePage,
   generateContent,
-  generatePageChildren } = require('./util');
+  generatePageChildren,
+  stringFromArray,
+} = require('./util');
 
 const generateBible = async () => {
 
@@ -64,7 +66,7 @@ const generateBible = async () => {
     disclaimer,
     privacy,
     terms_and_conditions,
-  ] = await Promise.all([ 
+  ] = await Promise.all([
     // INTRO
     generatePageChildren(about_folder),
 
@@ -100,10 +102,7 @@ const generateBible = async () => {
     // terms_and_conditions.string,
   ];
 
-  let final_string = '';
-  for (const final_string_section of website_content_array) {
-    final_string += final_string_section;
-  }
+  const final_string = stringFromArray(website_content_array);
 
   fse.outputFileSync(`ebook/bible/bible.md`, final_string);
 };

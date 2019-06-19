@@ -1,5 +1,6 @@
 const {
-  kickstarter_folder
+  kickstarter_folder,
+  stringFromArray,
 } = require('./const');
 
 const {
@@ -21,10 +22,7 @@ const generateKickstarter = async () => {
     kickstarterChildren.string,
   ];
 
-  let final_string = '';
-  for (const final_string_section of website_content_array) {
-    final_string += final_string_section;
-  }
+  const final_string = stringFromArray(website_content_array);
 
   fse.outputFileSync(`ebook/kickstarter/kickstarter.md`, final_string);
 };
