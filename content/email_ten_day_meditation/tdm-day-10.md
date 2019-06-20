@@ -15,4 +15,4 @@
 
 Hello and welcome to the NeverFap Deluxe 10 day meditation primer.
 
-My name is Julius Reade, and on day two, w
+My name is Julius Reade, and on day ten, we will be focusing on this idea of acceptance.

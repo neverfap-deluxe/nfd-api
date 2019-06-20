@@ -7,7 +7,7 @@
   tags: [ "primer" ]
   categories: [ "primer" ]
 
-  slug: "developing-awareness"
+  slug: "developing-our-capacity-for-awareness"
 
   pageId: "AC6FEDCA-9AFA-417C-8925-0BE0802854E6"
 

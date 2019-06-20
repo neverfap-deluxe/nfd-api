@@ -13,24 +13,11 @@
 
 ---
 
-## Week 1 
+## Week 1 - Expressing Gratitude
 
-You have gained access to the week one audio of the 7 Week Awareness Challenge Vol 1.
+Welcome to Week 1 of the 7 Week Awareness Challenge Vol 1.
 
-Please login to your NeverFap Deluxe account to gain access to the audio, or visit 
+This week we are going to be focusing our attention
 
-
-
- the please login to NeverFap Deluxe to gain access to the website.
-
-
-
-
-
-focus on your finger and your background - Focus/Attention
-Relax everything - Awareness/Observation
-slow down time - Focus/Attention
-identify points of awareness throughout the day - Awareness/Observation
-can you look through walls? - Focus/Attention
-looking straight ahead - Focus/Attention
+## Script
 
