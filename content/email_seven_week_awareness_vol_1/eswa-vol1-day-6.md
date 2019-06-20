@@ -3,7 +3,7 @@
   title: "Can You Look Through Walls?"
   description: "7 Week Awareness Challenge Vol 1."
   date: 2019-03-21
-  draft: true
+  draft: false
   tags: [ "challenge" ]
   categories: [ "challenge" ]
 

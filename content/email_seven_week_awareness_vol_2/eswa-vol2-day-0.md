@@ -3,7 +3,7 @@
   title: "Introduction"
   description: "7 Week Awareness Challenge Vol 2."
   date: 2019-03-15
-  draft: true
+  draft: false
   tags: [ "challenge" ]
   categories: [ "challenge" ]
 

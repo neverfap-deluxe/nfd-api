@@ -6,7 +6,7 @@
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
   category: "Choice over mind"
-
+  vol: 1
   
   slug: "focus-on-your-finger-and-your-background"
 

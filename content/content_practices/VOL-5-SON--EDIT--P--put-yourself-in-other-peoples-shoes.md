@@ -6,7 +6,7 @@
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
   category: "Struggle over none"
-
+  vol: 5
   
   slug: "put-yourself-in-other-peoples-shoes"
   

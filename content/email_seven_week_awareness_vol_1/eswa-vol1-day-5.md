@@ -3,7 +3,7 @@
   title: "Identify Points Of Awareness Throughout The Day"
   description: "7 Week Awareness Challenge Vol 1."
   date: 2019-03-20
-  draft: true
+  draft: false
   tags: [ "challenge" ]
   categories: [ "challenge" ]
 

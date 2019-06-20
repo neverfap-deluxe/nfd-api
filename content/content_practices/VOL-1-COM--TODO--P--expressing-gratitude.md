@@ -6,6 +6,7 @@
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
   category: "Choice over mind"
+  vol: 1
   
   slug: "expressing-gratitude"
 
@@ -22,7 +23,7 @@ This is the first exercise that I ever started with when I began my mental healt
 
 What I love about this exercise is that it always ends up flooring people in terms of the impact it can have in terms of helping them better understand the power of their own conscious awareness.
 
-Not to mention, it's just a great mindset to think about and apply in general.
+Not to mention, it's just a great mindset to understand in general.
 
 Although, before I get into the nitty-gritty of how this exercise works, I would like put in a disclaimer: 
 
@@ -30,15 +31,17 @@ Although, before I get into the nitty-gritty of how this exercise works, I would
 {{< hr3 "This exercise is highly abusable." >}}
 
 
-In fact, I'm yet to see anyone not actually abuse this exercise, but at the same time I also recognise that this abuse is likely inevitably for most.
+In fact, I'm yet to see anyone not actually abuse this exercise, but at the same time, this really is no different to any other exercise on NeverFap Deluxe.
 
 What I essentially mean to say that most people end up using this exercise in an unhealthy way, where they end up feeling and embracing gratitude to a point of delusion.
 
-To a point where it's no longer gratitude, and simply feelings of mania under the guise of gratitude.
+Where they're no longer practicing gratitude for the sake of perspective, and instead pursue "gratitude" under the guise of mania.
 
-Which is totally understandable, because discovering happiness for a depressed person is like giving crack to a child, and discovering it can produce all sorts of madness. 
+Which is totally understandable, because discovering these feelings for the first time, can be a bit like giving crack a child, which can produce all sorts of madness. 
 
-The other issue is that gratitute itself goes against a lot of the principles of neutrality that we are trying to adopt, so really this exercise should be thought of as a perspective exercise for you to learn from.
+The other issue is that gratitute itself goes against a lot of the principles of neutrality that we are trying to adopt, which a lot of people starting out don't quite yet understand.
+
+So really, it can help to think of this exercise as a perspective exercise for you to learn from.
 
 Rather than a hard mindset you should adopt. 
 

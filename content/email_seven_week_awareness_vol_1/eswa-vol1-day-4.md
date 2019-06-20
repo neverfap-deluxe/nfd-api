@@ -3,7 +3,7 @@
   title: "Slow Down Time"
   description: "7 Week Awareness Challenge Vol 1."
   date: 2019-03-19
-  draft: true
+  draft: false
   tags: [ "challenge" ]
   categories: [ "challenge" ]
 

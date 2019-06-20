@@ -3,7 +3,7 @@
   title: "Focus On Your Finger And Your Background"
   description: "7 Week Awareness Challenge Vol 1."
   date: 2019-03-17
-  draft: true
+  draft: false
   tags: [ "challenge" ]
   categories: [ "challenge" ]
 

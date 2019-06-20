@@ -6,7 +6,7 @@
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
   category: "Balance over reward"
-  
+  vol: 2
   
   slug: "developing-routine"
 
@@ -23,7 +23,7 @@ In this exercise we're going to be taking the initial steps towards developing a
 
 Part of the reason why people struggle with routine is because they severely overcomplicate it. 
 
-They assume it's about developing an intricate, fool-proof strategy when really it's much more fundamental than having a plan. 
+They assume it's about developing an intricate, fool-proof strategy when really it's much more fundamental than even having a strategy overall. 
 
 Instead, 90% of the battle when it comes to developing a solid routine, comes down to our ability to stick to it.
 

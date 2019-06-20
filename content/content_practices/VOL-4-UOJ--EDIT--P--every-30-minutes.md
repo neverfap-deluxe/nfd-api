@@ -6,7 +6,7 @@
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]
   category: "Uncondition over judgement"
-
+  vol: 4
   
   slug: "every-30-minutes"
   aliases: [

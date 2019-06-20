@@ -25,6 +25,7 @@
           "categories": {{ .Params.Categories | jsonify }},
           "tags": {{ .Params.Tags | jsonify }},
           "permalink" : {{ .Permalink | jsonify }},
+          "vol" : "{{ .Params.Vol | jsonify }}",
 
           {{/* practices */}}
           "overview": {{ if .Params.Overview }}{{ .Params.Overview | jsonify }}{{ else }}""{{ end }},

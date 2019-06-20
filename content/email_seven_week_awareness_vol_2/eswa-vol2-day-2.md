@@ -3,7 +3,7 @@
   title: "Dissolve Your Visual Field"
   description: "7 Week Awareness Challenge Vol 2."
   date: 2019-03-17
-  draft: true
+  draft: false
   tags: [ "challenge" ]
   categories: [ "challenge" ]
 
@@ -12,3 +12,5 @@
   pageId: "E484A605-7312-4F52-8D7A-CF02EE9C07A2"
 
 ---
+
+r

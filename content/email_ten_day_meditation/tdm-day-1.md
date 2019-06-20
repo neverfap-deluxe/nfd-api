@@ -26,29 +26,46 @@ Hello and welcome to the NeverFap Deluxe 10 day meditation primer.
 
 My name is Julius Reade, and on day one, I am going to be guiding you through the basics of meditation.
 
-If you are new to meditation, it can help to understand a few base rules, which will help you become, more effective with your meditations moving forward.
+If you are new to meditation, it can help to understand a few base rules which we are going to follow.
 
-Before I go through these rules, we are first going to focus on remaining calm, and relaxed.
+For starters, it's important that you meditate siting up with a straight back.
+
+Meditation is less effective if you are lying down. In large part because it's incredibly difficult to remain fully aware, while you are lying down on our back.
+
+Secondly, you'll want to relax. 
+
+Meditation isn't about focus, or holding onto our emotions. 
+
+Instead, it's about being present with ourselves.
+
+
+To begin this session, we are going to focus on remaining calm, and relaxed.
 
 Letting go of any thoughts you may have, or any tension you may have been holding within yourself.
 
 And to really focus on this idea of being present, within this very moment.
 
-Present, with yourself.
+Present, with your self.
 
-As well as present, with my voice; which is guiding you in this very moment; helping you maintain balance in your mind.
+Present, with your mind.
+
+Present, with your body.
+
+As well as present with my voice; which is guiding you in this very moment.
+
+
+I also want you to take note of how you currently feel, as you practice this meditation.
+
+To embrace this feeling, and truly notice the sense of calmness and awareness, it makes you feel.
+
+And I'll let you explore this feeling within your own space, for a period of time. 
 
 
 
-To begin, it's important that you meditate siting up with a straight back.
 
-Meditation is certainly less effective if you're lying down, because although it helps us remain more calm.
+If you find your mind wandering off during this exercise, that's okay.
 
-It also makes it more difficult to remain aware, which largely defeats the purpose of what we are trying to achieve with meditation.
+Just gently remind yourself to return back to that feeling. 
 
-Which is to help us grow our capacity for conscious awareness.
 
-So we can act more effectively, for example, when we are feeling stressed, or perhaps if we are struggling with some difficult emotions.
-
-In addition to our posture, it's also important that we
-
+And that brings us to the end of today's session. Thank you for listening. And I'll see you here tomorrow for day two of 10 Day Meditation Primer.

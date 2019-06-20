@@ -3,7 +3,7 @@
   title: "Just Do, Don't Think"
   description: "7 Week Awareness Challenge Vol 4."
   date: 2019-03-17
-  draft: true
+  draft: false
   tags: [ "challenge-vol-4" ]
   categories: [ "challenge-vol-4" ]
 
@@ -13,3 +13,4 @@
 
 ---
 
+r

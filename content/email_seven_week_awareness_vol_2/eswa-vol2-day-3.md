@@ -3,7 +3,7 @@
   title: "Catch Out Your Judgements"
   description: "7 Week Awareness Challenge Vol 2."
   date: 2019-03-18
-  draft: true
+  draft: false
   tags: [ "challenge" ]
   categories: [ "challenge" ]
 

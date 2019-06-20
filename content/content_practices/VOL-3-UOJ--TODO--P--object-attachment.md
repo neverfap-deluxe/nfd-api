@@ -6,7 +6,7 @@
   tags: [ "practice", "attachment", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]
   category: "Uncondition over judgement"
-
+  vol: 3
   
   slug: "object-attachment"
 

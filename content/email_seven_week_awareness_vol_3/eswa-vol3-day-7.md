@@ -3,7 +3,7 @@
   title: "Slow Spinning Circle"
   description: "7 Week Awareness Challenge Vol 3."
   date: 2019-03-22
-  draft: true
+  draft: false
   tags: [ "challenge" ]
   categories: [ "challenge" ]
 
@@ -14,3 +14,4 @@
 ---
 
 slow spinning circle
+r

@@ -6,7 +6,8 @@
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
   category: "Balance over reward"
-
+  vol: 5
+  
   slug: "challenge-existing-obligations"
 
   what: "Develop our capacity for change."

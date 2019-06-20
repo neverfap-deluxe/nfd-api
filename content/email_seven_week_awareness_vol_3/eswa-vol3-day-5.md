@@ -3,7 +3,7 @@
   title: "Engaging Expression"
   description: "7 Week Awareness Challenge Vol 3."
   date: 2019-03-20
-  draft: true
+  draft: false
   tags: [ "challenge" ]
   categories: [ "challenge" ]
 
@@ -14,3 +14,4 @@
 ---
 
 
+ar

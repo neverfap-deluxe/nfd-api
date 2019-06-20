@@ -6,7 +6,7 @@
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
   category: "Awareness over all"
-
+  vol: 1
   
   slug: "identify-points-of-awareness-throughout-your-day"
   aliases: [ 

@@ -3,7 +3,7 @@
   title: "Stop Absolutely Everything You're Doing"
   description: "7 Week Awareness Challenge Vol 2."
   date: 2019-03-20
-  draft: true
+  draft: false
   tags: [ "challenge" ]
   categories: [ "challenge" ]
 
@@ -14,7 +14,7 @@
 ---
 
 
-
+r
 take note of the colour yellow - awareness/observation
 dissolve your visual field - awareness/observation
 catch out your judgements - awareness/observation

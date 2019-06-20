@@ -3,7 +3,7 @@
   title: "Catching The Odd Judge Out"
   description: "7 Week Awareness Challenge Vol 4."
   date: 2019-03-21
-  draft: true
+  draft: false
   tags: [ "challenge-vol-4" ]
   categories: [ "challenge-vol-4" ]
 
@@ -13,5 +13,6 @@
 
 ---
 
+r
 
 

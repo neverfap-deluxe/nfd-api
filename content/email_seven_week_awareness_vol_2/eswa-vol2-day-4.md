@@ -3,7 +3,7 @@
   title: "What Can Your Hand Do?"
   description: "7 Week Awareness Challenge Vol 2."
   date: 2019-03-19
-  draft: true
+  draft: false
   tags: [ "challenge" ]
   categories: [ "challenge" ]
 
@@ -13,3 +13,4 @@
 
 ---
 
+r

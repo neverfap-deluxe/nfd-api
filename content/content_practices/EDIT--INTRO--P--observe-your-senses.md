@@ -6,7 +6,8 @@
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "introduction" ]
   category: "Introduction"
-  
+  vol: 0
+
   slug: "observe-your-senses"
   aliases: [
     "practices/observe-it-all"

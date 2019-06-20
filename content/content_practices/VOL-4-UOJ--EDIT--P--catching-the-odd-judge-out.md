@@ -6,7 +6,8 @@
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]
   category: "Uncondition over judgement"
-
+  vol: 4
+  
   slug: "catching-the-odd-judge-out"
   aliases: [
     "the-odd-judge-out"

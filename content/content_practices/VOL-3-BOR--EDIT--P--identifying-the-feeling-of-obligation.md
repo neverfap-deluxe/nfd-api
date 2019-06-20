@@ -6,7 +6,8 @@
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
   category: "Balance over reward"
-
+  vol: 3
+  
   slug: "identifying-the-feeling-of-obligation"
 
   what: "Develop our awareness of the feeling of obligation."

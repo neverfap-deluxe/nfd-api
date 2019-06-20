@@ -6,7 +6,7 @@
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-none" ]
   category: "Uncondition over none"
-
+  vol: 6
 
   slug: "what-does-your-nose-see"
 

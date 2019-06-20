@@ -6,8 +6,8 @@
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
   category: "Awareness over all"
+  vol: 5
 
-  
   slug: "you-are-present"
   aliases: [
     # "you-are-present"

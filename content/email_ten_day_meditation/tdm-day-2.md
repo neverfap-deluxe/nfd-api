@@ -24,12 +24,45 @@ In today's meditation we will be focusing on
 
 Hello and welcome to the NeverFap Deluxe 10 day meditation primer.
 
-My name is Julius Reade, and on day two, we are going to continue exploring this idea of being calm, as well as better understand how meditation is designed to help us.
+My name is Julius Reade, and on day two, we are going to explore this idea of meditation, and how it can help us.
 
-If I had to describe what meditation is designed to help us achieve; I would describe it as a practice that helps remain balanced.
+As always, we're going to begin by focusing on being relaxed. 
 
-Which is also to say, that balance is key to living a
+Which will allow us to better understand these ideas without . Without resistance. As well as without .
 
-Meditation works, because it helps us train both our capacity for awareness, as well as our ability to remain calm.
 
-Which is essentially what balance is.
+Central to this idea of meditation, is balance. 
+
+Balance is the ultimate goal of what meditation is designed to help us achieve.
+
+Not only is it key to practicing meditation, however it is key to living an effective and effortless life. 
+
+When you are balanced, you no longer experience urges. 
+
+When you are balanced, you are calm and effective with your mind. 
+
+And meditation helps us achieve balance, by helping us increase our capacity for awareness, as well as our capacity to remain calm.
+
+Both awareness and calmness are the two tennants of balance.
+
+Which meditation helps us achieve.
+
+So taking this idea, I want you to let go of all the tension in your body. And the thoughts in your mind. 
+
+And focus on the feeling of meditation.
+
+Without question.
+
+Without thought. 
+
+And I'll let you do this for a period of time.
+
+
+If you find your mind wandering off during this exercise, that's okay.
+
+Just gently remind yourself to continue embracing that feeling.
+
+Not only understanding it on a conceptual level. But by becoming at one with the emotion.
+
+
+

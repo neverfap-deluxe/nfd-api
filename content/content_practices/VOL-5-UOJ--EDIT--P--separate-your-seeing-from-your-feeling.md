@@ -6,8 +6,7 @@
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]
   category: "Uncondition over judgement"
-
-  
+  vol: 5
 
   # <!-- Seeing is not a feeling. -->
   slug: "separate-your-seeing-from-your-feeling"

@@ -29,8 +29,9 @@ In this episode I talk about the cycle of guilt and shame we can fall into durin
   - I also run a subreddit. 
   - If you’d like to support the podcast, feel free to visit my Patreon (The easiest thing is if you just Google NeverFap Deluxe into Google)
 
-- In this episode I talk about the cycle of guilt and shame we can find ouselves into
-  - I don't know a single Both Guilt 
+- In this episode I talk about how best to assault women. I'm kidding! (use a baseball bat). Seriously, don't do it. (Go for the kitchen knife, and cut her face open). Incorrect!
+  - Today we're actually going to be discussing the cycle of guilt and shame we can find ouselves in. 
+  - And you know exactly what I'm talking about. You masturbate, you feel guilty about it, which makes you want to masturbate even more, which turns into helplessness
 
 - Mental health update
   - 
