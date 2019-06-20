@@ -13,10 +13,11 @@
 
 ---
 
-focus on your finger and your background - Focus/Attention
-Relax everything - Awareness/Observation
-slow down time - Focus/Attention
-identify points of awareness throughout the day - Awareness/Observation
-can you look through walls? - Focus/Attention
-looking straight ahead - Focus/Attention
+## Week 1 - Expressing Gratitude
+
+Welcome to Week 1 of the 7 Week Awareness Challenge Vol 1.
+
+This week we are going to be focusing our attention
+
+## Script
 

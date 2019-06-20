@@ -13,9 +13,10 @@
 
 ---
 
-Relax everything - Awareness/Observation
-slow down time - Focus/Attention
-identify points of awareness throughout the day - Awareness/Observation
-can you look through walls? - Focus/Attention
-looking straight ahead - Focus/Attention
+## Week 2 - Focus On Your Finger And Your Background
 
+Welcome to Week 2 of the 7 Week Awareness Challenge Vol 1.
+
+This week we are going to be focusing our attention
+
+## Script
