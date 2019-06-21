@@ -1,6 +1,6 @@
 ---
-  title: "7 Week Awareness Series"
-  description: "Improve your capacity for awareness with our 7 Week Awareness Series."
+  title: "7 Week Awareness Challenge Vol 4."
+  description: "Improve your capacity for awareness with our 7 Week Awareness Challenge Vol 4."
   date: 2019-01-22
   draft: false
   tags: [ "7 week awareness series", "awareness", "challenge" ]
