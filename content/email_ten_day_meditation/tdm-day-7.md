@@ -54,6 +54,5 @@ Does it evoke any particular emotions?
 
 
 
-
 Throughout this series, what we are ultimately aiming to do is develop our skills in observation. 
 
