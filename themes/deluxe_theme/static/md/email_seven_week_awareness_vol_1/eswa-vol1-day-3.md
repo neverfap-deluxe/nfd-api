@@ -3,7 +3,7 @@
   title: "Relax Everything"
   description: "7 Week Awareness Challenge Vol 1."
   date: 2019-03-18
-  draft: true
+  draft: false
   tags: [ "challenge" ]
   categories: [ "challenge" ]
 

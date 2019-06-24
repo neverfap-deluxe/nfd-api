@@ -3,7 +3,7 @@
   title: "Annoy Yourself"
   description: "7 Week Awareness Challenge Vol 4."
   date: 2019-03-16
-  draft: true
+  draft: false
   tags: [ "challenge-vol-4" ]
   categories: [ "challenge-vol-4" ]
 
@@ -13,3 +13,4 @@
 
 ---
 
+a

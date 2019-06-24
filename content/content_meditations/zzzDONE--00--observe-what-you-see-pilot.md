@@ -1,8 +1,8 @@
 ---
-  title: "EP0 - Observe What You See (pilot)"
+  title: "Observe What You See (pilot)"
   description: "NeverFap Deluxe Guided Meditation Series. Observe What You See (pilot)"
   date: 2019-05-25
-  draft: true
+  draft: false
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
   category: "Meditation"

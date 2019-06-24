@@ -12,9 +12,11 @@
 
 ---
 
-Hello reader!
+Welcome to the 10 Day Meditation Primer!
 
-My name is Julius and I'm the creator of the NeverFap Deluxe and the 10 Day Meditation Primer!
+I have designed this course to assist those new to meditation, as well as those who would like to learn more about how best to meditate.
+
+It is a great series for both veterans and newcomers, touching a variety of fundamental topics which will help you become more effective with your meditation practice. 
 
 
 1 - Meditation Basics

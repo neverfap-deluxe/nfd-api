@@ -3,7 +3,7 @@
   title: "Developing Routine"
   description: "7 Week Awareness Challenge Vol 2."
   date: 2019-03-21
-  draft: true
+  draft: false
   tags: [ "challenge" ]
   categories: [ "challenge" ]
 
@@ -14,4 +14,4 @@
 ---
 
 
-
+r

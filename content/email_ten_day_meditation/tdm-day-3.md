@@ -3,7 +3,7 @@
   title: "Developing Our Capacity For Awareness"
   description: ""
   date: 2019-03-25
-  draft: true
+  draft: false
   tags: [ "primer" ]
   categories: [ "primer" ]
 

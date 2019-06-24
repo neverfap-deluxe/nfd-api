@@ -3,7 +3,7 @@
   title: "Meditation Basics"
   description: ""
   date: 2019-03-23
-  draft: true
+  draft: false
   tags: [ "primer" ]
   categories: [ "primer" ]
 

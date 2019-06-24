@@ -1,12 +1,11 @@
 ---
   title: "EP2 - Free Guided Meditation Series"
   description: "NeverFap Deluxe Guided Meditation Series."
-  date: 2019-06-22
+  date: 2019-06-23
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "" ]
   category: "Meditation"
-
   
   slug: "ep-2-free-guided-meditation-series"
 

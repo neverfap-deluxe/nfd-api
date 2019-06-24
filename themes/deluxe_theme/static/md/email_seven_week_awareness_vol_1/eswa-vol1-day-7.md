@@ -3,7 +3,7 @@
   title: "Looking Straight Ahead"
   description: "7 Week Awareness Challenge Vol 1."
   date: 2019-03-22
-  draft: true
+  draft: false
   tags: [ "challenge" ]
   categories: [ "challenge" ]
 
@@ -15,3 +15,4 @@
 
 
 
+r

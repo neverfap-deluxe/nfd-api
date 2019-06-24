@@ -3,7 +3,7 @@
   title: "Introduction"
   description: "A brief introduction into the series, as well as what to expect over the coming days."
   date: 2019-03-22
-  draft: true
+  draft: false
   tags: [ "primer" ]
   categories: [ "primer" ]
 

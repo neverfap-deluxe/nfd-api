@@ -3,7 +3,7 @@
   title: "Object Attachment"
   description: "7 Week Awareness Challenge Vol 3."
   date: 2019-03-21
-  draft: true
+  draft: false
   tags: [ "challenge" ]
   categories: [ "challenge" ]
 

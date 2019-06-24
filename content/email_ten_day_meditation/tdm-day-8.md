@@ -3,7 +3,7 @@
   title: "Feeling Empowered"
   description: ""
   date: 2019-03-30
-  draft: true
+  draft: false
   tags: [ "primer" ]
   categories: [ "primer" ]
 

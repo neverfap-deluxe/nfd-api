@@ -3,7 +3,7 @@
   title: "Observe What You Touch"
   description: ""
   date: 2019-03-29
-  draft: true
+  draft: false
   tags: [ "primer" ]
   categories: [ "primer" ]
 

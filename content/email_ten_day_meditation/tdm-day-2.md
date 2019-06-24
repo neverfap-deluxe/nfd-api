@@ -3,7 +3,7 @@
   title: "Understanding The Purpose Of Meditation"
   description: ""
   date: 2019-03-24
-  draft: true
+  draft: false
   tags: [ "primer" ]
   categories: [ "primer" ]
 

@@ -1,8 +1,8 @@
 ---
-  title: "EP2 - Focus On Your Experience"
+  title: "Focus On Your Experience (pilot)"
   description: "NeverFap Deluxe Guided Meditation Series. Focus On Your Experience"
   date: 2019-06-08
-  draft: true
+  draft: false
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
   category: "Meditation"

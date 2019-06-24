@@ -15,7 +15,9 @@ Here are our list of tiers. Furthermore, they have been summarised on our <a cla
 
 ## The Fluffer - $1
 
-This tier merely exists if you'd like to show your support for NeverFap Deluxe! Ultimately, you receive a personalised message from me, as well as access to the weekly updates on Patreon!
+This tier merely exists if you'd like to show your support for NeverFap Deluxe! 
+
+Ultimately, you receive a personalised message from me, as well as access to the weekly updates on Patreon!
 
 
 ## Serial Offender - $5

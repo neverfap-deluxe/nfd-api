@@ -1,8 +1,8 @@
 ---
-  title: "EP1 - Observe Your Senses"
+  title: "Observe Your Senses (pilot)"
   description: "NeverFap Deluxe Guided Meditation Series. Observe Your Senses"
   date: 2019-06-01
-  draft: true
+  draft: false
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
   category: "Meditation"

@@ -1,6 +1,6 @@
 ---
-  title: "7 Week Awareness Series"
-  description: "Improve your capacity for awareness with our 7 Week Awareness Series."
+  title: "7 Week Awareness Challenge Vol 3."
+  description: "Improve your capacity for awareness with our 7 Week Awareness Challenge Vol 3."
   date: 2019-01-22
   draft: false
   tags: [ "7 week awareness series", "awareness", "challenge" ]
@@ -16,10 +16,10 @@ Hello reader!
 
 My name is Julius and I'm the creator of the NeverFap Deluxe and the 7 Week Awareness Series!
 
-where do you touch
-use your opposite hand
-who is looking?
-identifying the feeling of obligation
-engaging expression
-object attachment
-slow spinning circle
+Where Do You Touch
+Use Your Opposite Hand
+Who Is Looking?
+Identifying The Feeling Of Obligation
+Engaging Expression
+Object Attachment
+Slow Spinning Circle

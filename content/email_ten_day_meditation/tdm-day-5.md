@@ -3,7 +3,7 @@
   title: "Observe What You See"
   description: ""
   date: 2019-03-27
-  draft: true
+  draft: false
   tags: [ "primer" ]
   categories: [ "primer" ]
 

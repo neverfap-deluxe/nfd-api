@@ -3,7 +3,7 @@
   title: "Embracing Calmness"
   description: ""
   date: 2019-03-26
-  draft: true
+  draft: false
   tags: [ "primer" ]
   categories: [ "primer" ]
 
@@ -12,6 +12,15 @@
   pageId: "82D7FCE5-DA46-440C-B206-082BD49E292E"
 
 ---
+
+## Day 4 - Embracing Calmness
+
+Welcome to Day 4 of the 10 Day Meditation Primer.
+
+In today's meditation we will be focusing on
+
+
+## Script
 
 Hello and welcome to the NeverFap Deluxe 10 day meditation primer.
 
