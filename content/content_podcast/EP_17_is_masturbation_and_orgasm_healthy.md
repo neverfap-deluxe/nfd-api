@@ -47,3 +47,6 @@ In this episode I talk about masturbation and orgasm and whether these things ar
   - In fact, there are two reasons. 
   - (Talk about orgasm and how that affects control)
   - (Talk about how masturbation doesn't help you develop control over your emotions)
+
+
+- Tak in terms of coping mechanisms. Mastubrtaion in the context of porn addiction is unhealthy, because we use it as an UHC
