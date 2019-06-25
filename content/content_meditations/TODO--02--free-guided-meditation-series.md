@@ -1,18 +1,18 @@
 ---
   title: "EP2 - Free Guided Meditation Series"
-  description: "NeverFap Deluxe Guided Meditation Series."
+  description: "NeverFap Deluxe Guided Meditation Series. Episode 2."
   date: 2019-06-23
-  draft: true
+  draft: false
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "" ]
   category: "Meditation"
   
   slug: "ep-2-free-guided-meditation-series"
 
-  mp3Url: ""
+  mp3Url: "https://s3.castbox.fm/b6/39/18/813dc94ae693d2fc9a193e4111.mp3"
 
-  podcastUrl: ""
-  podcastPlayer: ""
+  podcastUrl: "https://castbox.fm/episode/id2113294-id165352760?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_165352760&utm_content=EP2%20-%20Free%20Guided%20Meditation%20Series-CastBox_FM"
+  podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2113294/id165352760?v=8.1.0&autoplay=0' frameborder='0' width='100%' height='300'></iframe>"
 
   pageId: "f3d2830c-8c5d-4cc5-8210-aabbd9b0a3d3"
 
