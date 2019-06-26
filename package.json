@@ -35,23 +35,15 @@
     "challenge-pub": "pandoc ./ebook/challenge/challenge.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/challenge/challenge-metadata.yaml -o ./ebook/challenge/challenge.epub -f markdown -t epub",
     "challenge-pdf": "pandoc ./ebook/challenge/challenge.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/challenge/challenge-metadata.yaml -o ./ebook/challenge/challenge.pdf",
 
-    "vol-1": "npm run vol-1-md && npm run vol-1-pub",
-    "vol-1-md": "node ./util/generateVol1.js",
+    "vol": "npm run vol-md && npm run vol-1-pub && npm run vol-2-pub && npm run vol-3-pub && npm run vol-4-pub",
+    "vol-md": "node ./util/generateVol.js",
+
     "vol-1-pub": "pandoc ./ebook/vol-1/vol-1.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-1/vol-1-metadata.yaml -o ./ebook/vol-1/vol-1.epub -f markdown -t epub",
     "vol-1-pdf": "pandoc ./ebook/vol-1/vol-1.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-1/vol-1-metadata.yaml -o ./ebook/vol-1/vol-1.pdf",
-
-    "vol-2": "npm run vol-2-md && npm run vol-2-pub",
-    "vol-2-md": "node ./util/generateVol1.js",
     "vol-2-pub": "pandoc ./ebook/vol-2/vol-2.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-2/vol-2-metadata.yaml -o ./ebook/vol-2/vol-2.epub -f markdown -t epub",
     "vol-2-pdf": "pandoc ./ebook/vol-2/vol-2.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-2/vol-2-metadata.yaml -o ./ebook/vol-2/vol-2.pdf",
-
-    "vol-3": "npm run vol-3-md && npm run vol-3-pub",
-    "vol-3-md": "node ./util/generateVol1.js",
     "vol-3-pub": "pandoc ./ebook/vol-3/vol-3.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-3/vol-3-metadata.yaml -o ./ebook/vol-3/vol-3.epub -f markdown -t epub",
     "vol-3-pdf": "pandoc ./ebook/vol-3/vol-3.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-3/vol-3-metadata.yaml -o ./ebook/vol-3/vol-3.pdf",
-
-    "vol-4": "npm run vol-4-md && npm run vol-4-pub",
-    "vol-4-md": "node ./util/generateVol1.js",
     "vol-4-pub": "pandoc ./ebook/vol-4/vol-4.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-4/vol-4-metadata.yaml -o ./ebook/vol-4/vol-4.epub -f markdown -t epub",
     "vol-4-pdf": "pandoc ./ebook/vol-4/vol-4.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-4/vol-4-metadata.yaml -o ./ebook/vol-4/vol-4.pdf",
 

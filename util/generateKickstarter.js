@@ -1,11 +1,11 @@
 const {
   kickstarter_folder,
-  stringFromArray,
 } = require('./const');
 
 const {
   generatePage,
   generatePageChildren,
+  stringFromArray,
 } = require('./util');
 
 const generateKickstarter = async () => {

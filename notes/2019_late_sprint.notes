@@ -34,13 +34,7 @@
   - 10 day meditation primer banner
 
 ## Infrastructure
-  - Build subscription system so it doesn’t have to be daily. Instead, it can be weekly, or at certain intervals. Maybe via an array of days, so to speak, and when it sends what.
-  - Create suitable email templates for subscription series.
-    - 22/06/2019 - will use standard email templates.
   - Figure out e-Book options for all these resources
-  - Figure out how to ration these courses, so users can’t sign up to too many different ones.
-  - Add validation to email subscription to see if they have paid for the subscription before modifying matrix. - yes, very smart and makes sense.
-
 
 # DONE
 
@@ -80,3 +74,6 @@
   - 18/06/19 - Sorted out all the email templates/pages for all the content - web app
   - 18/06/19 - Sorted out all the email templates/pages for all the content - web api
   - 23-24/06/2019 - Build Paypal/Stripe into backend.
+  - 26/06/2019 - Build subscription system so it doesn’t have to be daily. Instead, it can be weekly, or at certain intervals. Maybe via an array of days, so to speak, and when it sends what.
+  - 26/06/2019 - Figure out how to ration these courses, so users can’t sign up to too many different ones.
+  - 26/06/2019 - Add validation to email subscription to see if they have paid for the subscription before modifying matrix. - yes, very smart and makes sense.

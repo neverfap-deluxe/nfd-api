@@ -20,6 +20,11 @@ const kickstarter_folder = './content/email_seven_day_kickstarter';
 const primer_folder = './content/email_ten_day_meditation';
 const challenge_folder = './content/email_twenty_eight_day_awareness_challenge';
 
+const vol_1_folder = './content/email_seven_week_awareness_vol_1';
+const vol_2_folder = './content/email_seven_week_awareness_vol_2';
+const vol_3_folder = './content/email_seven_week_awareness_vol_3';
+const vol_4_folder = './content/email_seven_week_awareness_vol_4';
+
 // EXTRANEOUS
 const about_folder = './content/general_about';
 const accountability_folder = './content/programs_accountability';
@@ -64,6 +69,11 @@ module.exports = {
 
   kickstarter_folder,
   primer_folder,
+
+  vol_1_folder,
+  vol_2_folder,
+  vol_3_folder,
+  vol_4_folder,
 
   about_folder,
   accountability_folder,

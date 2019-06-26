@@ -1,25 +1,84 @@
 const {
-  primer_folder,
   stringFromArray,
 } = require('./util');
 
-const generatePrimer = async () => {
+const {
+  vol_1_folder,
+  vol_2_folder,
+  vol_3_folder,
+  vol_4_folder,
+} = require('./const');
+
+const generateVol = async () => {
+
+  // VOL 1
   const [
-    primerIndex,
-    primerChildren,
+    vol1Index,
+    vol1Children,
   ] = await Promise.all([
-    generatePage(primer_folder),
-    generatePageChildren(primer_folder),
+    generatePage(vol_1_folder),
+    generatePageChildren(vol_1_folder),
   ]);
 
-  const website_content_array = [
-    primerIndex.string,
-    primerChildren.string,
+  const vol_1_website_content_array = [
+    vol1Index.string,
+    vol1Children.string,
   ];
 
-  const final_string = stringFromArray(website_content_array);
+  const vol_1_final_string = stringFromArray(vol_1_website_content_array);
 
-  fse.outputFileSync(`ebook/primer/primer.md`, final_string);
+  // VOL 2
+  const [
+    vol2Index,
+    vol2Children,
+  ] = await Promise.all([
+    generatePage(vol_2_folder),
+    generatePageChildren(vol_2_folder),
+  ]);
+
+  const vol_2_website_content_array = [
+    vol2Index.string,
+    vol2Children.string,
+  ];
+
+  const vol_2_final_string = stringFromArray(vol_2_website_content_array);
+
+  // VOL 3
+  const [
+    vol3Index,
+    vol3Children,
+  ] = await Promise.all([
+    generatePage(vol_3_folder),
+    generatePageChildren(vol_3_folder),
+  ]);
+
+  const vol_3_website_content_array = [
+    vol3Index.string,
+    vol3Children.string,
+  ];
+
+  const vol_3_final_string = stringFromArray(vol_3_website_content_array);
+
+  // VOL 4
+  const [
+    vol4Index,
+    vol4Children,
+  ] = await Promise.all([
+    generatePage(vol_4_folder),
+    generatePageChildren(vol_4_folder),
+  ]);
+
+  const vol_4_website_content_array = [
+    vol4Index.string,
+    vol4Children.string,
+  ];
+
+  const vol_4_final_string = stringFromArray(vol_4_website_content_array);
+
+  fse.outputFileSync(`vol_1/vol_1/vol_1.md`, vol_1_final_string);
+  fse.outputFileSync(`vol_2/vol_2/vol_2.md`, vol_2_final_string);
+  fse.outputFileSync(`vol_3/vol_3/vol_3.md`, vol_3_final_string);
+  fse.outputFileSync(`vol_4/vol_4/vol_4.md`, vol_4_final_string);
 };
 
-generatePrimer();
+generateVol();
