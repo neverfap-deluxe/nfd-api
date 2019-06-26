@@ -22,7 +22,10 @@
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
-My name is Julius Reade and today we are going to be
+My name is Julius Reade and today we are going to imagine a pond.
+
+A pond of relaxation. 
+
 
 
 If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with ourselves.

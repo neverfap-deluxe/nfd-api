@@ -20,9 +20,23 @@
 
 <!-- relaxed -->
 
+
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
-My name is Julius Reade and today we are going to be
+My name is Julius Reade and today we are going to imagine a beach.
+
+A bright, sandy, beautiful beach.
+
+
+
+
+The temperature is warm and feels nice on your skin.
+
+With a gentle, calm breeze. 
+
+Full of palm trees. 
+
+And in this beach, you're simply lying down in the sand. 
 
 
 If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with ourselves.

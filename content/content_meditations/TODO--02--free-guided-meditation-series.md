@@ -20,7 +20,9 @@
 
 <!-- focus -->
 
-Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
+<!-- This was never used, I actually utilised a different one that I recorded two weeks ago. -->
+
+<!-- Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
 My name is Julius Reade and today we are going to be focusing our attention on an object in front of us.
 
@@ -34,7 +36,7 @@ If you find yourself wandering off again, that’s okay. Just gently remind your
 If you find yourself getting distracted during this exercise, that's okay. Just gently remind yourself, to 
 
 
-And that brings us to the end of this session. Thank you for listening. I wish you best of luck with your day. This has been the NeverFap Deluxe Guided meditation series.
+And that brings us to the end of this session. Thank you for listening. I wish you best of luck with your day. This has been the NeverFap Deluxe Guided meditation series. -->
 
 
 

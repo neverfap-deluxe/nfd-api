@@ -33,14 +33,71 @@ And when you breathe out.
 
 And I want you to pay attention to the rhythm that you create, as you breathe in, and out. 
 
+In.
 
-If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with ourselves.
+And out.
+
+In.
+
+And out.
+
+And I'll let you do this within your own space.
 
 
-If you find yourself wandering off again, that’s okay. Just gently remind yourself to 
 
 
-If you find yourself getting distracted during this exercise, that's okay. Just gently remind yourself, to 
+If your mind has wandered off during this exercise, then that's okay. 
+
+All we need to do is relax, and reconnect with ourselves.
+
+Focusing our attention back to our breath. 
+
+Focusing on when we breathe in.
+
+And out.
+
+In.
+
+And out.
+
+
+
+
+One thing to keep in mind with meditation, is that all these exercises are not mindless in nature.
+
+If you feel as if you are not truly present with your breath in this current moment.
+
+Then you are not truly practicing meditation.
+
+You see, this exercise doesn't have a lot to do with your breath, at all. 
+
+It has to do with your ability to remain present with your breath.
+
+That is the skill we are developing. 
+
+First, by relaxing.
+
+Then, by placing our attention on our breath in all aspects.
+
+So let's focus back on the intonation of our breath.
+
+When we breathe in. 
+
+And out. 
+
+Paying close attention to the physical sensation of breathing. 
+
+And I'll let you do this within your own space.
+
+
+
+
+If you find your mind wandering off again, that’s okay. Just gently remind yourself to be present with yourself. 
+
+All we are doing is remaining relaxed, as well as present with our breath. 
+
+
+
 
 
 And that brings us to the end of this session. Thank you for listening. I wish you best of luck with your day. This has been the NeverFap Deluxe Guided meditation series.
@@ -66,3 +123,4 @@ And that brings us to the end of this session. Thank you for listening. I wish y
 
  // exploring conscious awareness.
  // -->
+ 

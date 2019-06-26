@@ -22,7 +22,18 @@
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
-My name is Julius Reade and today we are going to be
+My name is Julius Reade and today we are going to be focusing our attention on our mind.
+
+I talk a lot about being present in these meditations, which is a bit silly when you dig deeper into this idea of being present.
+
+In large part, because we are already present with ourselves in this very moment.
+
+Instead, where people struggle is that they don't know how to focus their conscious attention to be present with themselves.
+
+
+
+
+
 
 
 If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with ourselves.

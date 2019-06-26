@@ -24,7 +24,19 @@
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
-My name is Julius Reade and today we are going to be
+My name is Julius Reade and today we are going to be learning to let go of stress and tension.
+
+Stress and tension are two things which are common in most people's lives. 
+
+It could be your job that is causing you to feel stressed. Perhaps your workload is beginning to become unmanagable, or perhaps you're still struggling to figuring your career out. 
+
+It could be the tension you experience from friends and family, when things don't turn out exactly how you want it to go.
+
+There are any number of ways both stress and tension can become the focus in our minds.
+
+
+
+
 
 
 If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with ourselves.

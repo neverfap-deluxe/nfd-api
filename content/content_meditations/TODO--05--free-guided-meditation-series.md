@@ -22,7 +22,34 @@
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
-My name is Julius Reade and today we are going to be
+My name is Julius Reade and today we are going to be focusing on remaining as conscious as possible.
+
+For the next ten minutes, I want you to do something very special for me. 
+
+I want you to engage in the highest form of self-respect that I know.
+
+Which is to be present with yourself and your emotions.
+
+In order to do this, there are a few steps we must first take.
+
+The first step is to relax. 
+
+Relax your mind.
+
+Relax your body. 
+
+I'll give you space to allow you truly relax, and gradually let go of all forms of tension that you may be holding onto.
+
+
+(long pause)
+
+
+In your relaxed state, I now want you to consider the second step 
+
+The second step, and most important step, is to consciously engage with your mind, and be present with what your mind is sensing in this very moment. 
+
+
+
 
 
 If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with ourselves.

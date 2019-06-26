@@ -22,7 +22,9 @@
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
-My name is Julius Reade and today we are going to be
+My name is Julius Reade and today we are going to be to be closing our eyes, and focusing our attention on our eyelids.
+
+Which is to say, I want you to continue to consciously see and observe your surroundings, as if your eyelids were merely in the way.
 
 
 If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with ourselves.

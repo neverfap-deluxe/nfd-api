@@ -13,4 +13,9 @@
 
 ---
 
-r
+In this exercise, what we really imagine what the colour yellow is.
+
+We want to understand what the colour yellow tastes like. 
+
+It's about being present with the idea of hte coluor yellow.
+
