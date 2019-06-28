@@ -1,7 +1,12 @@
 const {
-  primer_folder,
   stringFromArray,
+  generatePage,
+  generatePageChildren,
 } = require('./util');
+
+const {
+  primer_folder,
+} = require('./const');
 
 const generatePrimer = async () => {
   const [

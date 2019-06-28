@@ -1,0 +1,32 @@
+---
+  title:
+  - type: main
+    text: Seven Week Awareness Challenge Vol 2.
+  - type: subtitle
+    text: NeverFap Deluxe
+  # subtitle:
+  # description:
+  # category
+  keywords:
+    - NoFap
+    - NeverFap
+    - NeverFap Deluxe
+  # author:
+  #   - Julius Reade
+  creator:
+  - role: author
+    text: Julius Reade
+  # - role: editor
+  #   text: Julius Reade
+  identifier:
+  - scheme: DOI
+    text: doi:10.234234.234/33
+  publisher:  NeverFap Deluxe
+  rights: © 2019 NeverFap Deluxe, CC BY-NC
+  cover-image: ./ebook/bible/bible-cover.png
+  lang: en-GB
+  date: 2019-06-07
+  # css:
+  ibooks:
+    version: 1.3.4
+---

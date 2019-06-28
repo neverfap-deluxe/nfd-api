@@ -23,19 +23,19 @@ In this episode I talk about how we can pursue effective meditation in our daily
 
 - Welcome to the NeverFap Deluxe podcast. 
   - My name is Julius Reade. 
-  - So you might be wondering, what is this podcast about? Well, let me tell you, young stranger! it’s a podcast about overcoming porn addiction *
-  - I also run a website called NeverFap Deluxe which aims to help people suffering from Porn addiction.
-  - In addition, I also run a Discord channel where I run an accountability program to help porn addicts like yourself, get advice and information, as well as commit to daily awareness and meditation practices.
-  - I also run a subreddit. 
-  - If you’d like to support the podcast, feel free to visit my Patreon (The easiest thing is if you just Google NeverFap Deluxe into Google)
-
+  - Explain what podcast is about.
+  - I run a website.
+  - I run a Discord channel.
+  - I run a subreddit. 
+  - I have a Patreon.
+  
 - Today we’re going to be talking about meditation. 
   - Man, and it’s going to be a big one. 
   - I mean, if you thought the empire state building was big, you ain’t seen nothin’ yet buddy. 
   - We’re going to talk about why it’s important 
 
 - Mental health upate
-  -
+  - 
 
 - It’s kind of funny because I haven’t actually talked about these things yet, I’m just hyping it up. 
 
@@ -44,33 +44,48 @@ In this episode I talk about how we can pursue effective meditation in our daily
   - etc.  
 
 
-1. What is meditation? Why is it important?
+1. How I started out with meditation.
+   
+  - Start when I was around 20.
+  - Did nothing for me (elaborate)
+  - I now realise it's because I wasn't doing it right.
+  - In addition,
 
-- Introduction
-    - Meditation is the single most important thing you can do.
-    - Provides you with control over your mind. 
+2. What is meditation? Why is it important?
+   
+- To understand meditation, we need to understand balance (explain)
+  - Meditation is the easiest way that I know to achieve balance (explain)
+  - What is balance?
+    - Calmness, Awareness, ambition (elaborate)
+    - Meditation teaches you those things, all in the one exercise.
 
 
-2. What are some of the misconceptions of meditation? 
+3. What are some of the misconceptions of meditation? 
 
-- I was talking to a guy on the Discord channel about meditation and he was really against it. 
+- Most people I know struggle with meditation (because of misconceptions)
+  - What are these misconceptions?
+    - Meditation doesn't work (address)
+    - Meditation is religious thing (address)
+    - Prayer is a substitute for meditation (address)
+    - We are already aware (address)
+    - I already exercise, workout and read (address)
 
+4. How do you meditate?
 
+- This is the hardest question to answer (elaborate)
+  - Why is it hard?
+    - Here's my analogy - It's kind of like asking a master pianist - How do you play piano? (explain)
+  - It's about starting with the basics
+    - The most basic way, and what I recommend, is to observe your senses (explain)
+    - It can help to undersand what effective meditation is 
+      - It's consistent.
+      - It's highly conscious and aware.
+      - It's calm and relaxed.
 
-3. How do you meditate?
+5. How people struggle with meditation
 
-    - 
-
-- What makes meditation effective
-    - Consistency. 
-    - Awareness 
-
-- My relationship with meditation
-- How it didn’t seem to work the first few times. Discuss why. 
-- Talk about cycles of bipolar. 
-- Talk about my breakdown and why I decided to meditate.
-- Talk about what meditation does.
-- 
+- The main thing is that people do it completely wrong. 
+  - They think it's this tense thing that's about concentration and perfection (elaborate)
 
 
 - Outro

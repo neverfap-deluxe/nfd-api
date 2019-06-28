@@ -1,7 +1,12 @@
 const {
   challenge_folder,
-  stringFromArray,
 } = require('./const');
+
+const {
+  generatePage,
+  generatePageChildren,
+  stringFromArray,
+} = require('./util');
 
 const generateChallenge = async () => {
   const [

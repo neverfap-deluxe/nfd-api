@@ -22,7 +22,29 @@
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
-My name is Julius Reade and today we are going to be
+My name is Julius Reade and today we are going to be placing our conscious attention on our eyes.
+
+In particular with this exercise, we want to relax our eyes and keep them as tensionless as possible.
+
+To completely let go of all the stress and tension you may have been feeling in your eyes. 
+
+So you can be fully relaxed, as well as present with your relaxation.
+
+And I'll let you do this within your own space.
+
+
+(long pause)
+
+
+With this exercise, it can help to imagine as if someone is gently massaging your eyes, and your eyelids.
+
+Slowly releasing the tension which you hold onto.
+
+Which prevents you from being truly relaxed and free.
+
+
+(long pause)
+
 
 
 If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with ourselves.

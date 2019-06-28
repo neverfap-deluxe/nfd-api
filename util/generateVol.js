@@ -1,5 +1,7 @@
 const {
   stringFromArray,
+  generatePage,
+  generatePageChildren,
 } = require('./util');
 
 const {
@@ -75,10 +77,10 @@ const generateVol = async () => {
 
   const vol_4_final_string = stringFromArray(vol_4_website_content_array);
 
-  fse.outputFileSync(`vol_1/vol_1/vol_1.md`, vol_1_final_string);
-  fse.outputFileSync(`vol_2/vol_2/vol_2.md`, vol_2_final_string);
-  fse.outputFileSync(`vol_3/vol_3/vol_3.md`, vol_3_final_string);
-  fse.outputFileSync(`vol_4/vol_4/vol_4.md`, vol_4_final_string);
+  fse.outputFileSync(`vol-1/vol-1/vol-1.md`, vol_1_final_string);
+  fse.outputFileSync(`vol-2/vol-2/vol-2.md`, vol_2_final_string);
+  fse.outputFileSync(`vol-3/vol-3/vol-3.md`, vol_3_final_string);
+  fse.outputFileSync(`vol-4/vol-4/vol-4.md`, vol_4_final_string);
 };
 
 generateVol();

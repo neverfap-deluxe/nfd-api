@@ -22,7 +22,26 @@
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
-My name is Julius Reade and today we are going to be
+My name is Julius Reade and today we are going to be learning to think about our minds in a constructive way.
+
+So for this exercise, I first want you to focus on your mind.
+
+So we can truly understand what your mind is. 
+
+At a fundamental level, your mind is responsible for maintaining thought, decisions, emotion, beliefs, and all manner of conceptual ideas.
+
+And depending how we interact with these ideas.
+
+Your mind can be a place of peace.
+
+Or it can be a place of chaos. 
+
+Chances are if you've been struggling with your mind.
+
+Then it is because you have not been interacting with these ideas in a healthy way.
+
+
+
 
 
 If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with ourselves.

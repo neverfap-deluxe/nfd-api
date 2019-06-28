@@ -22,7 +22,11 @@
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
-My name is Julius Reade and today we are going to be
+My name is Julius Reade and today we are going to be focusing on our fingers.
+
+In particular, by moving our fingers around and noticing how it feels.
+
+
 
 
 If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with ourselves.

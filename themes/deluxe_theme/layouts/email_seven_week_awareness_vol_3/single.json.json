@@ -1,8 +1,8 @@
 {{ define "response" }}
 {
-  "day": {{ .Params.Day | jsonify }},
   "title": {{ .Title | jsonify }},
   "page_id": {{ .Params.PageId | jsonify }},
+  "day": {{ .Params.Day | jsonify }},
   "description": {{ .Description | jsonify }},
   "content": {{ .Content | jsonify }},
   "date": {{ .Date.Format "2006-01-02" | jsonify }},
