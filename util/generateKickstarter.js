@@ -1,3 +1,5 @@
+const fse = require('fs-extra');
+
 const {
   kickstarter_folder,
 } = require('./const');

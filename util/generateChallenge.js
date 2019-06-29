@@ -1,3 +1,5 @@
+const fse = require('fs-extra');
+
 const {
   challenge_folder,
 } = require('./const');

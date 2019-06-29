@@ -1,5 +1,4 @@
 const fse = require('fs-extra');
-const fs = require('fs');
 
 const {
   home_folder,
