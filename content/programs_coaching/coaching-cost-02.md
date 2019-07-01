@@ -19,6 +19,8 @@ If however you believe you require long-term support, then please checkout my Pa
 
 Each tier provides a different level of benefit and service, depending on how much support you believe you need.
 
+Basic on-going Patreon support begins at $25 a month. More details can be found on our <a class="link" href="/premium">Premium page</a> or on the <a class="link" href="https://www.patreon.com/neverfapdeluxe">NeverFap Deluxe Patreon page</a> itself.
+
 Here's the thing. I've dealt with an extraordinary amount of porn addicts, so I can usually tell a person within a few minutes.
 
 I can tell if it's going to take them years to beat this thing, because of their inherent refusal to trust the process.

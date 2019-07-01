@@ -22,8 +22,6 @@ This series has been designed to assist you better understand, as well as apprec
 
 They will be delivered to you on a weekly basis, so you can truly take the time to appreciate and understand them, and each volume has been structured to provide you with specific pathways which will help you gain the most out of your 7 weeks. 
 
-
-
 This series has been designed to help those new to meditation, as well serve as a strong foundation for those wanting to learn more about meditation best practice.
 
 You will be receiving a new guided meditation each day over the coming 10 days, which will take you through a variety of concepts and topics.

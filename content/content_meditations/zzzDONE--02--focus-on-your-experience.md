@@ -20,9 +20,6 @@
 
 ---
 
-
-EP1 - NeverFap Deluxe Guided Meditation Series
-
 In this guided meditation we explore this idea of experience.
 
 

@@ -23,11 +23,11 @@ In this episode I talk about self-limiting beliefs, how to identify them, as wel
 
 - Welcome to the NeverFap Deluxe podcast. 
   - My name is Julius Reade. 
-  - So you might be wondering, what is this podcast about? Well, let me tell you, young stranger! it’s a podcast about overcoming porn addiction *
-  - I also run a website called NeverFap Deluxe which aims to help people suffering from Porn addiction.
-  - In addition, I also run a Discord channel where I run an accountability program to help porn addicts like yourself, get advice and information, as well as commit to daily awareness and meditation practices.
-  - I also run a subreddit. 
-  - If you’d like to support the podcast, feel free to visit my Patreon (The easiest thing is if you just Google NeverFap Deluxe into Google)
+  - Explain what podcast is about.
+  - I run a website.
+  - I run a Discord channel.
+  - I run a subreddit. 
+  - I have a Patreon.
 
 - In this episode I talk about beliefs, in particular self-limiting beliefs.
   - What are self-limiting beliefs?
@@ -36,7 +36,10 @@ In this episode I talk about self-limiting beliefs, how to identify them, as wel
 - Mental health update
   - 
 
+- What are beliefs?
+
 - What are self-limiting beliefs?
+  - 
 
 - How are self-limiting beliefs developed?
   - Often, from our parents and peers.

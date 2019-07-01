@@ -24,11 +24,11 @@ In this episode I talk about the value of practice and consistency in helping us
 
 - Welcome to the NeverFap Deluxe podcast. 
   - My name is Julius Reade. 
-  - So you might be wondering, what is this podcast about? Well, let me tell you, young stranger! it’s a podcast about overcoming porn addiction *
-  - I also run a website called NeverFap Deluxe which aims to help people suffering from Porn addiction.
-  - In addition, I also run a Discord channel where I run an accountability program to help porn addicts like yourself, get advice and information, as well as commit to daily awareness and meditation practices.
-  - I also run a subreddit. 
-  - If you’d like to support the podcast, feel free to visit my Patreon (The easiest thing is if you just Google NeverFap Deluxe into Google)
+  - Explain what podcast is about.
+  - I run a website.
+  - I run a Discord channel.
+  - I run a subreddit. 
+  - I have a Patreon.
 
 - In today's episode we're going to be talking about the foundations of practice and consistency.
     - Obviously, how we can get into a routine of consistent practice, you know, doing things like meditation, remaining calm and aware, E T BLOODY C. Obviously, meaning etcetera.

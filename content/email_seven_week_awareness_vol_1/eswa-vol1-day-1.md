@@ -17,7 +17,9 @@
 
 Welcome to Week 1 of the 7 Week Awareness Challenge Vol 1.
 
-This week we are going to be focusing our attention
+This week we are going to focus on generating emotions. 
+
+
 
 ## Script
 

@@ -18,6 +18,8 @@
 
 ---
 
+In this guided meditation we explore this idea of observing our senses.
+
 <!-- focus -->
 
 <!-- This was never used, I actually utilised a different one that I recorded two weeks ago. -->

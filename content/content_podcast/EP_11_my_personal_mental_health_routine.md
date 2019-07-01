@@ -23,11 +23,11 @@ In this episode I talk about my own personal mental health routine and how you c
 
 - Welcome to the NeverFap Deluxe podcast. 
   - My name is Julius Reade. 
-  - So you might be wondering, what is this podcast about? Well, let me tell you, young stranger! it’s a podcast about overcoming porn addiction *
-  - I also run a website called NeverFap Deluxe which aims to help people suffering from Porn addiction.
-  - In addition, I also run a Discord channel where I run an accountability program to help porn addicts like yourself, get advice and information, as well as commit to daily awareness and meditation practices.
-  - I also run a subreddit. 
-  - If you’d like to support the podcast, feel free to visit my Patreon (The easiest thing is if you just Google NeverFap Deluxe into Google)
+  - Explain what podcast is about.
+  - I run a website.
+  - I run a Discord channel.
+  - I run a subreddit. 
+  - I have a Patreon.
 
 - In today’s episode I want to talk a bit about my own life, in particular my own ambitions and routines and essentially provide you with insight into what makes The Reade tick!
   - Basically, I follow all the advice that I give you people, and so I thought I might do a podcast about me, so you can better understand what you as an individual are capable of. 

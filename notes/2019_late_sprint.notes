@@ -27,8 +27,6 @@
   - Record/Edit all seven week awareness strategy - vol 4.
 
 ## Marketing
-  - Build UI into Practices Pages to advertise these courses.
-    - 23/06/2019 Created most of the logic there.
   - Build UI into Meditations Page to advertise these courses.
   - Come up with pages for these paid resources
   - Seven week awareness strategy banner
@@ -36,6 +34,9 @@
 
 ## Infrastructure
   - Figure out e-Book options for all these resources
+
+
+
 
 # DONE
 
@@ -69,6 +70,9 @@
 
 ## Marketing
   - 23/06/2019 - Come up with designs for paid content
+  - Build UI into Practices Pages to advertise these courses.
+    - 23/06/2019 Created most of the logic there.
+    - 29/06/2019 - Finished the rest of it.
 
 ## Infrastructure
   - 18/06/19 - Fix seven_day_kickstarter generator
