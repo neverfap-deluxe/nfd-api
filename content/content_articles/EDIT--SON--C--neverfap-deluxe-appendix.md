@@ -2,7 +2,7 @@
   title: "NeverFap Deluxe Appendix" # without porn?
   description: "An appendix of related NeverFap Deluxe terms, phrases and lingo."
   date: 2019-06-07
-  draft: true
+  draft: false
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
 
@@ -15,18 +15,14 @@
 
 ---
 
-We don't have a large appendix of terms, because NeverFap Deluxe is a super simple at it's core.
+We don't have a large appendix of terms, because NeverFap Deluxe is super simple at it's core.
 
-Why complicate an already complicated addiction?
+## Terms
 
+NFD: NeverFap Deluxe
 
-### Terms
+PMO: Porn, Masturbation, Orgasm
 
-NFD - NeverFap Deluxe
+HCM: Healthy Coping Mechanisms
 
-PMO - Porn, Masturbation, Orgasm
-
-HCM(s) - Healthy Coping Mechanisms
-
-UCM(s) - Unhealthy Coping Mechanisms
-
+UCM: Unhealthy Coping Mechanisms

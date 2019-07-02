@@ -1,17 +1,17 @@
 ---
-  title: "Your Porn Addiction Is Not Who You Are" # without porn?
-  description: "Once we understand that we are none of the things that our addiction defines us as, it can help empower us to move forward."
+  title: "There Is Nothing Inherently Wrong With You"
+  description: "Once you understand that a lot of your dysfunction is a result of your addiction, you can come to appreciate your recovery with a more open mind."
   date: 2019-03-24
-  draft: true
+  draft: false
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
   
-  slug: "your-porn-addiction-is-not-who-you-are"
+  slug: "there-is-nothing-inherently-wrong-with-you"
 
-  tldr1: "Currently your addiction is who you are, because it is the life you currently live."
-  tldr2: "However, it doesn't have to be who you are as you get to choose who you want to be through your actions."
+  tldr1: "There is nothing inherently wrong with you."
+  tldr2: "All those undesirable traits are as a result of your porn addiction, and will disappear once you subsequently overcome it."
 
-  pageId: "57356635-5dfe-45af-97c9-d09e2a04ef23"
+  pageId: "f17419d8-9ced-4597-9241-079669913dcb"
 
 ---
 
@@ -46,12 +46,12 @@ Essentially, the problem is that you're not functioning effectively because you 
 And that's really all there is to know about it.
 
 
-{{< hr3 "Which is also to say that all those aspects which you believe are wrong with you are due to your porn addiction." >}}
+{{< hr3 "Which is also to say that a large part of those things which are wrong with you, are due to your porn addiction." >}}
 
 
 So to go back to our first question, are you actually addicted to those extreme fetishes you watch?
 
-Well for the time being, yes, because you are a porn addict and that's what you've trained your mind to like.
+Well, for the time being, yes, because you are a porn addict and that's what you've trained your mind to like.
 
 However, what this also means once you overcome your porn addiction, you no longer will be thinking about those fetishes, because you won't be thinking about porn at all. 
 
@@ -71,27 +71,34 @@ The other half is replacing those negative behaviours with positive ones so that
 
 So to answer the second question, do you have depression or is merely part of the recovery process? 
 
-Well much like the first answer, yes you do have depression, however whether it is part of the recovery process is entirely up to you and how you decide to approach your recovery. 
+Well much like the first answer, yes you do have depression, however whether you recover from it is entirely up to you and how you decide to commit to your mental health. 
 
 If you do not actively work on your mental health, nothing will change and you will remain permanently depressed.
 
-Of course, an interesting question people have is, well what about the positive aspects of who I am? Like my quirkiness and dark humour? Are they a result of my addiction and mental health?
 
-In a lot of ways, it is - but it's not a symbionic relationship by any means. 
-
-Which is to say that I'm just as quirky and as fun and as retarded as I was prior to my addiction. 
-
-None of that has changed since I've overcome my addiction. Instead, what's happened is that I've merely gained new abilities to control my mind. 
+{{< hr3 "Lastly, what about all those fun, positive, quirky aspects of my personality like my dark sense of humour?" >}}
 
 
-So in summary, you are not your addiction.
+Are they a result of my addiction and my poor mental health, and will they disappear once I recover and become my best self?
 
+Yes. 
 
+Those things are as a result of your addiction and your poor mental health, largely because your personality is a compliation of everything you've experienced up until now.
 
+Of course, this is also to say that both your positive and negative attributes are not exclusive to your addiction, however your addiction may have shaped it to a large extent. 
 
-<!-- 
+So it is something we lose once we recover?
 
-So let's get back to basics and talk about what "functioning effectively" actually means.
+Well, that's entirely up to you.
 
-It means doing things which are counter-productive to your growth as a human being. It means going against  -->
+The beautiful thing about developing control over your mind, is that it allows you to live your life and be whoever you want to be.
 
+If you want to quirky, you can be quirky. If you want to be normal, you can be normal. If you want to be both quirky and normal within the same day, that's totally fine too.
+
+Personally speaking, I'm just as quirky, fun and retarded as I was prior to my addiction. 
+
+The only difference is I don't feel terrible all the time.
+
+I'm happy, in-control and I have new skills and abilities to deal with life in a more constructive way.
+
+And I wouldn't change it for the world.
