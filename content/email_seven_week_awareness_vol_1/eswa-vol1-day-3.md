@@ -13,8 +13,25 @@
 
 ---
 
-slow down time - Focus/Attention
-identify points of awareness throughout the day - Awareness/Observation
-can you look through walls? - Focus/Attention
-looking straight ahead - Focus/Attention
+## Week 3 - Relax Everything
 
+Welcome to Week 3 of the 7 Week Awareness Challenge Vol 1.
+
+This week we are going to be focusing our attention
+
+## Script
+
+
+Hello, and welcome to Week 3 of volume 1 of the 7 week awareness challenge.
+
+In this exercise what we are going to do is actively focus on this idea of remaining completely relaxed.
+
+And I mean, completely relaxed. 
+
+Because ultimately, no different to being focused, or even grateful, being relaxed a skill which we develop through active practice. And that's essentially what we're going to be doing today with this exercise.
+
+Chances are, if you're the kind of person who struggles to relax, then it probably means 
+
+
+
+Think of it in terms of stages.

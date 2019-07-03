@@ -13,7 +13,18 @@
 
 ---
 
-identify points of awareness throughout the day - Awareness/Observation
-can you look through walls? - Focus/Attention
-looking straight ahead - Focus/Attention
+## Week 4 - Slow Down Time
+
+Welcome to Week 4 of the 7 Week Awareness Challenge Vol 1.
+
+This week we are going to be focusing our attention
+
+## Script
+
+
+Hello, and welcome to Week 4 of volume 1 of the 7 week awareness challenge.
+
+In this exercise what we are going to do is embrace a practice which will help us to better conceptualise our prioritises in life, by manipulating how we view time on an individual level. 
+
+
 
