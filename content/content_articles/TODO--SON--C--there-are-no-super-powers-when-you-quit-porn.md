@@ -1,12 +1,12 @@
 ---
-  title: "There Are No Super Powers Only Super Actions"
+  title: "There Are No Super Powers When You Quit Porn"
   description: "."
   date: 2019-10-24
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
 
-  slug: "there-are-no-super-powers-only-super-actions"
+  slug: "there-are-no-super-powers-when-you-quit-porn"
 
   tldr1: "."
   tldr2: "."
