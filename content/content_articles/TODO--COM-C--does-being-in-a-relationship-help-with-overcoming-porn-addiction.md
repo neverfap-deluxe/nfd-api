@@ -19,7 +19,10 @@ People often ask me whether being in a relationship helps with overcoming porn a
 
 In fact, a lot of people are somewhat sold on this idea that they won't be able to overcome their porn addiction unless if they're first in a relationship.
 
-Where they're receiving that love and attention, as well as participating in physical sex on a regular basis.
+In part because a lot of these same people are trying to overcome their porn addiciton
+
+
+Or at least in some sort of positive where they are receiving that love and attention from a significant other, as well as participating in physical sex on a regular basis.
 
 With a lot of people attempting to give up porn in order to get themselves in a relationship.
 

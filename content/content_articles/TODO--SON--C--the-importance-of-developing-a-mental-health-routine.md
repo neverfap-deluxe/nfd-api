@@ -13,8 +13,6 @@
   pageId: "139aec95-caba-4728-bff7-5c407a606123"
 ---
 
-
-
 I always find it interesting when I talk to people and they tell me that they don't have a mental health routine in place.
 
 It's a bit like trying to navigate through a jungle without a map. You're going to get lost, relapse and probably die from dengue fever.

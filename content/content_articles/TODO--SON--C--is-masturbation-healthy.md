@@ -16,15 +16,30 @@
 ---
 
 
-This is an interesting topic to discuss, in part because I get a lot of questions about whether masturbation is okay within the context of porn recovery.
+This is an interesting topic to discuss, in part because I get a lot of questions regarding the nature of masturbation and whether it's healthy or not.
+
+Not only within the context of porn addiction recovery, but in general as well as something for humans to do.
 
 I'm also excited to write this article because I have a very clear answer to this question which I think will make a lot of sense to both addicts and non-addicts alike.
 
-So, is masturbation healthy?
+
+{{< hr3 "So, is masturbation healthy?" >}}
+
 
 In order to answer this question, we really need to dive a bit deeper into why we're asking this question to begin with, and in particular, why people masturbate within the first place.
 
-Ultimately, it comes down to coping mechanisms.
+For starters, if you're a porn addict and you're asking this question, then you're probably most definitely asking this question for all the wrong reasons. So in your case, obviously it's not healthy.
+
+However to provide a more definite answer, ultimately it comes down to how you use masturbation to cope with things like stress, depression and anxiety life.
+
+If you don't use masturbation as a means to help you cope, as in it's just a form of controlled pleasure for you, then I'm sure it's perfectly healthy for you to continue doing so. 
+
+Of course, I'm yet to actually meet anyone who is capable of casually masturbating without it eventually becoming a dependency of some sort, although I'll provide you with the benefit of the doubt.
+
+If on the other hand you depend on masturbation to help you cope with life, then it definitely isn't okay to masturbate during your recovery, if ever at all. 
+
+
+
 
 When you think about the reason why people masturbate and watch porn, it's because that's their response to coping with the emotions and feelings they're currently experiencing.
 
