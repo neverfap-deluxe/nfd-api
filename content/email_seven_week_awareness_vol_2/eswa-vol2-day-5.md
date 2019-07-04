@@ -13,13 +13,22 @@
 
 ---
 
+## Week 5 - Stop Absolutely Everything You're Doing
 
-r
-take note of the colour yellow - awareness/observation
-dissolve your visual field - awareness/observation
-catch out your judgements - awareness/observation
-what can your hand do - awareness/observation
-stop abolutely everything you are doing - focus/attention
-developing routine - awareness/observation
-blind attention - focus/observation
+Welcome to Week 7 of the 7 Week Awareness Challenge Vol 1.
+
+This week we are going to be focusing our attention
+
+## Script
+
+<!-- INTRO -->
+
+Hello, and welcome to Week 6 of volume 1 of the 7 week awareness challenge.
+
+At it's core this exercise is really about control, and exerting control in a very abrupt and direct way. 
+
+The idea behind this exercise is to literally stop what you're doing, and adopt this notion as a fundamental principle in your life.
+
+Not only to teach you priority in life, however also to 
+
 

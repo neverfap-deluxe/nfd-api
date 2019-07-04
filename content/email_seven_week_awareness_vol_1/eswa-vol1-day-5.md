@@ -35,3 +35,8 @@ And the funny is that, this is something we actually treat as being quite normal
 
 For example we will be studying for a few hours, and then we'll hit a point where we feel as if we simply cannot study anymore. Like, as if our mind has actually physically shut off on some level.
 
+Well, the real reason for this is because at some point you actually lost your capacity for conscious awareness
+
+So that's in part what this exercise is here to help you achieve, which is to remain aware by consciously identifying key points throughout the day. 
+
+
