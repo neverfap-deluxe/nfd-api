@@ -13,4 +13,14 @@
 
 ---
 
-r
+## Week 4 - What Can Your Hand Do?
+
+Welcome to Week 4 of the 7 Week Awareness Challenge Vol 2.
+
+
+## Script
+
+Hello, and welcome to Week 4 of volume 2 of the 7 week awareness challenge.
+
+In this exercise what we are going to do is pay attention to the judgements we personally make on a daily basis.
+

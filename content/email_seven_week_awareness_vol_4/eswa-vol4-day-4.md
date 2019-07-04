@@ -13,4 +13,13 @@
 
 ---
 
-a
+## Week 4 - Every 30 Minutes
+
+Welcome to Week 4 of the 7 Week Awareness Challenge Vol 4.
+
+
+
+## Script
+
+Hello, and welcome to Week 4 of Volume 4 of the 7 week awareness challenge.
+

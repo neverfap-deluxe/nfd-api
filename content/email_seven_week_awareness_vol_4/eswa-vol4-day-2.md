@@ -13,4 +13,14 @@
 
 ---
 
-r
+## Week 2 - Just Do, Don't Think
+
+Welcome to Week 2 of the 7 Week Awareness Challenge Vol 4.
+
+
+
+## Script
+
+Hello, and welcome to Week 2 of Volume 4 of the 7 week awareness challenge.
+
+For this week's exercise, we are going to commit to a practice which is as much a mindset, as it is a physical action. 
