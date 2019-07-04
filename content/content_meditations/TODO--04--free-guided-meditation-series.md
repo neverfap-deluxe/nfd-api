@@ -24,13 +24,13 @@
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
-My name is Julius Reade and today we are going to be learning to let go of stress and tension.
+My name is Julius Reade and today we are going to be learning to let go of any tension we may be feeling.
 
-Stress and tension are two things which are common in most people's lives. 
+Stress and tension are two things which are common in many people's lives. 
 
-It could be your job that is causing you to feel stressed. Perhaps your workload is beginning to become unmanagable, or perhaps you're still struggling to figuring your career out. 
+You may be feeling stressed as a result of your job. Perhaps your workload is beginning to become unmanagable, or perhaps you are in a position where you still don't quite know what it is you want to do with your career.
 
-It could be the tension you experience from friends and family, when things don't turn out exactly how you want it to go.
+Or perhaps the tension you are feeling is coming from friends and family. Maybe you are currently experiencing drama in your life, and things are not turning out exactly how you want it to go.
 
 There are any number of ways both stress and tension can become the focus in our minds.
 

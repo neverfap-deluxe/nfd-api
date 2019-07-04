@@ -27,9 +27,9 @@ My name is Julius Reade and today we are going to be paying attention to our bre
 
 In particular, I want you to notice the intonation of your breath. 
 
-When you breathe in.
+Notice when you breathe in.
 
-And when you breathe out. 
+And notice when you breathe out. 
 
 And I want you to pay attention to the rhythm that you create, as you breathe in, and out. 
 
@@ -41,16 +41,12 @@ In.
 
 And out.
 
-And I'll let you do this within your own space.
-
-
+And I'll let you contiune to pay attention to this rhythm for the next while or so.
 
 
 If your mind has wandered off during this exercise, then that's okay. 
 
-All we need to do is relax, and reconnect with ourselves.
-
-Focusing our attention back to our breath. 
+All we need to do is relax, and reconnect back with our breath.
 
 Focusing on when we breathe in.
 
@@ -60,14 +56,14 @@ In.
 
 And out.
 
+Maintaining the rythm, that is our own breath.
 
 
-
-One thing to keep in mind with meditation, is that all these exercises are not mindless in nature.
+One thing to keep in mind with these exercises, is that although something as simple as breathing may seem mindless in nature.
 
 If you feel as if you are not truly present with your breath in this current moment.
 
-Then you are not truly practicing meditation.
+Then you are not truly practicing this exercise as intended.
 
 You see, this exercise doesn't have a lot to do with your breath, at all. 
 
@@ -79,7 +75,7 @@ First, by relaxing.
 
 Then, by placing our attention on our breath in all aspects.
 
-So let's focus back on the intonation of our breath.
+So let's focus our attention back on the intonation of our breath.
 
 When we breathe in. 
 
@@ -90,14 +86,9 @@ Paying close attention to the physical sensation of breathing.
 And I'll let you do this within your own space.
 
 
-
-
 If you find your mind wandering off again, that’s okay. Just gently remind yourself to be present with yourself. 
 
 All we are doing is remaining relaxed, as well as present with our breath. 
-
-
-
 
 
 And that brings us to the end of this session. Thank you for listening. I wish you best of luck with your day. This has been the NeverFap Deluxe Guided meditation series.
