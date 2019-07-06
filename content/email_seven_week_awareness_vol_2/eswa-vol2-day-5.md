@@ -15,7 +15,7 @@
 
 ## Week 5 - Stop Absolutely Everything You're Doing
 
-Welcome to Week 7 of the 7 Week Awareness Challenge Vol 1.
+Welcome to Week 5 of the 7 Week Awareness Challenge Vol 1.
 
 This week we are going to be focusing our attention
 
@@ -23,7 +23,7 @@ This week we are going to be focusing our attention
 
 <!-- INTRO -->
 
-Hello, and welcome to Week 6 of volume 1 of the 7 week awareness challenge.
+Hello, and welcome to Week 5 of volume 2 of the 7 week awareness challenge.
 
 At it's core this exercise is really about control, and exerting control in a very abrupt and direct way. 
 

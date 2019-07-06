@@ -13,4 +13,16 @@
 
 ---
 
-r
+## Week 7 - Blind Attention
+
+Welcome to Week 6 of the 7 Week Awareness Challenge Vol 1.
+
+This week we are going to be focusing our attention
+
+## Script
+
+<!-- INTRO -->
+
+Hello, and welcome to Week 7 of volume 2 of the 7 week awareness challenge.
+
+For this exercise what we are going to do is focus our attention in a very conceptual way which will help you better 
