@@ -14,6 +14,7 @@
   pageId: "24E1AA5E-85B5-4EE1-839A-FBED5B81D628"
 ---
 
+
 There are a lot of misconceptions out there in regards to the porn addiction recovery process, and today I hope to discuss one of the more common misconceptions that people have.
 
 Which arguably is a misconception that has probably plagued everyone at some point during their journey.
@@ -24,7 +25,11 @@ It's a huge misconception because relying on motivation is probably one of the m
 
 So let's dive a bit deeper into why.
 
-The primary problem with motivation is that it's not a solid principle, which is to say that it's something which fluctuates.
+
+{{< hr3 "The primary problem with motivation is that it's not a solid principle." >}}
+
+
+which is to say that it's something which fluctuates.
 
 A lot of people develop this idea that if they can build up enough motivation, and furthermore maintain that motivation, then they'll be able to succeed with their goals.
 
@@ -38,7 +43,9 @@ Only through a process of practice and consistency can we overcome our feelings 
 
 People assume that it's about feeling happy and motivated - which is what the end result will be, but it's also detached from the actual process itself.
 
-Instead, it's about learning to be resilient and mentally balanced
+
+{{< hr3 "Instead, it's about learning to be resilient and mentally balanced" >}}
+
 
 In other words, being happy and motivated is not a substitute for balance itself.
 
