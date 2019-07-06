@@ -1,6 +1,6 @@
 ---
   title: "Is Porn Fundamentally Wrong?"
-  description: "."
+  description: "In this article I explore some this id."
   date: 2019-11-01
   draft: true
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]

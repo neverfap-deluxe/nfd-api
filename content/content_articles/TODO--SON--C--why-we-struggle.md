@@ -9,29 +9,31 @@
   
   slug: "why-we-struggle"
 
-  tldr1: ""
-  tldr2: ""
+  tldr1: "Struggle is a reflection of how you respond to expectation."
+  tldr2: "By learning to dissolve expectation we can learn to live without struggle in life."
 
   pageId: "fa265415-9bc3-4973-9dff-a14713f51afb"
 
 ---
 
 
+<!-- Needs a good write-over. -->
+
 Today I want you to think about this concept of "struggle".
 
 Because it's a concept porn addicts seem all-too-familiar with, prominently as an all-consuming aspect of their daily lives.
 
-We struggling with our feelings and emotions. We struggle with the people in our lives. Which causes us to struggle with the basics, like deciding whether we're even going to wake up this morning.
+We struggle with our feelings and emotions. We struggle with the people in our lives. Which at a fundamental level causes us to struggle with making even the most basic of decisions, such as deciding whether we're even going to wake up in the morning.
 
-Well, this is why it's important that we approach this topic in a meaningful way, so we can truly understand the dynamics behind why we struggle. 
+Well, it's these reasons why it's important that we approach this topic in a meaningful way, so we can truly understand the dynamics behind why we struggle. 
 
-So we can choose healthier alternatives that empower us. 
+So we can choose to understand more complete dynamics which empower us, rather than leave us dazed and hopeless. 
 
-And that's really what's so amazing about NeverFap Deluxe. It's about teaching us to think in empowering ways that make life easy, not arduous and difficult. 
+And that's really what's so amazing about NeverFap Deluxe. It's all about teaching us to think in empowering ways that can make life easy, not increasingly arduous and more difficult. 
 
-What people often fail to understand is that struggle does not have to be a part of the recovery process, if you choose to play it smart.
+What people often fail to understand is that struggle does not have to be a part of the recovery process, if you decide to play it smart.
 
-In fact, I would argue that it's almost impossible to overcome porn addiction if you're struggling with it, which is why it's important that we address it now.
+In fact, I would argue that it's almost impossible to overcome porn addiction if you're struggling with it in any significant way, which is why it's important that we address it as a fundamental requirement of recovery, rather than a simple nice-to-have.
 
 So what is struggle?
 
@@ -41,51 +43,66 @@ So what is struggle?
 
 What does this mean? 
 
-Essentially it means that struggle is a reflection of you. 
+Essentially it means that struggle is a reflection of you as a person. 
 
-When we typically think about struggle, we think about the thing which we are struggling with. You know, it could be a really hard maths problem we're trying to solve or perhaps it could be plain life itself. 
+When we typically think about struggle, we often focus our attention on the thing which we are struggling with. 
 
-We struggle with the thing, and then immediately we begin to question the struggle as a form of rationalisation i.e. Unhealthy Coping Mechanism. 
+You know, it could be a really hard maths problem we're trying to solve or perhaps it could even be an uneasy thought we're experiencing. 
+
+And when we struggle, in most cases it usually expresses itself as a form of rationalisation i.e. Unhealthy Coping Mechanism. 
 
 
 "Am I stupid? Why am I so dumb? How the hell do I do this thing!?"
 
 
-Ultimately, reason why we do this is because we fail to understand the dynamics of the situation. 
+Yet when we get caught up in these dialogs of self-criticism, very rarely do we truly expose ourselves to the true nature of the situation. 
 
-Which is to say that the situation doesn't meet our expectations, and so we try and rationalise what might be wrong. 
+In fact, self-criticism is a perfect way to mask any involvement you had contributing towards this struggle at all. When you have something to blame, it immediate absolves any responsibility you had.
 
-This kind of behaviour is nothing more than instinctual habit we've learnt over the years. Which is to say that struggle is not only a way of thinking, but a pattern we've personally learnt and developed. 
+And the sad thing is that this is how a lot of people end up living their lives, full of blame and self-criticism, which leads them to continue struggling, because in their minds it seems a lot easier than actually trying to understand the dynamics of the situation.
 
-So what's the alternative then to this questioning and rationalisation?
+Yet I don't even think it's that convoluted, because I don't believe people willingly want to suffer.
 
-Well, it can first help to understand that struggle is a conscious decision. As it's a behaviour, it's a choice you consciously make in that moment to react. 
+I think the reason why people fall into these traps of continual suffering is because they simply don't know better.  
+
+In essence, this kind of behaviour is nothing more than instinctual habit we've learnt over the years. Which is to say that struggle is not only a way of thinking, but a pattern we've reinforced and developed. 
+
+So what's the alternative then, to this self-criticism and self-justified rationalisation?
+
+Well, it can first help to understand that struggle is a conscious decision. Which is to say that it's a behaviour, born out of a choice you consciously made in that moment of "struggle" to react. 
 
 
-{{< hr3 "Which is to say that you're solely responsible for your struggle and how that makes you feel, not the activity itself." >}}
+{{< hr3 "Which coming back to this idea of 'reflection' is to say that struggle is a choice." >}}
 
 
 It's a bit like being stuck in quick sand. You can either choose to struggle with it, which means to fight it and sink further, or you can choose instead to relax and calm down, remaining in place until you can get help. 
 
-Afterall, you're not effective without a calm mind.
+In more practical terms, what this means is coming to understand why you're struggling and addressing it, rather than simply dismissing your struggle as a lost cause.
 
-And this really brings us to the alternative to struggle, which instead is to let go and simply be present with your feelings and emotions, without working yourself into a frustrated panic.
+On a more fundamental level, this means changing how we react to expectation of difficulty.
 
-Part of the reason why so many people struggle comes down to society and this idea of being goal-driven.
+Instead of immediately turning to hopeless rationalisations and self-criticisms at the sight of difficult, it means learning to let go and simply be present with your feelings and emotions, without working yourself into a frustrated panic.
 
-We set ourselves these goals and expections, with doesn't help us to full appreciate the process. 
+Remember, these are all learnt habits at the end of the day. There's nothing inherently special about how you react, there is only the reaction which you have consistently practiced many times before.
+
+Certainly, part of the reason why many of us have developed these destructive habits to begin with comes down to society and this idea of being goal-driven.
+
+We set ourselves these goals and expections, and in doing so we fail to appreciate the underlying process. 
 
 When we set ourselves the goal of "This will be the last time I ever masturbate and watch porn" and we struggle with that goal, our immediate reaction isn't to adjust our expectations. 
 
-Instead, we merely try and reinforce these expectations, which merely leads to frustration, failure and hopelessness.
 
-What I'm asking you to do instead is focus on the process, which means focusing on your feelings. 
+{{< hr3 "Instead, we merely try and reinforce these expectations, which leads to further frustration, failure and hopelessness." >}}
 
-This means learning to remain calm. 
+
+What I'm asking you to do instead, is focus your attention on the process itself, which means focusing on your feelings and learning to remain calm. 
 
 Why?
 
-Because process is king, and struggling doesn't help us meet our goals efficiently.
+Because process is king, and the way you break long-term habits is by focusing on remaining calm and not reacting to our emotions.
+
+Essentially what we're doing is trying to these expectations altogether.
+
 
 The great irony of struggle is that when you focus on outcomes, in particular the struggle you're experiencing, you actually achieve less than if you were to focus on the process. 
 
@@ -93,16 +110,29 @@ And you know the funniest thing of all? Struggle itself is nothing more than a p
 
 You perceive that you're struggling based on the expectations you have about who you are or where you should be in life. 
 
-When really, there's nothing wrong with you or you capability to deal with the situation. You're simply dysfunctioning without truly realising it.
+When really, there's nothing wrong with you or you capacity to deal with the situation. You're simply dysfunctioning without truly realising it.
 
-In a sense, this is why it's important to focus on ourselves and how we are personally responding when we're struggling, rather than on the task at hand. 
 
-When we say we're struggling to learn advanced mathematical concepts, what we're really saying is that we personally have difficulty with mathematical concepts.
+{{< hr3 "This is also why it's important to focus on ourselves and how we personally respond when we're struggling, rather than on the task at hand." >}}
+
+
+Which will help us develop a more honest point of view, which can help us cut through the stories and narratives we may have that "we're not good enough".
+
+When we say we're struggling to learn advanced mathematical concepts, what we're really saying is that we personally have difficulty with advanced mathematical concepts.
 
 
 In no way does this struggle reflect the difficulty, or perhaps even the absurdity of mathematics as a subject.
 
-As I stated earlier, it reflects you and how you decided to respond to your own self-perception.
+As I stated earlier, it's a reflection you and your response.
+
+It has absolutely nothing to do with your ability with mathematics, instead it has to do with the expectations you have of the situation and how you respond to those expectations.
+
+To truly highlight the absurdity of why we're solely dealing with expectation, imagine giving a complicated university maths to a 5 year old. 
+
+
+
+
+
 
 What can help is to make a list of all the things that you personally feel like you struggle with.
 
