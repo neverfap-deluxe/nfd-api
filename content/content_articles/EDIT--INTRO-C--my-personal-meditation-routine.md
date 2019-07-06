@@ -33,7 +33,7 @@ Not only does this kind of pressure stress people out, however it's also counter
 
 I suppose it's a bit like when you're getting ready to go for a big night out on the town, and you end up spending 2 hours cycling through clothes and hairstyles because you can't quite figure out which look to go for.
 
-That's the exactly opposite of what meditation should be. 
+That's the exact opposite of what meditation should be. 
 
 It should be as casual as popping on sandals to walk down to the local shops, to grab a bottle of milk.
 

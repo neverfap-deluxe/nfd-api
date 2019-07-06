@@ -99,6 +99,7 @@ In a sense, this is why it's important to focus on ourselves and how we are pers
 
 When we say we're struggling to learn advanced mathematical concepts, what we're really saying is that we personally have difficulty with mathematical concepts.
 
+
 In no way does this struggle reflect the difficulty, or perhaps even the absurdity of mathematics as a subject.
 
 As I stated earlier, it reflects you and how you decided to respond to your own self-perception.

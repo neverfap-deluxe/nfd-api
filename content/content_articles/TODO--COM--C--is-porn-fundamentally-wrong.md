@@ -14,7 +14,9 @@
 ---
 
 
-I think it's important to discuss these topics, because the porn addiction recovery process can be a particularly emotional journey, if not an outright conflicting one at times.
+I think this is an important topic to discuss, because the porn addiction recovery process can be a particularly emotional journey, which can lead to 
+
+ if not an outright conflicting one at times.
 
 Especially in the midst of relapse where we can feel angry and frustrated and feel as if porn itself has become this kind of conceptual devil which refuses us to let us continue on with our lives in any capacity.
 
