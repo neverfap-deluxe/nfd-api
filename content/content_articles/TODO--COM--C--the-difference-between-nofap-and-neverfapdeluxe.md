@@ -13,10 +13,9 @@
   pageId: "3F859786-7391-4A00-9202-DEAE017259CA"
 ---
 
-
 Today I want to write about the fundamental difference between NoFap and NeverFap Deluxe.
 
-Part of the reason why I created NeverFap Deluxe was to address the shortcomings of NoFap and that's really what I want to discuss today.
+Part of the reason why I created NeverFap Deluxe was to address the shortcomings of NoFap, and it's important for you to understand these shortcomings so you can make better decisions about your porn addiction recovery.
 
 Put simply, the primary problem with NoFap is that there is no "NoFap Method" for people to follow. 
 

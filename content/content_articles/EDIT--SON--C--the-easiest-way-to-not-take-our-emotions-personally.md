@@ -143,4 +143,3 @@ We provide a variety of awareness exercises via the NeverFap Deluxe Practices se
 Then, you'l have a much easier time learning not to take your own emotions personally.
 
 As well as remain calm in the face of emotional uncertainty.
-
