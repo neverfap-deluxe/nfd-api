@@ -17,6 +17,19 @@
 
 Welcome to Week 4 of the 7 Week Awareness Challenge Vol 4.
 
+This week we are going to be practicing an exercise called Every 30 Minutes which is 
+
+
+For further information on this practice, please visit the Every 30 Minutes page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/every-30-minutes" "Every 30 Minutes" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
 
 
 ## Script

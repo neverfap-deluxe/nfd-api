@@ -18,6 +18,19 @@
 
 Welcome to Week 2 of the 7 Week Awareness Challenge Vol 3.
 
+This week we are going to be practicing an exercise called Use Your Opposite Hand which is 
+
+
+For further information on this practice, please visit the Use Your Opposite Hand page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/use-your-opposite-hand" "Use Your Opposite Hand" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
 
 
 ## Script

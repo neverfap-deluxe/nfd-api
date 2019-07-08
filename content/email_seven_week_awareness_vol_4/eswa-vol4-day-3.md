@@ -17,6 +17,19 @@
 
 Welcome to Week 3 of the 7 Week Awareness Challenge Vol 4.
 
+This week we are going to be practicing an exercise called Fighting Spirit which is 
+
+
+For further information on this practice, please visit the Fighting Spirit page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/fighting-spirit" "Fighting Spirit" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
 
 
 ## Script

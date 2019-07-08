@@ -17,7 +17,22 @@
 
 Welcome to Week 2 of the 7 Week Awareness Challenge Vol 1.
 
-This week we are going to be focusing our attention
+This week we are going to be practicing an exercise called Focus On Your Finger And Your Background which is a perspective exercise which is designed to help you become more aware of the different points of view you may have throughout the day.
+
+
+
+
+For further information on this practice, please visit the Focus On Your Finger And Your Background page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/focus-on-your-finger-and-your-background" "Focus On Your Finger And Your Background" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
+
 
 ## Script
 
@@ -68,3 +83,8 @@ focus our attention in particular ways, in order to help us better understand th
 
 
 What we want to do as well throughout the day, is to ask ourselves, what perspective am I looking at things from and in addition, asking ourselves how that perspective makes us feel.
+
+
+<!-- TAKEAWAY QUESTIONS -->
+
+What is your perspective?

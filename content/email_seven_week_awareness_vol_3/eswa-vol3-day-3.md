@@ -17,6 +17,19 @@
 
 Welcome to Week 3 of the 7 Week Awareness Challenge Vol 3.
 
+This week we are going to be practicing an exercise called Who Is Looking? which is 
+
+
+For further information on this practice, please visit the Who Is Looking? page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/who-is-looking" "Who Is Looking?" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
 
 
 ## Script

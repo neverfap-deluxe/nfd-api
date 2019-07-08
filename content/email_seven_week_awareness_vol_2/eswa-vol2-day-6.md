@@ -15,9 +15,22 @@
 
 ## Week 6 - Developing Routine
 
-Welcome to Week 6 of the 7 Week Awareness Challenge Vol 1.
+Welcome to Week 6 of the 7 Week Awareness Challenge Vol 2.
 
-This week we are going to be focusing our attention
+This week we are going to be practicing an exercise called Developing Routine which is 
+
+
+For further information on this practice, please visit the Developing Routine page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/developing-routine" "Developing Routine" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
+
 
 ## Script
 

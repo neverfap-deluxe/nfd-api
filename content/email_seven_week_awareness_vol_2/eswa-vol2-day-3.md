@@ -13,9 +13,23 @@
 
 ---
 
-## Week 3 - Dissolve Your Visual Field
+## Week 3 - Catch Out Your Judgements
 
 Welcome to Week 3 of the 7 Week Awareness Challenge Vol 2.
+
+This week we are going to be practicing an exercise called Catch Out Your Judgements which is 
+
+
+For further information on this practice, please visit the Catch Out Your Judgements page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/catch-out-your-judgements" "Catch Out Your Judgements" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
 
 
 ## Script

@@ -18,6 +18,20 @@
 
 Welcome to Week 2 of the 7 Week Awareness Challenge Vol 2.
 
+This week we are going to be practicing an exercise called Dissolve Your Visual Field which is 
+
+
+For further information on this practice, please visit the Dissolve Your Visual Field page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/dissolve-your-visual-field" "Dissolve Your Visual Field" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
+
 
 ## Script
 

@@ -17,6 +17,20 @@
 
 Welcome to Week 6 of the 7 Week Awareness Challenge Vol 4.
 
+This week we are going to be practicing an exercise called Catching The Odd Judge Out which is 
+
+
+For further information on this practice, please visit the Catching The Odd Judge Out page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/catching-the-odd-judge-out" "Catching The Odd Judge Out" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
+
 
 ## Script
 

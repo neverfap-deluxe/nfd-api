@@ -17,7 +17,22 @@
 
 Welcome to Week 5 of the 7 Week Awareness Challenge Vol 1.
 
-This week we are going to be focusing our attention
+This week we are going to be practicing an exercise called Identify Points Of Awareness Throughout The Day which is all about teaching us to maintain a routine of awareness.
+
+This is a great exercise to practice if you struggle to maintain awareness on a daily basis, as well as if you struggle to maintain routine.
+
+For further information on this practice, please visit the Identify Points Of Awareness Throughout The Day page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/identify-points-of-awareness-throughout-your-day" "Identify Points Of Awareness Throughout The Day" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
+
+
 
 ## Script
 

@@ -13,9 +13,26 @@
 
 ---
 
+<!-- TODO: Maybe have a breakdown of the audio as well in each email. -->
+
 ## Week 1 - Take Note Of The Colour Yellow
 
 Welcome to Week 1 of the 7 Week Awareness Challenge Vol 2.
+
+This week we are going to be practicing an exercise called Take Note Of The Colour Yellow which is all about becoming more aware of our surroundings, and in particular being able to envision our own thoughts and ideas more clearly.
+
+Certainly, it can help to keep in mind that this exercise is as largely conceptual as it is concrete, but it's also part of the reason why it's so comprehensively awesome. 
+
+For further information on this practice, please visit the Take Note Of The Colour Yellow page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/take-note-of-the-colour-yellow" "Take Note Of The Colour Yellow" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
 
 
 <!-- NEEDS ONE EDIT + Ending complete -->
@@ -25,6 +42,8 @@ Welcome to Week 1 of the 7 Week Awareness Challenge Vol 2.
 Hello, and welcome to Week 1 of volume 2 of the 7 week awareness challenge.
 
 In this exercise we're going to be exploring this idea of colour, not just as this visual experience that makes us feel in different ways. But as a raw identity that we can relate to, no different to another person. 
+
+<!-- EXERCISE - TAKE NOTE OF THE COLOUR YELLOW -->
 
 Obviously in this particular exercise we're going to focus our attention on the colour yellow. 
 
@@ -37,6 +56,9 @@ And once you do discover something that is yellow, I simply want you to take not
 And it's important for you to observe how you do that in each particular instance. Do you merely make a mental note that you've seen that colour? Is it something that you feel compelled to write down. Perhaps you just stare at it.
 
 Regardless of what you do, it's important for you to observe those behaviours so can build that awareness moving forward, especially in regards to how you practices these exercises. Not only so you can get better at them, but in general, just so you can become more aware of who you are as a person.
+
+
+<!-- CONTEXT - WHAT IS YELLOW? -->
 
 But even before we go out in the dark, scary, brooding world and take note of the colour yellow, it's actually really important for us to actually understand what yellow is on a fundamental level. 
 
@@ -57,6 +79,9 @@ And not just to imagine the colour yellow from a visual point of view, which is 
 However to also dive into more conceptual aspects, such as what the colour yellow tastes like. 
 
 Perhaps, what it would feel like on your skin. 
+
+
+<!-- CONTEXT - BEING PRESENT WITH THE COLOUR YELLOW -->
 
 Furthermore, and perhaps most importantly, what it means to be present with this idea of the colour yellow.
 

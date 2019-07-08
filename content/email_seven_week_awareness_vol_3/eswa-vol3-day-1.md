@@ -17,6 +17,19 @@
 
 Welcome to Week 1 of the 7 Week Awareness Challenge Vol 3.
 
+This week we are going to be practicing an exercise called Where Do You Touch? which is 
+
+
+For further information on this practice, please visit the Where Do You Touch? page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/where-do-you-touch" "Where Do You Touch?" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
 
 
 ## Script

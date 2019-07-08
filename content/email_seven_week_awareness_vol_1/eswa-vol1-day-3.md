@@ -17,7 +17,22 @@
 
 Welcome to Week 3 of the 7 Week Awareness Challenge Vol 1.
 
-This week we are going to be focusing our attention
+This week we are going to be practicing an exercise called Relax Everything which is all about teaching us to remain consistently relaxed and at peace with ourselves.
+
+The key point here is consistency. Very rarely do we consistently feel relaxed, and so this is precisely what this exercise aims to target.
+
+For further information on this practice, please visit the Relax Everything page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/relax-everything" "Relax Everything" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
+
+
 
 ## Script
 

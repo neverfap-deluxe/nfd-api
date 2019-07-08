@@ -17,6 +17,19 @@
 
 Welcome to Week 4 of the 7 Week Awareness Challenge Vol 3.
 
+This week we are going to be practicing an exercise called Identifying The Feeling Of Obligation which is 
+
+
+For further information on this practice, please visit the Identifying The Feeling Of Obligation page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/identifying-the-feeling-of-obligation" "Identifying The Feeling Of Obligation" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
 
 
 ## Script

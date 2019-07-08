@@ -17,11 +17,20 @@
 
 Welcome to Week 1 of the 7 Week Awareness Challenge Vol 1.
 
-This week we are going to focus on generating emotions. 
+This week we are going to be practicing an exercise called Expressing Gratitude which is an awareness exercise which focuses on consciously generating emotion.
 
-Learning to generate emoion
+Often part of the reason why we struggle with our emotions so much is because we may not know how to express them effectively, and this exercise truly highlights the power of emotion as a driving force for change.
+
+For further information on this practice, please visit the Expressing Gratitude page on the website.
 
 
+{{< nfd_button "https://neverfapdeluxe.com/practices/expressing-gratitude" "Expressing Gratitude" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
 
 
 ## Script

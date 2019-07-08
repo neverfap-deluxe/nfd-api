@@ -17,7 +17,23 @@
 
 Welcome to Week 6 of the 7 Week Awareness Challenge Vol 1.
 
-This week we are going to be focusing our attention
+This week we are going to be practicing an exercise called Can You Look Through Walls? which is a perspective exercise designed to help you think beyond your own senses.
+
+Using our imagination in this way is an important part of learning to think consciously, which along with remaining calm and aware, is a primary skill we must learn if we're going to effectively address urges etc.
+
+Have fun with this one, because it really is a great exercise that allows you to express yourself in creative ways.
+
+For further information on this practice, please visit the Can You Look Through Walls? page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/can-you-look-through-walls" "Can You Look Through Walls?" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
+
 
 ## Script
 

@@ -17,7 +17,23 @@
 
 Welcome to Week 4 of the 7 Week Awareness Challenge Vol 1.
 
-This week we are going to be focusing our attention
+This week we are going to be practicing an exercise called Slow Down Time which is all about manipulating our perception of time. 
+
+Not only is it going to help you remain more aware of yourself, however it's also going to help you change the way you think about priority in life.
+
+A lot of people struggle with this concept of time, usually thinking that they don't have enough time, and this exercise can help dissolve those perceptions. 
+
+For further information on this practice, please visit the Slow Down Time page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/slow-down-time" "Slow Down Time" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
+
 
 ## Script
 

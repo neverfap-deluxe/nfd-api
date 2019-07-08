@@ -15,9 +15,22 @@
 
 ## Week 5 - Stop Absolutely Everything You're Doing
 
-Welcome to Week 5 of the 7 Week Awareness Challenge Vol 1.
+Welcome to Week 5 of the 7 Week Awareness Challenge Vol 2.
 
-This week we are going to be focusing our attention
+This week we are going to be practicing an exercise called Stop Absolutely Everything You're Doing which is 
+
+
+For further information on this practice, please visit the Stop Absolutely Everything You're Doing page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/stop-absolutely-everything-you-are-doing" "Stop Absolutely Everything You're Doing" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
+
 
 ## Script
 

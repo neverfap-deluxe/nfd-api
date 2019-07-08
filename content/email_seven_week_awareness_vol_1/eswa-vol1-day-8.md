@@ -14,5 +14,10 @@
 ---
 
 
+## Conclusion
 
-r
+This brings us to the end of the 7 Week Awareness Challenge Vol 1.
+
+I hope you've learnt some things along the way. 
+
+## Script
