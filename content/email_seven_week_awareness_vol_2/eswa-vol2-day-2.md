@@ -23,6 +23,8 @@ Welcome to Week 2 of the 7 Week Awareness Challenge Vol 2.
 
 Hello, and welcome to Week 2 of volume 2 of the 7 week awareness challenge.
 
+<!-- CONTEXT - TREAT VISUAL INFORMATION AS VISUAL INFORMATION-->
+
 This is such a fantastic awareness exercise because of how powerful it is in terms of changing how we think and feel about what it is that our eyes are actually observing.
 
 On a fundamental level, it's important that we do engage with these kinds of visual awareness exercises, in part because on the surface, porn addiction is largely brought about by visual means. 
@@ -45,6 +47,9 @@ In part because we internally don't know how not to view this information for wh
 
 Well, this exercise is here to help you do that. To treat visual information simply as nothing visual information, which is to say that what we are trying to achieve is remove the feeling, the meaning and the symbolic nature of information, so that we can have a more pure understanding of awareness.
 
+<!-- CONTEXT -->
+
+
 Why is this important? It's important because it's really hard to come to acceptance and to truly understand the nature of something, in particular what you may personally be experiencing, when you're also making interpretations based on that information.
 
 So for example, when we look at a tree, we know that we are looking at a tree, because trees are inherently symbolic 
@@ -57,5 +62,8 @@ we're looking at a tree, that means
 
 For example, 
 
+
+
+<!-- CONTEXT -->
 
 In this exercise we're going to be exploring this idea of colour, not just as this visual experience that makes us feel in different ways. But as a raw identity that we can relate to, no different to another person. 

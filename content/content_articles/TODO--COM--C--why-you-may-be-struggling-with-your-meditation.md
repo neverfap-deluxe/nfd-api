@@ -18,7 +18,7 @@
 <!-- 99% Done - I just need to edit this once. -->
 
 
-Today we're going to talk about the ways people struggle with meditation.
+Today we're going to talking about some of the ways which people struggle with meditation.
 
 Personally speaking it turns out I was doing it wrong for years without realising it, which arguably set my recovery back ...well, years.
 
