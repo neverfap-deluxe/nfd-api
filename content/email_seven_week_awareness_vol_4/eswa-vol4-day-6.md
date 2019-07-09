@@ -17,8 +17,9 @@
 
 Welcome to Week 6 of the 7 Week Awareness Challenge Vol 4.
 
-This week we are going to be practicing an exercise called Catching The Odd Judge Out which is 
+This week we are going to be practicing an exercise called Catching The Odd Judge Out which is an awareness exercise designed to help you identify the agreements you make. 
 
+Only by first identifying our agreements can we then have the power to change them.
 
 For further information on this practice, please visit the Catching The Odd Judge Out page on the website.
 

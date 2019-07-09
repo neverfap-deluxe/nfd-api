@@ -17,7 +17,7 @@
 
 Welcome to Week 5 of the 7 Week Awareness Challenge Vol 4.
 
-This week we are going to be practicing an exercise called Control The Intonation Of Your Breath which is 
+This week we are going to be practicing an exercise called Control The Intonation Of Your Breath which is an awareness exercise designed to teach you self-control. 
 
 
 For further information on this practice, please visit the Control The Intonation Of Your Breath page on the website.

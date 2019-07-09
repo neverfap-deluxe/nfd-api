@@ -17,8 +17,11 @@
 
 Welcome to Week 7 of the 7 Week Awareness Challenge Vol 4.
 
-This week we are going to be practicing an exercise called Focus Your Attention which is 
+This week we are going to be practicing an exercise called Focus Your Attention which is designed to help you do precisely that, focus your attention.
 
+The difficulty of this exercise largely comes down to how we practice it, in addition to the general misconceptions surrounding what focus is. 
+
+Put simply, focus is merely a side-effect of remaining calm and learning to let go.
 
 For further information on this practice, please visit the Focus Your Attention page on the website.
 
