@@ -24,6 +24,10 @@ const filterContent = (content) => (
     .replace(/[#]{2}/g, '\n##')
     .replace(/- /g, '\n- ')
     .replace(/[\\*]{2}/g, '*')
+    // .replace(/\. /g, '. \n')
+    .replace(/8{3}/g, '\n')
+    .replace(/{{< nfd\\_button [\S ]+/ig, '\n')
+    .replace(/{{< nfd\\_center\\_title [\S ]+/ig, '\n')
 
     // .replace(/<hr class="hrul"\/>/g, '')
     // .replace(/<hr class="hrul__bottom"\/>/g, '')
@@ -34,8 +38,9 @@ const getHead = (fileContents) => {
     const head = fileContents.match(headRegex)[0];
 
     const rawWithHTMLContent = fileContents.split('---')[2];
-    const rawWithMDContent = turndownService.turndown(rawWithHTMLContent);
-    const content = filterContent(rawWithMDContent);
+    const rawWithMDContent = turndownService.turndown(content);
+    const content = filterContent(rawWithMDContent)
+    console.log(content);
 
     return {
       head,
@@ -80,9 +85,9 @@ const extractData = (file_contents, file_name, type) => {
         return {
           new_list_item,
           new_string_item: file_name === '_index.md' ? (
-            `# ${title}\n\n\n` // \n${date}
+            `# ${title}\n` // \n${date}
           ) : (
-            `\n${content}\n\n`
+            `\n${content}\n`
           )
         }
 
