@@ -1,6 +1,6 @@
-{{ define "response" }} 
+{{ define "response" }}
 {
-  "title": {{ .Title | jsonify }}, 
+  "title": {{ .Title | jsonify }},
   "page_id": {{ .Params.PageId | jsonify }},
   "description": {{ .Description | jsonify }},
   "content": {{ .Content | jsonify }},
@@ -8,6 +8,7 @@
   "draft": {{ .Draft | jsonify }},
   "slug": {{ .Params.Slug | jsonify }},
   "categories": {{ .Params.Categories | jsonify }},
+  "username": {{ .Params.Username | jsonify }},
   "category": {{ .Params.Category | jsonify }},
   "tags": {{ .Params.Tags | jsonify }},
   "permalink" : {{ .Permalink | jsonify }},

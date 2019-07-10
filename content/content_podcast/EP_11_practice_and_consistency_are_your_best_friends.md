@@ -5,7 +5,7 @@
   draft: true
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
-  
+
   slug: "ep-12-practice-and-consistency-are-your-best-friends"
 
   mp3Url: ""
@@ -22,13 +22,14 @@ In this episode I talk about the value of practice and consistency in helping us
 
 # Script
 
-- Welcome to the NeverFap Deluxe podcast. 
-  - My name is Julius Reade. 
+- Welcome to the NeverFap Deluxe podcast.
+  - My name is Julius Reade.
   - Explain what podcast is about.
   - I run a website.
   - I run a Discord channel.
-  - I run a subreddit. 
+  - I run a subreddit.
   - I have a Patreon.
+
 
 - In today's episode we're going to be talking about the foundations of practice and consistency.
     - Obviously, how we can get into a routine of consistent practice, you know, doing things like meditation, remaining calm and aware, E T BLOODY C. Obviously, meaning etcetera.
@@ -37,7 +38,7 @@ In this episode I talk about the value of practice and consistency in helping us
 
 - Until then however, let's approach this week's mental health update.
     - I have some sad news everyone, however it turns out that I have prostate cancer, LOL JKS, it's actually AIDS, LOL JKS, it's actually back to cancer ....aaaaand I apologise if you have either of those things, although obviously I'm The Reade, it's what I do. You know, what's he gonna do next!?
-    - 
+    -
 
 
 - So, onto the main course. You starving carivore. Well, here's the meat of the episode for you to chunk into.

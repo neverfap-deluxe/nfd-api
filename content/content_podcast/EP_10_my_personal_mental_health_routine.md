@@ -5,7 +5,7 @@
   draft: true
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
-  
+
   slug: "ep-11-my-personal-mental-health-routine"
 
   mp3Url: ""
@@ -19,23 +19,32 @@
 
 In this episode I talk about my own personal mental health routine and how you can apply those principles in your own life.
 
-# Script 
+# Script
 
-- Welcome to the NeverFap Deluxe podcast. 
-  - My name is Julius Reade. 
+- Welcome to the NeverFap Deluxe podcast.
+  - My name is Julius Reade.
   - Explain what podcast is about.
   - I run a website.
   - I run a Discord channel.
-  - I run a subreddit. 
+  - I run a subreddit.
   - I have a Patreon.
 
-- In today’s episode I want to talk a bit about my own life, in particular my own ambitions and routines and essentially provide you with insight into what makes The Reade tick!
-  - Basically, I follow all the advice that I give you people, and so I thought I might do a podcast about me, so you can better understand what you as an individual are capable of. 
-  - Personally speaking, I maintain the belief that everyone is capable of the same greatest and ambition in life.
+- In today’s episode I want to talk a bit about me!
+  - I want to talk about my beliefs, my routines, my ambitions.
+  - Why I do things the way I do.
+  - Basically, to help you better understand what you as an individual are capable of.
+  - I believe everyone is capable of the same greatest and ambition in life, it's just about having role models in place to help understand that.
 
 - Mental health update
   -
 
-- I suppose if I had to describe myself, I would say that I’m more-or-less a psychopath in terms of 
+- Let's talk first a bit about my beliefs and philosophies.
 
+
+- Let's talk about routines.
+
+
+- Let's talk about ambitions.
+
+- 
 
