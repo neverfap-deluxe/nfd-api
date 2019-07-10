@@ -1,7 +1,7 @@
 ---
   title: "EP20 - Free Guided Meditation Series"
   description: "NeverFap Deluxe Guided Meditation Series."
-  date: 2019-10-26
+  date: 2019-11-09
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
@@ -24,9 +24,9 @@ Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
 My name is Julius Reade and today we are going to focus on being present with ourselves.
 
-In particular, I want you to be present with your mind. 
+In particular, I want you to be present with your mind.
 
-As if you are watching your own mind from a 3rd person perspective. 
+As if you are watching your own mind from a 3rd person perspective.
 
 And while doing this, I want you to fully observe any and all actions your mind takes.
 
@@ -36,7 +36,7 @@ It could be an emotion that you notice.
 
 And I want you to observe your mind in this way without judgement, or reaction.
 
-Simply, acknowledging your mind for what it is. 
+Simply, acknowledging your mind for what it is.
 
 Regardless of what qualities it may have.
 
@@ -50,7 +50,7 @@ And the thoughts and emotions it produces.
 
 From a 3rd person perspective.
 
-Without judgement. 
+Without judgement.
 
 And without reaction.
 
@@ -61,17 +61,17 @@ If you have discovered that your mind has wandered off during this exercise, the
 
 In this case, remaining calm and present with our thoughts and emotions.
 
-Focusing our attention on our mind, and the world it inhabits. 
+Focusing our attention on our mind, and the world it inhabits.
 
 And to do this, as mentioned in the beginning of this exercise, we are going to take a step back and observe our mind from a 3rd person perspective.
 
 So we can detach from our mind.
 
-And purely be a bystander to what our mind is doing. 
+And purely be a bystander to what our mind is doing.
 
 
 
-If you find yourself getting distracted during this exercise, that's okay. 
+If you find yourself getting distracted during this exercise, that's okay.
 
 We are learning a new skill with this exercise, which we may not be familiar with.
 

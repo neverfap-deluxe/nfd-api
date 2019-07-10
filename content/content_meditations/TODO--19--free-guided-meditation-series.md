@@ -1,7 +1,7 @@
 ---
   title: "EP19 - Free Guided Meditation Series"
   description: "NeverFap Deluxe Guided Meditation Series."
-  date: 2019-10-19
+  date: 2019-11-02
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
@@ -32,11 +32,11 @@ A bright, sandy, beautiful beach.
 
 The temperature is warm and feels nice on your skin.
 
-With a gentle, calm breeze. 
+With a gentle, calm breeze.
 
-Full of palm trees. 
+Full of palm trees.
 
-And in this beach, you're simply lying down in the sand. 
+And in this beach, you're simply lying down in the sand.
 
 
 If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with ourselves.

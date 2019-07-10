@@ -1,7 +1,7 @@
 ---
   title: "EP23 - Free Guided Meditation Series"
   description: "NeverFap Deluxe Guided Meditation Series."
-  date: 2019-11-16
+  date: 2019-11-30
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
@@ -22,7 +22,7 @@
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
-My name is Julius Reade and today we are going to be 
+My name is Julius Reade and today we are going to be
 
 
 If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with ourselves.

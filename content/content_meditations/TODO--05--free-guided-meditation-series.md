@@ -1,14 +1,14 @@
 ---
   title: "EP5 - Free Guided Meditation Series"
   description: "NeverFap Deluxe Guided Meditation Series."
-  date: 2019-07-13
+  date: 2019-07-27
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
   category: "Meditation"
-  
+
   slug: "ep-5-free-guided-meditation-series"
-  
+
   mp3Url: ""
 
   podcastUrl: ""
@@ -24,7 +24,7 @@ Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
 My name is Julius Reade and today we are going to be focusing on remaining as conscious as possible.
 
-For the next ten minutes, I want you to do something very special for me. 
+For the next ten minutes, I want you to do something very special for me.
 
 I want you to engage in the highest form of self-respect that I know.
 
@@ -32,11 +32,11 @@ Which is to be present with yourself and your emotions.
 
 In order to do this, there are a few steps we must first take.
 
-The first step is to relax. 
+The first step is to relax.
 
 Relax your mind.
 
-Relax your body. 
+Relax your body.
 
 I'll give you space to allow you truly relax, and gradually let go of all forms of tension that you may be holding onto.
 
@@ -44,9 +44,9 @@ I'll give you space to allow you truly relax, and gradually let go of all forms 
 (long pause)
 
 
-In your relaxed state, I now want you to consider the second step 
+In your relaxed state, I now want you to consider the second step
 
-The second step, and most important step, is to consciously engage with your mind, and be present with what your mind is sensing in this very moment. 
+The second step, and most important step, is to consciously engage with your mind, and be present with what your mind is sensing in this very moment.
 
 
 
@@ -55,16 +55,16 @@ The second step, and most important step, is to consciously engage with your min
 If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with ourselves.
 
 
-If you find yourself wandering off again, that’s okay. Just gently remind yourself to 
+If you find yourself wandering off again, that’s okay. Just gently remind yourself to
 
 
-If you find yourself getting distracted during this exercise, that's okay. Just gently remind yourself, to 
+If you find yourself getting distracted during this exercise, that's okay. Just gently remind yourself, to
 
 
 And that brings us to the end of this session. Thank you for listening. I wish you best of luck with your day. This has been the NeverFap Deluxe Guided meditation series.
 
 
-<!-- 
+<!--
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
 My name is Julius Reade and today we are going to focus on the cloud of sensation that is your own conscious experience.

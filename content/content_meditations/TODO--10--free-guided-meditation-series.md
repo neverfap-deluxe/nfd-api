@@ -1,7 +1,7 @@
 ---
   title: "EP10 - Free Guided Meditation Series"
   description: "NeverFap Deluxe Guided Meditation Series."
-  date: 2019-08-17
+  date: 2019-08-30
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
@@ -24,7 +24,7 @@ Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
 My name is Julius Reade and today we are going to imagine a pond.
 
-A pond of relaxation. 
+A pond of relaxation.
 
 
 

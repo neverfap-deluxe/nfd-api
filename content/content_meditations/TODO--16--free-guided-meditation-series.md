@@ -1,7 +1,7 @@
 ---
   title: "EP16 - Free Guided Meditation Series"
   description: "NeverFap Deluxe Guided Meditation Series."
-  date: 2019-09-28
+  date: 2019-10-12
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
@@ -26,7 +26,7 @@ My name is Julius Reade and today we are going to be placing our conscious atten
 
 In particular with this exercise, we want to relax our eyes and keep them as tensionless as possible.
 
-To completely let go of all the stress and tension you may have been feeling in your eyes. 
+To completely let go of all the stress and tension you may have been feeling in your eyes.
 
 So you can be fully relaxed, as well as present with your relaxation.
 

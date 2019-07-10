@@ -1,7 +1,7 @@
 ---
   title: "EP17 - Free Guided Meditation Series"
   description: "NeverFap Deluxe Guided Meditation Series."
-  date: 2019-10-05
+  date: 2019-10-19
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
@@ -26,7 +26,7 @@ My name is Julius Reade and today we are going to be learning to think about our
 
 So for this exercise, I first want you to focus on your mind.
 
-So we can truly understand what your mind is. 
+So we can truly understand what your mind is.
 
 At a fundamental level, your mind is responsible for maintaining thought, decisions, emotion, beliefs, and all manner of conceptual ideas.
 
@@ -34,7 +34,7 @@ And depending how we interact with these ideas.
 
 Your mind can be a place of peace.
 
-Or it can be a place of chaos. 
+Or it can be a place of chaos.
 
 Chances are if you've been struggling with your mind.
 

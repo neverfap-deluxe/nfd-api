@@ -1,7 +1,7 @@
 ---
   title: "EP6 - Free Guided Meditation Series"
   description: "NeverFap Deluxe Guided Meditation Series."
-  date: 2019-07-20
+  date: 2019-08-03
   draft: true
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
@@ -29,17 +29,17 @@ My name is Julius Reade and today we are going to be
 If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with ourselves.
 
 
-If you find yourself wandering off again, that’s okay. Just gently remind yourself to 
+If you find yourself wandering off again, that’s okay. Just gently remind yourself to
 
 
-If you find yourself getting distracted during this exercise, that's okay. Just gently remind yourself, to 
+If you find yourself getting distracted during this exercise, that's okay. Just gently remind yourself, to
 
 
 And that brings us to the end of this session. Thank you for listening. I wish you best of luck with your day. This has been the NeverFap Deluxe Guided meditation series.
 
 
 
-<!-- 
+<!--
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
@@ -47,32 +47,32 @@ My name is Julius Reade and today we are going to focus on our conscious awarene
 
 So for this exercise I want you to get relaxed, preferably sitting in a comfortable position. and I want you to leave your eyes open for this exercise.
 
-Essentially, what I want you to do is to leave your eyes open and to focus your attention on your eyes. 
+Essentially, what I want you to do is to leave your eyes open and to focus your attention on your eyes.
 
-There’s nothing to question. Nothing to think about. 
+There’s nothing to question. Nothing to think about.
 
 All we are doing is focusing our attention on our eyes.
 
-And rather than think deeply about them, instead what I want you to do is focus on the feeling of your eyes. 
+And rather than think deeply about them, instead what I want you to do is focus on the feeling of your eyes.
 
-What are eyes? 
+What are eyes?
 
 What does it mean to see?
 
 Do your eyes automatically observe the light around you, or is that something your brain processes?
 
-Does it make a difference where your attention is, 
+Does it make a difference where your attention is,
 
 
 
-Is there truly such a thing as seeing, or 
+Is there truly such a thing as seeing, or
 
-Are you 
+Are you
 
 
-The reason why so many of my guided meditations touch upon this idea of leaving our eyes open, is because it can really help us connect with reality in a more meaningful way. 
+The reason why so many of my guided meditations touch upon this idea of leaving our eyes open, is because it can really help us connect with reality in a more meaningful way.
 
-Because when you think about it, we spend so much of our day using our eyes and seeing what's in front of us. 
+Because when you think about it, we spend so much of our day using our eyes and seeing what's in front of us.
 
 You could say that we are largely depedent upon them for our survival.
 
@@ -84,7 +84,7 @@ Yet we never really pay much attention to the process of seeing. For a lot of us
 
 
 
-A lot of people say that it's easier to practice meditation with your 
+A lot of people say that it's easier to practice meditation with your
 
 
 So with that said, simply observe what’s in front of you.
