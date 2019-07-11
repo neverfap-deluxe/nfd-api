@@ -37,10 +37,24 @@ In this episode I talk about self-limiting beliefs, how to identify them, as wel
   - 
 
 - What are beliefs?
+  - They are agreements we have about the world
+  - We use them to guide us in order to make decisions
+  - They reflect our experience in life
+  - They are not rational
 
 - What are self-limiting beliefs?
-  - 
+  - Beliefs which limit our potential
+    - Examples
+      - "I am not good enough"
+      - "Why am I so ugly?"
+
+- Identifying beliefs 
+  - Usually it's obvious. It's what we say. 
+
+
+
 
 - How are self-limiting beliefs developed?
-  - Often, from our parents and peers.
+  - Often from childhood
+    - From our parents and peers
 

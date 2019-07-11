@@ -31,9 +31,14 @@ In this episode I talk about masturbation and orgasm and whether these things ar
   - I also run a subreddit. 
   - If you’d like to support the podcast, feel free to visit my Patreon (The easiest thing is if you just Google NeverFap Deluxe into Google)
 
-- In today's episode I thought I'd talk more about masturbation and orgasm, and how those things affect our porn addiction?
-  - Is it okay to masturbate and orgasm? *
-  - Is it normal to mastrubate and orgasm? I mean, it's what our bodies are designed to do? *
+- Today's episode: masturbation and orgasm 
+  - How do those things affect our recovery?
+  - Is it okay to masturbate and orgasm?
+  - Is it normal outside of the context of recovery?
+  - 
+  - 
+  - 
+  - I mean, it's what our bodies are designed to do? *
   - Ultimately, what I hope to do with this show is to change the narrative in regards to how we think about masturbation and orgasm, because currently it seems people have an overly positive or overly negative P.O.V #trigger, so let's have a meaningful discussion about that.
 
 - Mental health update

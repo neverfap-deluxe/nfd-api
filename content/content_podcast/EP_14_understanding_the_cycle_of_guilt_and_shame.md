@@ -30,24 +30,37 @@ In this episode I talk about the cycle of guilt and shame we can fall into durin
   - I have a Patreon.
 
 - In this episode I talk about how best to assault women. I'm kidding! (use a baseball bat). Seriously, don't do it. (Go for the kitchen knife, and cut her face open). Incorrect!
-  - Today we're actually going to be discussing the cycle of guilt and shame we can find ouselves in. 
-  - And you know exactly what I'm talking about. You masturbate, you feel guilty about it, which makes you want to masturbate even more, which turns into helplessness
+  - The cycle of guilt and shame.
+  - You masturbate. You feel guilty. Self-reinforcing cycle.
+- 
 
 - Mental health update
   - 
 
 - What is guilt?
-  - Guilt is defined as a deep feeling of remorse for an act which may or may not have occurred in the past.
-  - In large part, because we feel as if we've done something wrong, that we deeply regret. (list examples *)
-  - In the context of porn addiction, it essentially comes from watching porn (*)
-  - Why we feel guilt is for a wide number of reasons
-    - For example, because we know it's a form of self-harm *
-    - Because we know on some level it's bad for society and the people involved *
-    - Because of the self-judgement we feel, for being unable to change *
+  - Deep feeling of remorse for an act which took place.
+    - List Examples
+  - It is a coping mechanism
+    - Gives you purpose
+    - Allows you to rationalise what took place
+      - Example
 
-- Where does the guilt come from? 
-  - 
-  
+- Guilt in context of porn addiction 
+  - Why 
+    - We know it's self-harm
+    - We feel it's bad
+    - It's what we've always done
 
-- The key thing to understand about guilt is that we create it. 
+  - How we respond
+    - Self-judgement, self-criticism
+    - 
+
+- Key Point: Guilt is a feeling.
+  - Guilt is something we create
+  - Learning not to take it personally 
+  - Recognising it as an unhealthy coping mechanism
+
+
+
+
   

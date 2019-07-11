@@ -39,44 +39,60 @@ In this episode I talk about Healthy Coping Mechanisms, what they are and why th
 - Mental health update
   - 
 
-- Talk about Unhealthy Coping Mechanisms - What makes them unhealthy? What are some common unhealthy coping mechanisms?
+-  Unhealthy Coping Mechanisms - What makes them unhealthy? What are some common unhealthy coping mechanisms?
 
 
+- Fundamentally, what is a coping mechanism?
+  - It's a skill which allows you to cope 
+  - Healthy coping mechanisms allow you to cope effectively
+    - Includes 
+      - Not taking our emotions personally
+      - Learning to remain calm in all situations.
+      - 
 
-- Fundamentally, what is a healthy coping mechanism?
-
-
-1. Career
-
-- Firstly we’re going to talk about career. 
-    - I don’t care how old you are,
-
-
-3. Mental health
-
-- Meditation
-- Awareness exercises (take them through an example of an awareness exercise)
-
-4. Diet
-
-- Eating paleo
-- 
+  - Unhealthy coping mechanisms don't allow you to cope effectively
+    - Includes
+      - Masturbation to porn to deal with stress.
+      - Distracting ourselves. 
+      - 
 
 
-5. Exercise
+- What does it mean to cope effectively?
+  - Effortlessly dealing with ourselves and difficult situations
+  - Maintaining balance emotionally
 
 
-
-6. Relationships
-
-
-
-7. Attitude
-
+- Key Point: Coping Mechanisms are skills you learn and develop
+  - Anyone can learn them through practice.
+  - You can unlearn unhealthy coping mechanisms
+  - The first step is identifying UCM via awareness
+  - Next step is to simply not react/engage with UCM
 
 
-8. Study
+- A few areas we can develop HCMs
+  - Mental Health
+    - HCM basics
+    - Meditation
+      - Routine
+    - Awareness Exercises
+      - Example
+    - Positive/Neutral attitude
+  - Career
+    - Everyone should have a job
+    - Provides you with a sense of purpose.
+    - Financial freedom
+  - Diet 
+    - Eating Healthily
+  - Exercise
+    - Exercise Routine
+      - Example
+    - Pushing yourself physically
+  - Relationships
+    - Learning to express yourself
+    - Learning to be vulnerable
+  - Ambition
+    - Studying and learning new things
+    - Putting yourself into difficult situations
 
 
-9. Ambition
 

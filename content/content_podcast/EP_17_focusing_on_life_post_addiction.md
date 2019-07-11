@@ -42,6 +42,11 @@ In this episode I talk about what you can expect once you overcome your porn add
   - Instead, it's a bit like saying am I fully recovered from hunger, or poverty. Instead, these are things that you work towards everyday *
   - 
 
+- What is life?
+  - Life is purpose
+  - It's your drive to experience 
+  
+
 - With that said, I am fully recovered from porn addiction * (talk about skills)
   - 
 

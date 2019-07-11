@@ -31,10 +31,11 @@ In this episode I talk about the value of practice and consistency in helping us
   - I have a Patreon.
 
 
-- In today's episode we're going to be talking about the foundations of practice and consistency.
-    - Obviously, how we can get into a routine of consistent practice, you know, doing things like meditation, remaining calm and aware, E T BLOODY C. Obviously, meaning etcetera.
-    - We're going to have a delicate little chat, you know a 1 on 1, 1V1 me bro, about why we may struggle to be consistent. Perhaps because a certain someone whom I shall not name (obviously yourself) has relapsed, and is now drinking milk straight from the bottle!
-    - Not to mention, we're going to talk about some of the things we should be practicing.
+- Today's episode: Practice and consistency.
+  - What does it mean? 
+  - How best to go about?
+  - What should we be practicing?
+  - 
 
 - Until then however, let's approach this week's mental health update.
     - I have some sad news everyone, however it turns out that I have prostate cancer, LOL JKS, it's actually AIDS, LOL JKS, it's actually back to cancer ....aaaaand I apologise if you have either of those things, although obviously I'm The Reade, it's what I do. You know, what's he gonna do next!?
@@ -44,9 +45,9 @@ In this episode I talk about the value of practice and consistency in helping us
 - So, onto the main course. You starving carivore. Well, here's the meat of the episode for you to chunk into.
 
 - Practice, Consistency, what is it all about? Well, let's start with the basics of what overcoming porn addiction is about.
-    - Now, obviously I talk a lot about awareness and calmness, but these are just highlevel concepts.
-    - What truly under pins those concepts is the process, and that's
-    - If you've read the guide on the website, you'd know that the process is everything. If you trust the process, you will be fine. If you distrust the process, you will turn into ectoplasm and Donald Trump will come over to your house and orgasm into your eye.
+  - Now, obviously I talk a lot about awareness and calmness, but these are just highlevel concepts.
+  - What truly under pins those concepts is the process, and that's
+  - If you've read the guide on the website, you'd know that the process is everything. If you trust the process, you will be fine. If you distrust the process, you will turn into ectoplasm and Donald Trump will come over to your house and orgasm into your eye.
 
 - Now, what practice and consistency represent is your commitment to the process.
 
@@ -65,3 +66,9 @@ In this episode I talk about the value of practice and consistency in helping us
 - Obviously if you've ever watched my online sex tapes, you'd know that meditation is ABSOLUTELY essential! I don't care what you think about meditation. I don't care if it was your mother's last dying wish to never meditate. If you are not meditating, you will lose.
 - Why? Because meditation teaches you both awareness and calmness, all within the space of 10 minutes per day! Dayum son!
 
+
+  <!-- 
+  - Obviously, how we can get into a routine of consistent practice, you know, doing things like meditation, remaining calm and aware, E T BLOODY C. Obviously, meaning etcetera.
+  - We're going to have a delicate little chat, you know a 1 on 1, 1V1 me bro, about why we may struggle to be consistent. Perhaps because a certain someone whom I shall not name (obviously yourself) has relapsed, and is now drinking milk straight from the bottle!
+  - Not to mention, we're going to talk about some of the things we should be practicing.
+ -->
