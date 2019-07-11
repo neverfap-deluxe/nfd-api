@@ -38,13 +38,34 @@ In this episode I talk about my own personal mental health routine and how you c
 - Mental health update
   -
 
-- Let's talk first a bit about my beliefs and philosophies.
+- Maybe you want a general overview.
+  - name, age, race, study, upbringing,
 
 
 - Let's talk about routines.
+  - I'll take you through a typical day.
+    - Wake up early.
+    -
+
+- Let's talk about my exercise and diet.
+  - I largely try and eat Paleo, high fat.
+  - 80/20 rule.
+
+
+- Let's talk first a bit about my beliefs and philosophies.
+  - Ultimately I'm about growth.
+  - I live a very stoic life.
+  - I recognise the value of hard work and grind.
+  - I'm about keeping things simple.
+
 
 
 - Let's talk about ambitions.
+  - My dream is to become a successful entrepeneur.
+  -
 
-- 
+
+
+
+
 
