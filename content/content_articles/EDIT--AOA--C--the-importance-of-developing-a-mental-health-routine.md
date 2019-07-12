@@ -4,7 +4,7 @@
   date: 2019-12-24
   draft: false
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
-  categories: [ "struggle-over-none" ]
+  categories: [ "awareness-over-all" ]
 
   slug: "the-importance-of-developing-a-mental-health-plan"
 
@@ -15,7 +15,7 @@
 ---
 
 
-<!-- Nearly finished. -->
+<!-- An additional edit. -->
 
 I always find it interesting when I talk to people and they tell me that they don't have a mental health plan in place.
 
@@ -45,13 +45,13 @@ Often the thing that those recovering from porn addiction struggle the most with
 
 They think "Well, I'm feeling okay now, so it couldn't possibly be that bad" and it's part of the reason why people continue to relapse again and again and again.
 
-Preparation is the best form of abstinence, and aside from mentally preparing ourselves, another great way to prepare is by embracing a set of solid principles which can help guide us when we are feeling lost and clueless. 
+Preparation is the best form of abstinence, and aside from mentally preparing ourselves, another great way to prepare is by embracing a set of solid principles which can help guide us when we are feeling lost and clueless.
 
 For example, understanding that we must always aim to remain calm in all situations, and not react to our emotions and feelings even though they may feel unbearable at times.
 
 This is why I created The Five Fundamental Prinpicles of NeverFap Deluxe which have been designed to help us serve this purpose, and instil those principles into us.
 
-Ultimately, when you don't have a mental health plan you will usually fail to remain aware of the pitfalls of recovery, which merely leads to unnecessary relapse and confusion. 
+Ultimately, when you don't have a mental health plan you will usually fail to remain aware of the pitfalls of recovery, which merely leads to unnecessary relapse and confusion.
 
 
 {{< hr3 "So what does a mental health plan usually contain?" >}}
@@ -71,7 +71,7 @@ Of course, a key thing to understand about your porn addiction recovery journey 
 
 I mean, sure.
 
-Meditation is that silver-bullet for a lot of people, in a sense that it's such an all-encompassing skill which provides people with a huge amount of leverage in terms of allowing them to developing control over their minds. 
+Meditation is that silver-bullet for a lot of people, in a sense that it's such an all-encompassing skill which provides people with a huge amount of leverage in terms of allowing them to developing control over their minds.
 
 
 {{< hr3 "However it doesn't negate the amount of conscious effort required to remain calm during those uneasy situation." >}}
@@ -89,7 +89,7 @@ So essentially, our mental health plan comes down to a few different things:
 - Your Fundamental Principles which help guide you in general
 
 
-And really, if you can manage those three things, you honestly will have done more than most people who will have attempted to overcome their porn addiction. 
+And really, if you can manage those three things, you honestly will have done more than most people who will have attempted to overcome their porn addiction.
 
 And the significance of this really cannot be understated.
 

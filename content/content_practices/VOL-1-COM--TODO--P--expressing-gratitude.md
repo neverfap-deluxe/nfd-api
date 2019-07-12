@@ -7,7 +7,7 @@
   categories: [ "choice-over-mind" ]
   category: "Choice over mind"
   vol: 1
-  
+
   slug: "expressing-gratitude"
 
   what: "Develop our ability to express ourselves."
@@ -21,47 +21,49 @@
 
 This is the first exercise that I ever started with when I began my mental health journey back in the relative stone age.
 
-What I love about this exercise is that it always ends up flooring people in terms of the impact it can have in terms of helping them better understand the power of their own conscious awareness.
+What I love about this exercise is that it always ends up flooring people in terms of the impact it can have in terms of helping them better understand the power of their own conscious mind.
 
-Not to mention, it's just a great mindset to understand in general.
+Not to mention, it's just a great mindset to adopt and understand in general.
 
-Although, before I get into the nitty-gritty of how this exercise works, I would like put in a disclaimer: 
+Although, before I get into the nitty-gritty of how this exercise works, I would like put in a disclaimer:
 
 
 {{< hr3 "This exercise is highly abusable." >}}
 
 
-In fact, I'm yet to see anyone not actually abuse this exercise, but at the same time, this really is no different to any other exercise on NeverFap Deluxe.
+In fact, I'm yet to see anyone not abuse this exercise, although I'm sure this philosophy can be applied to any of the exercises on NeverFap Deluxe.
 
-What I essentially mean to say that most people end up using this exercise in an unhealthy way, where they end up feeling and embracing gratitude to a point of delusion.
+What I essentially mean to say that most people end up using this exercise in an unhealthy way, where they end up embracing gratitude as a piece for delusion.
 
 Where they're no longer practicing gratitude for the sake of perspective, and instead pursue "gratitude" under the guise of mania.
 
-Which is totally understandable, because discovering these feelings for the first time, can be a bit like giving crack a child, which can produce all sorts of madness. 
+Which is totally understandable, because discovering these feelings for the first time can be a bit like discovering crack for the first time.
+
+Which when you've been depressed and dysfunctional for so long, is not uncommon when discovering these new ways of thinking.
 
 The other issue is that gratitute itself goes against a lot of the principles of neutrality that we are trying to adopt, which a lot of people starting out don't quite yet understand.
 
 So really, it can help to think of this exercise as a perspective exercise for you to learn from.
 
-Rather than a hard mindset you should adopt. 
+Rather than a hard mindset you should adopt.
 
-Regardless, for beginners it can be a great way to have that "spark" of awareness where they realise there is actually hope and they actually have control over their mind. 
+Regardless, for beginners it can be a great way to have that "spark" of awareness where they realise there is actually hope and they actually have control over their mind.
 
 So let's get to it!
 
-For starters, I would describe gratitude as a feeling, which can then progress into a state-of-mind once you begin to embrace this feeling long enough. 
+For starters, I would describe gratitude as a feeling, which can then progress into a state-of-mind once you begin to embrace this feeling long enough.
 
-And what we intend to do with this exercise, is express gratitude in everything we do. 
+And what we intend to do with this exercise, is express gratitude in everything we do.
 
 Of course, what exactly is gratitude? How do you feel it?
 
-In order to answer that question it really comes down to expression and how we can express ourselves effectively. 
+In order to answer that question it really comes down to expression and how we can express ourselves effectively.
 
 In this particular case, what we are expressing is gratitude - which is the feeling of being grateful.
 
 This means being thankful for your own existence. This means not taking the things you have in life for granted. This means appreciating what you have in life, not as something that is deserving of you, but something which you have been blessed with.
 
-Often, we take what we have in life for granted, and ties in with developing unhealthy and unrealistic expectations of life. 
+Often, we take what we have in life for granted, and ties in with developing unhealthy and unrealistic expectations of life.
 
 Instead, with this exercise we want to reverse this pattern and instead be grateful for what we have.
 
@@ -79,12 +81,12 @@ Although I digress.
 
 For this exercise I want you express gratitude throughout your day.
 
-What does this mean? 
+What does this mean?
 
 Gratitude is an important part of the human experience.
 
 
-<!-- 
+<!--
 {{< hr2 "Additional Resources" >}}  -->
 
 <!-- maybe link to other  -->

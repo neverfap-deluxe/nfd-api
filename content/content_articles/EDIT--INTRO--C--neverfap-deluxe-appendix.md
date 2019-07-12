@@ -4,7 +4,7 @@
   date: 2019-06-07
   draft: false
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
-  categories: [ "struggle-over-none" ]
+  categories: [ "introduction" ]
 
   slug: "neverfap-deluxe-appendix"
 
