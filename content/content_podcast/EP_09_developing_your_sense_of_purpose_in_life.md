@@ -76,6 +76,19 @@ In this episode I talk about purpose, how we lose it and how we can learn to cul
   -
 
 
+- What is purpose?
+  -
+
+- Purpose is what you want it to be.
+  - And I really want you to understand the significance of what this means, because people spend their entire lives not understanding what purpose is.
+
+- How I derive purpose
+  - Personally I derive purpose from process, so that's why I teach it so much.
+
+- Why others people struggle with purpose.
+  - One of the main reasons why people struggle with purpose is because they misunderstand process.
+  - Like I've said in previous episodes, people don't think in terms of process, they think in terms of goals. *
+
 
 
 
