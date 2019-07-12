@@ -165,6 +165,56 @@ const generateContent = async (folder) => {
   }
 }
 
+require('dotenv').config();
+const B2 = require('backblaze-b2');
+
+const backblazeAuthorisation = () => {
+  const b2 = new B2({
+    applicationKeyId: process.env.B2_ACCOUNT_ID, // or accountId: 'accountId'
+    applicationKey: process.env.B2_APPLICATION_KEY // or masterApplicationKey
+  });
+
+  return b2;
+}
+
+// const uploadNewFile = () => {
+//   b2.uploadFile({
+//     uploadUrl: 'uploadUrl',
+//     uploadAuthToken: 'uploadAuthToken',
+//     fileName: 'fileName',
+//     contentLength: 0, // optional data length, will default to data.byteLength or data.length if not provided
+//     mime: '', // optional mime type, will default to 'b2/x-auto' if not provided
+//     data: 'data', // this is expecting a Buffer, not an encoded string
+//     hash: 'sha1-hash', // optional data hash, will use sha1(data) if not provided
+//     info: {
+//         // optional info headers, prepended with X-Bz-Info- when sent, throws error if more than 10 keys set
+//         // valid characters should be a-z, A-Z and '-', all other characters will cause an error to be thrown
+//         key1: 'value'
+//         key2: 'value'
+//     },
+//     onUploadProgress: (event) => {} || null // progress monitoring
+//     // ...common arguments (optional)
+//   });  // returns promise
+// }
+
+
+
+// B2_BUCKET_ID=7c79b1d5bf3484b063b40d1a
+// B2_BUCKET_NAME=neverfapdeluxepaidresources
+
+
+
+  // async function GetBucket() {
+  //   try {
+  //     await b2.authorize(); // must authorize first
+  //     let response = await b2.getBucket({ bucketName: 'my-bucket' });
+  //     console.log(response.data);
+  //   } catch (err) {
+  //     console.log('Error getting bucket:', err);
+  //   }
+  // }
+  
+
 module.exports = {
   stringFromArray,
   generatePage,

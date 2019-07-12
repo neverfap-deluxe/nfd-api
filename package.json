@@ -37,7 +37,6 @@
 
     "vol": "npm run vol-md && npm run vol-1-pub && npm run vol-2-pub && npm run vol-3-pub && npm run vol-4-pub",
     "vol-md": "node ./util/generateVol.js",
-
     "vol-1-pub": "pandoc ./ebook/vol-1/vol-1.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-1/vol-1-metadata.yaml -o ./ebook/vol-1/vol-1.epub -f markdown -t epub",
     "vol-1-pdf": "pandoc ./ebook/vol-1/vol-1.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-1/vol-1-metadata.yaml -o ./ebook/vol-1/vol-1.pdf",
     "vol-2-pub": "pandoc ./ebook/vol-2/vol-2.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-2/vol-2-metadata.yaml -o ./ebook/vol-2/vol-2.epub -f markdown -t epub",
@@ -46,7 +45,7 @@
     "vol-3-pdf": "pandoc ./ebook/vol-3/vol-3.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-3/vol-3-metadata.yaml -o ./ebook/vol-3/vol-3.pdf",
     "vol-4-pub": "pandoc ./ebook/vol-4/vol-4.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-4/vol-4-metadata.yaml -o ./ebook/vol-4/vol-4.epub -f markdown -t epub",
     "vol-4-pdf": "pandoc ./ebook/vol-4/vol-4.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-4/vol-4-metadata.yaml -o ./ebook/vol-4/vol-4.pdf",
-
+    
     "generate-quotes": "node ./util/transformQuoteToMD.js"
   },
   "repository": {
@@ -64,6 +63,8 @@
     "better-md-2-json": "^1.0.6",
     "fs-extra": "^8.0.1",
     "turndown": "^5.0.3",
-    "uuid": "^3.3.2"
+    "uuid": "^3.3.2",
+    "backblaze-b2": "^1.4.0",
+    "dotenv": "^8.0.0"
   }
 }
