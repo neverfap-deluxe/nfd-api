@@ -1,5 +1,5 @@
 ---
-  title: "Quotes"
+  title: "NeverFap Deluxe Quotes"
   description: "Quotes to keep you motivated."
   date: 2019-01-22
   draft: false
@@ -12,6 +12,8 @@
 
 ---
 
-Essentially, this is where you can view a list of all the various visual items on the website. This is in addition to new ones I've personally created! It will slowly be populated in due time :D
+Hello there internet stranger.
+
+This is where you can view a list of all the various visual items on the website. In addition to a variety of new ones that I've personally created!
 
 <!-- Mention how they're also available on pinterest etc. -->

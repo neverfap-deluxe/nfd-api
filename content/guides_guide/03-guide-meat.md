@@ -13,7 +13,7 @@
 
 If you haven't yet had the chance, I highly recommend that you check out the <a class="link" href="https://neverfapdeluxe.com/">NeverFap Deluxe Homepage</a>.
 
-It explores in great detail what you can expect from NeverFap Deluxe, as well as serve as a fantastic introduction into some of the skills you'll be learning from the materials on this website.
+It explores in great detail what you can expect from NeverFap Deluxe, and it serves as a fantastic introduction into some of the skills you'll be learning from the materials on NeverFap Deluxe.
 
 Following on from the homepage, there are essentially two core skills we must learn.
 

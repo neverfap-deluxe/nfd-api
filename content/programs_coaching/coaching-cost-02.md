@@ -11,15 +11,15 @@
 
 ---
 
-### For stand alone sessions I charge $45 for an initial 30 minute consultation.
+### I offer a FREE 10 Minute Consultation so we can discuss how I can best help you.
 
 ### Then I charge $90 per hour for any on-going sessions that you feel are necessary.
 
-If however you believe you require long-term support, then please checkout my Patreon for more information, which will provide you with the most value long-term.
+<!-- If however you believe you require long-term support, then please checkout my Patreon for more information, which will provide you with the most value long-term.
 
 Each tier provides a different level of benefit and service, depending on how much support you believe you need.
 
-Basic on-going Patreon support begins at $25 a month. More details can be found on our <a class="link" href="/premium">Premium page</a> or on the <a class="link" href="https://www.patreon.com/neverfapdeluxe">NeverFap Deluxe Patreon page</a> itself.
+Basic on-going Patreon support begins at $25 a month. More details can be found on our <a class="link" href="/premium">Premium page</a> or on the <a class="link" href="https://www.patreon.com/neverfapdeluxe">NeverFap Deluxe Patreon page</a> itself. -->
 
 Here's the thing. I've dealt with an extraordinary amount of porn addicts, so I can usually tell a person within a few minutes.
 
@@ -35,7 +35,7 @@ From enlightened hope to complete hopelessness at the cusp of relapse, it's hone
 
 Which is 90% of the battle.
 
-For a lot of people, that initial 30 minutes is all they'll need, because they might only have a few on-going questions or are simply seeking routine.
+For a lot of people, that initial 10 minutes is all they'll need, because they might only have a few on-going questions or are simply seeking routine.
 
 However, for the particularly stubborn (certainly I was one of them) on-going sessions can be helpful to keep you on track and have someone tell it to you straight.
 
