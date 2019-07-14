@@ -11,37 +11,49 @@
 
 ---
 
-### I offer a FREE 10 Minute Consultation so we can discuss how I can best help you.
+There are a few steps to this process, in order to ensure you're receiving the most value out my services.
 
-### Then I charge $90 per hour for any on-going sessions that you feel are necessary.
+### All clients begin with a FREE 10 Minute Consultation so we can discuss how I can best help you.
+
+This is in order to establish an initial relationship, as well as to gauge whether you require personal coaching at all. 
+
+Perhaps that initial 10 minutes is all you require, because you might only have a few questions on your mind. Perhaps you may decide that you require on-going assistance. 
+
+Usually this becomes obvious quite immediately, and is precisely why it's important that we have this initial meeting.
+
+Because I speak to so many porn addicts each day, it doesn't take me very long to figure out what a person's problems are, as well as what is required for change.
+
+I can immediately tell if it's going to take them years to beat this thing, because of their inherent refusal to trust the process (usually as a result of excessive cynicism).
+
+I can immediately tell if they're going to struggle with meditation, because of their inability to let go of their own thoughts and emotions.
+
+Not only because I've personally been there before, but because it's what I observe everyday.
+
+Regardless, I'm more-than-happy to help and provide assistance.
+
+
+### I then charge $90 per hour for any on-going sessions that you feel are necessary.
+
+
+During these on-going sessions will we cover a range of topics, dependant on what you require help with. 
+
+The good news is that because I can identify these behaviours, I can also help you become aware of them, which in most cases is 90% of the battle.
+
+
+
+<!-- However, for the particularly stubborn (certainly I was one of them) on-going sessions can be helpful to keep you on track and have someone tell it to you straight.
+
+In almost all cases, the issue with stubborn clients is that they'll refuse to stick to the routine, and then complain about relapsing as if they could have never seen it coming.
+
+Ah yes, the great veneer of denial, sticking out it's ugly head as it cackles at you like a murder of crows. Been there before. It sucks. I totally get it. Let's change that.
+
+You distrust the process. You lose. It's that simple. I've said it a million times before, and I'll say it for another million if I have to. -->
+
+
+
 
 <!-- If however you believe you require long-term support, then please checkout my Patreon for more information, which will provide you with the most value long-term.
 
 Each tier provides a different level of benefit and service, depending on how much support you believe you need.
 
 Basic on-going Patreon support begins at $25 a month. More details can be found on our <a class="link" href="/premium">Premium page</a> or on the <a class="link" href="https://www.patreon.com/neverfapdeluxe">NeverFap Deluxe Patreon page</a> itself. -->
-
-Here's the thing. I've dealt with an extraordinary amount of porn addicts, so I can usually tell a person within a few minutes.
-
-I can tell if it's going to take them years to beat this thing, because of their inherent refusal to trust the process.
-
-I can tell if they're going to struggle with meditation, because they fail to understand the importance of letting go.
-
-I can almost instantly recognise anything, not only because I've personally been there before, but because of the behaviours I observe from the porn addicts I speak with everyday.
-
-From enlightened hope to complete hopelessness at the cusp of relapse, it's honestly nothing new to me.
-
-### The good news is that because I can identify these behaviours, I can also help you become aware of them.
-
-Which is 90% of the battle.
-
-For a lot of people, that initial 10 minutes is all they'll need, because they might only have a few on-going questions or are simply seeking routine.
-
-However, for the particularly stubborn (certainly I was one of them) on-going sessions can be helpful to keep you on track and have someone tell it to you straight.
-
-In almost all cases, the issue with stubborn clients is that they'll refuse to stick to the routine, and then complain about relapsing as if they could have never seen it coming.
-
-Ah yes, the great veneer of denial, sticking out it's ugly head as it cackles at you like a murder of crows. Been there before. It sucks. I totally get it. Let's change that.
-
-You distrust the process. You lose. It's that simple. I've said it a million times before, and I'll say it for another million if I have to.
-

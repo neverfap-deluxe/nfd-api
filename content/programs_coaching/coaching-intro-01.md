@@ -11,16 +11,20 @@
 
 ---
 
-I offer porn addiction recovery coaching for people seeking more targeted help with their porn addiction.
+I offer porn addiction recovery coaching for those seeking more targeted advice.
 
-In most cases, the articles and courses contained within this website should provide you with all the skills and knowledge you require in order to help you overcome your porn addiction.
+In most cases, the articles and resources on this website should provide you with all the necessary skills and knowledge in order to help you overcome your porn addiction.
 
 However, it can be difficult to do alone.
 
 As outlined in <a class="link" href="/articles/my-personal-porn-recovery-journey/">My Personal Porn Recovery Journey</a> one of the big things which helped me overcome my porn addiction was coming out to my partner about my mental health issues.
 
-Which obviously can be an incredibly difficult thing for you to do, if you don't feel as if you have anyone you can trust to talk about your mental health issues with.
+Which obviously is impossible if you don't have anyone you can trust to talk about your mental health issues with. I've certainly been in this position before and I can understand what it's like.
 
-I have certainly been in that position before and can understand what it's like, which is why I've decided to offer personal coaching as a service.
+It's also part of the reason why I run an <a class="link" href="https://discord.gg/YETRkSj">#accountability program</a> on our Discord Server, so users can receive that level of interaction with other people without feeling judged.
 
-It's also the reason why I run an <a class="link" href="https://discord.gg/YETRkSj">#accountability</a> Discord channel, so users can get that level of interaction with other people on some level.
+Not to mention, the simple confusion of interpretation. 
+
+Am I meditating correctly? Am I truly maintaining balance? What does it mean to let go? Why do I keep relapsing? Why do I always end up distrusting the process after a few months?
+
+All questions I can personally help with.
