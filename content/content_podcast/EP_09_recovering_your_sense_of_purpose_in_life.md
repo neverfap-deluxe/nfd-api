@@ -1,17 +1,17 @@
 ---
-  title: "EP9 - Recovering Your Sense Of Purpose In Life."
+  title: "EP9 - Rediscovering Your Sense Of Purpose In Life."
   description: "NeverFap Deluxe Podcast. In this episode I talk about purpose, how we lose it and how we can learn to cultivate it in our lives."
-  date: 2019-07-13
+  date: 2019-07-14
   draft: false
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
 
-  slug: "ep-9-recovering-your-sense-of-purpose-in-life"
+  slug: "ep-9-Rediscovering-your-sense-of-purpose-in-life"
 
-  mp3Url: ""
+  mp3Url: "https://s3.castbox.fm/1e/72/04/300b2e4fa79560ed74c23a9729.mp3"
 
-  podcastUrl: ""
-  podcastPlayer: ""
+  podcastUrl: "https://castbox.fm/episode/id2045024-id170121886?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_170121886&utm_content=EP9%20-%20Rediscovering%20Your%20Sense%20Of%20Purpose%20In%20Life-CastBox_FM"
+  podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2045024/id170121886?v=8.3.0&autoplay=0' frameborder='0' width='100%' height='300'></iframe>"
 
   pageId: "ec92c27f-759d-45bf-8647-3c5a6669740b"
 

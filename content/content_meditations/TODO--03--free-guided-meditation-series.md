@@ -1,25 +1,28 @@
 ---
   title: "EP3 - Free Guided Meditation Series"
-  description: "NeverFap Deluxe Guided Meditation Series."
-  date: 2019-07-13
-  draft: true
+  description: "NeverFap Deluxe Guided Meditation Series. In this guided meditation we explore the intonation of breath as a primary topic."
+  date: 2019-07-14
+  draft: false
   tags: [ "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "meditation" ]
   category: "Meditation"
 
-
   slug: "ep-3-free-guided-meditation-series"
 
-  mp3Url: ""
+  mp3Url: "https://s3.castbox.fm/6e/f6/75/19185c4d0992a9c4961677f855.mp3"
 
-  podcastUrl: ""
-  podcastPlayer: ""
+  podcastUrl: "https://castbox.fm/episode/id2113294-id170126457?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_170126457&utm_content=EP3%20-%20Free%20Guided%20Meditation%20Series-CastBox_FM"
+  podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2113294/id170126457?v=8.3.0&autoplay=0' frameborder='0' width='100%' height='300'></iframe>"
 
   pageId: "73c74c6e-ef52-4286-b5fc-e5486e6f8df8"
 
 ---
 
+In this guided meditation we explore the intonation of breath as a primary topic.
+
 <!-- senses -->
+
+<!-- # Script
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
@@ -91,9 +94,12 @@ If you find your mind wandering off again, that’s okay. Just gently remind you
 All we are doing is remaining relaxed, as well as present with our breath.
 
 
-And that brings us to the end of this session. Thank you for listening. I wish you best of luck with your day. This has been the NeverFap Deluxe Guided meditation series.
+And that brings us to the end of this session. Thank you for listening. I wish you best of luck with your day. This has been the NeverFap Deluxe Guided meditation series. -->
 
 
+
+
+<!-- NOTE: Below has not been used. -->
 
 <!-- For today's exercise, we're going to start by closing our eyes.
 
