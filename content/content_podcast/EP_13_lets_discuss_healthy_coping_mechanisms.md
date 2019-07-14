@@ -1,12 +1,12 @@
 ---
-  title: "EP14 - Let’s Discuss Healthy Coping Mechanisms."
+  title: "EP13 - Let’s Discuss Healthy Coping Mechanisms."
   description: "NeverFap Deluxe Podcast. In this episode I talk about Healthy Coping Mechanisms, what they are and why they are vital to developing control."
   date: 2019-09-07
   draft: true
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
   
-  slug: "ep-14-lets-discuss-healthy-coping-mechanisms"
+  slug: "ep-13-lets-discuss-healthy-coping-mechanisms"
 
   mp3Url: ""
 

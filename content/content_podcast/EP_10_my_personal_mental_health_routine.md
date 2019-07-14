@@ -1,12 +1,12 @@
 ---
-  title: "EP11 - My Personal Mental Health Routine."
+  title: "EP10 - My Personal Mental Health Routine."
   description: "NeverFap Deluxe Podcast. In this episode I talk about my own personal mental health routine and how you can apply those principles in your own life."
   date: 2019-07-27
   draft: true
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
 
-  slug: "ep-11-my-personal-mental-health-routine"
+  slug: "ep-10-my-personal-mental-health-routine"
 
   mp3Url: ""
 

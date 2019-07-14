@@ -1,12 +1,12 @@
 ---
-  title: "EP12 - Practice And Consistency Are Your Best Friends."
+  title: "EP11 - Practice And Consistency Are Your Best Friends."
   description: "NeverFap Deluxe Podcast. In this episode I talk about the value of practice and consistency in helping us develop healthy habits in life."
   date: 2019-08-10
   draft: true
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
 
-  slug: "ep-12-practice-and-consistency-are-your-best-friends"
+  slug: "ep-11-practice-and-consistency-are-your-best-friends"
 
   mp3Url: ""
 

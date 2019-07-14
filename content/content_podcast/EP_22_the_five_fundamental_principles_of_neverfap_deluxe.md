@@ -1,12 +1,12 @@
 ---
-  title: "EP23 - The Five Fundamental Principles of NeverFap Deluxe."
+  title: "EP22 - The Five Fundamental Principles of NeverFap Deluxe."
   description: "NeverFap Deluxe Podcast. In this episode I talk about The Five Fundamental Principles of NeverFap Deluxe and how they can help you ovecome porn addiction."
   date: 2020-01-10
   draft: true
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
 
-  slug: "ep-23-the-five-fundamental-principles-of-neverfap-deluxe"
+  slug: "ep-22-the-five-fundamental-principles-of-neverfap-deluxe"
 
   mp3Url: ""
 

@@ -1,12 +1,12 @@
 ---
-  title: "EP17 - Is Masturbation And Orgasm Healthy?"
+  title: "EP16 - Is Masturbation And Orgasm Healthy?"
   description: "NeverFap Deluxe Podcast. In this episode I talk about masturbation and orgasm and whether these things are healthy within the context of overcoming porn addiction."
   date: 2019-10-19
   draft: true
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
 
-  slug: "ep-17-is-masturbation-and-orgasm-healthy"
+  slug: "ep-16-is-masturbation-and-orgasm-healthy"
 
 
 

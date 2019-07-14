@@ -1,12 +1,12 @@
 ---
-  title: "EP20 - Sex, Relationships And Porn Addiction"
+  title: "EP19 - Sex, Relationships And Porn Addiction"
   description: "NeverFap Deluxe Podcast. In this episode I talk about sex, relationships and how porn addiction can affect those different aspects."
   date: 2019-11-30
   draft: true
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
 
-  slug: "ep-20-sex-relationships-and-porn-addiction"
+  slug: "ep-19-sex-relationships-and-porn-addiction"
 
   mp3Url: ""
 

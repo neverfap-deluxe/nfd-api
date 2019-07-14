@@ -1,12 +1,12 @@
 ---
-  title: "EP10 - Developing Your Sense Of Purpose In Life."
+  title: "EP9 - Developing Your Sense Of Purpose In Life."
   description: "NeverFap Deluxe Podcast. In this episode I talk about purpose, how we lose it and how we can learn to cultivate it in our lives."
   date: 2019-07-13
   draft: true
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
 
-  slug: "ep-10-developing-your-sense-of-purpose-in-life"
+  slug: "ep-9-developing-your-sense-of-purpose-in-life"
 
   mp3Url: ""
 

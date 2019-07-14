@@ -1,12 +1,12 @@
 ---
-  title: "EP22 - What Is Effective Meditation?"
+  title: "EP21 - What Is Effective Meditation?"
   description: "NeverFap Deluxe Podcast. In this episode I talk about how we can pursue effective meditation in our daily lives."
   date: 2019-12-28
   draft: true
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
 
-  slug: "ep-22-what-is-effective-meditation"
+  slug: "ep-21-what-is-effective-meditation"
 
   mp3Url: ""
 

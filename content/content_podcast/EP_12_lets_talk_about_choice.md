@@ -1,12 +1,12 @@
 ---
-  title: "EP13 - Let's Talk About Choice."
+  title: "EP12 - Let's Talk About Choice."
   description: "NeverFap Deluxe Podcast. In this episode I talk about choice, what it means, how you can exercise it and all things decision."
   date: 2019-08-24
   draft: true
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
   
-  slug: "ep-13-lets-talk-about-choice"
+  slug: "ep-12-lets-talk-about-choice"
 
   mp3Url: ""
 

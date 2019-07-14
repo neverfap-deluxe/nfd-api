@@ -1,12 +1,12 @@
 ---
-  title: "EP19 - Truly Embracing The Process"
+  title: "EP18 - Truly Embracing The Process"
   description: "NeverFap Deluxe Podcast. In this episode I talk about how you can truly understand and embrace the process."
   date: 2019-11-16
   draft: true
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
 
-  slug: "ep-19-truly-embracing-the-process"
+  slug: "ep-18-truly-embracing-the-process"
 
   mp3Url: ""
 

@@ -1,12 +1,12 @@
 ---
-  title: "EP18 - Focusing On Life Post Addiction"
+  title: "EP17 - Focusing On Life Post Addiction"
   description: "NeverFap Deluxe Podcast. In this episode I talk about what you can expect once you overcome your porn addiction, and more on what it's like to live ambition."
   date: 2019-11-02
   draft: true
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
 
-  slug: "ep-18-focusing-on-life-post-addiction"
+  slug: "ep-17-focusing-on-life-post-addiction"
 
   mp3Url: ""
 
