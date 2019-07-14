@@ -1,12 +1,12 @@
 ---
-  title: "EP9 - Developing Your Sense Of Purpose In Life."
+  title: "EP9 - Recovering Your Sense Of Purpose In Life."
   description: "NeverFap Deluxe Podcast. In this episode I talk about purpose, how we lose it and how we can learn to cultivate it in our lives."
   date: 2019-07-13
-  draft: true
+  draft: false
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
 
-  slug: "ep-9-developing-your-sense-of-purpose-in-life"
+  slug: "ep-9-recovering-your-sense-of-purpose-in-life"
 
   mp3Url: ""
 
@@ -19,16 +19,24 @@
 
 In this episode I talk about purpose, how we lose it and how we can learn to cultivate it in our lives.
 
+<!-- 
 # Script
 
 - Welcome to the NeverFap Deluxe podcast.
   - My name is Julius Reade.
-  - So you might be wondering, what is this podcast about? Well, let me tell you, young stranger! it’s a podcast about overcoming porn addiction *
-  - I also run a website called NeverFap Deluxe which aims to help people suffering from Porn addiction.
-  - In addition, I also run a Discord channel where I run an accountability program to help porn addicts like yourself, get advice and information, as well as commit to daily awareness and meditation practices.
-  - I also run a subreddit.
-  - If you’d like to support the podcast, feel free to visit my Patreon (The easiest thing is if you just Google NeverFap Deluxe into Google)
+  - Explain what podcast is about.
+  - I run a website.
+  - I run a Discord channel.
+  - I run a subreddit.
+  - Personal coaching.
 
+- Today we're going to be talking about purpose! 
+  - The reason why is because it's been an insane month essentially. 
+  - What is purpose?
+  - How do we discover our purpose in life?
+  - How we lose purpose?
+  - What are some of the key principles of purpose?
+  - Talk about the past few weeks.
 
 - Mental Health Update
   - How I lost purpose, as well as how to deal with having purpose.
@@ -42,8 +50,9 @@ In this episode I talk about purpose, how we lose it and how we can learn to cul
   - The good news is that I'm 100% back to where I need to be. Primarily, because I have my sense of purpose back.
 
 - What is purpose?
-  - Purpose is what drives you (vital)
-  - Without purpose you are a hollow shell.
+  - Purpose is what drives you (vital). Without purpose you are a hollow shell.
+  - Oddly it's not something people think about.
+  - Often you don't realise how important purpose is until you lose it.
   - The difference between being effective and ineffective.
   - In a way, purpose is a map. It points out absolutely everything you need to know about yourself.
   - From a feeling perspective, it is an overwhelming sense of confidence in who you are and what you do in life.
@@ -56,44 +65,46 @@ In this episode I talk about purpose, how we lose it and how we can learn to cul
   - Poor mental health. (lose control over our emotions, overationalisation, judgement etc.)
   - Bad circumstances.
   - Fear and doubt in who we are.
+  - They misunderstand process. 
   - Of course, you may have never felt a sense of purpose before.
   - Coming back to the map analogy, there's a few things we can lookout for.
     - Perhaps your map is incomplete. - maybe there's still quite a lot about yourself that you don't yet know.
-    - Perhaps you've
-
+    - However you have to be careful that you don't rationalise.
 
 - Key principles of purpose.
   - It's something you cultivate. (practice and consistency)
+  - It's also whatever you want it to be.
   - It's not something you own, it's largely a mindset
   - It can disappear as easily as it can appear in life.
 
 - What can we do once we lose purpose?
   - It comes down to creating an environment where purpose can flourish.
+    - This means sticking to the process.
   - You can't force life, but you can increase your chances.
   - Of course, like I said earlier, purpose is a skill. So it's about learning that skill.
   - The way you do this is by sticking to the basics
-  - Sticking to the recovery process
-  -
+  - Are you meditating daily? 
 
-
-- What is purpose?
-  -
-
-- Purpose is what you want it to be.
-  - And I really want you to understand the significance of what this means, because people spend their entire lives not understanding what purpose is.
+- The best piece of advice I can give people is to not take anything personally.
+  - An easy way to lose purpose is to focus your attention on those feelings of depression, sadness. 
 
 - How I derive purpose
-  - Personally I derive purpose from process, so that's why I teach it so much.
+  - For me, purpose is laregly a mindset
+  - Personally I derive purpose essentially from what I do with NFD.
+  - But really, it's actually a lot more fundamental than that.
+  - I derive purpose from anything I do. I make sure that anything I do, I'm aware, I'm happy, I've got a positive attitude.
+  - Focusing on the small things in life.
+  
+- So what can you do to rediscover purpose?
+  - The best thing you can do is learn to let go.
+  - In a lot of cases, it's not so much about discovery, as it is about learning to let go of our fears and 
+  - Talk about drawing (how fear and perfectionism can ruin that drive)
+  - The same thing applies to our mental health
 
-- Why others people struggle with purpose.
-  - One of the main reasons why people struggle with purpose is because they misunderstand process.
-  - Like I've said in previous episodes, people don't think in terms of process, they think in terms of goals. *
-
-
-
-
-
-
-
-
-
+- Aaaaaand that’s today’s episode! 
+  - If you liked the show, please leave a review! CastBox, iTunes, you name it!
+  - You can donate to the show via our Patreon if you're interested.
+  - I also do a guided meditation series.
+  - If you’ve got any comments or questions, please direct them to the website. That’s www.neverfapdeluxe.com
+  - And that's about it. So thank you for listening.
+   -->
