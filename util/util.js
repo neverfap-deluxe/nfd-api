@@ -8,14 +8,14 @@ const turndownService = new TurndownService();
 const Parser = require("simple-text-parser");
 
 const generateTextTitleCentre = (text) => {
-  return `## ${text}`;
+  return `## ${text}\n`;
 };
 
 const generateButton = (link, text) => {
   return `<a href='${link}'>${text}</a>`;
 }
 
-const generateContentParser = (parser) => {
+const generateContentParserToMD = (parser, isBible) => {
   // generate text title centre
   parser.addRule(/{{< nfd_center_title [\S ]+ >}}/ig, function (text) {
     const splitText = text.split('"');
@@ -33,15 +33,15 @@ const generateContentParser = (parser) => {
   //   return generateDivider(text);
   // });
 
-  // // generate text bold
-  // parser.addRule(/\#\#\# [\S ]+/ig, function (text) {
-  //   return generateTextBold(text.slice(3));
-  // });
+  // generate text bold
+  parser.addRule(/\#\#\# [\S ]+/ig, function (text) {
+    return `${text}\n`;
+  });
 
-  // // generate text title
-  // parser.addRule(/\#\# [\S ]+/ig, function (text) {
-  //   return generateTextTitle(text.slice(2));
-  // });
+  // generate text title
+  parser.addRule(/\#\# [\S ]+/ig, function (text) {
+    return `${text}\n`;
+  });
 
   // // generate text
   // parser.addRule(/[\S ]+/ig, function (text) {
@@ -62,40 +62,58 @@ const stringFromArray = (website_content_array) => {
 }
 
 // TODO replace the links within the md file to sections within the ebook itself.
-const filterContent = (content) => (
-  content
-    .replace(/(?=<!--)([\s\S]*?)-->/g, '') // <!-- -->
-    .replace(/<\/?a[^>]*>/g, '') // </ a tag references>
-    .replace(/{{< hr[23456g] "/g, '\n\n### ')
-    .replace(/{{< hr[1] "/g, '\n\n## ')
-    .replace(/" >}}/g, '\n\n')
-    .replace(/\\-/g, '-')
-    .replace(/\\#/g, '\n#')
-    .replace(/[#]{2}/g, '\n##')
-    .replace(/\[#]{2}/g, '\n##')
-    .replace(/- /g, '\n- ')
-    .replace(/[\\*]{2}/g, '*')
-    // .replace(/\. /g, '. \n')
-    .replace(/8{3}/g, '\n')
-    // .replace(/{{< nfd\\_button [\S ]+/ig, '\n')
-    // .replace(/{{< nfd\\_center\\_title [\S ]+/ig, '\n')
+const filterContent = (content, isBible) => {
+  if (isBible) {
+    return content
+      .replace(/(?=<!--)([\s\S]*?)-->/g, '') // <!-- -->
+      .replace(/<\/?a[^>]*>/g, '') // </ a tag references>
+      .replace(/{{< hr[23456g] "/g, '\n\n### ')
+      .replace(/{{< hr[1] "/g, '\n\n## ')
+      .replace(/" >}}/g, '\n\n')
+      .replace(/\\-/g, '-')
+      .replace(/\\#/g, '\n#')
+      .replace(/[#]{2}/g, '\n##')
+      .replace(/- /g, '\n- ')
+      .replace(/[\\*]{2}/g, '*')
+      .replace(/8{3}/g, '\n')
+  } else {
+    return content
+      .replace(/(?=<!--)([\s\S]*?)-->/g, '') // <!-- -->
+      .replace(/{{< hr[23456g] "/g, '\n\n### ')
+      .replace(/{{< hr[1] "/g, '\n\n## ')
+      .replace(/" >}}/g, '\n\n')
+      .replace(/\\-/g, '-')
+      .replace(/\\#/g, '\n#')
+      .replace(/[#]{2}/g, '\n##')
+      .replace(/- /g, '\n- ')
+      .replace(/[\\*]{2}/g, '*')
+      .replace(/8{3}/g, '\n')
+  }
 
+    // .replace(/\. /g, '. \n')
     // .replace(/<hr class="hrul"\/>/g, '')
     // .replace(/<hr class="hrul__bottom"\/>/g, '')
-);
+};
 
-const getHead = (fileContents) => {
+const getHead = (fileContents, isBible) => {
   const parser = new Parser();
-  const contentParser = generateContentParser(parser)
+  const contentParser = generateContentParserToMD(parser, isBible)
 
   const headRegex = new RegExp(/---(.|[\r\n])+---/);
   const head = fileContents.match(headRegex)[0];
 
   const rawWithHTMLContent = fileContents.split('---')[2];
   const parsedContent = contentParser.render(rawWithHTMLContent);
-  console.log(parsedContent);
-  const rawWithMDContent = turndownService.turndown(parsedContent);
-  const content = filterContent(rawWithMDContent);
+
+  // NOTE: I'm not sure if this turndown service is for the bible,
+  // but it destroys a heap of formatting for kickstarter
+
+  // NOTE This turndownservice may be the reason why we're able to
+  // concatenate the text into paragraphs
+
+  // const rawWithMDContent = turndownService.turndown(parsedContent);
+
+  const content = filterContent(parsedContent, isBible);
 
   return {
     head,
@@ -123,8 +141,8 @@ const extractHeadContents = (headContents) => {
   }
 }
 
-const extractData = (file_contents, file_name, type) => {
-  const { head, content } = getHead(file_contents);
+const extractData = (file_contents, file_name, type, isBible) => {
+  const { head, content } = getHead(file_contents, isBible);
   const { draft, title, date } = extractHeadContents(head);
 
   if (draft.trim() === 'false') {
@@ -160,13 +178,13 @@ const extractData = (file_contents, file_name, type) => {
   }
 }
 
-const generatePage = async (folder) => {
+const generatePage = async (folder, isBible) => {
   try {
     const file_contents = await fse.readFile(`${folder}/_index.md`, 'utf8');
     let new_list = [];
     let new_string = '';
     if (file_contents) {
-      const { new_list_item, new_string_item } = extractData(file_contents, '_index.md', 'page');
+      const { new_list_item, new_string_item } = extractData(file_contents, '_index.md', 'page', isBible);
       new_list.push(new_list_item);
       new_string += new_string_item;
     }
@@ -179,16 +197,18 @@ const generatePage = async (folder) => {
   }
 }
 
-const generatePageChildren = async (folder_path) => {
+const generatePageChildren = async (folder_path, isBible) => {
   const list = fs.readdirSync(folder_path);
   let new_list = [];
   let new_string = '';
   try {
     for (const file_name of list) {
-      const file_contents = await fse.readFile(`${folder_path}/${file_name}`, 'utf8');
-      const { new_list_item, new_string_item } = extractData(file_contents, file_name, 'page_children');
-      new_list.push(new_list_item);
-      new_string += new_string_item;
+      if (!file_name.includes('notes')) {
+        const file_contents = await fse.readFile(`${folder_path}/${file_name}`, 'utf8');
+        const { new_list_item, new_string_item } = extractData(file_contents, file_name, 'page_children', isBible);
+        new_list.push(new_list_item);
+        new_string += new_string_item;
+      }
     }
 
     return {
@@ -200,23 +220,25 @@ const generatePageChildren = async (folder_path) => {
   }
 }
 
-const generateContent = async (folder) => {
+const generateContent = async (folder, isBible) => {
   const list = fs.readdirSync(folder);
   let new_list = [];
   let new_string = '';
   try {
     for (const file_name of list) {
-      const file_contents = await fse.readFile(`${folder}/${file_name}`, 'utf8');
-      const { new_list_item, new_string_item } = extractData(file_contents, file_name, 'content');
-      new_list.push(new_list_item);
-      new_string += new_string_item;
+      if (!file_name.includes('notes')) {
+        const file_contents = await fse.readFile(`${folder}/${file_name}`, 'utf8');
+        const { new_list_item, new_string_item } = extractData(file_contents, file_name, 'content', isBible);
+        new_list.push(new_list_item);
+        new_string += new_string_item;
+      }
     }
     return {
       list: new_list,
       string: new_string,
     }
   } catch (error) {
-    throw new Error(`generateContent - ${error}`);
+    throw new Error(`generateContent - ${error} - ${folder}`);
   }
 }
 
