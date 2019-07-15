@@ -45,7 +45,6 @@
     "vol-3-pdf": "pandoc ./ebook/vol-3/vol-3.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-3/vol-3-metadata.yaml -o ./ebook/vol-3/vol-3.pdf",
     "vol-4-pub": "pandoc ./ebook/vol-4/vol-4.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-4/vol-4-metadata.yaml -o ./ebook/vol-4/vol-4.epub -f markdown -t epub",
     "vol-4-pdf": "pandoc ./ebook/vol-4/vol-4.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-4/vol-4-metadata.yaml -o ./ebook/vol-4/vol-4.pdf",
-    
     "generate-quotes": "node ./util/transformQuoteToMD.js"
   },
   "repository": {
@@ -60,11 +59,12 @@
   },
   "homepage": "https://github.com/dottjt/nfd-api#readme",
   "dependencies": {
-    "better-md-2-json": "^1.0.6",
-    "fs-extra": "^8.0.1",
-    "turndown": "^5.0.3",
-    "uuid": "^3.3.2",
     "backblaze-b2": "^1.4.0",
-    "dotenv": "^8.0.0"
+    "better-md-2-json": "^1.0.6",
+    "dotenv": "^8.0.0",
+    "fs-extra": "^8.0.1",
+    "simple-text-parser": "^1.0.0",
+    "turndown": "^5.0.3",
+    "uuid": "^3.3.2"
   }
 }

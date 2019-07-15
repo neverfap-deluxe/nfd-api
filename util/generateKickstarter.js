@@ -15,8 +15,8 @@ const generateKickstarter = async () => {
     kickstarterIndex,
     kickstarterChildren,
   ] = await Promise.all([
-    generatePage(kickstarter_folder),
-    generatePageChildren(kickstarter_folder),
+    generatePage(kickstarter_folder, false),
+    generatePageChildren(kickstarter_folder, false),
   ]);
 
   const website_content_array = [

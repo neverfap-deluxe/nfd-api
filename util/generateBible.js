@@ -67,20 +67,20 @@ const generateBible = async () => {
     terms_and_conditions,
   ] = await Promise.all([
     // INTRO
-    generatePageChildren(about_folder),
+    generatePageChildren(about_folder, true),
 
     // GUIDES
-    generatePageChildren(summary_folder),
-    generatePageChildren(guide_folder),
+    generatePageChildren(summary_folder, true),
+    generatePageChildren(guide_folder, true),
 
     // CONTENT
-    generateContent(articles_folder),
-    generateContent(practices_folder),
+    generateContent(articles_folder, true),
+    generateContent(practices_folder, true),
 
     // LEGAL
-    // generatePage(disclaimer_folder),
-    // generatePage(privacy_folder),
-    // generatePage(terms_and_conditions_folder),
+    // generatePage(disclaimer_folder, true),
+    // generatePage(privacy_folder, true),
+    // generatePage(terms_and_conditions_folder, true),
   ]);
 
   const website_content_array = [
