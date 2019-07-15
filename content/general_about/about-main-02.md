@@ -11,23 +11,25 @@
 
 ---
 
-While everyone is aware of the NoFap movement, no one actually seems to be able to effectively explain how to achieve NoFap with any sort of coherence or consistency.
+While everyone is aware of the NoFap movement, no one actually seems to be able to effectively explain how to overcome porn addiction with any sort of coherence or consistency.
 
-Most of the materials I could find online ranged from various theories on how to manage porn cravings and emotions using ineffective and unhealthy coping mechanisms.
+Most of the materials I could find online ranged from various theories on how to manage porn cravings utilising a range of ineffective and unhealthy coping mechanisms.
 
-To personal advice from existing porn addicts who's opinion seemed to change depending on the day of the week, as per their unpredictable schedule of relapse and mania.
+To personal advice from existing porn addicts who's opinion seemed to change depending on what day of the week it was, as per their unpredictable schedule of relapse and mania.
 
 I mean, you wouldn't trust financial advice from someone with a gambling problem, so why should you treat your porn addiction recovery any differently?
 
 
-{{< hr3 "That's when I knew there was an opportunity to create a website that could save people years attempting to overcome their porn addiction." >}}
+{{< hr3 "That's when I knew there was an opportunity to create a resource that could save people years trying to overcome their porn addiction." >}}
 
 
 Introducing NeverFap Deluxe.
 
 A comprehensive online step-by-step how-to guide which explains exactly what you need to do to overcome porn addiction.
 
-Based upon the healthy coping mechanisms I've developed over the years, which I use on a daily basis to help keep my mind calm, balanced and under control.
+With a wide variety of guides, articles and courses, I hope to teach you all of the skills and coping mechanisms that I've developed over the years, so you can easily overcome your own porn addiction.
+
+Skills and abilities which I personally utilise on a daily basis in order to help keep my mind calm, balanced and under control.
 
 No more excuses. No more compromises.
 

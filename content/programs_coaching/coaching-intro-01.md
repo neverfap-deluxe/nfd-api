@@ -13,7 +13,7 @@
 
 I offer porn addiction recovery coaching for those seeking more targeted advice from someone who's been there before.
 
-In most cases, the articles and resources on this website should provide you with all the necessary skills and knowledge in order to help you overcome your porn addiction.
+In most cases, the articles and resources on this website should provide you with all the knowledge necessary to help you overcome your porn addiction.
 
 However, it can be difficult to do alone.
 
