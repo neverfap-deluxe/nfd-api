@@ -63,21 +63,8 @@ const stringFromArray = (website_content_array) => {
 
 // TODO replace the links within the md file to sections within the ebook itself.
 const filterContent = (content, isBible) => {
-  if (isBible) {
-    return content
-      .replace(/(?=<!--)([\s\S]*?)-->/g, '') // <!-- -->
-      .replace(/<\/?a[^>]*>/g, '') // </ a tag references>
-      .replace(/{{< hr[23456g] "/g, '\n\n### ')
-      .replace(/{{< hr[1] "/g, '\n\n## ')
-      .replace(/" >}}/g, '\n\n')
-      .replace(/\\-/g, '-')
-      .replace(/\\#/g, '\n#')
-      .replace(/[#]{2}/g, '\n##')
-      .replace(/- /g, '\n- ')
-      .replace(/[\\*]{2}/g, '*')
-      .replace(/8{3}/g, '\n')
-  } else {
-    return content
+  const initialContent =
+    content
       .replace(/(?=<!--)([\s\S]*?)-->/g, '') // <!-- -->
       .replace(/{{< hr[23456g] "/g, '\n\n### ')
       .replace(/{{< hr[1] "/g, '\n\n## ')
@@ -88,7 +75,13 @@ const filterContent = (content, isBible) => {
       .replace(/- /g, '\n- ')
       .replace(/[\\*]{2}/g, '*')
       .replace(/8{3}/g, '\n')
-  }
+
+    return isBible ? (
+      initialContent
+        .replace(/<\/?a[^>]*>/g, '') // </ a tag references>
+    ) : (
+      initialContent
+    );
 
     // .replace(/\. /g, '. \n')
     // .replace(/<hr class="hrul"\/>/g, '')
@@ -109,7 +102,7 @@ const getHead = (fileContents, isBible) => {
   // but it destroys a heap of formatting for kickstarter
 
   // NOTE This turndownservice may be the reason why we're able to
-  // concatenate the text into paragraphs
+  // concatenate the text into paragraphs, as well.
 
   // const rawWithMDContent = turndownService.turndown(parsedContent);
 
