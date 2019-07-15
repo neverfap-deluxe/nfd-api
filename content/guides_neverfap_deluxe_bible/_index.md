@@ -26,10 +26,13 @@ So if you're looking to experience the website as an ebook, this is an excellent
 
 The only issue is it doesn't contain any of the fancy visualisations on the website, as well as the homepage of the NeverFap Deluxe website which is arguably what makes NeverFap Deluxe so fantastic.
 
-Regardless, I simply wanted to create a different format for people to appreciate the website through.
+Regardless, NeverFap Deluxe lives on! 
 
+The ebook is available for purchase in the backend of the website once you sign up for a NeverFap Deluxe account.
+
+<!-- 
 The ebook is available for download via Leanpub and it has a suggested price of $12.99 if you'd like to help support and grow NeverFap Deluxe!
 
 https://leanpub.com/neverfap-deluxe-bible
 
-Otherwise, it can be obtained at a cheaper rate via my Patreon if you're interested in becoming a backer!
+Otherwise, it can be obtained at a cheaper rate via my Patreon if you're interested in becoming a backer! -->
