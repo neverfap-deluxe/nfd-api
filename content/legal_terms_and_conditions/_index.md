@@ -26,13 +26,13 @@ Most of the modern day interactive web sites use cookies to enable us to retriev
 
 ## License
 
-Unless otherwise stated, NeverFap Deluxe and/or it’s licensors own the intellectual property rights for all material on NeverFap Deluxe. All intellectual property rights are reserved. You may view and/or print pages from https://neverfapdeluxe.com/ for your own personal use subject to restrictions set in these terms and conditions.
+Unless otherwise stated, NeverFap Deluxe and/or it’s licensors own the intellectual property rights for all material on NeverFap Deluxe. All intellectual property rights are reserved. You may view and/or print pages from <a class="link" href="https://neverfapdeluxe.com/">https://neverfapdeluxe.com/</a> for your own personal use subject to restrictions set in these terms and conditions.
 
 You must not:
 
-- Republish material from https://neverfapdeluxe.com/
-- Sell, rent or sub-license material from https://neverfapdeluxe.com/
-- Reproduce, duplicate or copy material from https://neverfapdeluxe.com/
+- Republish material from <a class="link" href="https://neverfapdeluxe.com/">https://neverfapdeluxe.com/</a>
+- Sell, rent or sub-license material from <a class="link" href="https://neverfapdeluxe.com/">https://neverfapdeluxe.com/</a>
+- Reproduce, duplicate or copy material from <a class="link" href="https://neverfapdeluxe.com/">https://neverfapdeluxe.com/</a>
 
 Redistribute content from NeverFap Deluxe (unless content is specifically made for redistribution).
 

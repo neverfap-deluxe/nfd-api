@@ -32,6 +32,7 @@ Which really is of no help to you, regardless of how useful their information is
 
 Ultimately, there were two kinds of resources that I frequently came across:
 
+
 <hr class="hrul"/>
 
 **Incomplete advice from existing porn addicts, usually in the form of forum posts. Which were desperately hopeful at best.**
@@ -39,6 +40,7 @@ Ultimately, there were two kinds of resources that I frequently came across:
 **Scientific descriptions of porn addiction is and how it affects various aspects of our mind.**
 
 <hr class="hrul__bottom"/>
+
 
 Certainly, while it's great to understand what happens under the hood from a scientific point of view.
 
@@ -48,7 +50,7 @@ In no way does that actually help you deal with the day-to-day of being a porn a
 {{< hr3 "So lieu of all this, I decided to create NeverFap Deluxe." >}}
 
 
-NeverFap has one very clear purpose that other methods lack: 
+NeverFap Deluxe has one very clear purpose that other methods lack: 
 
 <u><b>To help you successfully overcome porn addiction.</b></u>
 
@@ -102,7 +104,9 @@ In other cases, they may simply not have the mental capacity to influence their 
 
 In most cases, it's a combination of a number of factors, which they simply haven't figured out yet. 
 
+
 {{< hr3 "This is why I came up with the Five Fundamental Principles of NeverFap, to help guide people towards understanding exactly where they may be going wrong." >}}
+
 
 Perhaps what I like most about NeverFap is how it's designed to always provide you with a path forward.
 
