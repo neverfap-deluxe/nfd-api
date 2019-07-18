@@ -22,6 +22,29 @@
 <!-- {{< hr2 "Context" >}} -->
 
 
+Attachment is a curious thing. 
+
+We get attached to all sorts of things, even if they make us feel afwul about ourselves and contribute towards self-harm. 
+
+They may be simple objects, such as a nice gift someone gave us from our childhood. They may be other people, such as our friends and loved ones. On a more conceptual level, they may even be things like attitudes and insecurities.
+
+Regardless, what we are trying to do with this exercise is understand why we get attached, as well as help identify that feeling of attachment.
+
+The reason for this is quite important, because ultimately NeverFap Deluxe is about maintaining balance and it's almost impossible to maintain balance when we're attached. 
+
+By definition, attachment prevents us from maintaining balance because we're no longer acting out of principle, so much that we're simply pursuing desire.
+
+In other words, learning to let go is a truly fundamental part of the recovery process, and this exercise is to help you understand a bit more about the feeling of attachment that you experience on a daily basis. 
+
+First as a point of observation, then later as a point of change.
+
+What makes this exercise effective is to first start with plain objects. Arguably because we're less attached to objects than we are to people and in particular, conceptual ideas such as our own insecurities. 
+
+Especially when 
+
+
+
+
 The idea behind this exercises is to further understand why we get attached to certain things in our life.
 
 First we start with objects. 
@@ -29,7 +52,7 @@ First we start with objects.
 Then we move onto people and concepts. 
 
 
-{{< hr3 "Because when we're in control of our mind, it's almost as if everything is moving in slow motion." >}}
+{{< hr3 "" >}}
 
 
 {{< hr2 "Instructions" >}}

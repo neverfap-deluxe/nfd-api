@@ -21,49 +21,53 @@
 
 In this exercise we're going to be taking the initial steps towards developing a solid routine.
 
-Part of the reason why people struggle with developing and sticking to routine is because they severely overcomplicate it. 
+Part of the reason why people struggle with this general idea of routine is because they severely overcomplicate it. 
 
-They assume it's all about developing an intricate, fool-proof strategy, when really it's much more fundamental than even having a strategy overall. 
+They assume it's all about developing an intricate, fool-proof strategy, when really it's much more fundamental than even having a strategy to begin with. 
 
-Instead, 90% of the battle comes down to failing to stick to the motions of routine.
+Instead, where most people go wrong is that they fail to take any sort of action at all. They will spend days planning, only to never execute and it's something I've witnessed time and time again.
 
-We commit for a few days, only to stop completely and continue ourselves complete unaffected. 
-
-
-{{< hr3 "A commitment to what we recognise as being truly important in life." >}}
+And we do this because we struggle to understand the importance of commitment at a very fundamental level, which means failing to understand this idea of priority.
 
 
-In other words, we struggle to truly prioritise those things which are actually important to our lives, and it's a huge part of the reason why so many of us fail to progress.
-
-Because we fail to understand what routine is. 
-
-However once you realise it's nothing more than prioritisation, then it can become a lot easier to reason with from the point of view of action.
-
-How do we learn to better prioritise ourselves?
-
-Like anything else in life, it comes down to the fundamental principles of practice and consistency.
-
-In our particular case, practicing maintain our own little routines in life, simply for routine's sake. 
+{{< hr3 "In other words, effective priority is effective commitment. " >}}
 
 
-{{< hr3 "Which is to say that we are going to be developing a set of hard routines which we must practice throughout the day. " >}}
+When we struggle to prioritise those things which are truly important to the process, then we can end up putting action by the wayside, as is often the case. 
+
+The good news is that once you realise that commitment is nothing more than understanding this idea of prioritisation, then it can become a lot easier to reason with your decisions from an action-oriented point of view.
+
+So how do we learn to better prioritise ourselves?
+
+Like anything else in life, it comes down to the fundamental principles of practice and consistency. In this particular case, maintaining our own little routines in life, simply for the sake of routine. 
 
 
-For example, it could be as simple as counting down from 10 anytime you need to go to the bathroom, or perhaps thinking about the colour purple before eating a meal.
+{{< hr3 "Which is why we are going to be developing a set of hard routines which we must practice throughout the day. " >}}
 
-Although this may seem silly, ultimately what this practice is teaching us is to prioritise and put our mental health first. 
+
+For example, it could be as simple as counting down from 10 anytime you need to go to the bathroom, or perhaps thinking about the colour purple before eating a meal or entering through a door.
+
+Although this may seem silly, ultimately what we are learning is how to prioritise and put our routines first. 
+
+Now, replace the word routine with "mental health" or "career" and you'll realise that what we're doing is arguably one of the most empowering things we can do as human beings.
 
 Which isn't silly at all.
 
-Often this means doing things which we struggle to see the value of, and so by learning the value of prioritisation we can better adopt these practices without the resistance of purposelessness or frustrating. 
+And certainly, part of the charm of this exercise is learning to reinterpret this idea of "value" which we seem to have hard-wired into our brains, in order to discover the true value of prioritisation.
 
-That's why it's important to embrace this exercises, regardless of how absurd they may seem to you. 
+For example, a lot of people have this idea that their time is sacred, and therefore think that practices such as meditation are not worth their time.
+
+Even though they end up spending more time being depressed and dysfunction as a result of this idea of "value" they have, rather than actually living their lives effectively. 
+
+That's why it's important to embrace this exercises, regardless of how absurd it may seem to you. 
+
+And a large part of what will help you do this effectively is by learning to let go of these ideas which have been preventing you from truly embracing your mental health for so long.
 
 In addition, this exercise also signifies the importance of trying new things, which is largely what we are doing with NeverFap Deluxe.
 
-By learning new things we can learn to better adapt to new and more efficient ways of thinking, without feeling uncomfortable or resistant to change.
+New things which will help us better adapt to newer and more efficient ways of thinking, without feeling uncomfortable or resistant to change.
 
-Futhermore, it simply makes practicing and adopting all these new skills much easier in the long-haul.
+Futhermore, it will simply make practicing and adopting all these new skills much easier in the long-haul, which will also apply to anything else do decide to do in life.
 
 <!-- {{< hr2 "Context" >}} -->
 
@@ -71,15 +75,17 @@ Futhermore, it simply makes practicing and adopting all these new skills much ea
 {{< hr2 "Instructions" >}}
 
 
-For this exercise what we will be doing is adopting a number of new routines for us to follow. 
+For this exercise what we will be doing is adopting a number of solid routines for us to follow, and it may even help you to write them down first so it's clear what you must do.
 
-And it may even help to write them down at first, so it's clear what you must do.
+For example, you may want to create a routine where you mentally picture a dog everytime you open a door, or think about soup anytime you look at a clock.
 
-For example, you may want to create a routine where you must picture a dog everytime you need to go and open a door. 
-
-Or perhaps it could be a less frequent occurrence where you create the rule that you must have your back to the mirror whenever you must brush your teeth.
+Perhaps you may want to develop less-frequent routines such as creating the rule that you must have your back to a mirror whenever you brush your teeth.
 
 What's truly important here is consciously engaging with your mind while practicing these routines, so that you're fully aware of them throughout your day.
+
+Only by being aware can we hope to carry out these behaviours long-term on a daily basis.
+
+Regardless, I encourage you to be creative and to see where this exercise takes you.
 
 
 

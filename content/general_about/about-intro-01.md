@@ -39,3 +39,8 @@ Not only have I personally overcome porn addiction using these useful skills and
 
 However I want to help you do the same too.
 
+
+
+<!-- Not only have I personally overcome porn addiction using these useful skills and practices, however I want to help you do the same too.
+
+To no longer think about porn, nor struggle with it in any capacity is a wonderful thing I would love to share with you today. -->
