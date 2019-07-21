@@ -10,7 +10,7 @@
   
   slug: "fighting-spirit"
 
-  what: "."
+  what: "Develop our awareness of how we struggle in life."
   how: "."
   when: "."
   duration: "."

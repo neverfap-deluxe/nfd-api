@@ -10,14 +10,16 @@
   
   slug: "annoy-yourself"
 
-  what: "Engage with our subconscious mind."
-  how: "."
-  when: "."
-  duration: "."
+  what: "Better understand how you react and respond to your beliefs."
+  how: "Attempt to consciously annoy yourself."
+  when: "Throughout the day."
+  duration: "A few seconds at a time."
 
   pageId: "f1ae1257-97e6-40a7-a736-9489eab39580"
 
 ---
+
+<!-- ONE MORE EDIT -->
 
 In order to understand what this exercise fundamentally addresses, it can help to understand what it means to be annoyed. 
 

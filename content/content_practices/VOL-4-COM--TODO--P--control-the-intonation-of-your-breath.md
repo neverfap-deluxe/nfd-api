@@ -1,6 +1,6 @@
 ---
   title: "Control The Intonation Of Your Breath"
-  description: ""
+  description: "Learning to take control of the intonation of our breath is a great way to help us develop our conscious awareness."
   date: 2019-09-30
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
@@ -10,10 +10,10 @@
 
   slug: "control-the-intonation-of-your-breath"
 
-  what: "."
-  how: "."
-  when: "."
-  duration: "."
+  what: "Focus on consciously controlling your mind and developing your capacity for awareness."
+  how: "By consciously controlling the intonation of your breath."
+  when: "When you have a spare moment alone."
+  duration: "A few minutes at a time."
 
   pageId: "d282b413-30e9-40d6-ab80-f5eca234e730"
 
@@ -21,6 +21,8 @@
 
 
 <!-- {{< hr2 "Context" >}} -->
+
+
 
 Mindfulness truly is a core concept when it comes to what we're trying to develop with these exercises, and this exercise is particularly well equiped to teach you how it functions in a meaningful way.
 

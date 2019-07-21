@@ -2,7 +2,7 @@
   title: "Developing Routine"
   description: "By practicing the steps towards developing routine we can learn to train our brain in order to think in terms of routine."
   date: 2019-09-19
-  draft: true
+  draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
   category: "Balance over reward"
@@ -25,7 +25,7 @@ Part of the reason why people struggle with this general idea of routine is beca
 
 They assume it's all about developing an intricate, fool-proof strategy, when really it's much more fundamental than even having a strategy to begin with. 
 
-Instead, where most people go wrong is that they fail to take any sort of action at all. They will spend days planning, only to never execute and it's something I've witnessed time and time again.
+Where most people go wrong is that they fail to take any sort of action at all. They spend days planning, only to never execute and it's something I've witnessed time and time again.
 
 And we do this because we struggle to understand the importance of commitment at a very fundamental level, which means failing to understand this idea of priority.
 
@@ -35,7 +35,7 @@ And we do this because we struggle to understand the importance of commitment at
 
 When we struggle to prioritise those things which are truly important to the process, then we can end up putting action by the wayside, as is often the case. 
 
-The good news is that once you realise that commitment is nothing more than understanding this idea of prioritisation, then it can become a lot easier to reason with your decisions from an action-oriented point of view.
+The good news is that once you realise that effective commitment is nothing more than simply understanding this idea of prioritisation, then it can become a lot easier to reason with your decisions from an action-oriented point of view.
 
 So how do we learn to better prioritise ourselves?
 
@@ -53,13 +53,13 @@ Now, replace the word routine with "mental health" or "career" and you'll realis
 
 Which isn't silly at all.
 
-And certainly, part of the charm of this exercise is learning to reinterpret this idea of "value" which we seem to have hard-wired into our brains, in order to discover the true value of prioritisation.
+And certainly, part of the charm of this exercise is learning to reinterpret this idea of "value" which we seem to have so hard-wired into our brains, in order to discover the true value of prioritisation.
 
 For example, a lot of people have this idea that their time is sacred, and therefore think that practices such as meditation are not worth their time.
 
 Even though they end up spending more time being depressed and dysfunction as a result of this idea of "value" they have, rather than actually living their lives effectively. 
 
-That's why it's important to embrace this exercises, regardless of how absurd it may seem to you. 
+That's why it's important to embrace these kinds of exercises, regardless of how absurd they may seem to you. 
 
 And a large part of what will help you do this effectively is by learning to let go of these ideas which have been preventing you from truly embracing your mental health for so long.
 
@@ -67,7 +67,7 @@ In addition, this exercise also signifies the importance of trying new things, w
 
 New things which will help us better adapt to newer and more efficient ways of thinking, without feeling uncomfortable or resistant to change.
 
-Futhermore, it will simply make practicing and adopting all these new skills much easier in the long-haul, which will also apply to anything else do decide to do in life.
+Futhermore, it will simply make practicing and adopting all these new skills much easier in the long-haul, which also applies to anything else you decide to do in life.
 
 <!-- {{< hr2 "Context" >}} -->
 
@@ -75,13 +75,13 @@ Futhermore, it will simply make practicing and adopting all these new skills muc
 {{< hr2 "Instructions" >}}
 
 
-For this exercise what we will be doing is adopting a number of solid routines for us to follow, and it may even help you to write them down first so it's clear what you must do.
+For this exercise what we will be doing is adopting a number of solid routines for us to follow, and it may even help for you to write them down so it can become clear what you must do.
 
 For example, you may want to create a routine where you mentally picture a dog everytime you open a door, or think about soup anytime you look at a clock.
 
 Perhaps you may want to develop less-frequent routines such as creating the rule that you must have your back to a mirror whenever you brush your teeth.
 
-What's truly important here is consciously engaging with your mind while practicing these routines, so that you're fully aware of them throughout your day.
+What's truly important here is consciously engaging with your mind while practicing these routines, so that you're fully aware of them throughout your day. 
 
 Only by being aware can we hope to carry out these behaviours long-term on a daily basis.
 

@@ -1,6 +1,6 @@
 ---
   title: "Just Do Don't Think"
-  description: ""
+  description: "In this exercise we're going to be focusing on developing our capacity for raw action so we can be more effective in our lives."
   date: 2019-12-28
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
@@ -10,10 +10,10 @@
 
   slug: "just-do-dont-think"
 
-  what: "."
-  how: "."
-  when: "."
-  duration: "."
+  what: "Develop our capacity for raw action through principle."
+  how: "By disengaging our brain and taking action."
+  when: "Throughout the day."
+  duration: "Whenever you have a few minutes to spare."
 
   pageId: "d282b413-30e9-40d6-ab80-f5eca234e730"
 

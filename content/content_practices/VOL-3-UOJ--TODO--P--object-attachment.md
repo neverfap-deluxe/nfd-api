@@ -10,10 +10,10 @@
   
   slug: "object-attachment"
 
-  what: ""
-  how: ""
-  when: ""
-  duration: ""
+  what: "Identify the things within our life we are attached to."
+  how: "Creating a list of attachments."
+  when: "Throughout the day."
+  duration: "For as long as you like"
   
   pageId: "444efab8-837e-4b8b-84ed-3b03d9177b58"
 
@@ -22,40 +22,68 @@
 <!-- {{< hr2 "Context" >}} -->
 
 
+<!-- ONE MORE EDIT -->
+
 Attachment is a curious thing. 
 
-We get attached to all sorts of things, even if they make us feel afwul about ourselves and contribute towards self-harm. 
+We get attached to all sorts of things, even if they make us feel awful about ourselves and contribute towards the perpetual self-harm that results from not having control over our minds. 
 
-They may be simple objects, such as a nice gift someone gave us from our childhood. They may be other people, such as our friends and loved ones. On a more conceptual level, they may even be things like attitudes and insecurities.
+Because ultimately attachment is the act of giving yourself up to something else, and when you do that you lose your ability to truly be free, which leads to all sorts of compromises.
 
-Regardless, what we are trying to do with this exercise is understand why we get attached, as well as help identify that feeling of attachment.
+We may get attached to be simple objects, such as gifts we received as a child. It may be other people, such as our friends and loved ones. On a more conceptual level, they may even be things like attitudes and insecurities.
 
-The reason for this is quite important, because ultimately NeverFap Deluxe is about maintaining balance and it's almost impossible to maintain balance when we're attached. 
+Regardless of what you may be attached to, what we are trying to do with this exercise is understand why we get attached, as well as help identify that feeling of attachment associated with these objects.
 
-By definition, attachment prevents us from maintaining balance because we're no longer acting out of principle, so much that we're simply pursuing desire.
+Which is to say that while we may know why we are attached, if we cannot identify the feeling of attachment then we're not painting a complete picture of what's actually going on.
 
-In other words, learning to let go is a truly fundamental part of the recovery process, and this exercise is to help you understand a bit more about the feeling of attachment that you experience on a daily basis. 
+Now, there's a very important reason why we're focusing on attachment today. 
 
-First as a point of observation, then later as a point of change.
+On a very fundamental level, NeverFap Deluxe is about maintaining balance and it's almost impossible to maintain balance if we're attached.
 
-What makes this exercise effective is to first start with plain objects. Arguably because we're less attached to objects than we are to people and in particular, conceptual ideas such as our own insecurities. 
+Attachment by definition prevents us from maintaining balance because we're no longer acting out of principle, so much as we're simply pursuing out of desire.
 
-Especially when 
+Desire which may not reflect what we hope to achieve with our mental health, let alone that which we feel we have control over.
 
+On the flipside, this signifies the importance of learning to let go are a truly fundamental part of the recovery process, and this exercise aims to help you better understand why you have such a hard time doing this. 
 
+First as a point of observation, then later as a point of change when you practice meditation and other awareness exercises.
 
+So you'll be better equiped to dissolve what you're thinking and feeling, as a simple matter of principle rather than as a circumstantial fluke. 
 
-The idea behind this exercises is to further understand why we get attached to certain things in our life.
+Wouldn't that be awesome, to be able to simply let go of the frustration or sadness you're feeling within any moment, and simply return back to the present moment. 
 
-First we start with objects. 
+Well, with practice you can. 
 
-Then we move onto people and concepts. 
+Another key point of this exercise isn't to judge, so much that we're simply identifying these things within our lives with the purpose of better understanding ourselves.
 
+There is nothing wrong with being attached. It simply 
 
-{{< hr3 "" >}}
+Once you understand who you are, then it becomes a lot easier 
 
 
 {{< hr2 "Instructions" >}}
+
+
+I want you to list a number of objects you're attached to, as well as objects which you're not attached to. 
+
+To give an example, one object which I'm personally attached to is my laptop stand. I carry it around with me everywhere, and for me it signifies a part of who I am. It's important to me because it also signifies my drive for proper health and posture. 
+
+Another object I'm attached to my green jacket. It's the same green jacket I wear every single day, and it represents a large part of my identity. 
+
+On a more conceptual level, I'm attached to my work. Far more than anything else in life. My work is what gives me purpose and meaning, and I couldn't imagine living without it.
+
+Of course, that's why it's also something I actively work on everyday, learning to set healthy boundaries with my work so I can maintain balance in my life.
+
+I find it can really help to simply think about your present situation, rather than try and think back to childhood, but certainly do what works for you.
+
+If you're struggling with this exercise, then that's okay. In most cases it's because this is something you've probably never done before. 
+
+However that's also why it's a great exercise, because we're learning to think consciously about who we are, which is a skill which will help us approach 
+
+I want you to continue to develop this list and see where it leads you. It can help to focus on people as well, but only once you've worked on this for a few days.
+
+Then it can help to focus on our feelings and insecurities.
+
 
 
 
