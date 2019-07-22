@@ -21,35 +21,50 @@
 
 <!-- ONE MORE EDIT -->
 
-In order to understand what this exercise fundamentally addresses, it can help to understand what it means to be annoyed. 
+In order to understand what this exercise fundamentally aims to address, it can help to understand what it means to be annoyed. 
 
-And certainly, once you realise how silly it is, it will change the way you think about your own personal beliefs and how we use them to create feeling. 
+Because once you understand how the dynamics of being annoyed works, it actually ruins the whole fun of being annoyed.
 
-If you haven't read my articles which touch upon judgement, then that's probably a good place to start. I know I've done a podcast on it as well, in case you wanted something a bit more vocal.
+And you may even find it impossible to be annoyed again. 
 
-The way annoyance works is deadly simple, yet it's something almost no one understands. 
+Well, at the very least it will help you understand why and how silly the whole thing is, even if you do find yourself caught feeling annoyed. 
 
-After all, it's really hard to get annoyed once you understand how it works, because it ultimately ruins the point and fun of being annoyed.
-
-Here's how it works.
+Essentially the premise is quite simple.
 
 
-{{< hr3 "You create a personal agreement that you will feel annoyed when something happens." >}}
+{{< hr3 "You create a personal agreement which states that you will feel annoyed." >}}
   
 
 That's literally it. 
 
-The reason why it's silly is because when you understand that it's your own personal agreement, you also realise that you feeling annoyed has absolutely nothing to do with the something that has taken place.
+Ultimately what happens is that we create the agreement, then a particular circumstance fulfils that agreement, and then you feel the emotion.
 
-Instead, it's just you reacting to a belief you personally have in your mind. 
+The whole process is known as "taking something personally".
 
-Which is hilariously insane, when you think about it. Like, outright delusional.
+Which when you phrase it like that, sounds as if it's the external circumstance which is responsible for how we feel, when really it's us and the agreement we've created.
 
-This is literally what people in mental institutions do. They have conversations with themselves, and this really is no different. 
+The reason why it's silly is because the agreement can be anything
 
-So rather than have that internal conversation, our intention will be dissolve those personal agreements and identify them for what they are. 
+You can say you're going to get really angry because the sky is blue, or because .
+
+The reason why it's silly is because when you understand that it's your own personal agreement, you realise that you're merely reacting to a belief you've created in your own mind. 
+
+Which is insane. This is literally what people in mental institutions do. They have conversations with themselves, and this really is no different. 
+
+{{< hr3 "The reason why people struggle with taking things personally so much is because they don't identify the agreement. " >}}
+
+
+Instead, they identify the feeling and when all you can see the is the feeling, the very result of taking something personally, then inherently it will merely reinforce your experience as something that is out of our control.
+
+Well, this simply isn't true. You do have control in these situations, because you created the agreement.
+
+Ultimately the idea which something like awareness is that we're learnng to actually be able to catch ourselves when we create these agreements, so we can dissolve them. 
+
+So rather than have those internal conversations, our intention will be dissolve those personal agreements and identify them for what they are. 
 
 Self-created beliefs which take power away from our ability to remain neutral, which therefore takes power away from our ability to be free. 
+
+
 
 
 {{< hr2 "Instructions" >}}
