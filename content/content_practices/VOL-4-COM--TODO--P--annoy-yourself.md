@@ -7,7 +7,7 @@
   categories: [ "choice-over-mind" ]
   category: "Choice over mind"
   vol: 4
-  
+
   slug: "annoy-yourself"
 
   what: "Better understand how you react and respond to your beliefs."
@@ -21,21 +21,19 @@
 
 <!-- ONE MORE EDIT -->
 
-In order to understand what this exercise fundamentally aims to address, it can help to understand what it means to be annoyed. 
+In order to understand what this exercise fundamentally aims to address, it can help to understand what it means to be annoyed.
 
-Because once you understand how the dynamics of being annoyed works, it actually ruins the whole fun of being annoyed.
+Because once you understand the dynamics of how we get annoyed, your behaviours and reactions become crystal-clear you may even find it impossible to be annoyed again.
 
-And you may even find it impossible to be annoyed again. 
-
-Well, at the very least it will help you understand why and how silly the whole thing is, even if you do find yourself caught feeling annoyed. 
+Well, at the very least help you understand why you may be feeling annoyed, as well as recognise how silly the whole thing is.
 
 Essentially the premise is quite simple.
 
 
 {{< hr3 "You create a personal agreement which states that you will feel annoyed." >}}
-  
 
-That's literally it. 
+
+That's literally it.
 
 Ultimately what happens is that we create the agreement, then a particular circumstance fulfils that agreement, and then you feel the emotion.
 
@@ -47,9 +45,9 @@ The reason why it's silly is because the agreement can be anything
 
 You can say you're going to get really angry because the sky is blue, or because .
 
-The reason why it's silly is because when you understand that it's your own personal agreement, you realise that you're merely reacting to a belief you've created in your own mind. 
+The reason why it's silly is because when you understand that it's your own personal agreement, you realise that you're merely reacting to a belief you've created in your own mind.
 
-Which is insane. This is literally what people in mental institutions do. They have conversations with themselves, and this really is no different. 
+Which is insane. This is literally what people in mental institutions do. They have conversations with themselves, and this really is no different.
 
 {{< hr3 "The reason why people struggle with taking things personally so much is because they don't identify the agreement. " >}}
 
@@ -58,11 +56,11 @@ Instead, they identify the feeling and when all you can see the is the feeling, 
 
 Well, this simply isn't true. You do have control in these situations, because you created the agreement.
 
-Ultimately the idea which something like awareness is that we're learnng to actually be able to catch ourselves when we create these agreements, so we can dissolve them. 
+Ultimately the idea which something like awareness is that we're learnng to actually be able to catch ourselves when we create these agreements, so we can dissolve them.
 
-So rather than have those internal conversations, our intention will be dissolve those personal agreements and identify them for what they are. 
+So rather than have those internal conversations, our intention will be dissolve those personal agreements and identify them for what they are.
 
-Self-created beliefs which take power away from our ability to remain neutral, which therefore takes power away from our ability to be free. 
+Self-created beliefs which take power away from our ability to remain neutral, which therefore takes power away from our ability to be free.
 
 
 
