@@ -19,6 +19,32 @@
 
 ---
 
+A large part of the reason why people struggle with their porn addiction recovery is because they struggle.
+
+Yes, that is correct.
+
+The primary reason why people struggle is because struggle is all they know.
+
+Which is to say that struggle itself is a self-fulfilling mindset which people remain entirely oblivious to, because how can you possibly know what you don't know at all? 
+
+In other words, struggle is a by-product of simply not knowing how to cope effectively.
+
+
+{{< hr3 "Which leads to all sorts of theories and attitudes." >}}
+
+
+Today we will be addressing one of these attitudes, which is the fighting 
+
+
+Often our first response when we struggle or face difficultly is to react. We think "Okay, things aren't working out and I need to do something about it."
+
+Although great in theory, this is ultimately what results in anxiety, frustration and panic. As we scramble to try and 
+
+
+
+There is no inherent meaning
+
+
 
 There's a quote that goes something along the lines of "You are your own worst enemy" and this rings particularly true when it comes to porn addiction recovery.
 

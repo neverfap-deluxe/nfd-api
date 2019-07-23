@@ -21,6 +21,21 @@
 
 <!-- {{< hr2 "Context" >}} -->
 
+Self-talk refers to the thoughts and judgements we have in our mind.
+
+While a large part of it takes place on a subconscious level, people often rely on self-talk as a form of motivation. 
+
+You know, to pump ourselves up and .
+
+Well, it's unhealthy. 
+
+
+
+
+especially since it is habitual for most people.
+
+Most of it is 
+
 
 
 {{< hr2 "Instructions" >}}

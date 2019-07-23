@@ -23,9 +23,11 @@
 
 I absolutely LOVE this exercise.
 
-I would say it's probably one of the best exercises I've come up with, especially in terms of demonstrating what exactly it is we're trying to achieve with NeverFap Deluxe from a process perspective.
+It's a great way to promote conscious action, and it's especially helpful at demonstrating the power of process as a driving force for change.
 
-A problem most porn addicts have is that they're serial over-thinkers, and arguably it's something which grows worse overtime the longer they struggle with their recovery.
+Over-thinking is a problem most porn addicts struggle with on a daily basis, and it's a problem which tends to grow worse over-time the longer they struggle with their recovery.
+
+
 
 Because you know what desperate people without hard strategies do?
 
