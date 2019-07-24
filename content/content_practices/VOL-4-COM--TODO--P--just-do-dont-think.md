@@ -25,7 +25,15 @@ I absolutely LOVE this exercise.
 
 It's a great way to promote conscious action, and it's especially helpful at demonstrating the power of process as a driving force for change.
 
-Over-thinking is a problem most porn addicts struggle with on a daily basis, and it's a problem which tends to grow worse over-time the longer they struggle with their recovery.
+Over-thinking is a problem most porn addicts struggle with on a daily basis, and it's a problem which can grow worse over-time the longer people struggle with their recovery.
+
+Ultimately what it does is that it paralyses people into indecision, fear and doubt about who they are and what they're capable of.
+
+After all, when you're face struggle and failure on a daily basis, simply because it's something that's constantly in your mind as a result of your attitude towards life.
+
+Then inherently you're going to needlessly repeat these behaviours, as a simply matter of habit.
+
+Well, I'm all about breaking the cycle and this exercise is a great place to start with that.
 
 
 

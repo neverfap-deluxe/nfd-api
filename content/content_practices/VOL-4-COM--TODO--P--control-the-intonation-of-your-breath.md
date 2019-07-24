@@ -23,61 +23,63 @@
 
 <!-- {{< hr2 "Context" >}} -->
 
-Although it may seem like a simple breathing exercise, this exercise is all about developing our capacity for conscious awareness.
+Although it may seem like a simple breathing exercise, this exercise is all about developing your capacity for conscious awareness.
 
-A key part of what makes NeverFap Deluxe effective is that it teaches you to be conscious, which is to say that it teaches you to use your mind in order to produce results.
+A key part of what makes NeverFap Deluxe effective is that it teaches you to remain conscious with yourself, which is to say that it teaches you to effectively use your mind in order to produce results.
 
-Where most people fall apart is that they practice these exercises without truly being conscious, which is really no matter than not practicing them at all.
+Where most people fall apart is that they practice these exercises without truly remaining conscious throughout them, which is really no better than not practicing them at all.
 
-If you're not engaging with your mind, then you're simply not developing meaningful skills.
+If you're not engaging with your mind, then you're simply not developing the skills to approach your problems in a meaningful way.
 
-And I mean, I don't necessarily blame people. It can be difficult to engage with your mind, especially when you've relied on escaping your thoughts or distracting yourself as a primary coping mechanism.
+Which I totally understand. 
 
-But it's important we directly address the elephant in the room, otherwise you'll simply continue to mindlessly relapse or watch porn.
-
-
-{{< hr3 "We're all about doing things smarter. Please stick with the program." >}}
+It can be difficult to engage with your mind when you've relied on distracting yourself or escaping your problems as a primary way of coping with your feelings.
 
 
-Mindfulness truly is a core concept when it comes to what we're trying to develop with these exercises, and this exercise is excellent at making this aware to you.
+{{< hr3 "But it's important that you directly address the elephant in the room, otherwise you'll simply continue to mindlessly relapse and watch porn." >}}
 
-And a lot of what mindfulness comes down to is learning how to use our minds in a conscious way.
 
-Certainly, our breath is a great place to start with this, because it's a subconscious behaviour we do which we often don't think about.
+So instead of being mindless we're instead going to aim to be mindful, and mindfulness truly is a core concept when it comes to what we're trying to develop with these exercises.
 
-Yet, which we have direct control over. 
+Certainly, a lot of what mindfulness comes down to is learning how to use our minds in a conscious way, and our breath is a great place to start with this.
 
-And so bringing these behaviours to our attention can help us train our brains to become more aware and mindful of other behaviours, such as when we find ourselves peeking at porn or fantasising in general.
+In part because it's a subconscious behaviour we don't often think about, yet have direct control over. 
 
-The more you engage with your brain, the stronger your ability to act appropriately will become.
+And so bringing these behaviours to our attention can help us train our brains to become more aware and mindful in general, especially of other behaviours such as when we find ourselves peeking at porn or fantasising in general.
 
-Whether that be refraining from reacting to a stressful situation, learning to dissolve our feelings and emotions at will, or even simply deciding to have 15 minutes to yourself to recalibrate. 
+The more you engage with your brain, the more you'll be able to direct control over yourself.
 
-It all starts with our actions, and it can be incredibly hard to take action when we cannot conscious execute when it's required most. 
+Whether that means refraining from reacting to a stressful situation, learning to dissolve your feelings and emotions at will, or even simply deciding to have 15 minutes to yourself to recalibrate. 
+
+It all begins with our actions, and it can be incredibly hard to take action when we cannot consciously execute when it's required most. 
 
 
 {{< hr2 "Instructions" >}}
 
 
-For this exercise what we want to do is learn to breathe consciously, as well as really become aware of the control we have over our breath. 
+For this exercise what you want to do is learn to breathe consciously, as well as really become aware of the control you have over your breath. 
 
-Start by breathing slowly, paying close attention to the intonation of your breath. 
+You want to start by breathing slowly, paying close attention to the intonation of your breath. 
 
 When you breathe in, and when you breathe out.
 
 Remember that it really is about learning to be conscious with your breath, and a key part of this which a lot of people don't realise is that we can only be present with ourselves once we've first learnt to let go of our mind.
 
-Which is to say that this whole process is going to become a lot easier once we've fully calmed down and arrived at a relaxed state.
+Which is to say that this whole process is going to become a lot easier once you've fully calmed down and arrived at a relaxed state.
 
-Of course, perhaps you struggle with this exercise. Perhaps you feel unable to be conscious with yourself at all.
+Of course, perhaps you struggle to be calm and relaxed. Perhaps you feel unable to remain conscious with yourself.
 
-Well, only by consistently practicing this engagement with our minds can we hope to be able to engage with ourselves fluently.
+Well, only by consistently practicing this engagement in all situations, whether that mean under a heavily depressed state or when you're feeling stable, can we hope to be able to engage with ourselves fluently.
 
-It can help to understand that these are skills we are developing at the end of the day, skills which anyone can learn if they simply go through the motions. 
+These exercises aren't about achieving perfection. They're about learning to use your mind regardless of what you're feeling. 
 
-Then once you're more familiar with your breath, it can help to change the intonation of your breath, while continuing to remain calm and aware of yourself.
+And it can help to understand that these are skills we are developing at the end of the day, skills that you will be able to learn if you simply go through the motions. 
 
-You are fully in-control of yourself. You just need to practice it. 
+So focus on your breath. Starting with slow breaths, and then later learning to consciously change the intonation of your breath once you feel more comfortable with this exercise.
+
+All while continuing to remain calm and aware of yourself.
+
+Never forget that you are fully in-control of yourself. It's just a skill you need to practice. 
 
 
 <!--

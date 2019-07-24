@@ -19,21 +19,19 @@
 
 ---
 
-A large part of the reason why people struggle with their porn addiction recovery is because they struggle.
+For a lot of people, struggle forms a large part of the porn addiction recovery experience and one of the primary reasons why people struggle is because it's literally all they know.
 
-Yes, that is correct.
+Which is to say that people struggle because they simply don't know any better. 
 
-The primary reason why people struggle is because struggle is all they know.
+Because no one wants to struggle.
 
-Which is to say that struggle itself is a self-fulfilling mindset which people remain entirely oblivious to, because how can you possibly know what you don't know at all? 
+Struggle is simply what people do when they have no better options, when they're completely out of ideas on how best to move forward.
 
-In other words, struggle is a by-product of simply not knowing how to cope effectively.
+It is a desperate attempt at trying to cope without know how to cope effectively at all.
 
+So rather than struggle, what we aim to do is instead learn how to cope effectively, so we can instead thrive and grow as human beings. 
 
-{{< hr3 "Which leads to all sorts of theories and attitudes." >}}
-
-
-Today we will be addressing one of these attitudes, which is the fighting 
+One of the ways we struggle is when we. 
 
 
 Often our first response when we struggle or face difficultly is to react. We think "Okay, things aren't working out and I need to do something about it."
