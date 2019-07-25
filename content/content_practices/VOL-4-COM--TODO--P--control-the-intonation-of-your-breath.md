@@ -25,9 +25,9 @@
 
 Although it may seem like a simple breathing exercise, this exercise is all about developing your capacity for conscious awareness.
 
-A key part of what makes NeverFap Deluxe effective is that it teaches you to remain conscious with yourself, which is to say that it teaches you to effectively use your mind in order to produce results.
+A key part of what makes NeverFap Deluxe effective is that it teaches you to remain conscious with yourself, which is to say that it teaches you to effectively use your mind in order to produce meaningful results.
 
-Where most people fall apart is that they practice these exercises without truly remaining conscious throughout them, which is really no better than not practicing them at all.
+Where most people fall apart is that they practice these exercises without truly remaining conscious throughout the process, which is really no better than not practicing them at all.
 
 If you're not engaging with your mind, then you're simply not developing the skills to approach your problems in a meaningful way.
 
