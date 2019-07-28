@@ -24,28 +24,88 @@
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
 
-My name is Julius Reade and today we are going to be learning to let go of any tension we may be feeling.
+My name is Julius Reade and today we are going to be learning to let go of tension. 
+
+Tension is something which we can experience in our body, as well as in our mind. 
+
+And the way we are going to let go of this tension is first by fully relaxing our muscles. Beginning with the tension we feel in our arms. And it might help to picture the tension physically leaving your body. As if it's slowly leaving your body and disappearing into thin air. 
+
+<!-- And then by focusing on our shoulders and neck. Allowing the tension to simply dissolve away. -->
+
+And we truly want to embrace this feeling of being completely relaxed from your head, to your body, to your legs, and to your feet.
+
+Completely letting go of the tension you consciously or subconsiously may be holding onto. 
+
+
+
+Of course, our minds can also feel tense, especially when we are feeling stressed or anxious.
+
+And we can learn to let go of this tension by refraining from thought, and refraining from reaction. 
+
+And instead, by simply aimming to be present with ourselves, focusing our attention on being completely relaxed.
+
+So you can be free of distraction. And become fully conscious with who you are in this present moment.
+
+At it's core, this exercise is really about learning to let go.
+
+As well as learning to become truly comfortable with this idea of letting go. 
+
+Because only once you understand how to let go, will you be able to truly release all the tension you feel. 
+
+Whether that be in your mind, or as a physical side-effect you experience in your body. 
+
+And the way you do this is by actively relaxing and refraining from continuing to hold onto this tension. 
+
+So that you can train your mind to do this without your input. 
+
+And I'll let you continue this process within your own space, until you feel completely calm. 
+
+
+
+If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with yourself.
+
+Mentally dissolving the tension that you feel in your mind, and your body. 
+
+Ultimately, so we can be effective. 
+
+And in-control of what we think and feel.
+
+
 
 Stress and tension are two things which are common in many people's lives.
 
-You may be feeling stressed as a result of your job. Perhaps your workload is beginning to become unmanagable, or perhaps you are in a position where you still don't quite know what it is you want to do with your career.
+You may be feeling stressed as a result of having too much on your plate. Perhaps you feel unable to keep up with it all.
 
-Or perhaps the tension you are feeling is coming from friends and family. Maybe you are currently experiencing drama in your life, and things are not turning out exactly how you want it to go.
+Perhaps you are even feeling uncertain about the future. Maybe you're feeling unsure about your career or life in general, and that's making you feel anxious or depressed.
+
+Perhaps the tension you are feeling comes from family and friends. Maybe you are experiencing drama in your life, and things are not turning out exactly how you want it.
 
 There are any number of ways both stress and tension can become the focus in our minds.
 
+But by learning to let go, we can allow these aspects to no longer affect our daily lives. 
+
+First by relaxing. 
+
+So you can remain calm, as well as remain present with yourself in this very moment.
+
+But also by committing yourself mentally to this exercise. 
+
+As something important for you to do in order to learn new skills which will help you flourish and grow.
 
 
 
 
+If you find yourself wandering off again, that’s okay. Just gently remind yourself to return your attention back to the present moment. 
 
-If your mind has wandered off during this exercise, then that's okay. All we need to do is relax, and reconnect with ourselves.
+Making yourself aware of your surroundings and purpose during this exercise.
+
+So you can be fully present with your mind. 
 
 
-If you find yourself wandering off again, that’s okay. Just gently remind yourself to
 
+If you find yourself getting distracted during this exercise, all you need to do is simply relax. 
 
-If you find yourself getting distracted during this exercise, that's okay. Just gently remind yourself, to
+And embrace that feelings of relaxation.
 
 
 And that brings us to the end of this session. Thank you for listening. I wish you best of luck with your day. This has been the NeverFap Deluxe Guided meditation series.

@@ -25,56 +25,61 @@ I absolutely LOVE this exercise.
 
 It's a great way to promote conscious action, and it's especially helpful at demonstrating the power of process as a driving force for change.
 
-Over-thinking is a problem most porn addicts struggle with on a daily basis, and it's a problem which can grow worse over-time the longer people struggle with their recovery.
+Over-thinking is a problem most porn addicts struggle with on a daily basis, and it's a problem which can grow worse over time the longer people struggle with their recovery.
 
-Ultimately what it does is that it paralyses people into indecision, fear and doubt about who they are and what they're capable of.
+Ultimately what rationalisational does is that it paralyses people into indecision, fear and doubt. Not only in regards to who they fundamentally think they are as people, but also in regards to what they think they're capable of.
 
-After all, when you're face struggle and failure on a daily basis, simply because it's something that's constantly in your mind as a result of your attitude towards life.
+After all, when you're facing struggle and failure on a daily basis, then inherently you're going to mindlessly repeat these same behaviours over and over again, simply as a matter of habit.
 
-Then inherently you're going to needlessly repeat these behaviours, as a simply matter of habit.
-
-Well, I'm all about breaking the cycle and this exercise is a great place to start with that.
+Behaviours which transpire into hopelessness, as you begin to come up with brittle logic in order to justify your own self-perpetuating dysfunction. 
 
 
+"Is it okay to masurbate if I don't watch porn?"
 
-Because you know what desperate people without hard strategies do?
-
-That's correct folks, they over-rationalise to compensate with the fact that they're utterly clueless.
-
-Cluelessness which transpires into hopelessness, as they begin coming up with brittle logic in order to justify their dysfunction. 
+"Surely it won't be that bad if I just peek a little bit?"
 
 
-"Is it okay to edge to porn if I don't masturbate?"
+Rationalisations which cause us to give in to our addiction, and which take us further away from the true aim of recovery which is to help us develop control over our minds. 
 
-"Is it relapse if I have sex with a hooker?"
+Well, this is precisely why I created this exercise so we can break the cycle and learn to take back control over our minds.
 
+As well as reverse years of rationalisation which may have left us despondent and broken.
 
-Like, what does any of this stuff have to do with developing Healthy Coping Mechanisms?
-
-Well, this is precisely why I created this exercise so we can learn to take back control over the essential fundamentals which we may have been ignoring this whole time.
-
-And reverse the years of rationalisation which may have plagued your porn addiction recovery process, for the worse. 
-
-So what are these fundamentals exactly?
-
-As NeverFap Deluxe states, it's all about sticking to the process and of course, most people are going to have an incredibly difficult time doing this if all they know is distrusting the process.
-
-But that's okay. I've been there. I know what it's like. So let's change those behaviours and become better people. 
 
 {{< hr2 "Instructions" >}}
 
+
 Essentially what we want to do for this exercise is to carry out a bunch of tasks without thinking.
 
-What a lot of people don't realise, arguably because they're so stuck in thought they haven't truly reflected in a long time, is that thought is just a tool.
+Here's the deal with thought: It's a very useful a tool to have, but it's still only a tool at the end of the day. 
 
-Which is to say that thought is not the main course - it is just a tool to help us carry out the process.
+When you over-think you're using this tool when it's simply not necessary, which is to say that you're over-using it in a variety of situations, well-beyond it's use-case. 
 
-Now, when you're spending more time thinking than following the process, then you have a problem.
+For example, you don't need to think or come up with a laborious list of arguments in order to get down and start doing push-ups. 
 
-What we are training ourselves to do is to embrace the power of process, without mentally meddling with the process in any way.
+You just start doing push-ups. 
+
+And ultimately that's what this exercise teaches us, that we can actively do something without having to battle our thoughts every single time. 
+
+The problem is that people don't have this awareness, arguably because they're so stuck in thought that they simply don't reach that point. 
+
+So what we want to do with this exercise is to have an intent, and then to carry out that intent without question.
+
+Stand up and go open a door. Walk down to the end of the street and then back again. Do 10 jumping jacks. Repeatedly fill a whole page by repeated writing down the same word over and over again. 
+
+In order for this to be effective it's important as well is that you don't think, question or argue with yourself while you practice this. It's all about demonstrating that you do have this ability to simply act, and not fight yourself.
+
+At first you might find this exercise difficult, or perhaps even pointless.
+
+Well, understand that those thoughts and feelings are a form of a reaction and are exactly what we aim to address. 
+
+The less thoughts you have, the less resistance you'll face when it comes to addressing the big issues in your life like your porn addiction, and the quicker you'll be able to recover.
+
+
 
 <!--
 {{< hr2 "Additional Resources" >}}  -->
 
 <!-- maybe link to other  -->
+
 
