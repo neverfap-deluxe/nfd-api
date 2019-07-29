@@ -1,28 +1,28 @@
 ---
-  title: "EP10 - My Personal Mental Health Routine."
+  title: "EP10 - Let's Learn About The Reade Pt 1."
   description: "NeverFap Deluxe Podcast. In this episode I talk about my own personal mental health routine and how you can apply those principles in your own life."
   date: 2019-07-27
-  draft: true
+  draft: false
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
 
-  slug: "ep-10-my-personal-mental-health-routine"
+  slug: "ep-10-lets-learn-about-the-reade-pt-1"
 
-  mp3Url: ""
+  mp3Url: "https://s3.castbox.fm/f4/e6/65/0366524b61bf5a4630d229e8cb.mp3"
 
-  podcastUrl: ""
-  podcastPlayer: ""
+  podcastUrl: "https://castbox.fm/episode/id2045024-id173120715?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_173120715&utm_content=EP10%20-%20Let's%20Learn%20About%20The%20Reade%20Pt%201.-CastBox_FM"
+  podcastPlayer: "<iframe src='https://castbox.fm/app/castbox/player/id2045024?v=8.3.2&autoplay=0' frameborder='0' width='100%' height='300'></iframe>"
 
   pageId: "ec92c27f-759d-45bf-8647-3c5a6669740b"
 
 ---
 
-In this episode I talk about my own personal mental health routine and how you can apply those principles in your own life.
+In this episode I talk about my life so you can learn a bit more about me!
 
 
 <!-- Let's Learn About The Reade Pt 1. -->
 
-# Script
+<!-- # Script -->
 <!-- 
 - Hello sport's fans you're listening to the NeverFap Deluxe Podcast **with me, Juliuls bloody Reade** and thank you for tuning in for another of great banter, advice and really how to master the dick pic. Because I know that's truly why you're hear, so you can impress your future wife, or perhaps even friends and family. You weird unit.
   - My name is Julius Reade.
