@@ -1,7 +1,7 @@
 ---
   title: "Control The Intonation Of Your Breath"
   description: "Learning to take control of the intonation of our breath is a great way to help us develop our conscious awareness."
-  date: 2019-09-30
+  date: 2019-11-21
   draft: false
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]

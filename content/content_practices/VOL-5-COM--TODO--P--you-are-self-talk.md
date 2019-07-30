@@ -10,7 +10,7 @@
 
   slug: "you-are-self-talk"
 
-  what: "."
+  what: "Increasing our capacity for conscious awareness."
   how: "Identify when we find ourselves talking to ourselves."
   when: "."
   duration: "."

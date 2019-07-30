@@ -1,7 +1,7 @@
 ---
   title: "What Does Your Nose See?"
   description: ""
-  date: 2019-11-14
+  date: 2020-01-18
   draft: true
   tags: [ "practice", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-none" ]
