@@ -1,6 +1,6 @@
 ---
   title: "Porn Addiction Quiz"
-  description: "."
+  description: "Discover whether you truly have a porn addiction or are addicted to porn."
   date: 2019-05-26
   draft: false
   tags: [ "porn addiction", "porn recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
