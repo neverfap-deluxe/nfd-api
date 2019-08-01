@@ -5,29 +5,29 @@
   draft: true
   tags: [ "porn addiction", "porn recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "" ]
-  
+
   slug: "there-is-no-such-thing-as-voluntary-relapse"
 
-  pageId: "1838f786-d4ea-4b02-92be-1f171582283a"
+  pageId: "026e1b6e-da6d-46c9-8969-a923485af525"
 
 ---
 
-Relapse by definition is never voluntary. 
+Relapse by definition is never voluntary.
 
-Saying it is voluntary is essentially saying that 
+Saying it is voluntary is essentially saying that
 
 
-A lot of people try to justify their behaviour through rationalisation. 
+A lot of people try to justify their behaviour through rationalisation.
 
-They assume that if they're able to come up with a reason, it can therefore provide some sort of insight.  
+They assume that if they're able to come up with a reason, it can therefore provide some sort of insight.
 
 And it's an attitude which people apply not only to their recovery, but their entire lives in general.
 
-It's how people get away with procrastinating for hours at a time, opposed to commit to the schedule that they initially created for themselves. 
+It's how people get away with procrastinating for hours at a time, opposed to commit to the schedule that they initially created for themselves.
 
-Perhaps the worst form of rationalisation is when people try and add perspective to their actions, 
+Perhaps the worst form of rationalisation is when people try and add perspective to their actions,
 
-I suppose the primary problem is that none of it is real. 
+I suppose the primary problem is that none of it is real.
 
 Which is to say that all your rationalisations are purely fabricated and literally have no meaning what-so-ever.
 
