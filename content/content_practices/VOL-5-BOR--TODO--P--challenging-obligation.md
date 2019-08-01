@@ -19,47 +19,54 @@
 
 ---
 
-Ultimately, this exercise is a direct follow up to **Identifying the feeling of obligation** so I highly recommend checking that exercise before practicing this one.
+<!-- Ultimately, this exercise is a direct follow up to **Identifying the feeling of obligation** so I highly recommend checking out that exercise before practicing this one.
 
-Although certainly you can practice this exercise alone.
+Although certainly you can practice this exercise alone. -->
 
-What I like about this exercise is that it's a very direct and physical way of engaging with change.
+What I like about this exercise is that it's a very direct and physical way of creating change.
 
-It takes a lot of inspiration from other exercises such as **Stop Absolutely Everything You're Doing** in a more conditional way.
+And it takes a lot of inspiration from other exercises such as **Stop Absolutely Everything You're Doing** in a more conditional way.
 
-And in order for us to better understand what this exercise is all about, it can help to understand a bit more about this idea of human responsibility.
+In order for us to better understand what this exercise is all about, it can help to understand this idea of human responsibility.
 
-Which mind you, is an incredibly odd thing when you look at the dynamics of how it changes our perception of reality.
-
-
-{{< hr3 "When someone is deemed "responsible" for something, it completely changes the way a person thinks, feels and operates. " >}}
+Which mind you, is an incredibly odd thing once you understand the dynamics of how it changes your perception of reality.
 
 
-All of a sudden, they are provided with an incredible amount of incentive and motivation to act in concert with these responsibilities, in a lot of cases as if their live depended upon it. 
+{{< hr3 "Once we're deemed \"responsible\" for something, it completely shifts our own understanding of what is necessary in life." >}}
+
 
 For example, if we have a child to look after, it can feel as if we've been provided with an insurmountable task whereby we must do absolutely everything within our power to ensure that child remains safe.
 
-Yet what's odd is that although that the very construct of responsibility is merely a self-created feeling.
+Yet what's odd is that although we now have a child, nothing has fundamentally changed about who we are.
 
-Which is to say that nothing has actually changed. The only thing that's actually change is our attitude towards life.
+We're still alive. We still have a beating heart. You still have a mouth which can chew and a mind which can think.
 
-Which is to say that responsibility is not something concrete. It is merely an expectation that we set for ourselves.
+Instead, what's changed is our attitude towards life, all because we've decided to embrace these self-created feelings of responsibility.
+
+And once you realise that a large part of this idea of responsibility is nothing more than a feeling, then it can also help you understand that responsibility itself is something which can be easily manipulated. 
+
+For example, when you're feeling down or depressed you may not feel like being responsible, which is to say that responsilibity itself is not perfect.
 
 
-{{< hr3 "It's also why we don't pursue these same actions when we're feeling down or depressed, it's because we don't feel like being "responsible"." >}}
+{{< hr3 "In essence, the reason why you end up looking after that child a lot of the time is because you feel obliged to do it, not because you necesarily have to in any capacity." >}}
 
+Now, sure.
 
-In essence, the reason why you end up looking after that child is because you feel obliged to do it, not because you necesarily have to in any capacity.
+Perhaps children aren't the best example since they're something you inherently love and there are severe consequences to neglecting your children, but there's literally nothing stopping you from walking out the door and never returning.
 
-Sure, there are consequences. But there's literally nothing stopping you from walking out the door and never returning.
+And this is an incredibly important point for us to realise, because by the same token, the reason why we feel anxious or depressed is because we create those same feelings of obligation in other aspects of life.
 
-And this is incredibly important for us to realise, because the reason why we feel anxious or depressed is because we create these same feelings of obligation on other aspects of life.
+We can feel as if we have the "responsibility" to be highly successful in our career. We feel as if we have the "responsibility" to have an incredibly attractive partner, or to be incredibly smart.
 
-We feel as if we have the "responsibility" to be highly successful in our career. We feel as if we have the "responsibility" to have an incredibly attractive partner.
+Yet these are all merely self-created expectations we set for ourselves, which drown us out and which make us feel miserable.
 
-We create all sorts of unrealistic expectations which drown us out and which make us feel miserable, all because we feel responsible to them. 
+All because of a self-created feeling we attach to, which ironically doesn't actually help us achieve our goals. 
 
-Well, this exercise essentially aims to challenge this responsibility and to help us understand that they are not real and that they are entirely self-created.
+The good news is that once you understand that our poor mental health is as a result of these expectations or "responsibilities" which we create for ourselves, then it can help us move forward and realise that they are not real and can be challenged and dissolved.
+
+So we can learn to be truly present with ourselves instead.
+
+<!-- Which is to say that we've decided to set certain expectations for ourselves, because we personally allow external circumstances to dictate how we feel.  -->
 
 
 {{< hr2 "Instructions" >}}

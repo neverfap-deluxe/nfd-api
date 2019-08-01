@@ -12,8 +12,8 @@
 
   what: "Increasing our capacity for conscious awareness."
   how: "Identify when we find ourselves talking to ourselves."
-  when: "."
-  duration: "."
+  when: "Throughout the day."
+  duration: "A few seconds at a time."
 
   pageId: "865D673D-36A0-46F0-B36D-1762FAB8CE6B"
 
