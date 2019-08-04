@@ -24,7 +24,7 @@ I started watching porn from the very moment I figured out how to physically mas
 
 And I'm sure your story is quite similar.
 
-Discovering porn as a kid is like discovering Bitcoin as a young adult. 
+Discovering porn as a kid is a bit like discovering Bitcoin as a young adult. 
 
 It's this absurd hyper-fantasy that sucks you in and I really don't need to go into the details. I'm sure you're more than familiar with what it means to be someone who watches porn on a regular basis.
 

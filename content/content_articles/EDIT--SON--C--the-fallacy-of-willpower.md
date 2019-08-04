@@ -19,7 +19,7 @@
 
 Willpower is a lie.
 
-It's a fabulous lie peddled by all sorts of celebrities and self-help gurus as an unlimited source of potential and opportunity, which can allow you attain absolutely anything you want in life.
+It's a fabulous lie peddled by all sorts of celebrities and self-help gurus as an unlimited source of potential and opportunity, which can allow you to attain absolutely anything you want in life.
 
 It's a lie because it leads people to develop all sorts of inflated ideas as to how humans can learn and progress, often well-beyond which humans are actually capable of. 
 
