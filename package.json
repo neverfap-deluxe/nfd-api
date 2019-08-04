@@ -45,7 +45,10 @@
     "vol-3-pdf": "pandoc ./ebook/vol-3/vol-3.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-3/vol-3-metadata.yaml -o ./ebook/vol-3/vol-3.pdf",
     "vol-4-pub": "pandoc ./ebook/vol-4/vol-4.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-4/vol-4-metadata.yaml -o ./ebook/vol-4/vol-4.epub -f markdown -t epub",
     "vol-4-pdf": "pandoc ./ebook/vol-4/vol-4.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-4/vol-4-metadata.yaml -o ./ebook/vol-4/vol-4.pdf",
-    "generate-quotes": "node ./util/transformQuoteToMD.js"
+
+    "generate-quotes": "node ./util/transformQuoteToMD.js",
+
+    "create": "node ./util/create.js"
   },
   "repository": {
     "type": "git",
