@@ -2,6 +2,8 @@ const fse = require('fs-extra');
 const fs = require('fs');
 const uuidv4 = require('uuid/v4');
 
+// ex. npm run create "Hovering" content_hovering
+
 const generateResponseTemplate = () =>
 `{{ define "response" }}
 {
@@ -54,7 +56,7 @@ const createLink = () => {
   const fullTitle = process.argv[2];
   const fullSlug = process.argv[3];
   const fullDescription = process.argv[4];
-  console.log(fullTitle, fullSlug, fullDescription)
+  // console.log(fullTitle, fullSlug, fullDescription)
 
   // Create /content directory
   const contentDirectory = `content/${fullSlug}`;
