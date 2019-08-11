@@ -1,6 +1,6 @@
 ---
   title: "Why is Porn So Addictive? An Introduction to the Science Behind the Habit"
-  description: "In this article Phenom discusses."
+  description: "In this article Phenom discusses why porn is so addictive."
   username: "Phenom" 
   date: 2019-07-05
   draft: false
