@@ -14,11 +14,11 @@
 
 <!-- NeverFap Deluxe contains a range of articles which cover a variety of different topics related to overcoming porn addiction. -->
 
-<!-- Here subsides a complete list of all of the contextual articles here on my amazingly useful website, NeverFap Deluxe!
+Here subsides a complete list of all of the contextual articles here on my amazingly useful website, NeverFap Deluxe!
 
 If instead if you're looking for a more structured approach towards addressing your porn addiction, then I recommend checking out our <a class="link" href="https://neverfapdeluxe.com/courses">NeverFap Deluxe Courses</a> section!
 
 If however you were interested in browsing our complete list of mental health practices here on NeverFap Deluxe, please check out the suitably-named <a class="link" href="https://neverfapdeluxe.com/practices">NeverFap Deluxe Practices</a> page.
 
-You may sort articles by latest or category. -->
+<!-- You may sort articles by latest or category. -->
 
