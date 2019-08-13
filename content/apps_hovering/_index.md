@@ -20,3 +20,11 @@ Unlike traditional meditation, Hovering aims to be highly concrete as opposed to
 Because chances are that you may have meditated in the past and you may not have understood exactly what it was you did, let alone what the point of it all was.
 
 Well, Hovering aims to bridge that gap.
+
+<div class="circle__container cr">
+  <div class="circle cri">
+    Hover
+  </div>
+</div>
+
+If you would like to learn more about Hovering
