@@ -1,5 +1,5 @@
 ---
-  title: "Hovering Meditation Technique"
+  title: "Hovering Meditation"
   description: "Hovering is a meditation techinque which is designed to be easy to understand, simple to practice and accessible to people of all ages."
   date: 2019-08-13
   draft: false
@@ -53,8 +53,8 @@ It's actually quite a lot more involved. For example, it's important that you ke
 
 If you would like to learn more about Hovering, I've written an extensive website/guide which explains the concept of Hovering in a lot more detail.
 
-<!-- <img src="https://neverfapdeluxe.netlify.com/images/hovering_web.png"/> -->
-<img style="width: 100%;" src="http://localhost:1313/images/hovering_web.png"/>
+<img style="width: 100%;" src="https://neverfapdeluxe.netlify.com/images/hovering_web.png"/>
+<!-- <img style="width: 100%;" src="http://localhost:1313/images/hovering_web.png"/> -->
 
 <a class="link articles__link" href='https://tryhovering.com/'>Hovering Website</a>
 
@@ -66,8 +66,8 @@ If you would like to learn more about Hovering, I've written an extensive websit
 
 Hovering Meditation is available as an online Web Application. It's simple and easy to use.
 
-<!-- <img src="https://neverfapdeluxe.netlify.com/images/hovering_app.png"/> -->
-<img style="width: 100%;" src="http://localhost:1313/images/hovering_app.png"/>
+<img style="width: 100%;" src="https://neverfapdeluxe.netlify.com/images/hovering_app.png"/>
+<!-- <img style="width: 100%;" src="http://localhost:1313/images/hovering_app.png"/> -->
 
 <a class="link articles__link" href='https://hovering.neverfapdeluxe.com/'>Hovering Web Application</a>
 
@@ -77,12 +77,10 @@ Hovering Meditation is available as an online Web Application. It's simple and e
 
 ## Hovering Android Application
 
-If you have a 
+If you have a Android phone, then you can also download the Hovering Android Application!
 
-As well as an Android Application.
-
-<!-- <img src="https://neverfapdeluxe.netlify.com/images/hovering_mobile.png"/> -->
-<img style="width: 350px;" src="http://localhost:1313/images/hovering_mobile.png"/>
+<img style="width: 350px;" src="https://neverfapdeluxe.netlify.com/images/hovering_mobile.png"/>
+<!-- <img style="width: 350px;" src="http://localhost:1313/images/hovering_mobile.png"/> -->
 
 <a class="link articles__link" href='https://hovering.neverfapdeluxe.com/'>Hovering Android Application</a>
 
