@@ -8,8 +8,7 @@
 
   slug: "neverfap-deluxe-appendix"
 
-  tldr1: "Currently your addiction is who you are, because it is the life you currently live."
-  tldr2: "However, it doesn't have to be who you are as you get to choose who you want to be through your actions."
+  tldr1: "An Appendix of NeverFap Deluxe related terms."
 
   pageId: "57356635-5dfe-45af-97c9-d09e2a04ef23"
 

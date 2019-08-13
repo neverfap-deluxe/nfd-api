@@ -17,7 +17,6 @@
 
 ---
 
-
 <!-- focus/attention/consciousness -->
 
 Hello, and welcome to the NeverFap Deluxe Guided Meditation series.
