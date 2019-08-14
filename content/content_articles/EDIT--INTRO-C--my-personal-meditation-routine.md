@@ -3,11 +3,11 @@
   description: "In this article I discuss my personal meditation routine and how I personally use it to help me maintain balance in life."
   date: 2019-06-20
   draft: false
-  tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
+  tags: [ "meditation", "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
 
   slug: "my-personal-meditation-routine"
-  
+
   tldr1: "At a minimum I meditate 10 minutes each day before bed."
   tldr2: "I also use other opportunities throughout the day to meditate and practice awareness."
 
@@ -33,7 +33,7 @@ Not only does this kind of pressure stress people out, however it's also counter
 
 I suppose it's a bit like when you're getting ready to go for a big night out on the town, and you end up spending 2 hours cycling through clothes and hairstyles because you can't quite figure out which look to go for.
 
-That's the exact opposite of what meditation should be. 
+That's the exact opposite of what meditation should be.
 
 It should be as casual as popping on sandals to walk down to the local shops, to grab a bottle of milk.
 
@@ -51,9 +51,9 @@ And when you stick to this basic routine, everything falls into place and it won
 
 You'll simply recognise that it's that time of the day to meditate again, you'll do your ten minutes, and then you'll continue on with your day.
 
-Of course, the idea behind meditation is to help us remain calm, as well as remind us remind us of this idea of balance which is so central to the porn addiction recovery process. 
+Of course, the idea behind meditation is to help us remain calm, as well as remind us remind us of this idea of balance which is so central to the porn addiction recovery process.
 
-That's why I find it useful to also practice meditation/mindfulness whenever I have a moment to spare, usually at routine times during the day. 
+That's why I find it useful to also practice meditation/mindfulness whenever I have a moment to spare, usually at routine times during the day.
 
 For example, I will usually meditate as I walk to the train station on the way to work in the morning, or while waiting for the train to arrive.
 
@@ -67,7 +67,7 @@ Let us understand that the recovery process isn't about reacting to our emotions
 {{< hr3 "Of course, what's important is finding a routine that works well for you." >}}
 
 
-Everyone has a different routine and schedule, and your meditation routine should reflect that. I know some get more out of meditation when they practice it in the morning, rather than at night. 
+Everyone has a different routine and schedule, and your meditation routine should reflect that. I know some get more out of meditation when they practice it in the morning, rather than at night.
 
 Personally speaking, I like to do my 10 minutes of meditation at night before bed, because that's also when I write my accountability post and is also what helps me relax and sleep better at night.
 
@@ -83,7 +83,7 @@ Ultimately, meditation is a practice which is designed to help you maintain bala
 
 It is a tool to help ground you back to your present senses, and doing this frequently throughout the day is going to be more useful than doing it all in one long sitting.
 
-Regardless, always keep it simple. 
+Regardless, always keep it simple.
 
 If you keep it simple and you stick to your routine, you'll already be well-ahead than most.
 

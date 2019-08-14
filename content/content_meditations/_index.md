@@ -1,15 +1,15 @@
 ---
-  title: "NeverFap Deluxe Guided Meditation"
+  title: "NeverFap Deluxe Guided Meditations"
   description: "Learn about meditation the NeverFap Deluxe way." # TODO
   date: 2019-05-01
   draft: false
   tags: [ "porn addiction", "porn recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "" ]
-  
+
   slug: "meditation"
 
   pageId: "fbc67e53-077b-4bdc-908c-889e99f39d09"
-  
+
 ---
 
 Here are a complete list of all of the guided meditations here on my amazingly useful website, NeverFap Deluxe!

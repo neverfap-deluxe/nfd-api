@@ -3,9 +3,9 @@
   description: "In this article we discuss some of the way people may struggle with practicing meditation in general."
   date: 2019-08-04
   draft: false
-  tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
+  tags: [ "meditation", "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
-  
+
   slug: "why-you-may-be-struggling-with-your-meditation"
 
   tldr1: "The purpose of meditation is to help you maintain balance."
@@ -29,7 +29,7 @@ Hell, I wasn't even doing it to overcome porn addiction persay, I was just doing
 
 Of course, without understanding the true purpose of meditation, the practice didn't stick and so I stopped doing it for a number of years, only to return to it with a new-found appreciation later on down the track.
 
-Which essentially revolutionised absolutely everything I know about porn addiction recovery today, so let's dive in. 
+Which essentially revolutionised absolutely everything I know about porn addiction recovery today, so let's dive in.
 
 
 {{< hr3 "Why meditate?" >}}
@@ -37,9 +37,9 @@ Which essentially revolutionised absolutely everything I know about porn addicti
 
 The practice of meditation serves one very clear purpose, which is to help you maintain balance.
 
-It won't necessarily make you completely invulnerable to experiencing urges, nor will it necessarily remove the brain fog you feel when you give in to your urges and orgasm. 
+It won't necessarily make you completely invulnerable to experiencing urges, nor will it necessarily remove the brain fog you feel when you give in to your urges and orgasm.
 
-Although it may　certainly do those things in certain contexts, if you're able to remain balanced. 
+Although it may　certainly do those things in certain contexts, if you're able to remain balanced.
 
 At it's core I would describe meditation as a useful tool which can help recalibrate your mind towards becoming calmer, focused and more aware of itself.
 
@@ -57,11 +57,11 @@ Like, you're trying to follow a healthy diet, you're exercising frequently, you'
 
 Obviously if you're eating junk food everyday, getting stoned on a daily basis and are abusing yourself in other ways, then meditation alone isn't going to help you significantly.
 
-I suppose what I'm trying to say is that although these things are super important, especially in regards to maintaining balance, they're also not the primary focus of the NeverFap Deluxe. 
+I suppose what I'm trying to say is that although these things are super important, especially in regards to maintaining balance, they're also not the primary focus of the NeverFap Deluxe.
 
-Instead, we try and focus our efforts on explaining the mental health side of things, and we assume you're looking elsewhere for that kind of advice. 
+Instead, we try and focus our efforts on explaining the mental health side of things, and we assume you're looking elsewhere for that kind of advice.
 
-I mean, I'm certainly no dietician. 
+I mean, I'm certainly no dietician.
 
 So with that in mind, here are some tips and tricks which you might find useful.
 
@@ -75,9 +75,9 @@ In large part due to the poor explanations used to describe the practice of medi
 
 People will describe it as 'emptying your mind' or 'focusing without thought' and it's a bit like describing a book as 'pages with words' or 'a conceptual narrative'.
 
-It doesn't actually capture the essence of what meditation is actually about, especially from a process point of view. 
+It doesn't actually capture the essence of what meditation is actually about, especially from a process point of view.
 
-Sure, on some fundamental level it is about 'emptying your mind' but that's merely a by-product of having successfully practiced meditation. 
+Sure, on some fundamental level it is about 'emptying your mind' but that's merely a by-product of having successfully practiced meditation.
 
 Which is to say that describing the end-result doesn't actually explain how to do it effectively.
 
@@ -87,9 +87,9 @@ Inherently, it can help to understand that meditation at it's core is about acti
 
 And so by focusing on our senses, it can allow us to easily practice meditation without feeling confused as to what we're actually supposed to do.
 
-Afterall, our senses are something that we can all relate to and understanding on a physical level. 
+Afterall, our senses are something that we can all relate to and understanding on a physical level.
 
-Everyone can relate to the feeling of touch, but the feeling of an "empty mind"? 
+Everyone can relate to the feeling of touch, but the feeling of an "empty mind"?
 
 Not so much.
 
@@ -125,10 +125,10 @@ It is a form of distraction which does nothing to teach you self-awareness or se
 
 Instead, you really should be sitting up with a straight back while you practice your meditations, while keeping your body as relaxed and as tensionless as possible.
 
-Of course, I'm sure there are a lot of different reasons why people struggle with meditation, and this is not an exhaustive list by any means. 
+Of course, I'm sure there are a lot of different reasons why people struggle with meditation, and this is not an exhaustive list by any means.
 
 For a lot of people it can be as simple as feeling fearful of what might happen once they reconnect with their mind on a fundamental level, which is preventing them from truly letting go and embracing themselves.
 
-In some cases, a person may have become so accustomed to distracting themselves that the very idea of meditation may seem completely intangible and foreign to them. 
+In some cases, a person may have become so accustomed to distracting themselves that the very idea of meditation may seem completely intangible and foreign to them.
 
 Regardless, you're certainly not alone in your journey and NeverFap Deluxe provides a wealth of knowledge to help you get through your own personal porn recovery journey.

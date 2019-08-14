@@ -17,7 +17,7 @@ It has been designed to be easy to understand, simple to practice, as well as re
 
 Unlike traditional meditation, Hovering aims to be highly concrete as opposed to highly abstract so you can have that 'ah-ha' moment of clarity a lot sooner, rather than later.
 
-Essentially how it works is that you hover your cursor over the hover button and you use this as a tool to help ground your mind. 
+Essentially how it works is that you hover your cursor over the hover button and you use this as a tool to help ground your mind.
 
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 3.6rem; margin-bottom: 3.6rem;">
   <div class="circle__container cr">
@@ -41,7 +41,7 @@ Essentially how it works is that you hover your cursor over the hover button and
   }
 </script>
 
-Of course, that's just the basics of it. 
+Of course, that's just the basics of it.
 
 It's actually quite a lot more involved. For example, it's important that you keep your hand attached to your cursor while you practice Hovering.
 
@@ -53,8 +53,8 @@ It's actually quite a lot more involved. For example, it's important that you ke
 
 If you would like to learn more about Hovering, I've written an extensive website/guide which explains the concept of Hovering in a lot more detail.
 
-<!-- <img src="https://neverfapdeluxe.netlify.com/images/hovering_web.png"/> -->
-<img style="width: 100%;" src="http://localhost:1313/images/hovering_web.png"/>
+<img style="width: 100%;" src="https://neverfapdeluxe.netlify.com/images/hovering_web.png"/>
+<!-- <img style="width: 100%;" src="http://localhost:1313/images/hovering_web.png"/> -->
 
 <a class="link articles__link" href='https://tryhovering.com/'>Hovering Website</a>
 
@@ -66,8 +66,8 @@ If you would like to learn more about Hovering, I've written an extensive websit
 
 Hovering Meditation is available as an online Web Application. It's simple and easy to use.
 
-<!-- <img src="https://neverfapdeluxe.netlify.com/images/hovering_app.png"/> -->
-<img style="width: 100%;" src="http://localhost:1313/images/hovering_app.png"/>
+<img style="width: 100%;" src="https://neverfapdeluxe.netlify.com/images/hovering_app.png"/>
+<!-- <img style="width: 100%;" src="http://localhost:1313/images/hovering_app.png"/> -->
 
 <a class="link articles__link" href='https://hovering.neverfapdeluxe.com/'>Hovering Web Application</a>
 
@@ -77,12 +77,10 @@ Hovering Meditation is available as an online Web Application. It's simple and e
 
 ## Hovering Android Application
 
-If you have a 
+Hovering Meditation is also available on Android.
 
-As well as an Android Application.
-
-<!-- <img src="https://neverfapdeluxe.netlify.com/images/hovering_mobile.png"/> -->
-<img style="width: 350px;" src="http://localhost:1313/images/hovering_mobile.png"/>
+<img style="width: 350px;" src="https://neverfapdeluxe.netlify.com/images/hovering_mobile.png"/>
+<!-- <img style="width: 350px;" src="http://localhost:1313/images/hovering_mobile.png"/> -->
 
 <a class="link articles__link" href='https://hovering.neverfapdeluxe.com/'>Hovering Android Application</a>
 

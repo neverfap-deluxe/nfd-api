@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
-  
+
   slug: "paying-the-neverfap-maintenance-tax"
 
   tldr1: "Maintenance of our mental and physical health is a hard requirement."
@@ -20,17 +20,17 @@
 
 What exactly is the NeverFap Maintenance Tax?
 
-Well, aside from the fact that it's a term I've more-or-less made up on the spot, the NeverFap Maintenance Tax refers to the time and effort required in order to maintain our physical and mental health. 
+Well, aside from the fact that it's a term I've more-or-less made up on the spot, the NeverFap Maintenance Tax refers to the time and effort required in order to maintain our physical and mental health.
 
-It includes things like meditation, exercising, relaxing, studying, meditating, eating and brushing our teeth. 
+It includes things like meditation, exercising, relaxing, studying, meditating, eating and brushing our teeth.
 
-Everything that helps us keep regular. 
+Everything that helps us keep regular.
 
 The reason why I call it a tax is because many of us have the attitude that maintaining these things is simply unnecessary.
 
 In fact, most of us can tend to view these things as a burden (usually due to the amount of time associated with actually doing them), despite the positive benefits they provide.
 
-So what ends ups happening is that become selective about what we view as necessary or not. 
+So what ends ups happening is that become selective about what we view as necessary or not.
 
 Maybe we don’t exercise, because we’d rather be studying or playing video games. Maybe we work or study too hard, because we don’t see the value in meditating or relaxing.
 
@@ -50,7 +50,7 @@ And only now in retrospect do I realise how I was making something like giving u
 
 In order to demonstrate this, I’m first going to talk about where I personally was making those compromises in my life.
 
-And then explain the effect it was having on my ability to cope. 
+And then explain the effect it was having on my ability to cope.
 
 As well as what successfully paying the maintenance tax actually entails.
 
@@ -58,15 +58,15 @@ As well as what successfully paying the maintenance tax actually entails.
 {{< hr3 "Facing the consequences of imbalance" >}}
 
 
-Prior to this realisation, I was under the impression that I was relatively functional and healthy. 
+Prior to this realisation, I was under the impression that I was relatively functional and healthy.
 
-I was exercising three times a week. I was eating healthily. I was in a fantastic relationship. I was incredibly passionate about studying and I was full of ambition, ready to take on the world. 
+I was exercising three times a week. I was eating healthily. I was in a fantastic relationship. I was incredibly passionate about studying and I was full of ambition, ready to take on the world.
 
-On the other hand, there were other aspects of my life that were severely imbalanced. 
+On the other hand, there were other aspects of my life that were severely imbalanced.
 
 Aside from being severely addicted to porn, I was beginning to suffer from anxiety attacks from my excessive studying.
 
-I was studying so much that it used to induce these kinds of 'coding nightmares' where I would be mentally coding in my sleep, but stuck in an indefinite loop where I would just write the same code again and again and again. 
+I was studying so much that it used to induce these kinds of 'coding nightmares' where I would be mentally coding in my sleep, but stuck in an indefinite loop where I would just write the same code again and again and again.
 
 It was truly awful.
 
@@ -86,11 +86,11 @@ Everyone is different in this regard, and NeverFap Deluxe is designed to help yo
 {{< hr3 "Change in attitude" >}}
 
 
-Embracing self-care requires a change in attitude. 
+Embracing self-care requires a change in attitude.
 
-Instead of thinking about our immediate wants, we need to begin thinking holistically and understand that cutting corners of any kind is going to result in future pain. 
+Instead of thinking about our immediate wants, we need to begin thinking holistically and understand that cutting corners of any kind is going to result in future pain.
 
-Certainly, costing us time and emotional stability in the long run. 
+Certainly, costing us time and emotional stability in the long run.
 
 Which exponentially increases the difficulty of everything else we hope to achieve, regardless of how much time we spend on those pursuits themselves.
 
@@ -104,8 +104,8 @@ It simply requires respecting long-term outcomes, as opposed to hesitant, short-
 
 The key takeaway from this article is that self-care exists above all, especially if you care about productivity.
 
-Furthermore, that self-care is not optional. 
+Furthermore, that self-care is not optional.
 
-It is a hard requirement and by avoiding self-care, we delay so many positive aspects of our life. 
+It is a hard requirement and by avoiding self-care, we delay so many positive aspects of our life.
 
 <!-- Talk about NeverFap Schedule article. -->
