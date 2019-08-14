@@ -1,5 +1,8 @@
 ---
   # A Definitive Guide On How To Meditate Properly
+  # A Simple Guide To Effective Meditation
+  # a practical guide to 
+  # a-simple-guide-to-effective-meditation-guide
   title: "Observe Your Senses"
   description: "Observation is one of the most powerful ways we can to build our awareness and learn to regain control over our porn addiction."
   date: 2019-01-27
@@ -24,9 +27,7 @@
 
 <!-- VERY HAPPY WITH THIS -->
 
-
 <!-- {{< hr2 "Context" >}} -->
-
 
 This exercise encompasses one of the most fundamental skills in regards to practicing meditation.
 
