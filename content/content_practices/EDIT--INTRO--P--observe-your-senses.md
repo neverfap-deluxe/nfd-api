@@ -1,4 +1,5 @@
 ---
+  # A Definitive Guide On How To Meditate Properly
   title: "Observe Your Senses"
   description: "Observation is one of the most powerful ways we can to build our awareness and learn to regain control over our porn addiction."
   date: 2019-01-27
@@ -45,9 +46,9 @@ And this happens for a number of reasons.
 {{< hr3 "For starters, we severely overcomplicate what it is, thinking it must be so much more than simply paying attention to what we're feeling." >}}
 
 
-Instead, we develop this idea that it must be this highly-trained skill that only Bhuddist monks can attain following years of practice in a remote location. 
+Instead, we develop this idea that it must be this highly-trained skill that only Bhuddist monks can attain following years of practice in a remote location.
 
-So what ends up happening is put all this effort and strain into trying to develop this 'zen-like' state of mind, which ends up exhausting us more than it does helping us. 
+So what ends up happening is put all this effort and strain into trying to develop this 'zen-like' state of mind, which ends up exhausting us more than it does helping us.
 
 We become so distracted in the expectation of what observation should be, that we ironically spend all our mental effort judging and feeling pressured, rather than observing at all.
 
@@ -61,17 +62,17 @@ To put it into the most simple terms I know how.
 
 If you're at a cafe for example, it means paying attention to the sounds of the people chatting around you, what the atmosphere around you smells like etc.
 
-Because when you think about it, you're already observing reality. 
+Because when you think about it, you're already observing reality.
 
-You're already breathing. You're already blinking. You're already seeing. 
+You're already breathing. You're already blinking. You're already seeing.
 
-You simply haven't applied that extra step of making yourself aware of all those things which you are currently doing. 
+You simply haven't applied that extra step of making yourself aware of all those things which you are currently doing.
 
-It's literally that simple. 
+It's literally that simple.
 
 You don't need to attempt to find something that's not there, nor even manipulate your interpretation of what you're feeling or thinking via thought or judgement.
 
-Instead, it's about noticing your surroundings, thoughts and feelings, in addition to any particular reactions you may be having to those aspects of your reality. Hell, perhaps you're not even thinking or feeling at all? 
+Instead, it's about noticing your surroundings, thoughts and feelings, in addition to any particular reactions you may be having to those aspects of your reality. Hell, perhaps you're not even thinking or feeling at all?
 
 That's for you to discover.
 
@@ -85,7 +86,7 @@ Which doesn't make any sense, and is even contradictory.
 
 You don't have to change anything. Observation isn't about changing anything or setting expectations. It's the exact opposite of that.
 
-Instead, it's about observing what you're currently sensing via your thoughts and emotions. 
+Instead, it's about observing what you're currently sensing via your thoughts and emotions.
 
 So don't worry about trying to prevent your thoughts, or getting frustrating if you can't stop thinking.
 
@@ -95,11 +96,11 @@ That's precisely the problem we're trying to address, and the way we do that is 
 {{< hr3 "Another important thing to keep in mind is that we're not necessarily attempting to 'achieve' anything with observation." >}}
 
 
-Instead, what we're doing is exploring. 
+Instead, what we're doing is exploring.
 
-We're exploring how we feel, how we think, as well as discovering what we personally find enjoyable and empowering. 
+We're exploring how we feel, how we think, as well as discovering what we personally find enjoyable and empowering.
 
-So that we can better understand ourselves. 
+So that we can better understand ourselves.
 
 
 {{< hr2 "Instructions" >}}
@@ -107,7 +108,7 @@ So that we can better understand ourselves.
 
 This exercise is outrageously simple.
 
-Observe your senses. 
+Observe your senses.
 
 Observe what you're feeling. Observe what you're thinking. Observe what's around you.
 
@@ -117,9 +118,9 @@ The world is your oyster.
 {{< hr3 "Observe all the various interactions that are taking place in your mind." >}}
 
 
-It's about sitting there (or standing, or walking, or whatever you happen to be doing) and paying attention to what you're sensing, whether it be thought, emotion or absolutely nothing at all. 
+It's about sitting there (or standing, or walking, or whatever you happen to be doing) and paying attention to what you're sensing, whether it be thought, emotion or absolutely nothing at all.
 
-And remember, you're not attempting to change anything here. Instead you're merely keeping note and acknowledging the cloud of sensation that is your reality. 
+And remember, you're not attempting to change anything here. Instead you're merely keeping note and acknowledging the cloud of sensation that is your reality.
 
 Certainly, you may struggle with it initially.
 
@@ -133,7 +134,7 @@ There's always a first for everything.
 
 
 
-<!-- 
+<!--
 {{< hr2 "Additional Resources" >}}  -->
 
 <!-- maybe link to other  -->

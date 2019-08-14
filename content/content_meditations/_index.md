@@ -1,5 +1,7 @@
 ---
-  title: "NeverFap Deluxe Guided Meditations"
+# A Practical Guide To Effective Meditation
+# A Definitive Guide To Effective Meditation
+  title: "The NeverFap Deluxe Guide To Effective Meditation"
   description: "Learn about meditation the NeverFap Deluxe way." # TODO
   date: 2019-05-01
   draft: false
