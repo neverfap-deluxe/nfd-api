@@ -12,6 +12,10 @@
 
 ---
 
-<!-- TODO -->
+So, we don't actually have a fully-functioning Desktop app yet, however there is an official Desktop app that is currently being developed for Mac OSX. 
 
-NeverFap Deluxe officially has a desktop app!
+Windows will come after (but one step at a time).
+
+So get pumped. Ummmmmm, you know. Go out and marry a complete stranger. Like, punch a tree. Things are happening!?
+
+

@@ -11,7 +11,7 @@
 
 ---
 
-If you haven't yet already, I highly recommend checking out the <a class="link" href="https://neverfapdeluxe.com/">NeverFap Deluxe Homepage</a>.
+If you haven't yet already had the opportunity, I highly recommend checking out the entirety of the <a class="link" href="https://neverfapdeluxe.com/">NeverFap Deluxe Homepage</a>.
 
 It explores in great detail what you can expect from NeverFap Deluxe, and it serves as a fantastic introduction into some of the skills you'll be learning from the materials on this website.
 

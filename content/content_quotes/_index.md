@@ -12,8 +12,10 @@
 
 ---
 
-Hello there internet stranger.
+Hello there internet stranger!
 
-This is where you can view a list of all the various visual items on the website. In addition to a variety of new ones that I've personally created!
+I've created a heap of different image quotes which reflect the philosophies of NeverFap Deluxe. In addition I've also grabbed various HTML/CSS elements from the website.
+
+You can view them below :D
 
 <!-- Mention how they're also available on pinterest etc. -->

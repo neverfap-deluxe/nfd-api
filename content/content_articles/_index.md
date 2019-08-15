@@ -12,13 +12,23 @@
 
 ---
 
-<!-- NeverFap Deluxe contains a range of articles which cover a variety of different topics related to overcoming porn addiction. -->
+NeverFap Deluxe contains a range of articles which cover a wide variety of important topics related to the porn addiction recovery process.
 
-Here subsides a complete list of all of the contextual articles here on my amazingly useful website, NeverFap Deluxe!
+They are designed to help you better understand your own porn addiction, as well as provide advice on what you can personally do in order to ensure success with your porn addiction recovery. 
+
+More important than reading these articles however is developing a solid mental health plan around an effective routine of daily meditation.
+
+To learn more about meditation I encourage you to checkout the <a class="link" href="https://neverfapdeluxe.com/meditation">NeverFap Deluxe Guide To Effective Meditation</a> section of the website, which explains these concepts in detail.
+
+There are also a great number of <a class="link" href="https://neverfapdeluxe.com/practices">NeverFap Deluxe Practices</a> which provide you with a significant selection of perspective and mental health exercises to assist you in developing your capacity for conscious awareness.
+
+In addition, these articles are available to read on any Android device for FREE via the official <a class="link" href="https://neverfapdeluxe.com/meditation">NeverFap Deluxe Mobile Application</a> available on the Google Play Store.
+
+<!-- Here subsides a complete list of all of the contextual articles here on my amazingly useful website, NeverFap Deluxe!
 
 If instead if you're looking for a more structured approach towards addressing your porn addiction, then I recommend checking out our <a class="link" href="https://neverfapdeluxe.com/courses">NeverFap Deluxe Courses</a> section!
 
-If however you were interested in browsing our complete list of mental health practices here on NeverFap Deluxe, please check out the suitably-named <a class="link" href="https://neverfapdeluxe.com/practices">NeverFap Deluxe Practices</a> page.
+If however you were interested in browsing our complete list of mental health practices here on NeverFap Deluxe, please check out the suitably-named <a class="link" href="https://neverfapdeluxe.com/practices">NeverFap Deluxe Practices</a> page. -->
 
 <!-- You may sort articles by latest or category. -->
 
