@@ -11,7 +11,10 @@
   pageId: "0ad874cd-6af1-47c1-8ef5-b7ca9e205962"
 ---
 
-<span id="introduction"></span>
+<a href="#introduction" class="guide__suggestion guide__suggestion__padding">
+  <h1 class="guide__suggestion__number guide__suggestion__number--bottom">1.</h1>
+</a>
+
 # Introduction
 
 Hovering is a meditation technique that I created to assist people new to meditation. It significantly helps those who struggle to meditate via traditional means.
@@ -54,7 +57,10 @@ It's actually quite a lot more involved. For example, it's important that you ke
 <div style="margin-bottom: 1rem; margin-top: 4rem; height: 4px; background: rgba(255,46,182,1);"></div>
 <div style="margin-bottom: 3rem; margin-top: 1rem; height: 4px; background: #00ffee;"></div>
 
-<span id="hovering_website"></span>
+<a href="#hovering_website" class="guide__suggestion guide__suggestion__padding">
+  <h1 class="guide__suggestion__number guide__suggestion__number--bottom">2.</h1>
+</a>
+
 # Hovering Website
 
 If you would like to learn more about Hovering, I've written an extensive website/guide which explains the concept of Hovering in a lot more detail.
@@ -68,7 +74,10 @@ If you would like to learn more about Hovering, I've written an extensive websit
 <div style="margin-bottom: 1rem; margin-top: 4rem; height: 4px; background: rgba(255,46,182,1);"></div>
 <div style="margin-bottom: 3rem; margin-top: 1rem; height: 4px; background: #00ffee;"></div>
 
-<span id="hovering_web_application"></span>
+<a href="#hovering_web_application" class="guide__suggestion guide__suggestion__padding">
+  <h1 class="guide__suggestion__number guide__suggestion__number--bottom">3.</h1>
+</a>
+
 # Hovering Web Application
 
 Hovering Meditation is available as an online Web Application. It's simple and easy to use.
@@ -82,7 +91,11 @@ Hovering Meditation is available as an online Web Application. It's simple and e
 <div style="margin-bottom: 1rem; margin-top: 4rem; height: 4px; background: rgba(255,46,182,1);"></div>
 <div style="margin-bottom: 3rem; margin-top: 1rem; height: 4px; background: #00ffee;"></div>
 
-<span id="hovering_android_application"></span>
+
+<a href="#hovering_android_application" class="guide__suggestion guide__suggestion__padding">
+  <h1 class="guide__suggestion__number guide__suggestion__number--bottom">4.</h1>
+</a>
+
 # Hovering Android Application
 
 Hovering Meditation is also available on Android.
