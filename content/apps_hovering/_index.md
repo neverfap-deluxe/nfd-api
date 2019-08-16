@@ -38,9 +38,11 @@ Essentially how it works is that you hover your cursor over the hover button and
 
   hoverCircleExample.onmouseenter = function() {
     hoverCircleText.classList.add("hover__text__fade");
+    document.body.classList.add("main__dark");
   }
   hoverCircleExample.onmouseleave = function() {
     hoverCircleText.classList.remove("hover__text__fade");
+    document.body.classList.remove("main__dark");
   }
 </script>
 

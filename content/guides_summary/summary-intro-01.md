@@ -11,7 +11,7 @@
 
 ---
 
-Here's a basic summary of NeverFap Deluxe!
+Here's a comprehensive summary of NeverFap Deluxe!
 
 For a much more in-depth overview of NeverFap Deluxe there really is no substitute to reading the <a class="link" href="https://neverfapdeluxe.com/">NeverFap Deluxe Homepage</a>. It's written a bit like a visual novel too, so it's significantly more engaging!
 

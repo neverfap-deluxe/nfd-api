@@ -5,18 +5,19 @@
   draft: false
   tags: [ "everything", "porn addiction", "porn recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "" ]
-  
+
   slug: "neverfap-deluxe-bible"
 
   pageId: "4E4BE448-4AF5-4C1D-BEA6-046B1009C730"
 
 ---
 
-The NeverFap Deluxe Bible is a complete collection of all the essential articles, practices and guides here on the website.
+<!-- The NeverFap Deluxe Bible is available for purchase for $19.
 
-I wouldn't describe it as a complete substitute for the website itself, however it covers all the main sections people typically look at.
+The NeverFap Deluxe Bible is a complete collection of all the essential articles and guides here on the website in ebook format.
 
-As of writing it contains the about page, summary page and guide page, as well as the articles and practices on the website. 
+It's a different way for people to experience NeverFap Deluxe, especially if you prefer using an ebook reader as opposed to a web browser.
+
 
 To my surprise the website translates incredible well into ebook format, in large part due to the fabulous Content API I've build which stores everything conveniently in Markdown format.
 
@@ -26,11 +27,11 @@ So if you're looking to experience the website as an ebook, this is an excellent
 
 The only issue is it doesn't contain any of the fancy visualisations on the website, as well as the homepage of the NeverFap Deluxe website which is arguably what makes NeverFap Deluxe so fantastic.
 
-Regardless, NeverFap Deluxe lives on! 
+Regardless, NeverFap Deluxe lives on!
 
-The ebook is available for purchase in the backend of the website once you sign up for a NeverFap Deluxe account.
+The ebook is available for purchase in the backend of the website once you sign up for a NeverFap Deluxe account. -->
 
-<!-- 
+<!--
 The ebook is available for download via Leanpub and it has a suggested price of $12.99 if you'd like to help support and grow NeverFap Deluxe!
 
 https://leanpub.com/neverfap-deluxe-bible
