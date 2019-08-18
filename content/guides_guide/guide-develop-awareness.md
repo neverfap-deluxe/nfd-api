@@ -11,18 +11,17 @@
 
 ---
 
-Once you have a solid meditation routine underway, you're essentially most of the way. 
+Once you have a solid meditation routine underway you're essentially 90% of the way there towards being on the path of developing effective control over your mind.
 
-In fact, 90% of the actual recovery process comes down to sticking to a solid meditation routine and sadly is the reason why most people end up struggling with their porn addiction for so long.
+Of course, a lot of people struggle to maintain that routine which is sadly the reason why most people end up remaining addicted for so long, simply because they don't stick to the process.
 
-Of course, chances are that you may have other unresolved issues in regards to your mental health and developing your capacity for awareness will help tremendously in improving your mental health issues overall.
+Because chances are that you may have other unresolved issues in regards to your mental health, which may be negatively impacting your ability to develop your capacity for conscious awareness.
 
-That's why a created an extensive series of NeverFap Deluxe Practices to help you better understand yourself, so you can commit to the process more easily.
+That's why a created an extensive series of <a href="/practices" class="link">NeverFap Deluxe Practices</a> to help you better understand yourself and your mental health problems, so you can commit to the recovery process without fighting yourself every step of the way.
 
-Exercises which focus solely on verifiable steps you can do on a daily basis to help you build awareness and calmness.
+Exercises which focus solely on practical, verifiable steps you can take on a daily basis to help you build capacity for awareness and calmness.
 
-Here's the deal: 85% of this website towards convincing you why you should commit, with the other 15% actually focused on meditation exercises and practices.
+These exercises have been taken from my own porn addiction recovery journey, which have helped me tremendously in terms of better understanding my own mental health issues.
 
-That's because convincing you to actually treat your mental health seriously is 85% of the battle. It's the primary thing most people struggle with, otherwise you wouldn't have become a porn addict within the first place.
+Regardless, in all cases it's important that you first develop a reliable mental health routine around meditation, as that's the easily the most effective thing you can do to maintain balance and improve your mental health today.
 
-Regardless, here are some exercises that I recommend.
