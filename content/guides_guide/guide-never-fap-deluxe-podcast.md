@@ -11,6 +11,8 @@
 
 ---
 
+<!-- TODO: Rearrange these numbers for the ebook -->
+
 The NeverFap Deluxe Podcast is a fornightly podcast about porn addiction recovery. It aims to be informative, silly and somewhat hopelessly chic.
 
 I wanted to have some fun with this one, it's a bit rediculous at times, but I'd also think to think that's equally as informative as it is oddly sensual.

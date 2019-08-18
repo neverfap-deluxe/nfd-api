@@ -16,13 +16,15 @@ NeverFap Deluxe contains a range of articles which cover a wide variety of impor
 
 They are designed to help you better understand your own porn addiction, as well as provide advice on what you can personally do in order to ensure success with your porn addiction recovery. 
 
-More important than reading these articles however is developing a solid mental health plan around an effective routine of daily meditation.
+However, more important than reading these articles is developing a solid mental health plan around an effective routine of daily meditation, which should be your first priority of concern in regards to your recovery.
 
-To learn more about meditation I encourage you to checkout the <a class="link" href="https://neverfapdeluxe.com/meditation">NeverFap Deluxe Guide To Effective Meditation</a> section of the website, which explains these concepts in detail.
+To learn more about meditation I encourage you to checkout the <a class="link" href="https://neverfapdeluxe.com/meditation">NeverFap Deluxe Meditation</a> section of the website, which explains these concepts in detail.
 
 There are also a great number of <a class="link" href="https://neverfapdeluxe.com/practices">NeverFap Deluxe Practices</a> which provide you with a significant selection of perspective and mental health exercises to assist you in developing your capacity for conscious awareness.
 
-In addition, these articles are available to read on any Android device for FREE via the official <a class="link" href="https://neverfapdeluxe.com/meditation">NeverFap Deluxe Mobile Application</a> available on the Google Play Store.
+On average I publish four articles each month or one article each week. So sit back, shine your reading glasses and enjoy the ride. 
+
+(=^･ω･^=)
 
 <!-- Here subsides a complete list of all of the contextual articles here on my amazingly useful website, NeverFap Deluxe!
 
