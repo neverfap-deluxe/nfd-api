@@ -11,13 +11,13 @@
 
 ---
 
-Once you have a solid meditation routine underway, you're essentially most of the way. In fact, 90% of the actual recovery process comes down to sticking to a solid meditation routine.
+Once you have a solid meditation routine underway, you're essentially most of the way. 
+
+In fact, 90% of the actual recovery process comes down to sticking to a solid meditation routine and sadly is the reason why most people end up struggling with their porn addiction for so long.
 
 Of course, chances are that you may have other unresolved issues in regards to your mental health and developing your capacity for awareness will help tremendously in improving your mental health issues overall.
 
 That's why a created an extensive series of NeverFap Deluxe Practices to help you better understand yourself, so you can commit to the process more easily.
-
-
 
 Exercises which focus solely on verifiable steps you can do on a daily basis to help you build awareness and calmness.
 

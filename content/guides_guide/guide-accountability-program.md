@@ -11,7 +11,7 @@
 
 ---
 
-The first thing we are going to do is put in place a system of accountability that is designed to not only get us excited, but also help us keep on top of the healthy coping mechanisms we practice everyday.
+The next thing we are going to do is put in place a system of accountability that is designed to not only get us excited, but also help us keep on top of the healthy coping mechanisms we practice everyday.
 
 In order to do this, we will be posting a daily journal into the NeverFap Deluxe Discord <a class="link" href="https://discord.gg/YETRkSj">#accountability</a> channel.
 

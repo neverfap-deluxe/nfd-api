@@ -14,7 +14,7 @@
 
 Coming to the realisation that you're a porn addict, as well as making the decision to overcome your porn addiction is arguably one of the most profound things you will ever do.
 
-It will completely change the way you feel, think and perceive yourself and others.
+It will completely change the way you feel, think and perceive on every level.
 
 
 {{< hr3 "But only if you're willing to trust the process." >}}

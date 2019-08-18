@@ -2,7 +2,7 @@
   title: "EP11 - Practice And Consistency Are Your Best Friends."
   description: "NeverFap Deluxe Podcast. In this episode I talk about the value of practice and consistency in helping us develop healthy habits in life."
   date: 2019-08-10
-  draft: true
+  draft: false
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
 
@@ -17,10 +17,10 @@
 
 ---
 
-In this episode I talk about the value of practice and consistency in helping us develop healthy habits in life.
 
+<!-- EP11 - Practice And Consistency Are Your Best Friends -->
 
-# Script
+<!-- # Script
 
 - Welcome to the NeverFap Deluxe podcast.
   - My name is Julius Reade.
@@ -30,7 +30,9 @@ In this episode I talk about the value of practice and consistency in helping us
   - I run a subreddit. A great place to make fun of porn addicts.
   - I have a Patreon. Let's make Reade rich again.
 
-- Before I begin, I have two updates:
+- Now apologises for not doing the podcast more regularly.
+
+- Before I begin, I have a few updates:
   - Firstly, sorry for not doing the guided meditations (explain)
   - Secondly, I've invented/come up with a new way to meditate! It's called hovering! (explain)
 
@@ -62,6 +64,11 @@ In this episode I talk about the value of practice and consistency in helping us
 - Where most people go wrong is they misunderstand this or doubt it. 
   - For example, you practicing something for 5 minutes and thinking it's pointless, is you misunderstanding practice. 
   - It's misunderstanding how the brain works from a neural perspective.
+  - Another thing people do is they get over arrogant.
+    - So they practice for like a week, then they stop. (go into it more.)
+  - Also, people think porn addiction recovery is about knowing why you're addicted. 
+    - Porn addiction isn't a knowing, it's a doing.
+
 
 - What should you be practicing?
   - Essentially, healthy coping mechanisms.
@@ -86,9 +93,16 @@ In this episode I talk about the value of practice and consistency in helping us
         - Like you gotta be feeling energetic and motivated to literally do everything in life, and not only is a lie, but it's exhausting.
         - It's not about feeling motivated or happy: instead, it's about being balanced, and it's important to understand that they are completely different things.
 
+- Balance is the key point which most people miss.
+  - Literally everything you do is all about balance.
 
-- People think they need to know. 
-  - Porn addiction isn't a knowing, it's a doing.
+- Aaaaaand that’s today’s episode! 
+  - If you liked the show, please leave a review! CastBox, iTunes, you name it!
+  - You can donate to the show via our Patreon if you're interested.
+  - If you’ve got any comments or questions, please direct them to the website. That’s www.neverfapdeluxe.com
+  - And that's about it. So thank you for listening.
+ -->
+
 
   <!-- 
   - Obviously, how we can get into a routine of consistent practice, you know, doing things like meditation, remaining calm and aware, E T BLOODY C. Obviously, meaning etcetera.
