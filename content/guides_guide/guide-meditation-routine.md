@@ -31,7 +31,7 @@ Thankfully NeverFap Deluxe contains a heap of different resources to help you de
 
 A good place to start is with the <a class="link" href="/meditation">NeverFap Deluxe Meditation</a> page which covers a range of different resources and approaches towards meditation.
 
-At a bare minimum you should be meditating everyday, usually for 10 minutes before bed (at least that's what most people find easiest, myself included). 
+At a bare minimum you should be meditating everyday, usually for 10 minutes before bed (at least that's what most people find easiest, myself included).
 
 Here are some resources to help get you started.
 
