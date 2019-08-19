@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "meditation", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "awareness-over-all" ]
-  
+
   slug: "the-importance-of-meditation-for-porn-addiction"
   aliases: [
     "articles/hello.json.json"
@@ -16,7 +16,7 @@
   tldr3: "Observation is the most fundamental skill in terms of effective meditation."
 
   pageId: "0cd9370b-b58f-4c81-a444-93c57f2d3d1a"
-  
+
 ---
 
 <!-- Very Happy With Edit -->
@@ -27,11 +27,11 @@ Meditation is the single most important thing you can do for your porn addiction
 {{< hr3 "In fact, ten minutes of meditation each day is probably enough for most porn addicts to overcome their addiction." >}}
 
 
-No, seriously. 
+No, seriously.
 
-It really is that simple. 
+It really is that simple.
 
-Of course, the reason why this doesn't happen is because most porn addicts are completely oblivious as to the benefits of meditation. 
+Of course, the reason why this doesn't happen is because most porn addicts are completely oblivious as to the benefits of meditation.
 
 Not to mention, most porn addicts have a hard time sticking to a routine of meditation, which is entirely necessary in order for it to be successful.
 
@@ -41,13 +41,13 @@ Which is why the other 99% of what's contained in NeverFap Deluxe exists, to hel
 {{< hr3 "Why meditation?" >}}
 
 
-Without diving too deep into the intricate details of how to meditate, nor necessarily what meditation actually is, let's start off by talking about what meditation effectively achieves. 
+Without diving too deep into the intricate details of how to meditate, nor necessarily what meditation actually is, let's start off by talking about what meditation effectively achieves.
 
 In essence, meditation is the most powerful way for you to regain power over your emotions.
 
 Not just your emotions, but your thoughts, feelings and everything else associated with the inherent functioning of your brain.
 
-Here's the deal, being a porn addict has changed the way your brain works. 
+Here's the deal, being a porn addict has changed the way your brain works.
 
 It's no longer stable.
 
@@ -59,7 +59,7 @@ It's no longer doing exactly what you want it to.
 
 So you no longer feel compelled to watch porn.
 
-Of course, porn may not even be the reason why you lack the ability to control your mind. 
+Of course, porn may not even be the reason why you lack the ability to control your mind.
 
 It may be that you never developed those healthy coping mechanisms growing up, and that it was inevitable you were going to be become addicted to porn or engage in other self-harming behaviour as a result.
 
@@ -85,7 +85,7 @@ Yet most people struggle.
 
 Precisely because they don't do those things.
 
-They don't meditate on a frequent basis. They don't understand their emotions. 
+They don't meditate on a frequent basis. They don't understand their emotions.
 
 They don't know how to maintain control over their minds, and yet they wonder why they struggle.
 
@@ -95,7 +95,7 @@ This is precisely the reason why meditation is important, because it provides us
 {{< hr3 "When you have control over your emotions, it makes situations where you don't necessarily feel in control manageable." >}}
 
 
-Yes. 
+Yes.
 
 Manageable.
 
@@ -103,9 +103,9 @@ Because successfully overcoming porn addiction is largely about learning to navi
 
 And you can't manage your emotions if you don't have mastery over your mind, along with your ability to produce and regulate them.
 
-So what exactly are some of the skills and practices of meditation? 
+So what exactly are some of the skills and practices of meditation?
 
-For starters, there's observation. 
+For starters, there's observation.
 
 
 {{< hr3 "Observation is perhaps the most fundamental skill you can learn in regards to developing your awareness." >}}

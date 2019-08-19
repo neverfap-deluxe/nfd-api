@@ -2,7 +2,7 @@ const fse = require('fs-extra');
 const fs = require('fs');
 const uuidv4 = require('uuid/v4');
 
-// ex. npm run create "Hovering" content_hovering
+// ex. npm run create "Hovering" content_hovering "Description"
 
 const generateResponseTemplate = () =>
 `{{ define "response" }}
