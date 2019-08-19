@@ -19,8 +19,8 @@ The 7 Day NeverFap Deluxe Kickstarter is an email campaign I've put together whi
 
 It covers a range of core topics which will help you understand some of the dynamics of porn addiction and porn addiction recovery, delivered straight to your email address every day over the course of a week.
 
-It's a great way to learn the basic concepts of NeverFap Deluxe, as well remain connected to any future updates 
+It's a great way to learn the basic concepts of NeverFap Deluxe, as well remain connected for any future updates or product releases!
 
-If you'd like to learn more about the 7 Day NeverFap Deluxe Kickstarter, I've put together this fancy <a class="link" href="https://neverfapdeluxe.com/seven-day-neverfap-deluxe-kickstarter/">landing page</a> which explores in greater detail what you will learn.
+If you'd like to learn more about the 7 Day NeverFap Deluxe Kickstarter, I've put together this fancy <a class="link" href="https://neverfapdeluxe.com/seven-day-neverfap-deluxe-kickstarter/">7 Day NeverFap Deluxe Kickstarter</a>landing page which explores in greater detail what you will learn.
 
-It is highly recommended for newcomers to NeverFap Deluxe or those who would simply like more information on how best to approach their porn addiction.
+I highly recommend it to newcomers to NeverFap Deluxe or for those who would simply like more information on how best to approach their porn addiction.
