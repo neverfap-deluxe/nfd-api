@@ -66,7 +66,6 @@ In this episode I talk about choice, what it means, how you can exercise it and 
   - Keeping choice simple
   - Sticking to the process
 
-
 - Scenarios.
   - We have an extreme urges.
     - If we don't have the skill, then we don't have choice.
