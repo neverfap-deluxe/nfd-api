@@ -14,7 +14,7 @@
 
 So, we don't actually have a fully-functioning Desktop app yet, however there is an official Desktop app that is currently being developed for Mac OSX. 
 
-Windows will come after (but one step at a time).
+Windows will come after (but one step at a time, bby).
 
 So get pumped. Ummmmmm, you know. Go out and marry a complete stranger. Like, punch a tree. Things are happening!?
 
