@@ -11,7 +11,7 @@
 
 ---
 
-In order to teach you to adapt to these healthy coping mechanisms, NeverFap Deluxe maintains one goal.
+In order to teach you to adapt to these healthy coping mechanisms, NeverFap Deluxe maintains one core philosophy.
 <!-- which I strongly believe is key to helping you effectively overcome your porn addiction -->
 
 
@@ -20,12 +20,12 @@ In order to teach you to adapt to these healthy coping mechanisms, NeverFap Delu
 
 With the right information and guidance, I believe overcoming porn addiction can be an incredibly straight-forward process that anyone can partake at any point in their life.
 
-A process which doesn't discriminate against how smart you are, against how much knowledge you already have about your porn addiction, nor concern who you are today. 
+A process which doesn't discriminate against how smart you are, how much knowledge you have, nor the life you personally live today - only your willingness to engage in meaningful change.
 
-I have put a lot of effort into ensuring that the information on this website is fun, engaging and accessible so that it becomes as clear as daylight as to why this process works, as well as how you can comfortably commit to it without hesitation.
+I have put a lot of effort into ensuring that the information on this website is fun, engaging and accessible so that it becomes as clear as daylight why the process works, as well as how you can comfortably commit to it without hesitation.
 
-This means reading the articles and guides on this website until it becomes second-nature to you, as well as committing to your daily routine of meditation and awareness practice.
+This means reading the articles and guides on the NeverFap Deluxe website until it becomes second-nature to you, as well as committing to your daily routine of meditation and awareness practice.
 
 It is the very reason why NeverFap Deluxe is so effective at helping you overcome porn addiction.
 
-Because it just makes sense.
+Because it simply makes sense.

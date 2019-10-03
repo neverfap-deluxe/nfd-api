@@ -15,32 +15,12 @@ Welcome to NeverFap Deluxe!
 
 I decided to create NeverFap Deluxe in 2018 in order to help people overcome porn addiction.
 
-In essence, I aim to teach people how to be in complete control of their minds using the power of meditation and other various awareness and mental health practices.
+I aim to teach people how to be in complete control of their minds using the power of meditation and other various awareness and mental health practices.
 
-<!-- 
-Here you will learn one very fundamental skill which people often discount: How to utilis
+Not only have I personally overcome porn addiction using these fundamental skills and practices, however I want to help you do the same too.
 
-, utilising the techniques of meditation, awareness and basics mental health.
+Because I can say with absolute certainty that full recovery is guaranteed as long as you take the time to educate yourself and learn to understand and trust the recovery process.
 
-We preach a few different  -->
+It's honestly as simple as putting one foot in front of another, and to make things even easier, I'll be here to guide you every step of the way.
 
-<!-- Essentially it comes down to teaching people to develop control over their minds using the power of meditation, awareness and basic mental health practice.
-
-Without this control, we cannot hope to , and it all begins with developing the awareness to change.
-
-The reason why most people struggle is that they assume self-control and discipline comes from forcing yourself through struggle or maintaining some sort of infinite "willpower".
-
-When really, it's about learning to be present with your feelings and emotions, in order to let go of our struggle. 
-
-let go in order to be calm and present with yourself.  -->
-
-
-Not only have I personally overcome porn addiction using these useful skills and practices, to a point that I literally do not think about porn, nor struggle with it in any capacity.
-
-However I want to help you do the same too.
-
-
-
-<!-- Not only have I personally overcome porn addiction using these useful skills and practices, however I want to help you do the same too.
-
-To no longer think about porn, nor struggle with it in any capacity is a wonderful thing I would love to share with you today. -->
+The Reade (=^ ◡ ^=)
