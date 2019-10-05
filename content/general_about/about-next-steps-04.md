@@ -13,14 +13,14 @@
 
 If you haven't yet already had the opportunity, I highly recommend checking out the entirety of the <a class="link" href="https://neverfapdeluxe.com/">NeverFap Deluxe Homepage</a>.
 
-It explores in great detail what you can expect from NeverFap Deluxe, and it serves as a fantastic introduction into some of the skills you'll be learning from the materials on this website.
+It explores in great detail what you can expect from NeverFap Deluxe, and it serves as a fantastic introduction into some of the skills you'll be learning from the materials on the website.
 
-I then recommend checking out the <a class="link" href="https://neverfapdeluxe.com/guide">NeverFap Deluxe Guide</a> which follows on from the homepage, and which provides additional knowledge and context on the recovery process.
+I then recommend checking out the <a class="link" href="https://neverfapdeluxe.com/guide">NeverFap Deluxe Guide</a> which follows on from the homepage, and which provides additional knowledge and context into the recovery process.
 
-From there you can check out the various articles and practices on the NeverFap Deluxe website which have been designed to help you better understand yourself through verifiable principle and action.
+From there you can check out the various articles and practices which have been designed to help you better understand yourself through verifiable principle and action.
 
 Certainly, the groundwork is all there for you to succeed. All that is required is your time and commitment in order to provide your mental health with the attention it deserves.
 
-It's time to shed some blood. 
+Let's shed some blood. 
 
 ฅ(• ɪ •)ฅ

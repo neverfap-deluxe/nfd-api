@@ -11,7 +11,7 @@
 
 ---
 
-While everyone is aware of the NoFap movement, during my journey I failed to find anyone who actually seemed able to effectively explain how to overcome porn addiction with any sort of coherence or consistency.
+While everyone is aware of the NoFap movement, during my journey I failed to find anyone who actually seemed to be able to effectively explain how to overcome porn addiction with any sort of coherence or consistency.
 
 Most of the materials I could find online ranged from various theories on how to manage urges utilising a trope of ineffective and unhealthy coping mechanisms...
 
@@ -29,7 +29,7 @@ A comprehensive online step-by-step how-to guide which explains exactly what you
 
 With a wide variety of guides, articles and courses, I hope to teach you all of the skills and coping mechanisms that I've developed over the years, so you can fully recover from your porn addiction with ease.
 
-Skills and abilities which I've personally utilised on a daily basis over the past few years in order to help keep my mind calm, balanced and under control.
+Skills and abilities which I personally utilise on a daily basis in order to help keep my mind calm, balanced and under control.
 
 No more excuses. No more compromises.
 

@@ -11,7 +11,7 @@
 
 ---
 
-There are a few steps to this process in order to ensure you're receiving the most value out my services.
+There are a few steps to this process in order to ensure you're receiving the most out my services.
 
 ### All clients begin with a FREE 10 Minute Consultation so we can discuss how I can best help you.
 
@@ -19,15 +19,13 @@ This is in order to establish an initial relationship, as well as to gauge wheth
 
 Perhaps you might only have a few questions on your mind. Perhaps you may decide that you require on-going assistance. 
 
-Usually it becomes quite obvious whether you'll require additional coaching, and it's precisely why it's important that we have this initial meeting.
+Usually it becomes quite obvious whether you'll require additional coaching, and that's precisely why it's important that we have this initial meeting.
 
 Because I speak to so many porn addicts each day, it doesn't take me very long to figure out what a person's problems are, as well as what is required for change.
 
-I can immediately tell if it's going to take a person years to beat this thing because of their inherent refusal to trust the process (usually as a result of excessive cynicism).
+I can immediately tell if it's going to take a person years to beat this thing because of their inherent refusal to trust the process (usually as a result of their own excessive cynicism).
 
-I can immediately tell if they're going to struggle with meditation because of their inability to let go of their own thoughts and emotions.
-
-I've been through this process a thousand times before. Not only because I've personally been there, but because it's what I observe on a daily basis.
+Especially if they're going to struggle with meditation because of their inability to let go of their own thoughts and emotions.
 
 Regardless, I'm more-than-happy to help and provide assistance.
 
