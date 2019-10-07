@@ -12,9 +12,9 @@
 
 ---
 
-NeverFap Deluxe contains a wide range of articles which cover a large variety of important topics related to the porn addiction recovery process.
+NeverFap Deluxe contains a wide range of articles which cover a variety of important topics related to the porn addiction recovery process.
 
-They are designed to help you better understand the circumstances of your own porn addiction, as well as provide advice on what you can personally do in order to ensure success with your outcomes. 
+They are designed to help you better understand the circumstances of your own porn addiction, as well as provide you with advice on what you can do on a daily basis in order to ensure success in your outcomes. 
 
 Of course, more important than reading these articles is developing a solid routine of Meditation, which should be your first priority of order.
 

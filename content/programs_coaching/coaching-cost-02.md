@@ -21,20 +21,21 @@ Perhaps you might only have a few questions on your mind. Perhaps you may decide
 
 Usually it becomes quite obvious whether you'll require additional coaching, and that's precisely why it's important that we have this initial meeting.
 
-Because I speak to so many porn addicts each day, it doesn't take me very long to figure out what a person's problems are, as well as what is required for change.
+Because I speak to so many porn addicts each day, it doesn't take me long to figure out what a person's problems are, as well as what steps will be required for change.
 
-I can immediately tell if it's going to take a person years to beat this thing because of their inherent refusal to trust the process (usually as a result of their own excessive cynicism).
+For example, I can immediately tell if it's going to take a person years to beat this thing because of their inherent refusal to trust the process (usually as a result of their own excessive cynicism).
 
-Especially if they're going to struggle with meditation because of their inability to let go of their own thoughts and emotions.
+As well as if a person is going to struggle with meditation because of their inability to let go of their own thoughts and emotions.
 
 Regardless, I'm more-than-happy to help and provide assistance.
 
 
-### I then charge $90 per hour for any on-going sessions that you feel are necessary.
+### I then charge $45 per hour for any on-going sessions that you feel are necessary.
 
 
 During these on-going sessions will we cover a wide range of topics, depending on what you require help with. 
 
+Which will be first established during our FREE 10 Minute Consultation.
 
 
 <!-- However, for the particularly stubborn (certainly I was one of them) on-going sessions can be helpful to keep you on track and have someone tell it to you straight.

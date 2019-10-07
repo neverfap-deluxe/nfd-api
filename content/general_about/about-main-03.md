@@ -24,8 +24,10 @@ A process which doesn't discriminate against how smart you are, how much knowled
 
 I have put a lot of effort into ensuring that the information on this website is fun, engaging and accessible so that it becomes as clear as daylight why the process works, as well as how you can comfortably commit to it without hesitation.
 
-This means reading the articles and guides on the NeverFap Deluxe website until it becomes second-nature to you, as well as committing to your daily routine of meditation and awareness practice.
+This means reading the guides and articles on the NeverFap Deluxe website until it becomes second-nature to you, as well as committing to your daily routine of meditation and awareness practice.
 
 It is the very reason why NeverFap Deluxe is so effective at helping you overcome porn addiction.
 
-Because it simply makes sense.
+Because it simply makes sense, and it allows you to approach your porn addiction without the perpetuate struggle of uncertainty.
+
+NeverFap Deluxe makes it effortless.
