@@ -17,7 +17,7 @@ Most of the materials I could find online included various theories on how to ma
 
 ...to personal advice from existing porn addicts who's opinion seemed to change depending on the day of the week, as per their unpredictable schedule of relapse and mania.
 
-I mean, you wouldn't trust financial advice from someone with a gambling problem, so why should your porn addiction recovery be any different?
+I mean, you wouldn't receive financial advice from someone with a gambling problem, so why should your porn addiction recovery be any different?
 
 
 {{< hr3 "That's when I knew there was an opportunity to create a resource that could save people years trying to overcome their porn addiction." >}}
@@ -27,7 +27,7 @@ Introducing NeverFap Deluxe.
 
 A comprehensive online step-by-step how-to guide which explains exactly what you need to do to overcome porn addiction.
 
-With a wide variety of guides, articles and courses, I hope to teach all of you the skills and coping mechanisms that I've developed over the years, so you can fully recover from your porn addiction with ease.
+With a wide variety of guides, articles and courses, I hope to teach you all the skills and coping mechanisms that I've developed over the years, so you can fully recover from your porn addiction with ease.
 
 Skills and abilities which I continue to utilise on a daily basis in order to help keep my mind calm, balanced and under control.
 

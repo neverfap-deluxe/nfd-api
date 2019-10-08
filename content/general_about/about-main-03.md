@@ -26,8 +26,6 @@ I have put a lot of effort into ensuring that the information on this website is
 
 This means reading the guides and articles on the NeverFap Deluxe website until it becomes second-nature to you, as well as committing to your daily routine of meditation and awareness practice.
 
-It is the very reason why NeverFap Deluxe is so effective at helping you overcome porn addiction.
-
-Because it simply makes sense, and it allows you to approach your porn addiction without the perpetuate struggle of uncertainty.
+It's the very reason why NeverFap Deluxe is so effective at helping you overcome porn addiction. It simply makes sense and it allows you to approach your porn addiction without the perpetuate struggle of uncertainty.
 
 NeverFap Deluxe makes it effortless.

@@ -1,6 +1,6 @@
 ---
-  title: "The NeverFap Deluxe Community"
-  description: "Welcome to NeverFap Deluxe, the most comprehensive porn addiction recovery platform."
+  title: "NeverFap Deluxe Community"
+  description: "The NeverFap Deluxe Community contains a wide range of active online communities, forums and social media platforms. Join us on our Reddit and Discord!"
   date: 2019-02-15
   draft: false
   tags: [ "porn addiction", "porn recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
