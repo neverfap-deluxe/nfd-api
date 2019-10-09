@@ -1,5 +1,5 @@
 ---
-  title: "E03 - How To Become Comfortable With Your Emotions"
+  title: "EP3 - How To Become Comfortable With Your Emotions"
   description: "NeverFap Deluxe Podcast. In this episode I talk about how you can develop a healthy relationship with your emotions."
   date: 2019-04-06
   draft: false

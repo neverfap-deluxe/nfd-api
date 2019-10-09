@@ -6,7 +6,7 @@
   tags: [ "porn recovery", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics", "nofap podcast", "neverfap podcast", "neverfap deluxe podcast" ]
   categories: [ "" ]
 
-  slug: "ep-9-Rediscovering-your-sense-of-purpose-in-life"
+  slug: "ep-9-rediscovering-your-sense-of-purpose-in-life"
 
   mp3Url: "https://s3.castbox.fm/1e/72/04/300b2e4fa79560ed74c23a9729.mp3"
 

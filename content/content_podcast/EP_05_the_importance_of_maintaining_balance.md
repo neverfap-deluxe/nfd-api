@@ -1,5 +1,5 @@
 ---
-  title: "E05 - The Importance Of Maintaining Balance"
+  title: "EP5 - The Importance Of Maintaining Balance"
   description: "NeverFap Deluxe Podcast. In this episode I talk about the importance of balance."
   date: 2019-05-04
   draft: false

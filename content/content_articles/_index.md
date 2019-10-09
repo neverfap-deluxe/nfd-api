@@ -24,6 +24,8 @@ There are also a great number of <a class="link" href="https://neverfapdeluxe.co
 
 On average I publish four articles each month or one article each week. So sit back, shine your reading glasses and enjoy the ride. 
 
+And oh look, it's a cute baby pig!
+
 (=^･ω･^=)
 
 <!-- Here subsides a complete list of all of the contextual articles here on my amazingly useful website, NeverFap Deluxe!
