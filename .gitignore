@@ -14,3 +14,9 @@ ebook/primer/primer.epub
 ebook/primer/primer.md
 
 .env
+
+server/node_modules
+server/static
+
+deploy_key.enc
+deploy_key

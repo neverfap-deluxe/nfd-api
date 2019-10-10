@@ -104,6 +104,7 @@ const generateBible = async () => {
   const final_string = stringFromArray(website_content_array);
 
   fse.outputFileSync(`ebook/bible/bible.md`, final_string);
+  fse.outputFileSync(`server/static/bible.md`, final_string);
 };
 
 generateBible();

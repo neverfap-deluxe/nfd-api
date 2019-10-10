@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run cp_kickstarter && npm run cp_primer && npm run cp_challenge && npm run cp_challenge_vol_1 && npm run cp_challenge_vol_2 && npm run cp_challenge_vol_3 && npm run cp_challenge_vol_4 && hugo server -DF",
-
     "cp_kickstarter": "rsync -r content/email_seven_day_kickstarter themes/deluxe_theme/static/md",
     "cp_primer": "rsync -r content/email_ten_day_meditation themes/deluxe_theme/static/md",
     "cp_challenge": "rsync -r content/email_twenty_eight_day_awareness themes/deluxe_theme/static/md",
@@ -13,28 +12,23 @@
     "cp_challenge_vol_2": "rsync -r content/email_seven_week_awareness_vol_2 themes/deluxe_theme/static/md",
     "cp_challenge_vol_3": "rsync -r content/email_seven_week_awareness_vol_3 themes/deluxe_theme/static/md",
     "cp_challenge_vol_4": "rsync -r content/email_seven_week_awareness_vol_4 themes/deluxe_theme/static/md",
-
     "bible": "npm run bible-md && npm run bible-pub",
     "bible-md": "node ./util/generateBible.js",
     "bible-pub": "pandoc ./ebook/bible/bible.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/bible/bible-metadata.yaml -o ./ebook/bible/bible.epub -f markdown -t epub",
     "bible-pdf": "pandoc ./ebook/bible/bible.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/bible/bible-metadata.yaml -o ./ebook/bible/bible.pdf",
     "bible-check": "java -jar ./epub_check/epubcheck.jar ./ebook/bible/bible.epub",
-
     "kickstarter": "npm run kickstarter-md && npm run kickstarter-pub",
     "kickstarter-md": "node ./util/generateKickstarter.js",
     "kickstarter-pub": "pandoc ./ebook/kickstarter/kickstarter.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/kickstarter/kickstarter-metadata.yaml -o ./ebook/kickstarter/kickstarter.epub -f markdown -t epub",
     "kickstarter-pdf": "pandoc ./ebook/kickstarter/kickstarter.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/kickstarter/kickstarter-metadata.yaml -o ./ebook/kickstarter/kickstarter.pdf",
-
     "primer": "npm run primer-md && npm run primer-pub",
     "primer-md": "node ./util/generatePrimer.js",
     "primer-pub": "pandoc ./ebook/primer/primer.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/primer/primer-metadata.yaml -o ./ebook/primer/primer.epub -f markdown -t epub",
     "primer-pdf": "pandoc ./ebook/primer/primer.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/primer/primer-metadata.yaml -o ./ebook/primer/primer.pdf",
-
     "challenge": "npm run challenge-md && npm run challenge-pub",
     "challenge-md": "node ./util/generateChallenge.js",
     "challenge-pub": "pandoc ./ebook/challenge/challenge.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/challenge/challenge-metadata.yaml -o ./ebook/challenge/challenge.epub -f markdown -t epub",
     "challenge-pdf": "pandoc ./ebook/challenge/challenge.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/challenge/challenge-metadata.yaml -o ./ebook/challenge/challenge.pdf",
-
     "vol": "npm run vol-md && npm run vol-1-pub && npm run vol-2-pub && npm run vol-3-pub && npm run vol-4-pub",
     "vol-md": "node ./util/generateVol.js",
     "vol-1-pub": "pandoc ./ebook/vol-1/vol-1.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-1/vol-1-metadata.yaml -o ./ebook/vol-1/vol-1.epub -f markdown -t epub",
@@ -45,9 +39,7 @@
     "vol-3-pdf": "pandoc ./ebook/vol-3/vol-3.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-3/vol-3-metadata.yaml -o ./ebook/vol-3/vol-3.pdf",
     "vol-4-pub": "pandoc ./ebook/vol-4/vol-4.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-4/vol-4-metadata.yaml -o ./ebook/vol-4/vol-4.epub -f markdown -t epub",
     "vol-4-pdf": "pandoc ./ebook/vol-4/vol-4.md -s --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/vol-4/vol-4-metadata.yaml -o ./ebook/vol-4/vol-4.pdf",
-
     "generate-quotes": "node ./util/transformQuoteToMD.js",
-
     "create": "node ./util/create.js"
   },
   "repository": {
@@ -65,7 +57,7 @@
     "backblaze-b2": "^1.4.0",
     "better-md-2-json": "^1.0.6",
     "dotenv": "^8.0.0",
-    "fs-extra": "^8.0.1",
+    "fs-extra": "^8.1.0",
     "simple-text-parser": "^1.0.0",
     "turndown": "^5.0.3",
     "uuid": "^3.3.2"
