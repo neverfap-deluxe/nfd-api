@@ -8,7 +8,7 @@
 
   slug: "guides_fundamental_meditation_series"
 
-  pageId: "28e4c3d1-b32d-4f25-9f83-9aa1f6c7c096"
+  pageId: "2fa30df6-74fe-482e-adb2-f2017f35323b"
 ---
 
 ## The role of conscious awareness in observation

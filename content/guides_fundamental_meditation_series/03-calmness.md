@@ -8,7 +8,7 @@
 
   slug: "guides_fundamental_meditation_series"
 
-  pageId: "28e4c3d1-b32d-4f25-9f83-9aa1f6c7c096"
+  pageId: "6d154b5a-8bb1-4e4b-9265-ae0510aa0d05"
 ---
 
 ## The role of conscious awareness in observation
@@ -20,6 +20,8 @@ Previously we talked about observation as a technique for effective meditation.
 Now while observation is important and certainly forms the basis of meditation, there's another component to observation that a lot of people overlook. 
 
 And in fact, without paying attention to this thing, 
+
+
 
 ### Understanding conscious awareness
 
