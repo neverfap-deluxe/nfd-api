@@ -17,7 +17,7 @@ Thank you for deciding to take a deeper look into the NeverFap Deluxe Method of 
 
 If you haven't yet had the chance, I highly recommend checking out the <a class="link" href="https://neverfapdeluxe.com/">NeverFap Deluxe Homepage</a> before continuing with the guide.
 
-I also highly recommend checking out the <a class="link" href="https://neverfapdeluxe.com/summary">NeverFap Deluxe Summary</a> as well. It provides a nice alternative to the homepage for those seeking a more textual response.
+I also highly recommend checking out the <a class="link" href="https://neverfapdeluxe.com/summary">NeverFap Deluxe Summary</a> as a comprehensive alternative to the guide. It provides a more concise summary of the homepage.
 
 It explores in great detail what you can expect from NeverFap Deluxe, and it will serve as a fantastic introduction and precursor to some of the skills you'll be learning from the materials on this website.
 

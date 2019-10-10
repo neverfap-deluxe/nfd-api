@@ -21,6 +21,6 @@ It covers a range of core topics which will help you understand some of the dyna
 
 It's a great way to learn the basic concepts of NeverFap Deluxe, as well remain connected for any future updates or product releases!
 
-If you'd like to learn more about the 7 Day NeverFap Deluxe Kickstarter, I've put together this fancy <a class="link" href="https://neverfapdeluxe.com/seven-day-neverfap-deluxe-kickstarter/">7 Day NeverFap Deluxe Kickstarter</a>landing page which explores in greater detail what you will learn.
+If you'd like to learn more about the 7 Day NeverFap Deluxe Kickstarter, I've put together this fancy <a class="link" href="https://neverfapdeluxe.com/seven-day-neverfap-deluxe-kickstarter/"> 7 Day NeverFap Deluxe Kickstarter</a>landing page which explores in greater detail what you will learn.
 
 I highly recommend it to newcomers to NeverFap Deluxe or for those who would simply like more information on how best to approach their porn addiction.
