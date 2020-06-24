@@ -13,8 +13,7 @@
   "section": {{ .Section | jsonify }},
   "days": [
     {{ range $index, $e := (where .Data.Pages.ByDate "Section" "email_ten_day_meditation") }}
-      {{ if .Draft }}
-      {{ else }}
+      {{ if not .Draft }}
         {{ if $index }}, {{ end }}
         {
           "title": {{ .Title | jsonify }},

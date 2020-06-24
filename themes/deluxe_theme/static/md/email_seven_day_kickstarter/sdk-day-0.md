@@ -34,7 +34,7 @@ Over the coming days we will be exploring various high-level concepts such as ca
 
 These concepts, although simple at their core, will form the basis of your porn addiction recovery.
 
-If you haven't yet been to the homepage, I highly recommend checking it out. It has a great introduction into porn addiction, how recovery works, as well as
+If you haven't yet been to the homepage, I highly recommend checking it out. It has a great introduction into how porn addiction recovery works.
 
 
 {{< nfd_button "https://neverfapdeluxe.com/" "NeverFap Deluxe Homepage" >}}

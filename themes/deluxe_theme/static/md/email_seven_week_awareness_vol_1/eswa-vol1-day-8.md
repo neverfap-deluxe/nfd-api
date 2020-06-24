@@ -1,5 +1,5 @@
 ---
-  day: 50
+  day: 8
   title: "Conclusion"
   description: "7 Week Awareness Challenge Vol 1."
   date: 2019-03-23
@@ -9,10 +9,15 @@
 
   slug: "conclusion"
 
-  pageId: "c80b42fc-8a56-4c1f-bb66-cccab254cd7c"
+  pageId: "f848c260-2714-4bd4-9038-f6c05b2a24f2"
 
 ---
 
 
+## Conclusion
 
-r
+This brings us to the end of the 7 Week Awareness Challenge Vol 1.
+
+I hope you've learnt some things along the way. 
+
+## Script

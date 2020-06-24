@@ -13,4 +13,38 @@
 
 ---
 
-a
+## Week 1 - Annoy Yourself
+
+Welcome to Week 1 of the 7 Week Awareness Challenge Vol 4.
+
+This week we are going to be practicing an exercise called Annoy Yourself which is 
+
+
+For further information on this practice, please visit the Annoy Yourself page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/annoy-yourself" "Annoy Yourself" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
+
+
+## Script
+
+Hello, and welcome to Week 1 of Volume 4 of the 7 week awareness challenge.
+
+In order to better understand this exercise, we really need to dive a bit deeper into what it actually means to be annoyed by something.
+
+And what I hope you gain from this exercise by the end of this week, is to understand how truly absurd it is to be annoyed by anything.
+
+And to truly highlight this, we're going to be attempting to annoy ourselves, by replicating not only the feeling of annoyance, but also by better understanding the circumstances with which we may feel annoyed. 
+
+And here is how being annoyed works on a fundamental level.
+
+What happens is that something hooks your attention. It could be as a result of your own actions, it could be something that takes place external to you. Regardless, it hooks your attention enough that you take notice of it.
+
+This is interesting to note, because there are millions of different things that are happening around us in any given time, and yet most of the time we simply do not pay attention to them.
+

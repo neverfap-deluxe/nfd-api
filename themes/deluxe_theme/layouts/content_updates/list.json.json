@@ -1,6 +1,6 @@
 {{ define "response" }}
-{ 
-  "title": {{ .Title | jsonify }}, 
+{
+  "title": {{ .Title | jsonify }},
   "page_id": {{ .Params.PageId | jsonify }},
   "description": {{ .Description | jsonify }},
   "content": {{ .Content | jsonify }},
@@ -13,11 +13,10 @@
   "section": {{ .Section | jsonify }},
   "updates": [
     {{ range $index, $e := (where .Data.Pages.ByDate "Section" "content_updates") }}
-      {{ if .Draft }}
-      {{ else }}
+      {{ if not .Draft }}
         {{ if $index }}, {{ end }}
         {
-          "title": {{ .Title | jsonify }}, 
+          "title": {{ .Title | jsonify }},
           "page_id": {{ .Params.PageId | jsonify }},
           "description": {{ .Description | jsonify }},
           "content": {{ .Content | jsonify }},

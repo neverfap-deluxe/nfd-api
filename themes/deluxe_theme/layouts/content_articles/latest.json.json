@@ -1,5 +1,5 @@
 {{ define "response" }}
-  { 
+  {
   "title": {{ .Title | jsonify }}, "page_id": {{ .Params.PageId | jsonify }},
   "description": {{ .Description | jsonify }},
   "content": {{ .Content | jsonify }},
@@ -11,9 +11,8 @@
   "permalink" : {{ .Permalink | jsonify }},
   "section": {{ .Section | jsonify }},
   "articles": [
-    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "content_articles") }}      
-      {{ if .Draft }}
-      {{ else }}
+    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "content_articles") }}
+      {{ if not .Draft }}
       {{ if $index }}, {{ end }}
         {
           "title": {{ .Title | jsonify }}, "page_id": {{ .Params.PageId | jsonify }},

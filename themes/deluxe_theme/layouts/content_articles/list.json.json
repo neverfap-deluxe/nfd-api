@@ -1,5 +1,5 @@
 {{ define "response" }}
-  { 
+  {
   "title": {{ .Title | jsonify }}, "page_id": {{ .Params.PageId | jsonify }},
   "description": {{ .Description | jsonify }},
   "content": {{ .Content | jsonify }},
@@ -11,31 +11,30 @@
   "permalink" : {{ .Permalink | jsonify }},
   "section": {{ .Section | jsonify }},
   "articles": [
-    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "content_articles") }}      
-      {{ if .Draft }}
-      {{ else }}
-      {{ if $index }}, {{ end }}
-        {
-          "title": {{ .Title | jsonify }}, "page_id": {{ .Params.PageId | jsonify }},
-          "description": {{ .Description | jsonify }},
-          "content": {{ .Content | jsonify }},
-          "date": {{ .Date.Format "2006-01-02" | jsonify }},
-          "draft": {{ .Draft | jsonify }},
-          "slug": {{ .Params.Slug | jsonify }},
-          "categories": {{ .Params.Categories | jsonify }},
-          "tags": {{ .Params.Tags | jsonify }},
-          "permalink" : {{ .Permalink | jsonify }},
+    {{ range $index, $e := (where .Data.Pages.ByDate "Section" "content_articles") }}
+      {{ if not .Draft }}
+        {{ if $index }}, {{ end }}
+          {
+            "title": {{ .Title | jsonify }}, "page_id": {{ .Params.PageId | jsonify }},
+            "description": {{ .Description | jsonify }},
+            "content": {{ .Content | jsonify }},
+            "date": {{ .Date.Format "2006-01-02" | jsonify }},
+            "draft": {{ .Draft | jsonify }},
+            "slug": {{ .Params.Slug | jsonify }},
+            "categories": {{ .Params.Categories | jsonify }},
+            "tags": {{ .Params.Tags | jsonify }},
+            "permalink" : {{ .Permalink | jsonify }},
 
-          {{/* articles */}}
-          "tldr1": {{ if .Params.Tldr1 }}{{ .Params.Tldr1 | jsonify }}{{ else }}""{{ end }},
-          "tldr2": {{ if .Params.Tldr2 }}{{ .Params.Tldr2 | jsonify }}{{ else }}""{{ end }},
-          "tldr3": {{ if .Params.Tldr3 }}{{ .Params.Tldr3 | jsonify }}{{ else }}""{{ end }},
-          "tldr4": {{ if .Params.Tldr4 }}{{ .Params.Tldr4 | jsonify }}{{ else }}""{{ end }},
-          "tldr5": {{ if .Params.Tldr5 }}{{ .Params.Tldr5 | jsonify }}{{ else }}""{{ end }},
+            {{/* articles */}}
+            "tldr1": {{ if .Params.Tldr1 }}{{ .Params.Tldr1 | jsonify }}{{ else }}""{{ end }},
+            "tldr2": {{ if .Params.Tldr2 }}{{ .Params.Tldr2 | jsonify }}{{ else }}""{{ end }},
+            "tldr3": {{ if .Params.Tldr3 }}{{ .Params.Tldr3 | jsonify }}{{ else }}""{{ end }},
+            "tldr4": {{ if .Params.Tldr4 }}{{ .Params.Tldr4 | jsonify }}{{ else }}""{{ end }},
+            "tldr5": {{ if .Params.Tldr5 }}{{ .Params.Tldr5 | jsonify }}{{ else }}""{{ end }},
 
-          "section": {{ .Section | jsonify }}
-        }
-      {{ end }}
+            "section": {{ .Section | jsonify }}
+          }
+        {{ end }}
       {{ end }}
     ]
 }

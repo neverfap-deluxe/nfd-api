@@ -13,5 +13,24 @@
 
 ---
 
+## Week 5 - Engaging Expression
 
-ar
+Welcome to Week 5 of the 7 Week Awareness Challenge Vol 3.
+
+This week we are going to be practicing an exercise called Engaging Expression which is 
+
+
+For further information on this practice, please visit the Engaging Expression page on the website.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/practices/engaging-expression" "Engaging Expression" >}}
+
+
+Otherwise, please login to the NeverFap Deluxe Dashboard in order to download the latest audio for this module.
+
+
+{{< nfd_button "https://neverfapdeluxe.com/dashboard" "NeverFap Deluxe Dashboard" >}}
+
+## Script
+
+Hello, and welcome to Week 5 of Volume 3 of the 7 week awareness challenge.
