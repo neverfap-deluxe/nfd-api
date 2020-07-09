@@ -70,7 +70,7 @@ Perhaps they thought they'd be fine skipping out on their routine meditation for
 
 Perhaps they failed to maintain their awareness because they thought it would be okay to act with excessive judgement in a particular situation, because "that's just what everyone does".
 
-Perhaps they decided to continuing working past their designated nightly cut-off time because they decided in this one particular instance, that it was okay to put their work before their mental health.
+Perhaps they decided to continue working past their designated nightly cut-off time because they decided in this one particular instance, that it was okay to put their work before their mental health.
 
 All behaviours which outright neglect the sanctity of our commitment to the addiction recovery process.
 

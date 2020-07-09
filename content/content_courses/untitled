@@ -1,0 +1,85 @@
+
+## Work TODO
+
+- Look at Yichi's Ticket
+
+- Ask Brett: 
+	+ Does MyAccount only have access to the Product Instance ID? My understand is that it is currently being stored in your URL. Is there any other information from the user that MyAccount has?
+
+	Essentially we are trying to figure out how best to retrieve information about the user's subscription via the Subscription API, however that only takes the product serial number. Not the product instance ID.
+
+- Ask Jess:
+	+ How to get a product instance id from an order id or a serial number. 
+
+- Test API ENDPOINT 
+- Create a Trial In Sit 
+- https://checkout-sit.myobdev.com/au/authentication?productId=52&transactionType=TRIAL_TO_BUY&exp=deep-linking&pc=OL5PM12MTHS
+53780-1594113986090 // order number 
+615436532232 // serial number
+- Go to Archie and get the product_instance_id
+https://billing-sit.gem.myob.com/api/assets?product_instance_id=d110492b-f57f-4082-9df1-5caac211e3a2
+
+DOCUMENTATION
+
+- I can confirm that MyAccount only has access to the Product Instance ID (TODO)
+
+- I can confirm that currently the Subscription API only takes the product serial number, and not the PIID. 
+- https://myobconfluence.atlassian.net/wiki/spaces/PUR/pages/92145033/Subscription (API Overview)
+- https://subscriptions.core-services.myob.com/subscriptions (Endpoint)
+
+- We can retrieve subscription information with a PIID via the Archie asset billing API endpoint
+- https://myobconfluence.atlassian.net/wiki/spaces/SO/pages/1375079586/BillingAPI (API Overview)
+- https://myobconfluence.atlassian.net/wiki/spaces/PUR/pages/75664378/Billing+API (API Documentation)
+- https://billing-sit.gem.myob.com/api/assets?product_instance_id=d110492b-f57f-4082-9df1-5caac211e3a2 (Endpoint Example)
+- Generally this Endpoint should not be used outside of Sales & Billing. It is a low-level API, which means that it may not include the same level of validation or error reporting that Sales & Billing have. Furthermore, it is another point of contact with another team which isn't Sales & Billing. 
+
+- Ideally Sales & Billing should 
+
+How to retrieve subscription information from MyAccount.
+
+
+SOLUTIONS
+- Use the Billing API. This is not recommended from a business point of view. 
+- Amend 
+
+I can confirm that subsicr
+
+
+
+
+
+
+https://subscriptions.core-services.myob.com/subscriptions
+// only takes a product serial. 
+
+
+
+
+
+ClientID - PIID - ARL.
+
+Contact. 
+
+ClientID 
+Asset 
+
+Essentials 1-to-1 relationship with PIID
+ARL - One serial number has multiple PIID
+
+PIID is for internal system use.
+
+
+It represents a identifier for your 'asset' which really is just a unique way to say the product type you have
+4:30
+and yes it is unique, but you can have multiple PIID (or CDF GUIDs) that belong to the SN (serial number) (edited) 
+4:30
+So structure is... for Essentials
+4:31
+One overarching Client ID - has an Asset (serial number) which has one CDF GUID or PIID (edited) 
+4:32
+SN is a 12 digit number the client uses when they call up support to identify them selves
+4:32
+its easier than giving them a GUID
+4:33
+ARL is different as you can have multiple PIID per SN (PIID is really just a business)
+
