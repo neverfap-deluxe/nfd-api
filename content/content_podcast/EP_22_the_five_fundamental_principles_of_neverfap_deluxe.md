@@ -136,7 +136,7 @@ Pretty neat, huh?
 
 And when you're present with your senses and what you're feeling, it provides you with the ability to control and gauge your experience.
 
-Witout reaction, and without taking what you're experiencing it personally.
+Without reaction, and without taking what you're experiencing personally.
 
 <div style="margin-top: 3rem;" class="five__principles__list__page">
   <span><div class="five__principles__item__page">04 - Struggle over none</div></span>

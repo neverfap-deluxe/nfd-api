@@ -499,7 +499,7 @@ Awareness is absolutely fundamental to everything we do. It is what allows us to
 
 ### It is simply being present with your senses.
 
- Pretty neat, huh? And when you're present with your senses and what you're feeling, it provides you with the ability to control and gauge your experience. Witout reaction, and without taking what you're experiencing it personally.
+ Pretty neat, huh? And when you're present with your senses and what you're feeling, it provides you with the ability to control and gauge your experience. Without reaction, and without taking what you're experiencing personally.
 
 04
 - Struggle over none
@@ -1003,7 +1003,7 @@ This is the routine that I personally find works superbly well for me, in part b
 
 * * *
 
-The extent to which you maintain self-care is entirely up to you. In any case, I hope this post has helped you better understand what you can expect from a consistent never I encourage you to start small and simply commit to 10 minutes of meditation each day. That's precisely how I started and to be quite honest, spending 10 minutes each day was enough for me to see significant changes in the way I thought over the space of a few weeks. So don't feel as if you need to commit all your time to doing this. Remember, it's not how much you practice that counts, but what you practice that matters. In particular, if you feel as if you're struggling to find time to commit to your mental health, I highly recommend reading my article [You Always Have Time For Your Mental Health](https://neverfapdeluxe.com/articles/you-always-have-time-for-your-mental-health)
+The extent to which you maintain self-care is entirely up to you. In any case, I hope this post has helped you better understand what you can expect from a consistent NeverFap Deluxe routine.I encourage you to start small and simply commit to 10 minutes of meditation each day. That's precisely how I started and to be quite honest, spending 10 minutes each day was enough for me to see significant changes in the way I thought over the space of a few weeks. So don't feel as if you need to commit all your time to doing this. Remember, it's not how much you practice that counts, but what you practice that matters. In particular, if you feel as if you're struggling to find time to commit to your mental health, I highly recommend reading my article [You Always Have Time For Your Mental Health](https://neverfapdeluxe.com/articles/you-always-have-time-for-your-mental-health)
 
 
 # The NeverFap State Of Mind

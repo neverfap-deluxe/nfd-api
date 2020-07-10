@@ -5,10 +5,10 @@
   draft: false
   tags: [ "context", "neverfap schedule", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap basics" ]
   categories: [ "introduction" ]
-  
+
   slug: "creating-your-first-neverfap-schedule"
 
-  tldr1: "Start out by practicing observation for ten minutes each day with <a class=\"link\" href=\"/practices\">Observe Your Senses</a>."
+  tldr1: "Start out by practicing observation for ten minutes each day."
   tldr2: "In future, add an additional exercise and rotate that exercise on a weekly basis, whilst continuing daily observation practice."
 
   pageId: "78221175-f0e4-4979-94bc-3aa18316f564"
@@ -17,7 +17,7 @@
 
 <!-- Will Need Edit -->
 
-Everything in life revolves around practice. 
+Everything in life revolves around practice.
 
 No matter what you want to do in life, practice is the means through which we master something.
 
@@ -111,7 +111,7 @@ Another thing to consider is self-care.
 
 Ultimately, the reason why NeverFap works as a solution is because the core philosophy behind it is quite simple.
 
-And self-care is simply another aspect we can focus on, to make things even simpler. 
+And self-care is simply another aspect we can focus on, to make things even simpler.
 
 Certainly, this isn't a focus of NeverFap Deluxe, so you can certainly do your own research into this.
 
@@ -135,13 +135,13 @@ However below is a list of what I personally do to maintain self-care in my life
 
 The extent to which you maintain self-care is entirely up to you.
 
-In any case, I hope this post has helped you better understand what you can expect from a consistent never 
+In any case, I hope this post has helped you better understand what you can expect from a consistent NeverFap Deluxe routine.
 
 I encourage you to start small and simply commit to 10 minutes of meditation each day.
 
 That's precisely how I started and to be quite honest, spending 10 minutes each day was enough for me to see significant changes in the way I thought over the space of a few weeks.
 
-So don't feel as if you need to commit all your time to doing this. 
+So don't feel as if you need to commit all your time to doing this.
 
 Remember, it's not how much you practice that counts, but what you practice that matters.
 
