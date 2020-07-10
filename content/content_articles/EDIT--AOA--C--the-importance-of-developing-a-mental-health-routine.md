@@ -49,7 +49,7 @@ Preparation is the best form of abstinence, and aside from mentally preparing ou
 
 For example, understanding that we must always aim to remain calm in all situations, as well as not react to our emotions and feelings even though they may feel unbearable at times.
 
-This is why I created The Five Fundamental Prinpicles of NeverFap Deluxe which have been designed to help us serve this purpose, and instil those principles into us.
+This is why I created The Five Fundamental Prinpicles of NeverFap Deluxe which have been designed to help us serve this purpose, and instill those principles into us.
 
 Ultimately, when you don't have a mental health plan in place you will almost always fail to remain aware of your own behaviours and actions, creating all sorts of unnecessary confusion.
 

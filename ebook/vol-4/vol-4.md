@@ -107,7 +107,7 @@ If you haven't yet had the chance, I highly recommend that you check out the [Ne
  Why meditation? Because meditation teaches us both awareness and calmness at the same time, which is precisely why it's so powerful in terms of teaching us to adopt healthy coping mechanisms. Furthermore, it's an incredibly simple process, which is vital when we already have limited conscious awareness to begin with. Honestly, all it takes is 10 minutes of meditation per day in order to develop sufficient control over your awareness and calmness. It's one of the easiest and most impactful investments you can ever make towards your mental health. It will change your life.
 
 
-### Well actually, there is a third skill Ambition.
+### Well actually, there is a third skill, Ambition.
 
  Ambition is everything else once you've mastered awareness and calmness. Ambition is more a social expectation in terms of helping you thrive in society, rather than an actual requirement in terms of assisting you in maintaining your happiness and well-being. Something which is designed to enhance your life, but still remain secondary to awareness and calmness. It's part of the reason why I don't place a heavy focus on ambition, nor give it much attention. In general because it's something that will come naturally to you once you master your awareness and calmness, so you've got that to look forward to as well. It's simply the cherry on top of the cake. Not the cake itself.
 

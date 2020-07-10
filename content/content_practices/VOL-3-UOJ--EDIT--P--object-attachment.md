@@ -7,14 +7,14 @@
   categories: [ "uncondition-over-judgement" ]
   category: "Uncondition over judgement"
   vol: 3
-  
+
   slug: "object-attachment"
 
   what: "Identify the things within our life we are attached to."
   how: "Creating a list of attachments."
   when: "Throughout the day."
   duration: "For as long as you like"
-  
+
   pageId: "444efab8-837e-4b8b-84ed-3b03d9177b58"
 
 ---
@@ -24,9 +24,9 @@
 
 <!-- ONE MORE EDIT -->
 
-Attachment is a curious thing. 
+Attachment is a curious thing.
 
-Humans get attached to all sorts of things, and it's a driving force which can cause us to completely neglect our health and well-being. 
+Humans get attached to all sorts of things, and it's a driving force which can cause us to completely neglect our health and well-being.
 
 Part of the reason for this is because in order to attach ourselves to something, we must inherently give up a part of ourselves to accomodate for this new-found appreciation.
 
@@ -54,7 +54,7 @@ Regardless of what you may be attached to, what we are trying to do with this ex
 {{< hr3 "Which is to say that while we may know why we are attached, if we cannot identify that feeling of attachment then we're not painting a complete picture of what's actually going on." >}}
 
 
-Now, there's a very important reason why we're focusing on attachment today. 
+Now, there's a very important reason why we're focusing on attachment today.
 
 On a very fundamental level, NeverFap Deluxe is all about maintaining balance and it's almost impossible to maintain balance if we're also attached to things which disturb that balance.
 
@@ -66,11 +66,11 @@ On the flipside, this also signifies the importance of learning to let go and wh
 
 First as a point of observation, then later as a point of change when you begin practicing meditation and participating in other awareness exercises.
 
-So you'll be better equiped to dissolve what you're thinking and feeling, as a simple matter of principle rather than out of circumstance. 
+So you'll be better equipped to dissolve what you're thinking and feeling, as a simple matter of principle rather than out of circumstance.
 
 I mean, wouldn't that be awesome. To be able to simply let go of the frustration or sadness you feel within any moment, and simply return back to the present moment?
 
-Well, with practice you can. 
+Well, with practice you can.
 
 
 {{< hr2 "Instructions" >}}
@@ -80,24 +80,24 @@ I want you to list a number of objects in your life you're attached to, as well 
 
 It can be plain objects, people or even beliefs.
 
-To provide an example, one object which I'm personally attached to is my laptop stand. I carry it around with me everywhere, and for me it signifies a large part of who I am, in terms of my commitment to my physical and mental health. 
+To provide an example, one object which I'm personally attached to is my laptop stand. I carry it around with me everywhere, and for me it signifies a large part of who I am, in terms of my commitment to my physical and mental health.
 
-Another object I'm attached to my green jacket. It's the same green jacket I wear every single day, and it represents a large part of my identity. 
+Another object I'm attached to my green jacket. It's the same green jacket I wear every single day, and it represents a large part of my identity.
 
 On a more conceptual level, I'm quite attached to my work. Far more than anything else in life. My work is what gives me purpose and meaning, and I couldn't imagine living without it.
 
-And a large part of this exercise is to help you become more aware of those things which you need to work on. 
+And a large part of this exercise is to help you become more aware of those things which you need to work on.
 
-In my case, this primarily means making a conscious effort to control my relationship with work and set healthy boundaries, so I can maintain balance in my life. 
+In my case, this primarily means making a conscious effort to control my relationship with work and set healthy boundaries, so I can maintain balance in my life.
 
 I find it can really help to simply think about your present situation, rather than try and think back to childhood, but certainly do what works for you.
 
-If you're struggling with this exercise, then that's okay. In most cases it's because this is something you've probably never done before. 
+If you're struggling with this exercise, then that's okay. In most cases it's because this is something you've probably never done before.
 
 However that's also why it's a great exercise, because we're learning to think consciously about who we are, which is a skill which will help us approach anything in life with confidence.
 
 
-<!-- 
+<!--
 {{< hr2 "Additional Resources" >}}  -->
 
 <!-- maybe link to other  -->

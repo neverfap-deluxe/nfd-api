@@ -21,7 +21,7 @@ Well, that's the reason why it takes 5 years on average of people to overcome th
 
 Furthermore, it's a great opportunity to see what everyone else is doing in terms of their healthy coping mechanisms, as well as understand the steps they're taking on a daily basis to get 90+ days with their progress.
 
-Another great thing about <a class="link" href="https://discord.gg/YETRkSj">#accountability</a> is that it's a tight-nit community. Because we're small, you get the care and attention you deserve and I always respond to direct messages sent to me.
+Another great thing about <a class="link" href="https://discord.gg/YETRkSj">#accountability</a> is that it's a tight-knit community. Because we're small, you get the care and attention you deserve and I always respond to direct messages sent to me.
 
 Oh, and let's not forget the acknowledgement process! We acknowledge each other's journal entries with emojis, which as we all know, is largely why the internet was invented.
 

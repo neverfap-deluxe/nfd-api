@@ -17,7 +17,7 @@ Of course, a lot of people struggle to maintain that routine which is sadly the 
 
 Because chances are that you may have other unresolved issues in regards to your mental health, which may be negatively impacting your ability to develop your capacity for conscious awareness.
 
-That's why a created an extensive series of <a href="/practices" class="link">NeverFap Deluxe Practices</a> to help you better understand yourself and your mental health problems, so you can commit to the recovery process without fighting yourself every step of the way.
+That's why I created an extensive series of <a href="/practices" class="link">NeverFap Deluxe Practices</a> to help you better understand yourself and your mental health problems, so you can commit to the recovery process without fighting yourself every step of the way.
 
 Exercises which focus solely on practical, verifiable steps you can take on a daily basis to help you build capacity for awareness and calmness.
 

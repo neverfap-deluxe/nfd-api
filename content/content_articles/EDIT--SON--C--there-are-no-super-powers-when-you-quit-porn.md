@@ -47,7 +47,7 @@ With that said, it's possible you may discover your purpose in life more easily 
 
 I think where most people are mislead is that they somehow think that outcomes and attributes, like being smart, social and funny are like angels that suddenly appear into your life once you meet certain conditions.
 
-As if porn addiction is a kind veil which has been hiding these positive attributes all along. 
+As if porn addiction is a kind veil which has been hiding these positive attributes all along.
 
 Well, this isn't even slightly true.
 
@@ -71,7 +71,7 @@ So who am I to say that these "super powers" don't exist?
 
 You know, come to think about it, I think I can understand why people experience these super powers, and it would be naive for me to say that I didn't experience them at first as well.
 
-It's just been such a long time since that initial euphoria, that it's manifested itself into a haze of nostalgia from the past. 
+It's just been such a long time since that initial euphoria, that it's manifested itself into a haze of nostalgia from the past.
 
 
 {{< hr3 "I suppose it's a bit like the first time you got stoned, or perhaps even masturbated." >}}
@@ -85,14 +85,14 @@ Yet even looking beyond the superficialities of recovery, things like meditation
 
 I know when I first discovered meditation it was like I'd discovered a whole new dimension to my mind that I didn't realise was there, which gave me the ability to control my feelings and thoughts, which is HUGE when you consider that prior to this moment, uncertainty was just an accepted fact of life.
 
-Regardless, in the overall scheme of things once the intial euphoria wanes and you're back to solving life's rudimentary problems, no longer being an addict simply makes you more mentally equiped to live life to the fullest. 
+Regardless, in the overall scheme of things once the intial euphoria wanes and you're back to solving life's rudimentary problems, no longer being an addict simply makes you more mentally equipped to live life to the fullest.
 
-And how you express this is entirely up to you. 
+And how you express this is entirely up to you.
 
 Personally speaking, the skills I've learnt from overcoming my porn addiction have proved themselves useful in all areas of my life.
 
-I'm now more resilient and more mindful of everything I do, and my tolerance to stress and hardship has improved somewhat dramatically. 
+I'm now more resilient and more mindful of everything I do, and my tolerance to stress and hardship has improved somewhat dramatically.
 
 So yeah, overcoming porn addiction is an amazing thing, assuming you stick with the process and you develop the skills required in order to approach this thing effectively.
 
-Otherwise, you will continue to wallow and that is no fun at all. 
+Otherwise, you will continue to wallow and that is no fun at all.
