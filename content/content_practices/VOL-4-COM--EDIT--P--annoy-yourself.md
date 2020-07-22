@@ -21,7 +21,7 @@
 
 <!-- HAPPY WITH EDIT -->
 
-In order to understand what this exercise fundamentally aims to address, it can help to understand the dynamics of how we become annoyed within the first place. 
+In order to understand what this exercise fundamentally aims to address, it can help to understand the dynamics of how we become annoyed within the first place.
 
 Because once you understand how it happens, the whole premise becomes crystal-clear and you may even find it impossible to become annoyed again.
 
@@ -55,7 +55,7 @@ The reason why you don't have that emotional reaction is because you don't have 
 {{< hr3 "Furthermore, it also exposes how willingly we'll allow ourselves to self-harm via our own beliefs." >}}
 
 
-Which is absolutely insane when you think about it. 
+Which is absolutely insane when you think about it.
 
 It's like we intentionally set ourselves up to feel awful about ourselves, and it's something most of us remain completely oblivious to.
 
@@ -69,7 +69,7 @@ Well, these feelings do not reflect what is actually going on. You do have contr
 
 Ultimately the idea of something like awareness is that we're learning the ability to be able to catch ourselves when we create these agreements, so we can dissolve them and move forward.
 
-Our end goal is to be able to identify and dissolve these personal agreements at will, and to live our life free of agreement. 
+Our end goal is to be able to identify and dissolve these personal agreements at will, and to live our life free of agreement.
 
 Self-created beliefs which take power away from our ability to remain neutral and in balance with ourselves.
 
@@ -77,13 +77,13 @@ Self-created beliefs which take power away from our ability to remain neutral an
 {{< hr2 "Instructions" >}}
 
 
-With this context in mind, your task is to try and annoy yourself, in order to understand on a conscious level what actually happens when you get annoyed. 
+With this context in mind, your task is to try and annoy yourself, in order to understand on a conscious level what actually happens when you get annoyed.
 
 It can help to think back to previous moments.
 
 What makes you feel annoyed? What agreements have you personally created in your own life? What circumstances fulfil those agreements?
 
-While there's nothing to practice per-say, this exercise is more about getting you to consciously think about these things throughout the day. 
+While there's nothing to practice per-se, this exercise is more about getting you to consciously think about these things throughout the day.
 
 Certainly, what we are doing with this exercise is learning to think differently about how we react to our emotions, as an aspect of our personality which we are responsible for.
 
@@ -93,17 +93,17 @@ The funny thing about modern humans is that we've learnt to put our feelings fir
 
 Which is to say that we automatically assume that our feelings are correct first, and that everything else is a consequence of that.
 
-For example, I'm currently writing this article on the train and there's this lady who's playing music on her phone without headphones, and initially it annoyed me. 
+For example, I'm currently writing this article on the train and there's this lady who's playing music on her phone without headphones, and initially it annoyed me.
 
 But if you make the agreement that this music is actually something enjoyable to be appreciated, then you no longer need to fight those feelings, because the feelings themselves disappear.
 
-Of course, part of the reason why we don't inherently do this is because we buy into the agreement, instead of identifying it as a self-created construct. 
+Of course, part of the reason why we don't inherently do this is because we buy into the agreement, instead of identifying it as a self-created construct.
 
-Which is cool, because that's exactly what we're trying to develop with this exercise, and simply means that we haven't yet developed the self-awareness to identify these agreements yet. 
+Which is cool, because that's exactly what we're trying to develop with this exercise, and simply means that we haven't yet developed the self-awareness to identify these agreements yet.
 
 Only through self-awareness can we hope to identify that which we want to change.
 
-So go out there. Try and observe the dynamics of being annoyed, and see where it takes you. 
+So go out there. Try and observe the dynamics of being annoyed, and see where it takes you.
 
 
 

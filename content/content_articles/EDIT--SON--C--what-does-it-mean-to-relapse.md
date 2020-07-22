@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "balance-over-reward" ]
-  
+
   slug: "what-does-it-mean-to-relapse"
 
   tldr1: "Relapse is a pointless concept which does nothing to empower you with positive action."
@@ -26,7 +26,7 @@ And it's a question which always produces the same two counter questions:
 
 At the end of the day, whatever definition we have of relapse is pointless, because it has nothing to do with developing Healthy Coping Mechanisms.
 
-As I state on NeverFap Deluxe, anything which doesn't help you develop Healthy Coping Mechanisms is an Unhealthy Coping Mechanisms, and this is no different.
+As I state on NeverFap Deluxe, anything which doesn't help you develop Healthy Coping Mechanisms is in fact an Unhealthy Coping Mechanism, and the same reasoning applies here.
 
 In fact, even thinking about this question is an Unhealthy Coping Mechanism within itself, because it detracts from focusing on meaningful change.
 
@@ -38,7 +38,7 @@ And yet people will spend hours obsessing over it, as if it's actually going to 
 
 (although don't worry, because I used to do it too)
 
-The reason why I think it's so infectious as an ideology is because worrying about relapse is more than just a bad habit. 
+The reason why I think it's so infectious as an ideology is because worrying about relapse is more than just a bad habit.
 
 It's a way of thinking.
 
@@ -96,6 +96,6 @@ I think this is why NoFap and in particular r/NoFap has gone down the drain, bec
 
 Well, NeverFap Deluxe is here to change that.
 
-Instead, we're going to focus on positive action, positive change and individual empowerment through action. 
+Instead, we're going to focus on positive action, positive change and individual empowerment through action.
 
 This shit ends today.

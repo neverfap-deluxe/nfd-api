@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "struggle-over-none" ]
-  
+
   slug: "there-is-nothing-inherently-wrong-with-you"
 
   tldr1: "There is nothing inherently wrong with you."
@@ -21,7 +21,7 @@ So much so that we can forget which aspects of our personality may be as a resul
 
 Which in most cases, leads to questioning the very fabric of who we think we are.
 
-Am I actually attracted to these extreme fetishes? Are they merely a result of my addiction? Do I actually have severe depression, or are these feelings merely a by-product of my recovery? 
+Am I actually attracted to these extreme fetishes? Are they merely a result of my addiction? Do I actually have severe depression, or are these feelings merely a by-product of my recovery?
 
 Perhaps you may even question, are the positive and fun aspects of my personality also due to my addiction, and will I lose them if I lose my addiction?
 
@@ -33,13 +33,13 @@ In this article I want to address some of these concerns on a high level so you 
 {{< hr3 "For starters, I want to say that there's nothing wrong with you." >}}
 
 
-Sure, you be suffering from some form of mental illness and yes, you are very much an addict - but that doesn't mean there's anything wrong with you per-say.
+Sure, you be suffering from some form of mental illness and yes, you are very much an addict - but that doesn't mean there's anything wrong with you per-se.
 
-If you can still breathe, if you can still eat, sleep and move your arms and legs - then you are fine. 
+If you can still breathe, if you can still eat, sleep and move your arms and legs - then you are fine.
 
 The fact that you're alive, conscious and reading this signifies that there is nothing wrong with you.
 
-Which is to say that being an addict isn't the end of the world. It's just a hurdle you're going to have to learn to overcome. 
+Which is to say that being an addict isn't the end of the world. It's just a hurdle you're going to have to learn to overcome.
 
 Essentially, the problem is that you're not functioning effectively because you have an addiction.
 
@@ -53,7 +53,7 @@ So to go back to our first question, are you actually addicted to those extreme 
 
 Well, for the time being, yes, because you are a porn addict and that's what you've trained your mind to like.
 
-However, what this also means once you overcome your porn addiction, you no longer will be thinking about those fetishes, because you won't be thinking about porn at all. 
+However, what this also means once you overcome your porn addiction, you no longer will be thinking about those fetishes, because you won't be thinking about porn at all.
 
 Once you begin to realise that most of these problems are due to your addiction to porn, it also provides you with hope that once you overcome your addiction, most of these problems will go away.
 
@@ -67,11 +67,11 @@ That you actively work on your mental health throughout this process of recovery
 
 Because while your porn addiction is the problem, removing that porn addiction from your life is only one-half of the solution.
 
-The other half is replacing those negative behaviours with positive ones so that you're actually living your life to the fullest. 
+The other half is replacing those negative behaviours with positive ones so that you're actually living your life to the fullest.
 
-So to answer the second question, do you have depression or is merely part of the recovery process? 
+So to answer the second question, do you have depression or is merely part of the recovery process?
 
-Well much like the first answer, yes you do have depression, however whether you recover from it is entirely up to you and how you decide to commit to your mental health. 
+Well much like the first answer, yes you do have depression, however whether you recover from it is entirely up to you and how you decide to commit to your mental health.
 
 If you do not actively work on your mental health, nothing will change and you will remain permanently depressed.
 
@@ -81,11 +81,11 @@ If you do not actively work on your mental health, nothing will change and you w
 
 Are they a result of my addiction and my poor mental health, and will they disappear once I recover and become my best self?
 
-Yes. 
+Yes.
 
 Those things are as a result of your addiction and your poor mental health, largely because your personality is a compliation of everything you've experienced up until now.
 
-Of course, this is also to say that both your positive and negative attributes are not exclusive to your addiction, however your addiction may have shaped it to a large extent. 
+Of course, this is also to say that both your positive and negative attributes are not exclusive to your addiction, however your addiction may have shaped it to a large extent.
 
 So it is something we lose once we recover?
 
@@ -95,7 +95,7 @@ The beautiful thing about developing control over your mind, is that it allows y
 
 If you want to quirky, you can be quirky. If you want to be normal, you can be normal. If you want to be both quirky and normal within the same day, that's totally fine too.
 
-Personally speaking, I'm just as quirky, fun and retarded as I was prior to my addiction. 
+Personally speaking, I'm just as quirky, fun and retarded as I was prior to my addiction.
 
 The only difference is I don't feel terrible all the time.
 

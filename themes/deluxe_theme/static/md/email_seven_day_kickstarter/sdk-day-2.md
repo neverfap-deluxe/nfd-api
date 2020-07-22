@@ -29,7 +29,7 @@ In order to develop a strong foundation for this concept, we must first understa
 ### Awareness is our ability to remain conscious.
 
 Unlike raw consciousness however, it relates to the extent to which we can remain conscious, inspite of what is happening both internal and external to us.
-For example, when you're experiencing and urge, or even depression.
+For example, when you're experiencing an urge, or even depression.
 
 And when you're able to remain highly conscious of something, it gives you an incredible amount of power to take affirmative action.
 

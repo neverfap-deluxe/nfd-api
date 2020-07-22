@@ -61,7 +61,7 @@ Well, at a bare minimum it should contain a consistent routine of meditation, as
 
 Ultimately, a solid mental health plan should equally contain preventative maintenance measures, as well as strategies which can allow us to navigate difficult situations.
 
-And that's really why meditation is so powerful, because it can help you remain in balance with your mind so you don't even get to a point of experiencing urges.
+And that's really why meditmation is so powerful, because it can help you remain in balance with your mind so you don't even get to a point of experiencing urges.
 
 In addition, your plan should also contain a list of actions and strategies to help you deal with the most common scenarios you struggle with.
 

@@ -21,7 +21,7 @@ Willpower is a lie.
 
 It's a fabulous lie peddled by all sorts of celebrities and self-help gurus as an unlimited source of potential and opportunity, which can allow you to attain absolutely anything you want in life.
 
-It's a lie because it leads people to develop all sorts of inflated ideas as to how humans can learn and progress, often well-beyond which humans are actually capable of. 
+It's a lie because it leads people to develop all sorts of inflated ideas as to how humans can learn and progress, often well-beyond which humans are actually capable of.
 
 So let's dive a little deeper into why this is.
 
@@ -45,9 +45,9 @@ Wait, so you're struggling to push through and see results!? Well, the reason wh
 
 Which essentially equates to continuing to do the exact same thing as you were previously, inspite of the fact that what you have been doing clearly hasn't been working out.
 
-Otherwise, you wouldn't be struggling as you are in the first place, and this idea of willpower would have never entered your mind. 
+Otherwise, you wouldn't be struggling as you are in the first place, and this idea of willpower would have never entered your mind.
 
-But of course, that's also why this idea of willpower has become such an available idea for people to peddle, package and abuse as a solution to all of life's problems. 
+But of course, that's also why this idea of willpower has become such an available idea for people to peddle, package and abuse as a solution to all of life's problems.
 
 
 {{< hr3 "Because no matter what, you can always blame and attribute your struggle to a lack of willpower, and it's something which absolutely cannot be disproved." >}}
@@ -55,7 +55,7 @@ But of course, that's also why this idea of willpower has become such an availab
 
 A large part of the reason why people buy it is because many people merely seek justification in life in order to feel a sense of hope and purpose.
 
-Which is to say that they don't particular care about the results of their actions. They only care to address the guilt and shame that they're currently feeling. 
+Which is to say that they don't particularly care about the results of their actions. They only care to address the guilt and shame that they're currently feeling.
 
 In fact, a lot of people end up confusing their emotions for actual progress, which is precisely how people get stuck in these cycles of guilt and shame related to their inability to succeed.
 
@@ -75,9 +75,9 @@ It is the only path towards meaningful change, and the sooner you understand thi
 
 Ultimately if I had to describe what willpower is, I would describe it as something people pursue when they don't have a solid strategy in place.
 
-It's what people resort to when they don't have a set of effective fundamental principles in place, and so continue to blindly do the same thing over and over again. 
+It's what people resort to when they don't have a set of effective fundamental principles in place, and so continue to blindly do the same thing over and over again.
 
-It's false hope at it's finest. 
+It's false hope at it's finest.
 
 So what's the alternative to willpower?
 
@@ -87,11 +87,11 @@ Well, almost everything is an alternative to willpower. Whether that be further 
 {{< hr3 "Usually the best thing we can do when we're struggling is to simply calm down, take a step back and become aware of ourselves in that moment." >}}
 
 
-Precisely so we can evaluate our situation, and in most cases simply refrain from reacting altogether. 
+Precisely so we can evaluate our situation, and in most cases simply refrain from reacting altogether.
 
 Remaining calm and collected instead, which is how we should be feeling most of the time anyway if we're regularly practicing meditation and other mindfulness exercises.
 
-And this applies particularly when we've lost balance in some way, and we're beginning to experience urges. 
+And this applies particularly when we've lost balance in some way, and we're beginning to experience urges.
 
 Of course, the key element here is that you're using your mind in order to do something differently with the purpose of improving our actions and understanding of the situation.
 

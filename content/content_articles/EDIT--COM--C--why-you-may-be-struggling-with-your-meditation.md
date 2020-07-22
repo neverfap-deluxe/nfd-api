@@ -39,7 +39,7 @@ The practice of meditation serves one very clear purpose, which is to help you m
 
 It won't necessarily make you completely invulnerable to experiencing urges, nor will it necessarily remove the brain fog you feel when you give in to your urges and orgasm.
 
-Although it may　certainly do those things in certain contexts, if you're able to remain balanced.
+Although it may certainly do those things in certain contexts, if you're able to remain balanced.
 
 At it's core I would describe meditation as a useful tool which can help recalibrate your mind towards becoming calmer, focused and more aware of itself.
 

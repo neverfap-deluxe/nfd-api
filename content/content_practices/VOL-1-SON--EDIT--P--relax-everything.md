@@ -7,7 +7,7 @@
   categories: [ "struggle-over-none" ]
   category: "Struggle over none"
   vol: 1
-  
+
   slug: "relax-everything"
   aliases: [
     "relax-it-out"
@@ -28,7 +28,7 @@
 
 This exercise is incredibly effective, especially for those new to awareness.
 
-I mean, I'd go as far as to say that all exercises are effective. It's just that some exercises a lot simpler to execute than others. 
+I mean, I'd go as far as to say that all exercises are effective. It's just that some exercises a lot simpler to execute than others.
 
 One thing you'll notice as you trawl this website, is that there are a range of different exercises which all seem quite similar to each other.
 
@@ -44,13 +44,13 @@ It's a skill which will allow us to effectively deal with our urges and uncomfor
 
 An important thing to keep in mind with these awareness exercises is that while we're ultimately aiming to develop hard skills, it's also important for us to focus on the introspection aspect of these exercises as well.
 
-In other words, how these different exercises make us feel as we practice them. 
+In other words, how these different exercises make us feel as we practice them.
 
-From an introspection point of view, we're not necessarily trying to 'achieve' anything per-say. 
+From an introspection point of view, we're not necessarily trying to 'achieve' anything per-se.
 
 Instead, what we're merely attempting to do is observe and develop our ability to view ourselves with a more open mind.
 
-Essentially, it's a very effective way to learn mastery over your thoughts and emotions. 
+Essentially, it's a very effective way to learn mastery over your thoughts and emotions.
 
 So whenever you're doing these kinds of exercises, remember to always try and guage how you feel. Does the exercise make you feel frustrated? Do you think anything at all?
 
@@ -64,15 +64,15 @@ Do you feel more comfortable when you relax? Is there anything you don't like ab
 
 Remember, this is a process of self-discovery.
 
-There are no right or wrong answers. 
+There are no right or wrong answers.
 
-There is only what you feel and how you perceive. 
+There is only what you feel and how you perceive.
 
 
 {{< hr2 "Instructions" >}}
 
 
-For this exercise, what we want to do is relax and you can do this whenever you want. 
+For this exercise, what we want to do is relax and you can do this whenever you want.
 
 I personally find it's quite effective to engage in this activity while doing something, because it's arguably easier to relax when you're in a non-relaxed state, as opposed to sitting silently in a chair.
 
@@ -82,23 +82,23 @@ Well, let's start with some of the physical attributes.
 
 Relaxing from a physical perspective means letting go of all the tension in your body. It means slowing your mental pace, as well as taking things easy.
 
-If I had to describe the essence of relaxation, I would say that it's about experiencing life without obligation or care. You just are. 
+If I had to describe the essence of relaxation, I would say that it's about experiencing life without obligation or care. You just are.
 
 It means not worrying about anything, because you know what? There's simply no obligation to worry, because when you are relaxed you have no responsibilty to anything.
 
-Again, I urge you to remember that this is a process of self-discovery, and that I'm not asking you to permanently dissolve into a puddle of jelly. 
+Again, I urge you to remember that this is a process of self-discovery, and that I'm not asking you to permanently dissolve into a puddle of jelly.
 
 These are short bursts of perspective I am asking you to engage in throughout the day, in order to develop a more open mind.
 
 Certainly, while I can describe what relaxation is all day, unless if you actually attempt to practice it, then you simply won't learn what it actually is, nor be able to effectively use it when required.
 
-One key thing to understand about relaxation is that it's a feeling, so if you can't feel it on demand, then you won't be able to cope when you find yourself in a situation where you feel compelled to watch porn or do something equally self-destructive. 
+One key thing to understand about relaxation is that it's a feeling, so if you can't feel it on demand, then you won't be able to cope when you find yourself in a situation where you feel compelled to watch porn or do something equally self-destructive.
 
 In other words, relaxation is one of the many health coping mechanisms we will be developing in order to help us cope with life in a more effective way.
 
 
 
-<!-- 
+<!--
 {{< hr2 "Additional Resources" >}}  -->
 
 <!-- maybe link to other  -->
