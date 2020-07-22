@@ -34,9 +34,9 @@ For starters, if you're a porn addict and you're asking this question, then you'
 
 And only addicts seek this kind of rationalisation.
 
-So in this case, obviously it's not healthy, at least potentially until you absolutely overcome your porn addiction. 
+So in this case, obviously it's not healthy, at least potentially until you absolutely overcome your porn addiction.
 
-To completely understand whether masturbation is healthy or not as an activity, ultimately we need to understand how people use masturbation as a coping mechanism, and furthermore whether this is something you can regulate to any degree. 
+To completely understand whether masturbation is healthy or not as an activity, ultimately we need to understand how people use masturbation as a coping mechanism, and furthermore whether this is something you can regulate to any degree.
 
 So for example, if you are using masturbation as a means to cope with stress, depression and anxiety, then it's likely an issue and you likely cannot have a healthy relationship with masturbation.
 
@@ -44,7 +44,7 @@ It's an issue in part because there are much more effective ways for us to cope 
 
 We end up becoming addicted, seeking porn and overall wallowing in the prevailing condition that ensues.
 
-In fact, it's the very reason why you're reading this article right now. 
+In fact, it's the very reason why you're reading this article right now.
 
 If on the other hand you don't use masturbation as a means to help cope with stress and it's something which you can do without getting attached to, as in feel as if you would be perfectly fine not masturbating for the next year.
 
@@ -52,13 +52,13 @@ If on the other hand you don't use masturbation as a means to help cope with str
 {{< hr3 "Then masturbation could potentially be a healthy form of expression for you." >}}
 
 
-Of course, this obviously isn't true, otherwise you'd be able to easily abstain from masturbation for the next year, and you wouldn't be reading this article. 
+Of course, this obviously isn't true, otherwise you'd be able to easily abstain from masturbation for the next year, and you wouldn't be reading this article.
 
-And if you were able to have a healthy relationship with masturbation, this still isn't to say that masturbation within itself is healthy. It simply means that you're able to have a healthy relationship with masturbation, which still could potentially turn sour if used as a vehicle to cope with stress. 
+And if you were able to have a healthy relationship with masturbation, this still isn't to say that masturbation within itself is healthy. It simply means that you're able to have a healthy relationship with masturbation, which still could potentially turn sour if used as a vehicle to cope with stress.
 
 Of course, I'm yet to actually meet anyone who is capable of casually masturbating without it eventually becoming a dependency of some sort, although I'll provide you with the benefit of the doubt.
 
-I'm sure there are many of you. 
+I'm sure there are many of you.
 
 Ultimately, it comes down to the relationship you personally have with masturbation. Do you do it in order to help cope with uncomfortable feelings and emotions, as a way to help distract yourself from feeling them?
 
@@ -80,7 +80,7 @@ On the other hand, if you feel like masturbation doesn't affect your ability to 
 
 In my opinion, porn addicts should refrain from masturbation permanently, as it's a huge trigger for most to watch porn, so why risk it?
 
-And the great thing about NeverFap Deluxe is that this isn't even a you'll ever need to think about, because once you effectively overcome your porn addiction, not only will you not be thinking about masturbation at all, however you'll have much more effective and empowering strategies to help you deal with your emotions overall.
+And the great thing about NeverFap Deluxe is that this isn't even a thing you'll ever need to worry about, because once you effectively overcome your porn addiction, not only will you not be thinking about masturbation at all, however you'll also have more effective and empowering strategies to help you deal with your emotions overall.
 
 So really, asking whether masturbation is healthy or not is a distraction from developing healthy coping mechanisms, which is a vital part of the porn addiction recovery process.
 
