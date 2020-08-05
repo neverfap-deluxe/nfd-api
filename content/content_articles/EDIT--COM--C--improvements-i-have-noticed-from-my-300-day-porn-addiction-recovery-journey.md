@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
-  
+
   slug: "improvements-i-have-noticed-from-my-300-day-porn-addiction-recovery-journey"
 
   tldr1: "The difference is honestly night and day."
@@ -19,9 +19,9 @@
 
 This article has been difficult to write because I haven't experienced the effects of porn, masturbation and orgasm for so long, that it's truly become a distant memory to me.
 
-Largely because I've so routinely stuck to my mental health regime that it's not even something I've thought about in close to 6 months. 
+Largely because I've so routinely stuck to my mental health regime that it's not even something I've thought about in close to 6 months.
 
-I just know what I have to do to get through each day with a positive and healthy mindset, and the delegation end there. 
+I just know what I have to do to get through each day with a positive and healthy mindset, and the delegations end there.
 
 Which I suppose is the first thing to note about what happens when you do eventually recover from your porn addiction.
 
@@ -55,7 +55,7 @@ Not to mention the complete helplessness I would feel in relation to being unabl
 
 This emotional toll is what I believe had the biggest impact on me in terms of how I felt as a human being.
 
-...and to have all of that completely disappear from my life, is like having the world's heaviest weight's taken from my shoulders. It even makes me want to cry thinking about it. 
+...and to have all of that completely disappear from my life, is like having the world's heaviest weight's taken from my shoulders. It even makes me want to cry thinking about it.
 
 I feel truly free for the first time in my life, and wow. I couldn't possibly describe what that feels like in any coherent way.
 
@@ -93,23 +93,21 @@ I now feel enabled in every possible way, and it's just fantasic.
 
 In particular, I no longer obsess over sex and I no longer view women as sex objects.
 
-A large part of this is as a result of my ambition in other areas of life. Like, now that I'm fully focused on my ambitions, I simply don't have time to think about women. 
-
-I mean, I still think about my partner, but I certainly don't bother myself with obsessing over 
+A large part of this is as a result of my ambition in other areas of life. Like, now that I'm fully focused on my ambitions, I simply don't have time to think about women.
 
 I mean, sure. I'm still a guy. I still love women. I still more-or-less want to have sex with every woman I see. I'm not denying that, and I'm sure most men feel the same way.
 
 The difference now is that I mentally don't ever get to that point. I don't waste my energy looking at women in public. I simply don't even have these thoughts. What purpose could they possibly serve to my self-development as a human being?
 
-And it doesn't matter if it's other men or women, they are simply human beings. Other people with thoughts and ideas, just like you. 
+And it doesn't matter if it's other men or women, they are simply human beings. Other people with thoughts and ideas, just like you.
 
-But I suppose this also highlights the nature of recovery. There is no such thing as being "recovered" in the sense that you'll never watch porn again, but it's also not a scary concept. 
+But I suppose this also highlights the nature of recovery. There is no such thing as being "recovered" in the sense that you'll never watch porn again, but it's also not a scary concept.
 
 It's a bit like hunger. You get hungry, then you eat, then you're no longer hungry for a period. Yet it's not something people freak out about, because it's viewed as an inherent part of life.
 
 Porn addiction is quite similar, except instead of hunger you have balance. You're in balance, then you do something or something happens which knocks you off balance, so you meditate in order to get back into balance again.
 
-The tricky part is convincing people that this is an inherent part of life, as opposed to some optional extra. 
+The tricky part is convincing people that this is an inherent part of life, as opposed to some optional extra.
 
 Anyway, I'm sure this article came across as more of a motivated rant, rather than a dialectical concerning of convention.
 

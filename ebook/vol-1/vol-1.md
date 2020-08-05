@@ -169,7 +169,7 @@ Meditation is the single most important thing you can do for your porn addiction
 
 
 # Paying The NeverFap Maintenance Tax
-What exactly is the NeverFap Maintenance Tax? Well, aside from the fact that it's a term I've more-or-less made up on the spot, the NeverFap Maintenance Tax refers to the time and effort required in order to maintain our physical and mental health. It includes things like meditation, exercising, relaxing, studying, meditating, eating and brushing our teeth. Everything that helps us keep regular. The reason why I call it a tax is because many of us have the attitude that maintaining these things is simply unnecessary. In fact, most of us can tend to view these things as a burden (usually due to the amount of time associated with actually doing them), despite the positive benefits they provide. So what ends ups happening is that become selective about what we view as necessary or not. Maybe we don’t exercise, because we’d rather be studying or playing video games. Maybe we work or study too hard, because we don’t see the value in meditating or relaxing.
+What exactly is the NeverFap Maintenance Tax? Well, aside from the fact that it's a term I've more-or-less made up on the spot, the NeverFap Maintenance Tax refers to the time and effort required in order to maintain our physical and mental health. It includes things like meditation, exercising, relaxing, studying, eating and brushing our teeth. Everything that helps us keep regular. The reason why I call it a tax is because many of us have the attitude that maintaining these things is simply unnecessary. In fact, most of us can tend to view these things as a burden (usually due to the amount of time associated with actually doing them), despite the positive benefits they provide. So what ends ups happening is that become selective about what we view as necessary or not. Maybe we don’t exercise, because we’d rather be studying or playing video games. Maybe we work or study too hard, because we don’t see the value in meditating or relaxing.
 
 
 ### In doing this, we make significant compromises to our ability to function.
@@ -377,7 +377,7 @@ I came across porn at a very young age. I started watching porn from the very mo
 
 * * *
 
-Truth was, I was doing almost everything right. Yet none of that actually mattered, because it was those small things that I wasn't doing, which made the other 90% of my effort null. Today I want to share what those things are with you are, and why they were arguably more important than anything I'd done up until then. I suppose there were two main things that happened, which helped me better understand exactly what I had to do to address my porn addiction. And it all happened within the space of a few weeks.
+Truth was, I was doing almost everything right. Yet none of that actually mattered, because it was those small things that I wasn't doing, which made the other 90% of my effort null. Today I want to share with you what those things were, and why they were arguably more important than anything I'd done up until then. I suppose there were two main things that happened, which helped me better understand exactly what I had to do to address my porn addiction. And it all happened within the space of a few weeks.
 
 
 ### For starters I had a breakdown.
@@ -742,7 +742,7 @@ Some people have a hard time identifying the judgements they make on a daily bas
 
 ### And when we make these judgements, we dictate how we're going to react on an emotional level.
 
- We come up with these deterministic narratives like: *"If that person doesn't shut up, I'm going to get so mad!"* *"If I fail this test, I'm going to feel so helpless and depressed."* In a lot of cases, we won't even necessarily vocalise these agreements and instead, we'll imply them in our actions. For example, we might get really tense when we're mad or stressed. And what can happen over time is that we may not even generate the thought or physica response anymore, and simply skip straight to the emoiton. For example, feeling sad because we don't have a girlfriend, or getting upset because things aren't going our way. Certainly, these hidden agreements form part of the reason why these judgements can be so hard to identify, because often they take place completely out of conscious sight.
+ We come up with these deterministic narratives like: *"If that person doesn't shut up, I'm going to get so mad!"* *"If I fail this test, I'm going to feel so helpless and depressed."* In a lot of cases, we won't even necessarily vocalise these agreements and instead, we'll imply them in our actions. For example, we might get really tense when we're mad or stressed. And what can happen over time is that we may not even generate the thought or physical response anymore, and simply skip straight to the emotion. For example, feeling sad because we don't have a girlfriend, or getting upset because things aren't going our way. Certainly, these hidden agreements form part of the reason why these judgements can be so hard to identify, because often they take place completely out of conscious sight.
 
 
 ### Yet from the perspective of our emotional reactions, they are never hidden.
@@ -976,7 +976,7 @@ Everything in life revolves around practice. No matter what you want to do in li
 
 
 - 15 minutes of meditation as I walk to the train station in the morning for work.
-- 15 minutes of meditation as I walk to the train station in the morning for work.
+- 15 minutes of meditation as I walk back from the train station to my house in the afternoon from work.
 - 10 minutes of meditation while sitting down in a room, around 15 minutes before bed.
 
 * * *

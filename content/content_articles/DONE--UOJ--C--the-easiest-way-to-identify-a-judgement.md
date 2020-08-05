@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "judgement", "porn addiction", "addiction", "awareness", "awareness exercises", "perspective", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "uncondition-over-judgement" ]
-  
+
   slug: "the-easiest-way-to-identify-a-judgement"
 
   tldr1: "The easiest way to identify a judgement is by paying attention to our emotional reactions."
@@ -33,11 +33,11 @@ And furthermore, it's a technique that doesn't require paying a therapist hundre
 
 Your emotion reactions are a key indicator of whether you've made a judgement or not, and in order to understand how this works, we need to understand what emotional reactions are.
 
-For starters, emotional reactions don't simply appear out of thin air. 
+For starters, emotional reactions don't simply appear out of thin air.
 
 They exist as a reaction to an event, usually in regards to a thought we have about something.
 
-Enter judgements. 
+Enter judgements.
 
 
 {{< hr3 "You see, judgements are much more than mere thoughts." >}}
@@ -45,7 +45,7 @@ Enter judgements.
 
 If they were just like any other thought, then much like most other thoughts we have, they would disappear completely from our conscious never to bother us again.
 
-For example, while most of us are unable to remember any thoughts or opinions we had of the weather more than a few weeks ago, let alone the day before. 
+For example, while most of us are unable to remember any thoughts or opinions we had of the weather more than a few weeks ago, let alone the day before.
 
 Most of us can probably remember a time when our parents made us do something that upset us greatly, even if these events may have taken place more than a decade ago.
 
@@ -69,11 +69,11 @@ In a lot of cases, we won't even necessarily vocalise these agreements and inste
 
 For example, we might get really tense when we're mad or stressed.
 
-And what can happen over time is that we may not even generate the thought or physica response anymore, and simply skip straight to the emoiton.
+And what can happen over time is that we may not even generate the thought or physical response anymore, and simply skip straight to the emotion.
 
 For example, feeling sad because we don't have a girlfriend, or getting upset because things aren't going our way.
 
-Certainly, these hidden agreements form part of the reason why these judgements can be so hard to identify, because often they take place completely out of conscious sight. 
+Certainly, these hidden agreements form part of the reason why these judgements can be so hard to identify, because often they take place completely out of conscious sight.
 
 
 {{< hr3 "Yet from the perspective of our emotional reactions, they are never hidden." >}}
@@ -99,17 +99,17 @@ How is identifying them going to help?
 
 Because anything further you do at this point, is unnecessary rationalisation which is the exact opposite of what we are trying to achieve, which is to learn to let go and remain relaxed.
 
-Effectively, what we want to do is learn to let go of these judgements, and learn to simply function regardless of them. 
+Effectively, what we want to do is learn to let go of these judgements, and learn to simply function regardless of them.
 
 Where people often go wrong is that they feel trapped once they've identified these judgements, as if they've done some great evil, feeling the need to dissect them or rectify these behviours and habits.
 
-The funny thing is that this behaviour within itself is an emotional reaction, brought about by judgement. For example, you may have the judgement that you're not good enough, and therefore feel the need to do something about it. 
+The funny thing is that this behaviour within itself is an emotional reaction, brought about by judgement. For example, you may have the judgement that you're not good enough, and therefore feel the need to do something about it.
 
 
 {{< hr3 "This in part signifies the extent to which a lot of the judgements are simply subconscious habit." >}}
 
 
-As well as why it's important that we address these judgements and hidden agreements now, rather than let them continue to develop. 
+As well as why it's important that we address these judgements and hidden agreements now, rather than let them continue to develop.
 
 Of course, many of us have been making these judgements since childhood, so it won't happen overnight.
 

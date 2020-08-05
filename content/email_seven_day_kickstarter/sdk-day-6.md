@@ -28,7 +28,7 @@ A key thing to understand about your porn recovery journey is that the reason wh
 ### Instead, we're using those healthy coping mechanisms so we can cope more effectively for the rest of the day when we're not practicing them.
 
 
-Where a lot of people go wrong tend is that they then to treat recovery and life as two very separate processes. As if, by focusing on recovery it means we no longer need to focus on our life.
+Where a lot of people go wrong is that they assume the recovery process is all about feeling happy and motivated - which isn't true at all.
 
 In reality, it's the exact opposite of this. Recovery is about helping you deal with those difficult feelings and situations in life, not ignore them or pretend as if they're going to resolve themselves (which in a lot of cases, may happen as well).
 

@@ -39,7 +39,7 @@ I probably would have laughed at you.
 ### Ultimately, the purpose of this email is to point out that although the process of overcoming porn addiction is highly linear, the outcome is often not.
 
 
-Perhaps we buy into the false sense of self-confidence that comes with a week of meditation, only to relapse a few days later and therefore think it's all just a bunch of ballony.
+Perhaps we buy into the false sense of self-confidence that comes with a week of meditation, only to relapse a few days later and therefore think it's all just a bunch of baloney.
 
 Maybe we reach a point of accepting that porn addiction will always be a part of our lives, and therefore not worth the effort of continually failing.
 

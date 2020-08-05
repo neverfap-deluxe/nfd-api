@@ -1,7 +1,7 @@
 ---
   # A Definitive Guide On How To Meditate Properly
   # A Simple Guide To Effective Meditation
-  # a practical guide to 
+  # a practical guide to
   # a-simple-guide-to-effective-meditation-guide
   # A Simple Guide For Effective Meditation
   # The absolute fundamentals of effective meditation
@@ -26,6 +26,7 @@
 
   pageId: "553d1722-92bc-494a-b7ad-49cf9239446d"
 ---
+
 
 <!-- VERY HAPPY WITH THIS -->
 

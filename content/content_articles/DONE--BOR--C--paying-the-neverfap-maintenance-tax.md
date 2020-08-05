@@ -22,7 +22,7 @@ What exactly is the NeverFap Maintenance Tax?
 
 Well, aside from the fact that it's a term I've more-or-less made up on the spot, the NeverFap Maintenance Tax refers to the time and effort required in order to maintain our physical and mental health.
 
-It includes things like meditation, exercising, relaxing, studying, meditating, eating and brushing our teeth.
+It includes things like meditation, exercising, relaxing, studying, eating and brushing our teeth.
 
 Everything that helps us keep regular.
 

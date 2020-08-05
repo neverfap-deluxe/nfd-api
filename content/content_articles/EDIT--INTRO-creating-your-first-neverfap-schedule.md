@@ -87,7 +87,7 @@ Here's how I would break it down:
 <hr class="hrul"/>
 
 - 15 minutes of meditation as I walk to the train station in the morning for work.
-- 15 minutes of meditation as I walk to the train station in the morning for work.
+- 15 minutes of meditation as I walk back from the train station to my house in the afternoon from work.
 - 10 minutes of meditation while sitting down in a room, around 15 minutes before bed.
 
 <hr class="hrul__bottom"/>

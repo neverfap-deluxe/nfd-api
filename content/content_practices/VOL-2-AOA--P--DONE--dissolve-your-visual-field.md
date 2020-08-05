@@ -7,7 +7,7 @@
   categories: [ "awareness-over-all" ]
   category: "Awareness over all"
   vol: 2
-  
+
   slug: "dissolve-your-visual-field"
   aliases: [
     "practices/dissolve-it-down"
@@ -48,7 +48,7 @@ On a cultural level, this conceptuality extends to all the predefined rules we h
 
 For example, some cultures prefer kissing as opposed to shaking hands as a way to greet others ...and yet this preference doesn't actually help describe what humans are.
 
-Although society attempts to define us based on our behaviours and how we act, it still doesn't change the fact that we all have five fingers, two eyes and need to be loved.
+Although society attempts to define us based on our behaviours and how we act, it still doesn't change the fact that we all have ten fingers, two eyes and a need to be loved.
 
 
 {{< hr3 "We're all still merely people, after all." >}}
@@ -92,7 +92,7 @@ Ultimately, this is the process we are trying to understand.
 {{< hr2 "Instructions" >}}
 
 
-For this exercise, what we want to do is attempt to treat our visual field as a simple plane of a light and colour. 
+For this exercise, what we want to do is attempt to treat our visual field as a simple plane of a light and colour.
 
 No objects. No descriptions. No focusing on certain details over another. No intepretations.
 
@@ -102,7 +102,7 @@ Instead, what we want to do is treat our visual field as a non-descript arrangem
 
 It usually helps to imagine everything as a cloud of sensation, although I'm sure there are other more meaningful ways to describe it.
 
-Certainly, don't try to focus. 
+Certainly, don't try to focus.
 
 Keep your attention wide and merely feel as if you're intaking the visual information around you, rather than from the point of view of you actively perceiving that information.
 
