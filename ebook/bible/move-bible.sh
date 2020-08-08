@@ -10,7 +10,7 @@ if [[ -d $NFD_APP_DIR ]]; then
 
   cp \
   $(pwd)/ebook/bible/neverfap-deluxe-bible.epub \
-  $NFD_APP_DIR/priv/static/ebooks/neverfap-deluxe-bible.epub
+  $NFD_APP_DIR/assets/static/ebooks/neverfap-deluxe-bible.epub
 
   # PDF
   cp \
@@ -19,7 +19,7 @@ if [[ -d $NFD_APP_DIR ]]; then
 
   cp \
   $(pwd)/ebook/bible/neverfap-deluxe-bible.pdf \
-  $NFD_APP_DIR/priv/static/ebooks/neverfap-deluxe-bible.pdf
+  $NFD_APP_DIR/assets/static/ebooks/neverfap-deluxe-bible.pdf
 
 else
   echo "$NFD_APP_DIR does not exist"

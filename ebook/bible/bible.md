@@ -10,7 +10,7 @@ Thank you for reading The NeverFap Deluxe Bible!
 
 It is a complete collection of guides, articles, and practices on the NeverFap Deluxe Website!
 
-However, it does not contain all the content from the website. Including the excellent homepage explanation of what NeverFap Deluxe is, the various NeverFap Deluxe resource recommendations on the website, as well as the dozens of other pages, links and resources to Hovering Meditation etc.
+However, it does not contain all the content from the website. Including the excellent homepage explanation of what NeverFap Deluxe is, the various NeverFap Deluxe resource recommendations on the website, as well as the dozens of other pages, links and resources to things such as Hovering Meditation, The NeverFap Deluxe #accountability program etc.
 
 Instead this book is an excellent companion piece to the website, and if you already have the basics of the NeverFap Delue Method down, then this book will serve you well.
 
@@ -37,7 +37,7 @@ Because I can say with absolute certainty that full recovery is guaranteed as lo
 
 It's honestly as simple as putting one foot in front of the other, and to make things even easier, I'll be here to guide you every step of the way.
 
-The Reade
+
 
 
 
