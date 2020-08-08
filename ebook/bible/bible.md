@@ -1,14 +1,14 @@
 
 ---
 title: The NeverFap Deluxe Bible
-subtitle: A complete collection of guides, practices and articles.
+subtitle: A complete collection of guides, articles, and practices.
 ---
 
 # NeverFap Deluxe Preface
 
 Thank you for reading The NeverFap Deluxe Bible!
 
-It is a complete collection of guides, practices and articles on the NeverFap Deluxe Website!
+It is a complete collection of guides, articles, and practices on the NeverFap Deluxe Website!
 
 However, it does not contain all the content from the website. Including the excellent homepage explanation of what NeverFap Deluxe is, the various NeverFap Deluxe resource recommendations on the website, as well as the dozens of other pages, links and resources to Hovering Meditation etc.
 
@@ -18,7 +18,7 @@ For a full view of the NeverFap Deluxe Method of Overcoming Porn Addiction, plea
 
 Because Julius Reade says so ^^
 
-[https://neverfapdeluxe.com/](https://neverfapdeluxe.com/)
+<a href="https://neverfapdeluxe.com/">https://neverfapdeluxe.com/</a>
 
 # NeverFap Deluxe About
 
@@ -565,7 +565,7 @@ Of course, you may struggle primarily with Ambition as well. I don't know you we
 
 # NeverFap Deluxe Articles
 
-## The Importance Of Meditation For Porn Addiction
+## The Importance Of Meditation For Overcoming Porn Addiction
 
 
 

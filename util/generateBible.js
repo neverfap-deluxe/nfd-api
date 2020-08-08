@@ -52,7 +52,7 @@ const generateBible = async () => {
   const headerMarkdown = `
 ---
 title: The NeverFap Deluxe Bible
-subtitle: A complete collection of guides, practices and articles.
+subtitle: A complete collection of guides, articles, and practices.
 ---
 `;
 
@@ -61,9 +61,9 @@ const prefaceMarkdown = `
 
 Thank you for reading The NeverFap Deluxe Bible!
 
-It is a complete collection of guides, practices and articles on the NeverFap Deluxe Website!
+It is a complete collection of guides, articles, and practices on the NeverFap Deluxe Website!
 
-However, it does not contain all the content from the website. Including the excellent homepage explanation of what NeverFap Deluxe is, the various NeverFap Deluxe resource recommendations on the website, as well as the dozens of other pages, links and resources to Hovering Meditation etc.
+However, it does not contain all the content from the website. Including the excellent homepage explanation of what NeverFap Deluxe is, the various NeverFap Deluxe resource recommendations on the website, as well as the dozens of other pages, links and resources to things such as Hovering Meditation, The NeverFap Deluxe #accountability program etc.
 
 Instead this book is an excellent companion piece to the website, and if you already have the basics of the NeverFap Delue Method down, then this book will serve you well.
 
@@ -71,7 +71,7 @@ For a full view of the NeverFap Deluxe Method of Overcoming Porn Addiction, plea
 
 Because Julius Reade says so ^^
 
-[https://neverfapdeluxe.com/](https://neverfapdeluxe.com/)
+<a href="https://neverfapdeluxe.com/">https://neverfapdeluxe.com/</a>
 `;
 
   const [

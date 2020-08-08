@@ -129,7 +129,7 @@ NeverFap Deluxe Practices focus solely on verifiable steps you can do on a daily
 
 Well, well, well. The 7 Day NeverFap Deluxe Kickstarter is an email campaign I've put together which aims to teach you a little bit more about the inner workings of NeverFap Deluxe, as well as recommend you various NeverFap Articles and Practices. It covers a range of core topics which are vital for helping you overcome your porn addiction, delivered straight to your email address each day over the course of a week. We also feature a range of other useful guides and courses which become available if you sign up for a FREE NeverFap Deluxe Account. If you'd like to learn more about the 7 Day NeverFap Deluxe Kickstarter, I've put together this fancy [landing page](https://neverfapdeluxe.com/seven-day-neverfap-deluxe-kickstarter/) which explores in greater detail what you will learn. It is highly recommended for newcomers to NeverFap Deluxe or those who would simply like more information on how best to approach their porn addiction.
 
-# The Importance Of Meditation For Porn Addiction
+# The Importance Of Meditation For Overcoming Porn Addiction
 Meditation is the single most important thing you can do for your porn addiction.
 
 

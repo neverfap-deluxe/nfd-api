@@ -1,5 +1,5 @@
 ---
-  title: "The Importance Of Meditation For Porn Addiction"
+  title: "The Importance Of Meditation For Overcoming Porn Addiction"
   description: "Meditation is one of the most important things you can do to address your porn addiction. It teaches you control over your feelings, emotions and behaviours."
   date: 2018-12-12
   draft: false

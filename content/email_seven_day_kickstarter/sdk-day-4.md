@@ -112,7 +112,7 @@ Remember that calmness and meditation are about letting go, so relaxing and keep
 If you'd like to explore this topic further, I've written a few articles which explain some of these aspects in further detail:
 
 
-### The Importance Of Meditation For Porn Addiction
+### The Importance Of Meditation For Overcoming Porn Addiction
 
 
 {{< nfd_button "https://neverfapdeluxe.com/articles/the-importance-of-meditation-for-porn-addiction/" "link" >}}
