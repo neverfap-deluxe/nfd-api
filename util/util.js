@@ -160,7 +160,7 @@ const extractData = (file_contents, file_name, type, isBible) => {
       case "content":
         return {
           new_list_item,
-          new_string_item: `# ${title}\n${content}\n\n\n`, // \n${date}
+          new_string_item: `## ${title}\n${content}\n\n\n`, // \n${date}
         }
     }
   } else {
@@ -194,9 +194,17 @@ const generatePageChildren = async (folder_path, isBible) => {
   const list = fs.readdirSync(folder_path);
   let new_list = [];
   let new_string = '';
+
+  const indexFileContents = await fse.readFile(`${folder_path}/_index.md`);
+  const { head } = getHead(indexFileContents.toString(), isBible);
+  const { title } = extractHeadContents(head);
+
+  new_list.push(`\n# ${title}\n\n`);
+  new_string += `\n# ${title}\n\n`;
+
   try {
     for (const file_name of list) {
-      if (!file_name.includes('notes')) {
+      if (!file_name.includes('notes') && !file_name.includes('_index')) {
         const file_contents = await fse.readFile(`${folder_path}/${file_name}`, 'utf8');
         const { new_list_item, new_string_item } = extractData(file_contents, file_name, 'page_children', isBible);
         new_list.push(new_list_item);
@@ -218,8 +226,18 @@ const generateContent = async (folder, isBible) => {
   let new_list = [];
   let new_string = '';
   try {
-    for (const file_name of list) {
-      if (!file_name.includes('notes')) {
+
+    const indexFileContents = await fse.readFile(`${folder}/_index.md`);
+    const { head } = getHead(indexFileContents.toString(), isBible);
+    const { title } = extractHeadContents(head);
+
+    new_list.push(`\n# ${title}\n\n`);
+    new_string += `\n# ${title}\n\n`;
+
+    for (const file_name of list.sort()) {
+      if (!file_name.includes('notes') && !file_name.includes('_index')) {
+
+        console.log(file_name)
         const file_contents = await fse.readFile(`${folder}/${file_name}`, 'utf8');
         const { new_list_item, new_string_item } = extractData(file_contents, file_name, 'content', isBible);
         new_list.push(new_list_item);

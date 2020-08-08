@@ -1,4 +1,29 @@
-# About NeverFap Deluxe
+
+---
+title: The NeverFap Deluxe Bible
+subtitle: A complete collection of guides, practices and articles.
+---
+
+# NeverFap Deluxe Preface
+
+Thank you for reading The NeverFap Deluxe Bible!
+
+It is a complete collection of guides, practices and articles on the NeverFap Deluxe Website!
+
+However, it does not contain all the content from the website. Including the excellent homepage explanation of what NeverFap Deluxe is, the various NeverFap Deluxe resource recommendations on the website, as well as the dozens of other pages, links and resources to Hovering Meditation etc.
+
+Instead this book is an excellent companion piece to the website, and if you already have the basics of the NeverFap Delue Method down, then this book will serve you well.
+
+For a full view of the NeverFap Deluxe Method of Overcoming Porn Addiction, please proceed to the website.
+
+Because Julius Reade says so ^^
+
+https://neverfapdeluxe.com/
+
+
+
+# NeverFap Deluxe About
+
 
 
 
@@ -14,7 +39,8 @@ Because I can say with absolute certainty that full recovery is guaranteed as lo
 
 It's honestly as simple as putting one foot in front of the other, and to make things even easier, I'll be here to guide you every step of the way.
 
-The Reade (=^ ◡ ^=)
+The Reade
+
 
 
 
@@ -91,11 +117,13 @@ From there you can check our articles and practices which have been designed to 
 
 Certainly, the groundwork is all there for you to succeed. All that is required is your time and commitment in order to provide your mental health with the attention it deserves.
 
-Let's shed some blood. 
+Let's shed some blood.
 
-ฅ(• ɪ •)ฅ
+
+
 
 # NeverFap Deluxe Summary
+
 
 
 
@@ -107,9 +135,9 @@ Not to mention, there's also the NeverFap Deluxe Guide to look forward to which 
 
 Regardless, learn the core concepts, practice the exercises, meditate daily, maintain balance and literally everything will click into place.
 
-The Reade believes in you! 
+The Reade believes in you!
 
-*:･ﾟ✧(=✪ ᆺ ✪=)*:･ﾟ✧
+
 
 
 
@@ -256,6 +284,9 @@ It's personally what I do everyday, and it's what helps me maintain balance.
 Of course, you may struggle primarily with Ambition as well. I don't know you well enough to say for certain, although I'm happy to provide you with personalised advice via our #NewNeverFapper initiative.
 
 ...aaaaand that's NeverFap Deluxe in a nutshell.
+
+# NeverFap Deluxe Guide
+
 
 
 
@@ -533,123 +564,10 @@ It's simply the cherry on top of the cake.
 
 Not the cake itself.
 
-# NeverFap Deluxe Guide
 
+# NeverFap Deluxe Articles
 
-
-Once you have the basis of your mental health strategy all sorted out, the next thing we are going to do is put in place a system of accountability that is designed to not only get us excited about recovery, but also help us keep on top of the healthy coping mechanisms we will be practicing everyday.
-
-In order to do this, we will be posting a daily journal into the NeverFap Deluxe Discord #accountability channel.
-
-Can't be bothered?
-
-Well, that's the reason why it takes 5 years on average of people to overcome their porn addiction. You distrust the process, you lose the game. It's honestly that simple.
-
-Furthermore, it's a great opportunity to see what everyone else is doing in terms of their healthy coping mechanisms, as well as understand the steps they're taking on a daily basis to get 90+ days with their progress.
-
-Another great thing about #accountability is that it's a tight-knit community. Because we're small, you get the care and attention you deserve and I always respond to direct messages sent to me.
-
-Oh, and let's not forget the acknowledgement process! We acknowledge each other's journal entries with emojis, which as we all know, is largely why the internet was invented.
-
-For a set of useful guidelines on the NeverFap Deluxe Accountability Program, please check out the NeverFap Deluxe Accountability Program page.
-
-
-
-
-Once you have a solid meditation routine underway you're essentially 90% of the way there towards being on the path of developing effective control over your mind.
-
-Of course, a lot of people struggle to maintain that routine which is sadly the reason why most people end up remaining addicted for so long, simply because they don't stick to the process.
-
-Because chances are that you may have other unresolved issues in regards to your mental health, which may be negatively impacting your ability to develop your capacity for conscious awareness.
-
-That's why I created an extensive series of NeverFap Deluxe Practices to help you better understand yourself and your mental health problems, so you can commit to the recovery process without fighting yourself every step of the way.
-
-Exercises which focus solely on practical, verifiable steps you can take on a daily basis to help you build capacity for awareness and calmness.
-
-These exercises have been taken from my own porn addiction recovery journey, which have helped me tremendously in terms of better understanding my own mental health issues.
-
-Regardless, in all cases it's important that you first develop a reliable mental health routine around meditation, as that's the easily the most effective thing you can do to maintain balance and improve your mental health today.
-
-
-
-
-
-The absolute most important thing you can do to ensure success with your porn addiction recovery is to begin developing a solid mental health plan that you can commit to everyday.
-
-This plan will include a daily routine of meditation which you will practice without fail, every single day for the rest of your life.
-
-No different to brushing your teeth everyday without fail, your commitment to this practice must be viewed as a form of basic maintenance on a very fundamental level.
-
-Because you know what happens once you stop brushing your teeth?
-
-You begin to develop cavities via tooth decay, which then progresses into developing gum disease, which is not only going to be more painful in the long-run but will completely destroy your health overall.
-
-
-### Your mental health is no different.
-
-
-Too many times have I seen people practice meditation for a few weeks, only to stop because they think they've reached "balance" which almost always results in falling back into their old habits within a matter of days.
-
-Please don't be that person.
-
-There's literally *nothing* sexy about relapsing.
-
-Thankfully NeverFap Deluxe contains a heap of different resources to help you develop your meditation routine, so you can learn to remain consistent and not fall into these traps of situational complacency.
-
-A good place to start with is the NeverFap Deluxe Meditation page which covers a range of different resources and approaches towards meditation.
-
-At a bare minimum you should be meditating for at least 10 minutes everyday. Personally speaking I do it within half and hour of going to bed, although it's important for you to develop a routine which best suits you.
-
-Here are some resources to help get you started.
-
-
-
-
-
-
-
-
-NeverFap Deluxe Articles are designed to provide you with a better understanding behind the how and why of porn addiction recovery.
-
-They are fantastic resources which provide in-depth analysis of issues related to porn addiction recovery, and are referenced throughout the website.
-
-Here are some of my top picks.
-
-
-
-
-blah
-
-
-
-
-
-The NeverFap Deluxe Podcast is a fornightly podcast about porn addiction recovery.
-
-I wanted to have some fun with this one, it's a bit rediculous at times, but I'd also think to think that's equally as informative as it is oddly sensual.
-
-The podcast is available on iTunes, Castbox and Spotify.
-
-
-
-
-
-
-Well, well, well.
-
-You've made it this far, so well done.
-
-The 7 Day NeverFap Deluxe Kickstarter is an email campaign I've put together which aims to teach you a little bit more about the inner workings of NeverFap Deluxe.
-
-It covers a range of core topics which will help you understand some of the dynamics of porn addiction and porn addiction recovery, delivered straight to your email address every day over the course of a week.
-
-It's a great way to learn the basic concepts of NeverFap Deluxe, as well remain connected for any future updates or product releases!
-
-If you'd like to learn more about the 7 Day NeverFap Deluxe Kickstarter, I've put together this fancy  7 Day NeverFap Deluxe Kickstarterlanding page which explores in greater detail what you will learn.
-
-I highly recommend it to newcomers to NeverFap Deluxe or for those who would simply like more information on how best to approach their porn addiction.
-
-# The Importance Of Meditation For Porn Addiction
+## The Importance Of Meditation For Porn Addiction
 
 
 
@@ -794,7 +712,7 @@ These skills are broken into Five Fundamental Principles which allow us to focus
 I recommend checking out our list of NeverFap Deluxe Practices for a list of exercises you can do to develop awareness in your life.
 
 
-# Paying The NeverFap Maintenance Tax
+## Paying The NeverFap Maintenance Tax
 
 
 
@@ -803,7 +721,7 @@ What exactly is the NeverFap Maintenance Tax?
 
 Well, aside from the fact that it's a term I've more-or-less made up on the spot, the NeverFap Maintenance Tax refers to the time and effort required in order to maintain our physical and mental health.
 
-It includes things like meditation, exercising, relaxing, studying, meditating, eating and brushing our teeth.
+It includes things like meditation, exercising, relaxing, studying, eating and brushing our teeth.
 
 Everything that helps us keep regular.
 
@@ -917,7 +835,7 @@ It is a hard requirement and by avoiding self-care, we delay so many positive as
 
 
 
-# You Always Have Time For Your Mental Health
+## You Always Have Time For Your Mental Health
 
 
 
@@ -1104,7 +1022,7 @@ So in the overall scheme of things, 10 minutes, or even an hour a day spent work
 Moving forward, I recommend checking out our list of NeverFap Deluxe Practices for a list of exercises you can do to develop awareness in your life.
 
 
-# Everything Is A Choice
+## Everything Is A Choice
 
 
 
@@ -1298,7 +1216,7 @@ Moving forward, I recommend checking out our list of NeverFap Deluxe Practices f
 
 
 
-# Introduction To The NeverFap Deluxe Guide
+## Introduction To The NeverFap Deluxe Guide
 
 
 
@@ -1465,18 +1383,18 @@ We’re here to understand who we are, what we have to do to change, as well as 
 
 
 
-# My Personal Porn Recovery Journey
+## My Personal Porn Recovery Journey
 
 
 
 
-I came across porn at a very young age. 
+I came across porn at a very young age.
 
 I started watching porn from the very moment I figured out how to physically masturbate at the age of 10.
 
 And I'm sure your story is quite similar.
 
-Discovering porn as a kid is a bit like discovering Bitcoin as a young adult. 
+Discovering porn as a kid is a bit like discovering Bitcoin as a young adult.
 
 It's this absurd hyper-fantasy that sucks you in and I really don't need to go into the details. I'm sure you're more than familiar with what it means to be someone who watches porn on a regular basis.
 
@@ -1490,9 +1408,9 @@ You know, because you're only ever 16 once, and I wanted to experience what 16 y
 
 Overall I managed to abstain for approximately 3 weeks, until collapsing into a puddle of sweat and binge-mania.
 
-It then wasn't until I was around 20 years old that I began to recognise that porn was an actual problem in my life, if not from the simple perspective of being an addict. 
+It then wasn't until I was around 20 years old that I began to recognise that porn was an actual problem in my life, if not from the simple perspective of being an addict.
 
-A problem which I was determined to understand and overcome. 
+A problem which I was determined to understand and overcome.
 
 
 
@@ -1506,17 +1424,17 @@ The last time in my entire life that I will have ever masturbated to, or ever wa
 
 A commitment that I have upheld until today, rather effortlessly.
 
-You know when you have that moment when everything clicks, and absolutely everything comes together and makes sense? 
+You know when you have that moment when everything clicks, and absolutely everything comes together and makes sense?
 
 I was the guy who had that moment, and I've been in control of myself ever since.
 
 If I had to detail all the changes that occurred within that five year period, we'd literally be here all day.
 
-Because, you know. 
+Because, you know.
 
-A lot changes over the five year span of anyone's life, and the best we can do is look back in retrospect and identify the things that went right. 
+A lot changes over the five year span of anyone's life, and the best we can do is look back in retrospect and identify the things that went right.
 
-So up until then, here's what I was doing right: 
+So up until then, here's what I was doing right:
 
 <hr class="hrul"/>
 
@@ -1539,13 +1457,13 @@ So up until then, here's what I was doing right:
 
 Truth was, I was doing almost everything right.
 
-Yet none of that actually mattered, because it was those small things that I wasn't doing, which made the other 90% of my effort null. 
+Yet none of that actually mattered, because it was those small things that I wasn't doing, which made the other 90% of my effort null.
 
-Today I want to share what those things are with you are, and why they were arguably more important than anything I'd done up until then. 
+Today I want to share with you what those things were, and why they were arguably more important than anything I'd done up until then.
 
-I suppose there were two main things that happened, which helped me better understand exactly what I had to do to address my porn addiction. 
+I suppose there were two main things that happened, which helped me better understand exactly what I had to do to address my porn addiction.
 
-And it all happened within the space of a few weeks. 
+And it all happened within the space of a few weeks.
 
 
 
@@ -1555,9 +1473,9 @@ And it all happened within the space of a few weeks.
 
 
 
-You see, I suffer from a condition from Bipolar Disorder, and it was something I hadn't told my partner about. 
+You see, I suffer from a condition from Bipolar Disorder, and it was something I hadn't told my partner about.
 
-In part, because I just assumed she already knew, but primarily because I'm not the kind of person who will ask for help from others. 
+In part, because I just assumed she already knew, but primarily because I'm not the kind of person who will ask for help from others.
 
 However, one day I was feeling particularly vulnerable and I realised one very important thing, which I maintain is important to this day:
 
@@ -1570,11 +1488,11 @@ However, one day I was feeling particularly vulnerable and I realised one very i
 
 
 
-The reason why you break down is because for most people, it's almost impossible to admit that you have a problem, and so mentally you just turn to jelly. 
+The reason why you break down is because for most people, it's almost impossible to admit that you have a problem, and so mentally you just turn to jelly.
 
 At first, she didn't take it seriously.
 
-Because I'd never mentioned it once in our 4 year relationship. But when it kicked in that it was actually something I was hiding from her this whole time, it made a lot of sense. 
+Because I'd never mentioned it once in our 4 year relationship. But when it kicked in that it was actually something I was hiding from her this whole time, it made a lot of sense.
 
 Ultimately, a few things happened as a result.
 
@@ -1591,13 +1509,13 @@ Now that she was aware of my disorder, I was now able to be honest about all the
 
 For whatever reason, when you get everything off your chest, it just completely changes everything.
 
-You no longer feel guilt for who you are and you no longer see yourself as a monster. 
+You no longer feel guilt for who you are and you no longer see yourself as a monster.
 
 You merely see your actions as a symptom of something greater, which allows you to not take them personally, and not react to them negatively.
 
-In addition, it also meant that I could ask for help and support when required. I could tell her that I was struggling with my porn addiction, and not feel judged or vindicated. 
+In addition, it also meant that I could ask for help and support when required. I could tell her that I was struggling with my porn addiction, and not feel judged or vindicated.
 
-Understanding and recognising my disorder, which I'd previously dismissed, helped me better understand my emotions and therefore, manage them a lot more easily. 
+Understanding and recognising my disorder, which I'd previously dismissed, helped me better understand my emotions and therefore, manage them a lot more easily.
 
 
 
@@ -1608,7 +1526,7 @@ Understanding and recognising my disorder, which I'd previously dismissed, helpe
 
 And it's impossible to understate what that feels like.
 
-The second thing which happened, which came about in large part due to my breakdown and coming out about my Bipolar, was equally if not more profound in terms of addressing my porn addiction. 
+The second thing which happened, which came about in large part due to my breakdown and coming out about my Bipolar, was equally if not more profound in terms of addressing my porn addiction.
 
 
 
@@ -1623,13 +1541,13 @@ The funny thing about meditation is that I'd tried doing it through out various 
 
 Or perhaps all that effort had accumulated up until then, I'm not entirely sure.
 
-Regardless, up until then I'd failed to see the value in the meditation. 
+Regardless, up until then I'd failed to see the value in the meditation.
 
 However following my break down, I'd decided to take my mental health seriously, and I was determined to do everything in my power to get better.
 
-A friend at work had mentioned the benefits of meditation in his life, as well as a popular guided meditation course which he swore his life by. 
+A friend at work had mentioned the benefits of meditation in his life, as well as a popular guided meditation course which he swore his life by.
 
-So I decided to do this course, which was basically a 10 minute commitment before bed each day, and my gosh. 
+So I decided to do this course, which was basically a 10 minute commitment before bed each day, and my gosh.
 
 
 
@@ -1640,13 +1558,13 @@ So I decided to do this course, which was basically a 10 minute commitment befor
 
 
 
-All because of a simple 10 minute practice before bed. 
+All because of a simple 10 minute practice before bed.
 
-Absolutely incredible. 
+Absolutely incredible.
 
 The primary reason for this is because meditating allowed me to effectively control and manage my emotions
 
-Primarily, the practice of meditation provided me with the ability to fully control my mind, something which I hadn't experienced before. 
+Primarily, the practice of meditation provided me with the ability to fully control my mind, something which I hadn't experienced before.
 
 It allowed me to relax my mind at will. To prevent incessant thinking and most importantly, not take my emotions and what I was feeling personally.
 
@@ -1659,7 +1577,7 @@ It allowed me to relax my mind at will. To prevent incessant thinking and most i
 
 
 
-It is possibly the most essential thing you can do to assist you in overcoming porn addiction. 
+It is possibly the most essential thing you can do to assist you in overcoming porn addiction.
 
 Of course, what's also important is how you meditate, and that's precisely what I cover in NeverFap Deluxe.
 
@@ -1674,7 +1592,7 @@ For example, a form of meditation I personally find incredibly useful is walking
 
 Now that I've managed to successfully overcome porn addiction, I want to help you do the same.
 
-Often the best way to learn something is to teach others how to do that same thing, and so that's what I want to do with NeverFap. 
+Often the best way to learn something is to teach others how to do that same thing, and so that's what I want to do with NeverFap.
 
 To create a vibrant resource for other porn addicts to learn from, so we no longer have to struggle and cause harm in life due to the effects of addiction.
 
@@ -1686,7 +1604,7 @@ Get started today.
 
 
 
-# The Five Fundamental Principles Of NeverFap
+## The Five Fundamental Principles Of NeverFap
 
 
 
@@ -2073,7 +1991,7 @@ Moving forward I recommend checking out the article index which contains further
 
 
 
-# The Five Principles Of NeverFap As They Relate To My Life
+## The Five Principles Of NeverFap As They Relate To My Life
 
 
 
@@ -2240,7 +2158,7 @@ Well, I hope that's helped you gain a better understanding of The Five Fundament
 If you'd like to learn more, I'd recommend going over my article The Five Fundamental Principles of NeverFap which does into more details from a theoretical perspective.
 
 
-# The One Rule Of NeverFap
+## The One Rule Of NeverFap
 
 
 
@@ -2374,7 +2292,7 @@ Put in the work and everything else will fall into place.
 
 
 
-# What Makes NeverFap So Different
+## What Makes NeverFap So Different
 
 
 
@@ -2510,7 +2428,7 @@ That's my guarantee.
 
 
 
-# Why am I A Porn Addict?
+## Why am I A Porn Addict?
 
 
 
@@ -2708,7 +2626,7 @@ Hopefully this article clarifies the change of thinking that needs to take place
 
 
 
-# The Easiest Way To Identify A Judgement
+## The Easiest Way To Identify A Judgement
 
 
 Some people have a hard time identifying the judgements they make on a daily basis.
@@ -2734,11 +2652,11 @@ And furthermore, it's a technique that doesn't require paying a therapist hundre
 
 Your emotion reactions are a key indicator of whether you've made a judgement or not, and in order to understand how this works, we need to understand what emotional reactions are.
 
-For starters, emotional reactions don't simply appear out of thin air. 
+For starters, emotional reactions don't simply appear out of thin air.
 
 They exist as a reaction to an event, usually in regards to a thought we have about something.
 
-Enter judgements. 
+Enter judgements.
 
 
 
@@ -2751,7 +2669,7 @@ Enter judgements.
 
 If they were just like any other thought, then much like most other thoughts we have, they would disappear completely from our conscious never to bother us again.
 
-For example, while most of us are unable to remember any thoughts or opinions we had of the weather more than a few weeks ago, let alone the day before. 
+For example, while most of us are unable to remember any thoughts or opinions we had of the weather more than a few weeks ago, let alone the day before.
 
 Most of us can probably remember a time when our parents made us do something that upset us greatly, even if these events may have taken place more than a decade ago.
 
@@ -2780,11 +2698,11 @@ In a lot of cases, we won't even necessarily vocalise these agreements and inste
 
 For example, we might get really tense when we're mad or stressed.
 
-And what can happen over time is that we may not even generate the thought or physica response anymore, and simply skip straight to the emoiton.
+And what can happen over time is that we may not even generate the thought or physical response anymore, and simply skip straight to the emotion.
 
 For example, feeling sad because we don't have a girlfriend, or getting upset because things aren't going our way.
 
-Certainly, these hidden agreements form part of the reason why these judgements can be so hard to identify, because often they take place completely out of conscious sight. 
+Certainly, these hidden agreements form part of the reason why these judgements can be so hard to identify, because often they take place completely out of conscious sight.
 
 
 
@@ -2820,11 +2738,11 @@ How is identifying them going to help?
 
 Because anything further you do at this point, is unnecessary rationalisation which is the exact opposite of what we are trying to achieve, which is to learn to let go and remain relaxed.
 
-Effectively, what we want to do is learn to let go of these judgements, and learn to simply function regardless of them. 
+Effectively, what we want to do is learn to let go of these judgements, and learn to simply function regardless of them.
 
 Where people often go wrong is that they feel trapped once they've identified these judgements, as if they've done some great evil, feeling the need to dissect them or rectify these behviours and habits.
 
-The funny thing is that this behaviour within itself is an emotional reaction, brought about by judgement. For example, you may have the judgement that you're not good enough, and therefore feel the need to do something about it. 
+The funny thing is that this behaviour within itself is an emotional reaction, brought about by judgement. For example, you may have the judgement that you're not good enough, and therefore feel the need to do something about it.
 
 
 
@@ -2835,7 +2753,7 @@ The funny thing is that this behaviour within itself is an emotional reaction, b
 
 
 
-As well as why it's important that we address these judgements and hidden agreements now, rather than let them continue to develop. 
+As well as why it's important that we address these judgements and hidden agreements now, rather than let them continue to develop.
 
 Of course, many of us have been making these judgements since childhood, so it won't happen overnight.
 
@@ -2852,7 +2770,7 @@ And by using healthy coping mechanisms such as meditation and awareness exercise
 
 
 
-# The Importance Of Developing A Mental Health Plan
+## The Importance Of Developing A Mental Health Plan
 
 
 
@@ -2959,7 +2877,7 @@ In summary, your mental health plan is your roadmap for change. Without it, you 
 
 
 
-# The Fallacy Of Motivation
+## The Fallacy Of Motivation
 
 
 
@@ -3081,7 +2999,7 @@ So stick to the fundamentals, don't forget your duty to the process, and you'll 
 
 
 
-# The Importance Of Letting Go
+## The Importance Of Letting Go
 
 
 Some people have a difficult time letting go.
@@ -3207,7 +3125,7 @@ So get crackin' buddy. Your mental health won't sort itself out without you.
 
 
 
-# The Most Important Thing Porn Addicts Don't Do
+## The Most Important Thing Porn Addicts Don't Do
 
 
 
@@ -3311,7 +3229,7 @@ Without a conscious mind you are nothing.
 
 
 
-# The Trick Is To Realise That Nothing Is Important
+## The Trick Is To Realise That Nothing Is Important
 
 
 I just thought I'd take the time today to share a cool trick I'd learnt over the years in regards to helping people overcoming difficult situations.
@@ -3409,7 +3327,7 @@ In particular, by remaining in control.
 
 
 
-# What To Do When You're Intensely Craving Porn
+## What To Do When You're Intensely Craving Porn
 
 
 So, you find yourself in a desperate panic and all you can think about is nutting a big one out?
@@ -3503,7 +3421,7 @@ Please check out the Practices section to learn more.
 
 
 
-# When Are You Fully Recovered From Your Porn Addiction?
+## When Are You Fully Recovered From Your Porn Addiction?
 
 
 A lot of people starting out with their porn addiction recovery journey ask me something along the lines of:
@@ -3625,7 +3543,7 @@ You just have to commit to improving them everyday.
 
 
 
-# Improvements I've Noticed From My 300+ Day Porn Addiction Recovery Journey
+## Improvements I've Noticed From My 300+ Day Porn Addiction Recovery Journey
 
 
 
@@ -3633,9 +3551,9 @@ You just have to commit to improving them everyday.
 
 This article has been difficult to write because I haven't experienced the effects of porn, masturbation and orgasm for so long, that it's truly become a distant memory to me.
 
-Largely because I've so routinely stuck to my mental health regime that it's not even something I've thought about in close to 6 months. 
+Largely because I've so routinely stuck to my mental health regime that it's not even something I've thought about in close to 6 months.
 
-I just know what I have to do to get through each day with a positive and healthy mindset, and the delegation end there. 
+I just know what I have to do to get through each day with a positive and healthy mindset, and the delegations end there.
 
 Which I suppose is the first thing to note about what happens when you do eventually recover from your porn addiction.
 
@@ -3679,7 +3597,7 @@ Not to mention the complete helplessness I would feel in relation to being unabl
 
 This emotional toll is what I believe had the biggest impact on me in terms of how I felt as a human being.
 
-...and to have all of that completely disappear from my life, is like having the world's heaviest weight's taken from my shoulders. It even makes me want to cry thinking about it. 
+...and to have all of that completely disappear from my life, is like having the world's heaviest weight's taken from my shoulders. It even makes me want to cry thinking about it.
 
 I feel truly free for the first time in my life, and wow. I couldn't possibly describe what that feels like in any coherent way.
 
@@ -3727,23 +3645,21 @@ I now feel enabled in every possible way, and it's just fantasic.
 
 In particular, I no longer obsess over sex and I no longer view women as sex objects.
 
-A large part of this is as a result of my ambition in other areas of life. Like, now that I'm fully focused on my ambitions, I simply don't have time to think about women. 
-
-I mean, I still think about my partner, but I certainly don't bother myself with obsessing over 
+A large part of this is as a result of my ambition in other areas of life. Like, now that I'm fully focused on my ambitions, I simply don't have time to think about women.
 
 I mean, sure. I'm still a guy. I still love women. I still more-or-less want to have sex with every woman I see. I'm not denying that, and I'm sure most men feel the same way.
 
 The difference now is that I mentally don't ever get to that point. I don't waste my energy looking at women in public. I simply don't even have these thoughts. What purpose could they possibly serve to my self-development as a human being?
 
-And it doesn't matter if it's other men or women, they are simply human beings. Other people with thoughts and ideas, just like you. 
+And it doesn't matter if it's other men or women, they are simply human beings. Other people with thoughts and ideas, just like you.
 
-But I suppose this also highlights the nature of recovery. There is no such thing as being "recovered" in the sense that you'll never watch porn again, but it's also not a scary concept. 
+But I suppose this also highlights the nature of recovery. There is no such thing as being "recovered" in the sense that you'll never watch porn again, but it's also not a scary concept.
 
 It's a bit like hunger. You get hungry, then you eat, then you're no longer hungry for a period. Yet it's not something people freak out about, because it's viewed as an inherent part of life.
 
 Porn addiction is quite similar, except instead of hunger you have balance. You're in balance, then you do something or something happens which knocks you off balance, so you meditate in order to get back into balance again.
 
-The tricky part is convincing people that this is an inherent part of life, as opposed to some optional extra. 
+The tricky part is convincing people that this is an inherent part of life, as opposed to some optional extra.
 
 Anyway, I'm sure this article came across as more of a motivated rant, rather than a dialectical concerning of convention.
 
@@ -3753,7 +3669,7 @@ Stick to the process, respect yourself and everything will be fine.
 
 
 
-# Is Porn Fundamentally Wrong?
+## Is Porn Fundamentally Wrong?
 
 
 
@@ -3836,7 +3752,7 @@ This is what effective recovery is about.
 
 
 
-# The Difference Between NoFap And NeverFap Deluxe
+## The Difference Between NoFap And NeverFap Deluxe
 
 
 
@@ -3926,7 +3842,7 @@ In essence, let's work together in order to put an end to this destructive addic
 
 
 
-# Why You May Be Struggling With Your Meditation
+## Why You May Be Struggling With Your Meditation
 
 
 
@@ -4070,7 +3986,7 @@ Regardless, you're certainly not alone in your journey and NeverFap Deluxe provi
 
 
 
-# Why You Should Never Depend On Your Emotions
+## Why You Should Never Depend On Your Emotions
 
 
 
@@ -4187,7 +4103,7 @@ In terms of moving forward, I highly recommend checking out our range of compreh
 
 
 
-# Your Porn Addiction Is Not Who You Are
+## Your Porn Addiction Is Not Who You Are
 
 
 
@@ -4304,7 +4220,7 @@ Because porn addiction is a process, not a retrospective idea based in any numbe
 
 
 
-# Does Being In A Relationship Help With Overcoming Porn Addiction?
+## Does Being In A Relationship Help With Overcoming Porn Addiction?
 
 
 
@@ -4436,13 +4352,13 @@ However committing to the correct processes will bring you a very long way towar
 
 
 
-# NeverFap Deluxe Appendix
+## NeverFap Deluxe Appendix
 
 
 We don't have a large appendix of terms, because NeverFap Deluxe is super simple at it's core.
 
 
-## Terms
+### Terms
 
 
 NFD: NeverFap Deluxe
@@ -4455,7 +4371,7 @@ UCM: Unhealthy Coping Mechanisms
 
 
 
-# What It Feels Like Not To Be Addicted To Porn
+## What It Feels Like Not To Be Addicted To Porn
 
 
 One thing which people often ask me is:
@@ -4611,7 +4527,7 @@ I know you can do it.
 
 
 
-# My Personal Meditation Routine
+## My Personal Meditation Routine
 
 
 
@@ -4706,7 +4622,7 @@ If you keep it simple and you stick to your routine, you'll already be well-ahea
 
 
 
-# Creating Your First NeverFap Schedule
+## Creating Your First NeverFap Schedule
 
 
 
@@ -4808,7 +4724,7 @@ Here's how I would break it down:
 
 - 15 minutes of meditation as I walk to the train station in the morning for work.
 
-- 15 minutes of meditation as I walk to the train station in the morning for work.
+- 15 minutes of meditation as I walk back from the train station to my house in the afternoon from work.
 
 - 10 minutes of meditation while sitting down in a room, around 15 minutes before bed.
 
@@ -4890,7 +4806,7 @@ In particular, if you feel as if you're struggling to find time to commit to you
 
 
 
-# The NeverFap State Of Mind
+## The NeverFap State Of Mind
 
 
 
@@ -4992,7 +4908,7 @@ I recommend checking out our list of NeverFap Deluxe Practices for a list of exe
 
 
 
-# The Ultimate Aim Of NeverFap Deluxe Practices
+## The Ultimate Aim Of NeverFap Deluxe Practices
 
 
 
@@ -5064,7 +4980,7 @@ The aim is to overcome our porn addiction, and there's no better way I know how 
 
 
 
-# What Is NeverFap Deluxe?
+## What Is NeverFap Deluxe?
 
 
 
@@ -5213,7 +5129,7 @@ From there you can learn more about the various ways in which teach you self-con
 
 
 
-# Is It Okay To Orgasm If You Have A Porn Addiction?
+## Is It Okay To Orgasm If You Have A Porn Addiction?
 
 
 You may be wondering:
@@ -5292,7 +5208,7 @@ You can simply be thriving and happy, just the way you are.
 
 
 
-# Is Masturbation Healthy?
+## Is Masturbation Healthy?
 
 
 
@@ -5382,7 +5298,7 @@ Instead, remember to always focus your attention on the process, because the mom
 
 
 
-# The Easiest Way To Not Take Our Emotions Personally
+## The Easiest Way To Not Take Our Emotions Personally
 
 
 There are times when our emotions can feel unmanagable. 
@@ -5547,7 +5463,7 @@ As well as remain calm in the face of emotional uncertainty.
 
 
 
-# The Fallacy Of Willpower
+## The Fallacy Of Willpower
 
 
 
@@ -5660,7 +5576,7 @@ Only through conscious change can we learn to develop control over our minds, an
 
 
 
-# The Utter Pointlessness Of Maintaining A PMO Streak
+## The Utter Pointlessness Of Maintaining A PMO Streak
 
 
 
@@ -5784,7 +5700,7 @@ So go out there, practice your awareness exercises and don't forget to stick to 
 
 
 
-# There Are No Super Powers When You Quit Porn
+## There Are No Super Powers When You Quit Porn
 
 
 
@@ -5886,7 +5802,7 @@ Otherwise, you will continue to wallow and that is no fun at all.
 
 
 
-# What Does It Mean To Relapse?
+## What Does It Mean To Relapse?
 
 
 I get this question a lot.
@@ -5992,7 +5908,7 @@ This shit ends today.
 
 
 
-# What Is Sex Like Post Recovery?
+## What Is Sex Like Post Recovery?
 
 
 This is a bit of a silly question, because the quality of sex you have in life bears no relation to the state of your mental health.
@@ -6072,7 +5988,7 @@ I am merely the guide afterall, and the NeverFap Deluxe website and what you're 
 
 
 
-# Why Positive Affirmations Don't Work
+## Why Positive Affirmations Don't Work
 
 
 
@@ -6212,7 +6128,7 @@ So you can be entirely in-control of yourself.
 
 
 
-# Why We Struggle
+## Why We Struggle
 
 
 
@@ -6359,7 +6275,7 @@ Until you do that, literally nothing will change and you will continue to strugg
 
 
 
-# There Is Nothing Inherently Wrong With You
+## There Is Nothing Inherently Wrong With You
 
 
 Most of us probably have a very complex relationship with our addiction.
@@ -6474,7 +6390,7 @@ And I wouldn't change it for the world.
 
 
 
-# The Biggest Judgement Porn Addicts Make
+## The Biggest Judgement Porn Addicts Make
 
 
 Most porn addicts struggle with judgement, whether judging others or feeling judged themselves.
@@ -6556,33 +6472,10 @@ I highly recommend checking it out.
 
 
 
-# NeverFap Deluxe Articles
 
+# NeverFap Deluxe Practices
 
-NeverFap Deluxe contains a wide range of articles which cover a variety of important topics related to the porn addiction recovery process.
-
-They are designed to help you better understand the circumstances of your own porn addiction, as well as provide you with advice on what you can do on a daily basis in order to ensure success in your outcomes. 
-
-Of course, more important than reading these articles is developing a solid routine of Meditation, which should be your first priority of order.
-
-To learn more about Meditation I encourage you to checkout the NeverFap Deluxe Meditation section of the website, which explains these concepts in detail.
-
-There are also a great number of NeverFap Deluxe Practices which provide a significant selection of perspective and mental health exercises to assist you in developing your capacity for conscious awareness.
-
-On average I publish four articles each month or one article each week. So sit back, shine your reading glasses and enjoy the ride. 
-
-And oh look, it's a cute baby pig!
-
-(=^･ω･^=)
-
-
-
-
-
-
-
-
-# Observe Your Senses
+## Observe Your Senses
 
 
 
@@ -6738,7 +6631,7 @@ There's always a first for everything.
 
 
 
-# Identify Points Of Awareness Throughout Your Day
+## Identify Points Of Awareness Throughout Your Day
 
 
 
@@ -6840,7 +6733,7 @@ You engage your awareness from the very moment you wake up, and it just gives yo
 
 
 
-# Slow Down Time
+## Slow Down Time
 
 
 
@@ -6945,7 +6838,7 @@ An idea that will prove very important in following exercises.
 
 
 
-# Can You Look Through Walls?
+## Can You Look Through Walls?
 
 
 
@@ -7001,7 +6894,7 @@ But also dissolve the self-limiting beliefs you may have about them.
 
 
 
-# Expressing Gratitude
+## Expressing Gratitude
 
 
 
@@ -7116,7 +7009,7 @@ Happy hunting, folks.
 
 
 
-# Focus On Your Finger And Your Background
+## Focus On Your Finger And Your Background
 
 
 This is a simple exercise most people can benefit from straight-away without too much effort.
@@ -7191,7 +7084,7 @@ There are also a number of additional lessons we can learn from this exercise, h
 
 
 
-# Looking Straight Ahead
+## Looking Straight Ahead
 
 
 
@@ -7260,7 +7153,7 @@ Just remember that no matter what, you are 100% in control of your body and you 
 
 
 
-# Relax Everything
+## Relax Everything
 
 
 
@@ -7356,7 +7249,7 @@ In other words, relaxation is one of the many health coping mechanisms we will b
 
 
 
-# Blind Attention
+## Blind Attention
 
 
 
@@ -7484,7 +7377,7 @@ By practicing these exercises everyday.
 
 
 
-# Take Note Of The Colour Yellow
+## Take Note Of The Colour Yellow
 
 
 This is another one of those classic awareness exercises where we pay attention to some aspect of our reality.
@@ -7532,7 +7425,7 @@ Fun Fact: Yellow is apparently the most appealing and memorable colour.
 
 
 
-# What Can Your Hand Do?
+## What Can Your Hand Do?
 
 
 
@@ -7604,7 +7497,7 @@ No different to your recovery if you're just starting out.
 
 
 
-# Dissolve Your Visual Field
+## Dissolve Your Visual Field
 
 
 
@@ -7643,7 +7536,7 @@ On a cultural level, this conceptuality extends to all the predefined rules we h
 
 For example, some cultures prefer kissing as opposed to shaking hands as a way to greet others ...and yet this preference doesn't actually help describe what humans are.
 
-Although society attempts to define us based on our behaviours and how we act, it still doesn't change the fact that we all have five fingers, two eyes and need to be loved.
+Although society attempts to define us based on our behaviours and how we act, it still doesn't change the fact that we all have ten fingers, two eyes and a need to be loved.
 
 
 
@@ -7707,7 +7600,7 @@ Ultimately, this is the process we are trying to understand.
 
 
 
-For this exercise, what we want to do is attempt to treat our visual field as a simple plane of a light and colour. 
+For this exercise, what we want to do is attempt to treat our visual field as a simple plane of a light and colour.
 
 No objects. No descriptions. No focusing on certain details over another. No intepretations.
 
@@ -7717,7 +7610,7 @@ Instead, what we want to do is treat our visual field as a non-descript arrangem
 
 It usually helps to imagine everything as a cloud of sensation, although I'm sure there are other more meaningful ways to describe it.
 
-Certainly, don't try to focus. 
+Certainly, don't try to focus.
 
 Keep your attention wide and merely feel as if you're intaking the visual information around you, rather than from the point of view of you actively perceiving that information.
 
@@ -7725,7 +7618,7 @@ While you can do this anywhere, I personally find it works best when I have a fe
 
 
 
-# Developing Routine
+## Developing Routine
 
 
 In this exercise we're going to be taking the initial steps towards developing a solid routine.
@@ -7820,7 +7713,7 @@ Regardless, I encourage you to be creative and to see where this exercise takes 
 
 
 
-# Stop Absolutely Everything You're Doing
+## Stop Absolutely Everything You're Doing
 
 
 
@@ -7904,7 +7797,7 @@ Play with it and see where it takes you.
 
 
 
-# Catch Out Your Judgements
+## Catch Out Your Judgements
 
 
 
@@ -8004,7 +7897,7 @@ And the sooner we can do this, the sooner we can gain control over our porn addi
 
 
 
-# Where Do You Touch?
+## Where Do You Touch?
 
 
 <b>Where Do You Touch?</b> is another classic awareness exercise which is designed to help you develop focus and attention.
@@ -8071,7 +7964,7 @@ However it can help us to better control the experience itself once we become aw
 
 
 
-# Identifying The Feeling Of Obligation
+## Identifying The Feeling Of Obligation
 
 
 
@@ -8164,7 +8057,7 @@ Simply continuing to maintain balance so we can remain as effective as possible.
 
 
 
-# Slow Spinning Circle
+## Slow Spinning Circle
 
 
 This exercise is similar to *Every 30 Minutes* in that it will help you tap into your internal subconscious mind in order to help you turn actions into habits.
@@ -8240,7 +8133,7 @@ Play around and see where this takes you.
 
 
 
-# Who Is Looking?
+## Who Is Looking?
 
 
 This is arguably one of the hardest exercises you can practice.
@@ -8319,7 +8212,7 @@ And see where it takes you.
 
 
 
-# Engaging Expression
+## Engaging Expression
 
 
 Expression is an important part of the human experience.
@@ -8417,7 +8310,7 @@ This is the puzzle you will be working on.
 
 
 
-# Use Your Opposite Hand
+## Use Your Opposite Hand
 
 
 This exercise is a great way to force yourself out of your comfort zone.
@@ -8496,7 +8389,7 @@ Open your mind and the rest will follow.
 
 
 
-# Object Attachment
+## Object Attachment
 
 
 
@@ -8599,7 +8492,7 @@ However that's also why it's a great exercise, because we're learning to think c
 
 
 
-# Focus Your Attention
+## Focus Your Attention
 
 
 
@@ -8698,7 +8591,7 @@ Play around with it and see where your mind takes you.
 
 
 
-# Annoy Yourself
+## Annoy Yourself
 
 
 
@@ -8812,7 +8705,7 @@ So go out there. Try and observe the dynamics of being annoyed, and see where it
 
 
 
-# Control The Intonation Of Your Breath
+## Control The Intonation Of Your Breath
 
 
 
@@ -8897,7 +8790,7 @@ And this is just one of the many tools you have at your disposal to help you get
 
 
 
-# Just Do Don't Think
+## Just Do Don't Think
 
 
 
@@ -8968,10 +8861,10 @@ This is how you become effective.
 
 
 
-# Fighting Spirit
+## Fighting Spirit
 
 
-For a lot of people, struggle forms a large part of the porn addiction recovery experience and one of the primary reasons for this is because people simply don't know any better. 
+For a lot of people, struggle forms a large part of the porn addiction recovery experience and one of the primary reasons for this is because people simply don't know any better.
 
 When struggle is literally all you know, because you've experienced nothing but struggle up until now, then inherently it's going to become a frame of mind which you will continually come to expect.
 
@@ -8988,19 +8881,19 @@ Every single step of the way.
 
 Which is to say that struggle is simply what takes place when people become desperate and clueness, in a final attempt to cope without actually knowing how to cope effectively at all.
 
-It's equivalent to screaming at a brick wall in an attempt to knock it down. 
+It's equivalent to screaming at a brick wall in an attempt to knock it down.
 
 Part of it's appeal is that it helps us create the feeling and emotion of progress, without actually helping us truly change, remain calm or develop control over our minds.
 
 Which is to say that it's a form of distraction at best.
 
-So rather than struggle, what we aim to do instead is learn how to cope effectively with our emotions, so we can thrive, grow and accomplish as human beings. 
+So rather than struggle, what we aim to do instead is learn how to cope effectively with our emotions, so we can thrive, grow and accomplish as human beings.
 
-Rather than continue to get nowhere. 
+Rather than continue to get nowhere.
 
-And one of the biggest ways we struggle is when we fight ourselves. 
+And one of the biggest ways we struggle is when we fight ourselves.
 
-How do we fight ourselves exactly? 
+How do we fight ourselves exactly?
 
 
 
@@ -9011,19 +8904,19 @@ How do we fight ourselves exactly?
 
 
 
-To better understand this, it can help to understand that in most cases our first response when we struggle or face difficultly is to react. 
+To better understand this, it can help to understand that in most cases our first response when we struggle or face difficulty is to react.
 
 We think "Okay, things aren't working out and I'm not feeling too great, and I need to do something about it."
 
-Inherently problems can arise when we don't know what to do, and so in trying to react it simply makes us feel anxious, frustrated and depressed, as we try to scramble for a solution we do not have. 
+Inherently problems can arise when we don't know what to do, and so in trying to react it simply makes us feel anxious, frustrated and depressed, as we try to scramble for a solution we do not have.
 
 In other cases what happens is that we can even begin to self-criticise in our hopelessness, usually as a form of motivation or reasoning to our struggle.
 
 
-"Why can't I do this? Why is this so hard? Why am I so stupid for not being able to figure this out?" 
+"Why can't I do this? Why is this so hard? Why am I so stupid for not being able to figure this out?"
 
 
-Now the reason why I describe it as a fight is because much like screaming at a brick wall, reacting or being self-critical will always be a one-sided battle against yourself. 
+Now the reason why I describe it as a fight is because much like screaming at a brick wall, reacting or being self-critical will always be a one-sided battle against yourself.
 
 
 
@@ -9038,11 +8931,11 @@ Because that truly is the alternative to fighting yourself: To simply be present
 
 In other words, to simply remain calm and present with yourself, rather than pursue the judgement and reaction inherent in struggle.
 
-Which can be difficult at first, especially if these behaviours have become habit overtime. However these are vital skills which must be learned at some point, so it's either now or never. 
+Which can be difficult at first, especially if these behaviours have become habit overtime. However these are vital skills which must be learned at some point, so it's either now or never.
 
 You know, there's a quote that goes something along the lines of "You are your own worst enemy" and this rings particularly true when it comes to porn addiction recovery.
 
-When you fight yourself, whether it be resisting your daily meditation or doubting the recovery process, you engage yourself in struggle and you're all-the-more poorer for it. 
+When you fight yourself, whether it be resisting your daily meditation or doubting the recovery process, you engage yourself in struggle and you're all-the-more poorer for it.
 
 Put in the hard work and you'll be fine.
 
@@ -9055,23 +8948,23 @@ Put in the hard work and you'll be fine.
 
 
 
-For this exercise what we want to do is identify the ways with which we fight ourselves. 
+For this exercise what we want to do is identify the ways with which we fight ourselves.
 
 Perhaps you're particularly self-critical. Perhaps you react to your emotions and feelings, rather than simply let them go. Maybe you frequently doubt yourself.
 
 Essentally anything you do which makes your recovery more difficult is a form of fight against yourself.
 
-And so for the next week or so, I want you to be thinking about these ideas in back of your mind throughout the day, so you can become more familiar with your own strengths and weaknesses. 
+And so for the next week or so, I want you to be thinking about these ideas in back of your mind throughout the day, so you can become more familiar with your own strengths and weaknesses.
 
-Ultimately the idea behind this exercise is to help you build your awareness of how and where you lose balance in your life. 
+Ultimately the idea behind this exercise is to help you build your awareness of how and where you lose balance in your life.
 
 In essence, so you can learn to let go of these behaviours and truly be free with yourself, although that's something we'll address in later exercises.
 
 In most cases, simply becoming aware of your own behaviours can be enough to help you stop, however when it comes to things like self-limiting beliefs, a little more work may be required to truly put an end to these destructive patterns.
- 
-In addition, in order to help you identify how you fight yourself, it can help to understand that it takes two to tango, and that you are solely responsible for engaging in fight. 
 
-Which is to say that you actively pursue those behaviours whether you're aware of it or not. 
+In addition, in order to help you identify how you fight yourself, it can help to understand that it takes two to tango, and that you are solely responsible for engaging in fight.
+
+Which is to say that you actively pursue those behaviours whether you're aware of it or not.
 
 Regardless, happy hunting and I wish you best of luck with your journey.
 
@@ -9084,7 +8977,7 @@ Regardless, happy hunting and I wish you best of luck with your journey.
 
 
 
-# Catching The Odd Judge Out
+## Catching The Odd Judge Out
 
 
 
@@ -9162,7 +9055,7 @@ We're all here to learn more about how our individual minds work, through the pr
 
 
 
-# Every 30 Minutes
+## Every 30 Minutes
 
 
 The idea behind this exercise is to help you develop awareness throughout your day on an interval basis.
@@ -9219,7 +9112,7 @@ ka-ching
 
 
 
-# Focus Your Attention On The Right Side Of Your Vision
+## Focus Your Attention On The Right Side Of Your Vision
 
 
 This is another classic awareness exercise which is short and straight-to-the-point.
@@ -9272,7 +9165,7 @@ Certainly, as with all awareness exercises, the more you practice them the bette
 
 
 
-# Where Is Your Knee?
+## Where Is Your Knee?
 
 
 This is another one of those classic awareness exercises where we pay attention to some aspect of our reality.
@@ -9322,7 +9215,7 @@ Do you get frustrated if you find out that you've forgetten to observe your knee
 
 
 
-# You Are Present
+## You Are Present
 
 
 This exercise is all about understanding this idea of what it means to be truly present with yourself.
@@ -9430,7 +9323,7 @@ Think about how you can be present with yourself, and what that means to the ove
 
 
 
-# Put Yourself In Other People's Shoes
+## Put Yourself In Other People's Shoes
 
 
 This exercise can be inherently difficult. 
@@ -9510,7 +9403,7 @@ Certainly, you may be surprised with what you discover.
 
 
 
-# Separate Your Seeing From Your Feeling
+## Separate Your Seeing From Your Feeling
 
 
 
@@ -9626,22 +9519,6 @@ The world truly is your oyster ^^
 
 
 
-
-
-
-
-
-
-# NeverFap Deluxe Practices
-
-
-A complete list of all of the mental health practices here on NeverFap Deluxe. Yipee!
-
-If instead if you're looking for a more structured approach towards addressing your porn addiction, then I recommend checking out our NeverFap Deluxe Courses section!
-
-If however you were searching for a complete list of all our contextual articles on the website, please check out the impeccably arranged NeverFap Deluxe Articles page.
-
-You may sort practices by latest or category.
 
 
 

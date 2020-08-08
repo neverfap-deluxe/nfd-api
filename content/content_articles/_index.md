@@ -5,7 +5,7 @@
   draft: false
   tags: [ "articles", "index", "porn addiction", "porn recovery", "addiction recovery", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "index" ]
-  
+
   slug: "articles"
 
   pageId: "7268ba24-ed01-464d-983f-b8d4c5d839a7"
@@ -14,7 +14,7 @@
 
 NeverFap Deluxe contains a wide range of articles which cover a variety of important topics related to the porn addiction recovery process.
 
-They are designed to help you better understand the circumstances of your own porn addiction, as well as provide you with advice on what you can do on a daily basis in order to ensure success in your outcomes. 
+They are designed to help you better understand the circumstances of your own porn addiction, as well as provide you with advice on what you can do on a daily basis in order to ensure success in your outcomes.
 
 Of course, more important than reading these articles is developing a solid routine of Meditation, which should be your first priority of order.
 
@@ -22,11 +22,12 @@ To learn more about Meditation I encourage you to checkout the <a class="link" h
 
 There are also a great number of <a class="link" href="https://neverfapdeluxe.com/practices">NeverFap Deluxe Practices</a> which provide a significant selection of perspective and mental health exercises to assist you in developing your capacity for conscious awareness.
 
-On average I publish four articles each month or one article each week. So sit back, shine your reading glasses and enjoy the ride. 
+On average I publish four articles each month or one article each week. So sit back, shine your reading glasses and enjoy the ride.
 
-And oh look, it's a cute baby pig!
+<!-- It would be nice to have this bit, but it interferes with the pdf creation -->
+<!-- And oh look, it's a cute baby pig!
 
-(=^･ω･^=)
+(=^･ω･^=) -->
 
 <!-- Here subsides a complete list of all of the contextual articles here on my amazingly useful website, NeverFap Deluxe!
 

@@ -23,4 +23,5 @@ Because I can say with absolute certainty that full recovery is guaranteed as lo
 
 It's honestly as simple as putting one foot in front of the other, and to make things even easier, I'll be here to guide you every step of the way.
 
-The Reade (=^ ◡ ^=)
+The Reade
+<!-- The Reade (=^ ◡ ^=) -->

@@ -16,7 +16,7 @@
 
 We don't have a large appendix of terms, because NeverFap Deluxe is super simple at it's core.
 
-## Terms
+### Terms
 
 NFD: NeverFap Deluxe
 

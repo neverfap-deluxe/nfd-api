@@ -1,6 +1,6 @@
 // GUIDES
 const home_folder = './content/general_home';
-const guide_folder = './content/guides_guide';
+const guide_folder = './content/guides_guide_ebook';
 const summary_folder = './content/guides_summary';
 // const post_relapse_academy_folder = './content/post_relapse_academy';
 // const emergency_folder = './content/emergency';

@@ -19,9 +19,9 @@ Not to mention, there's also the <a class="link" href="/guide">NeverFap Deluxe G
 
 Regardless, learn the core concepts, practice the exercises, meditate daily, maintain balance and literally everything will click into place.
 
-The Reade believes in you! 
+The Reade believes in you!
 
-\*:･ﾟ✧(=✪ ᆺ ✪=)*:･ﾟ✧
+<!-- \*:･ﾟ✧(=✪ ᆺ ✪=)*:･ﾟ✧ -->
 
-<!-- 
+<!--
 Otherwise, you may also benefit from the <a class="link" href="https://neverfapdeluxe.com/seven-day-neverfap-deluxe-kickstarter">7 Day NeverFap Deluxe Kickstarter</a> which covers a lot of the high-level concepts of NeverFap Deluxe in a very broad way. -->

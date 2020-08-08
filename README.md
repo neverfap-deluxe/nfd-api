@@ -9,6 +9,9 @@ It is also where the eBook content is generated from.
 Released under the [GNU GPLv3 licence](https://github.com/neverfap-deluxe/nfd-api/blob/master/LICENSE).
 
 
+For the PDFs, Tahoma or Verdana work best.
+
+
 ## Tech
 
 Backend: Hugo

@@ -21,6 +21,6 @@ From there you can check our articles and practices which have been designed to 
 
 Certainly, the groundwork is all there for you to succeed. All that is required is your time and commitment in order to provide your mental health with the attention it deserves.
 
-Let's shed some blood. 
+Let's shed some blood.
 
-ฅ(• ɪ •)ฅ
+<!-- ฅ(• ɪ •)ฅ -->
