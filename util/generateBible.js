@@ -71,9 +71,7 @@ For a full view of the NeverFap Deluxe Method of Overcoming Porn Addiction, plea
 
 Because Julius Reade says so ^^
 
-https://neverfapdeluxe.com/
-
-
+[https://neverfapdeluxe.com/](https://neverfapdeluxe.com/)
 `;
 
   const [
