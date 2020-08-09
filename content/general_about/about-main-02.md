@@ -15,7 +15,7 @@ While everyone is aware of the NoFap movement, during my journey I failed to fin
 
 Most of the materials I could find online included various theories on how to manage urges utilising a trope of ineffective and unhealthy coping mechanisms...
 
-...to personal advice from existing porn addicts who's opinion seemed to change depending on the day of the week, as per their unpredictable schedule of relapse and mania.
+...to personal advice from existing porn addicts, who's opinion seemed to change depending on the day of the week, as per their unpredictable schedule of relapse and mania.
 
 I mean, you wouldn't receive financial advice from someone with a gambling problem, so why should your porn addiction recovery be any different?
 
@@ -35,9 +35,9 @@ No more excuses. No more compromises.
 
 This is the real deal.
 
-<!-- 
+<!--
 <a class="link" href="https://neverfapdeluxe.com/articles/what-makes-neverfap-so-different/">This is the real deal.</a> -->
-<!-- 
+<!--
 If I had to describe what NeverFap Deluxe is, I would describe it as an online resource that is dedicated to teaching people healthy coping mechanisms.
 
 Ultimately, effective porn recovery is about learning healthy coping mechanisms which are designed to be empower you in a sustainable way. -->

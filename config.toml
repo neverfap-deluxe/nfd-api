@@ -19,6 +19,9 @@ ignoreFiles = [ "\\.notes$" ]
 [author]
   name = "Julius Reade"
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 # [outputs]
 #   page = ["json", "html"] # A player
 #   section = ["json", "html"] # All players

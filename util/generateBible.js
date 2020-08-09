@@ -59,17 +59,17 @@ subtitle: A complete collection of guides, articles, and practices.
 const prefaceMarkdown = `
 # NeverFap Deluxe Preface
 
-Thank you for reading The NeverFap Deluxe Bible!
+Thank you for reading the NeverFap Deluxe Bible!
 
-It is a complete collection of guides, articles, and practices on the NeverFap Deluxe Website!
+It is a complete collection of the guides, articles, and practices on the NeverFap Deluxe Website!
 
-However, it does not contain all the content from the website. Including the excellent homepage explanation of what NeverFap Deluxe is, the various NeverFap Deluxe resource recommendations on the website, as well as the dozens of other pages, links and resources to things such as Hovering Meditation, The NeverFap Deluxe #accountability program etc.
+It is important to note that it does not contain all of the content on the NeverFap Deluxe website.
 
-Instead this book is an excellent companion piece to the website, and if you already have the basics of the NeverFap Delue Method down, then this book will serve you well.
+Including the excellent homepage explanation of what NeverFap Deluxe is, the various NeverFap Deluxe resource recommendations on the website, as well as the dozens of other pages, links and resources on the website.
+
+Instead, it can help to think of this book as an excellent companion piece to the website. Furthermore, if you already have the basics of the NeverFap Delue Method down, then this book will serve you well.
 
 For a full view of the NeverFap Deluxe Method of Overcoming Porn Addiction, please proceed to the website.
-
-Because Julius Reade says so ^^
 
 <a href="https://neverfapdeluxe.com/">https://neverfapdeluxe.com/</a>
 `;

@@ -52,7 +52,7 @@ And this happens for a number of reasons.
 
 Instead, we develop this idea that it must be this highly-trained skill that only Bhuddist monks can attain following years of practice in a remote location.
 
-So what ends up happening is put all this effort and strain into trying to develop this 'zen-like' state of mind, which ends up exhausting us more than it does helping us.
+So what ends up happening is that you end up putting all this pressure into trying to develop some 'zen-like' state of mind, which ends up exhausting us more than it does helping us.
 
 We become so distracted in the expectation of what observation should be, that we ironically spend all our mental effort judging and feeling pressured, rather than observing at all.
 

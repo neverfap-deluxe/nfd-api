@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "understanding choice", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe" ]
   categories: [ "choice-over-mind" ]
-  
+
   slug: "everything-is-a-choice"
 
   tldr1: "Your ability to respond is the only choice you have in life."
@@ -23,7 +23,7 @@ I want to talk about choice.
 
 Specifically, how it relates to the Five Fundamental Principles of NeverFap.
 
-The first principle that I almost always introduce to people is <u>Choice over mind</u>, because it is the one principle that most porn addicts (usually) find the most profound. 
+The first principle that I almost always introduce to people is <u>Choice over mind</u>, because it is the one principle that most porn addicts (usually) find the most profound.
 
 
 {{< hr3 "Choice over mind relates to this idea that we have full control over how we react in life." >}}
@@ -45,13 +45,13 @@ So let's consider this your formal re-education.
 
 It begs to state that everything in life is a choice.
 
-There's choice in how we feel. Choice in what we want to think. Choice in how we live, and what we want to eat. 
+There's choice in how we feel. Choice in what we want to think. Choice in how we live, and what we want to eat.
 
 In fact, there's choice in almost everything that happens in life.
 
 And yet, this doesn't mean that we necessarily get to choose all these things.
 
-We don't get to choose our race. We don't get to choose how others live their lives. Hell, we certainly don't get to choose what the weather will be that day. 
+We don't get to choose our race. We don't get to choose how others live their lives. Hell, we certainly don't get to choose what the weather will be that day.
 
 And that's okay.
 
@@ -69,7 +69,7 @@ In part, because it is the only choice you truly have control over.
 {{< hr3 "You get to choose how you want to respond." >}}
 
 
-And it's a choice which overrides every other choice imaginable. 
+And it's a choice which overrides every other choice imaginable.
 
 Of course, I'm sure you're already aware of this fact. I mean, obviously you have the ability to react to life's circumstances.
 
@@ -77,7 +77,7 @@ Yet perhaps you don't quite understand the significance of what this actually me
 
 Perhaps you're misinterpretating what having this choice allows you to do, so let's explore that idea.
 
-When you truly understand what <u>Choice over mind</u> means, it completely changes the way you look at things. 
+When you truly understand what <u>Choice over mind</u> means, it completely changes the way you look at things.
 
 You no longer become victim, or rather you realise that you never were victim, over that which you cannot choose.
 
@@ -87,13 +87,13 @@ So what does it being able to respond actually mean?
 {{< hr3 "Put simply, your ability to respond is the most powerful choice you have, because it is the only choice you as an individual can actually make." >}}
 
 
-At no point do you have absolute certainty over any outcome in life. 
+At no point do you have absolute certainty over any outcome in life.
 
 Instead, what you do have is absolute certainty over your actions, and this is quite profound for a few reasons.
 
 If your ability to respond is the only true choice that you have, then it signifies that you have full control over your life.
 
-Because response happens through actions, and actions are the only means through which we can change as human beings. 
+Because response happens through actions, and actions are the only means through which we can change as human beings.
 
 
 {{< hr3 "Which really is to say that you have full control over who you want to become." >}}
@@ -111,7 +111,7 @@ We both have the exact same potential to respond on a low level with our thought
 
 
 {{< hr3 "The only difference between you and me is in the actions that we've taken over time." >}}
- 
+
 
 Which is to say that if you responded in the same way that I did, then you also would not be a porn addict.
 
@@ -121,15 +121,13 @@ Which is to say that if you responded in the same way that I did, then you also 
 
 The important thing to understand about success is that it doesn't happen at a high level.
 
-It happens on an emotional and physical level. 
+It happens on an emotional and physical level.
 
-Success is the difference between choosing to remain calm in a tense situation, as opposed to losing our cool. 
+Success is the difference between choosing to remain calm in a tense situation, as opposed to losing our cool.
 
-Success isn't about being wealthy or driving a fast car.
+Success isn't about being wealthy or driving a fast car. Success is about having control over our feelings and emotions.
 
-Success is about having control over our feelings and emotions, so we feel indifferent about how much money we or anyone else has.
-
-In the context of porn addiction, success is acknowledging that our cravings for porn are merely habitual, and not to be taken personally. 
+In the context of porn addiction, success is acknowledging that our cravings for porn are merely habitual, and not to be taken personally.
 
 Success is meditating daily so that we can learn the skills to properly address our porn addiction.
 
@@ -143,7 +141,7 @@ Porn addicts really are no different from each other.
 
 Every porn addict goes through the same feelings and emotions of helplessness, guilt and depression.
 
-The only difference is in how they choose to respond to these feelings and emotions, so they don't let them dominate their life. 
+The only difference is in how they choose to respond to these feelings and emotions, so they don't let them dominate their life.
 
 Now, I'm not suggesting that you'll be able to face these feelings and emotions by merely being aware of them.
 

@@ -5,7 +5,7 @@
   draft: false
   tags: [ "context", "popular", "neverfap basics", "nofap schedule", "porn addiction", "addiction", "awareness", "nofap", "neverfap", "neverfap deluxe", "neverfap deluxe guide", "neverfap basics" ]
   categories: [ "introduction" ]
-  
+
   slug: "introduction-to-the-neverfap-deluxe-guide"
 
   tldr1: "It is totally possible to overcome porn addiction by following a series of verifiable steps."
@@ -21,9 +21,9 @@
 
 Today I’m here to talk to you about porn addiction.
 
-Porn addiction itself can be a very complex topic. We can spend hours discussing the intricacies of how particular cultural upbringings affect the way we view women. 
+Porn addiction itself can be a very complex topic. We can spend hours discussing the intricacies of how particular cultural upbringings affect the way we view women.
 
-We can bore over the details of our past trauma in order to extract why exactly we’re so obsessed with certain types of porn. 
+We can bore over the details of our past trauma in order to extract why exactly we’re so obsessed with certain types of porn.
 
 We can do all sorts of things to try and understand why we humans are the way we are, and to be quite frank... it’s all very exhausting.
 
@@ -31,7 +31,7 @@ Because the truth is, overcoming pornography addiction is deceptively simple.
 
 {{< hr3 "From a process point of view, I spend around 40 minutes each day practicing meditation." >}}
 
-And that’s literally all I need to maintain control over my mind.
+And that’s literally all I need to do in order to maintain control over my mind.
 
 Of course, I also do a lot more, like train my mind with perspective exercises, but now that I'm in a stable state in regards to my porn addiction, all I really have do is maintain my mental health.
 
@@ -45,7 +45,7 @@ And it's so empowering.
 
 And I want to show you how.
 
-Ultimately, we have one rule here at NeverFap: 
+Ultimately, we have one rule here at NeverFap:
 
 {{< hr3 "Practice. Practice. Practice." >}}
 
@@ -53,31 +53,31 @@ Without practicing the core skills that will help you overcome porn addiction, y
 
 It's no different whether you want to become a successful body builder or a world class sculptor. Practice is the bridge that will help get you there.
 
-You know it. I know it. Everyone knows it. 
+You know it. I know it. Everyone knows it.
 
 So what's stopping you?
 
 {{< hr3 "Cravings. Fear. Doubt. Anxiety. Addiction." >}}
 
-Which is to say there's some kind of internal misunderstanding which is preventing you from doing what you want in your mind. 
+Which is to say there's some kind of internal misunderstanding which is preventing you from doing what you want in your mind.
 
-Yes, a misunderstanding. 
+Yes, a misunderstanding.
 
-Perhaps it's a self-limiting belief. Perhaps you haven't developed your awareness to a point that you can act with intention. Perhaps you have no idea what you're doing. 
+Perhaps it's a self-limiting belief. Perhaps you haven't developed your awareness to a point that you can act with intention. Perhaps you have no idea what you're doing.
 
-Perhaps you've never developed a single healthy coping mechanism at all in your entire life. 
+Perhaps you've never developed a single healthy coping mechanism at all in your entire life.
 
 That's why I came up with <a class="link" href="https://neverfapdeluxe.com/articles/the-five-fundamental-principles-of-neverfap">The Five Fundamental Principles of NeverFap</a> in order to help you better understand where you may be misunderstanding yourself.
 
 {{< hr3 "Otherwise, known as denial." >}}
 
-If we had to break down what people tend to find difficult in regards to overcoming their porn addiction. 
+If we had to break down what people tend to find difficult in regards to overcoming their porn addiction.
 
 You could say that it comes down to a) Figuring out how to actually convince oneself to commit to porn recovery and b) Truly understanding what will work, and what will not.
 
 This not only includes the knowledge surrounding porn recovery, but also working with our emotions to effectively apply it in everyday situations.
 
-Which can be incredibly difficult, if not outright confusing when we don't truly have the confidence to know exactly what we're doing. 
+Which can be incredibly difficult, if not outright confusing when we don't truly have the confidence to know exactly what we're doing.
 
 We'll be feeling completely confident one week into our recovery, only to face what seems like an insurmountable wall of fear and doubt, which inevitably leads to relpase.
 
@@ -96,7 +96,7 @@ As for a non-exhaustive list of these skills, here are some of the things which 
 <hr class="hrul"/>
 
 - Learn to focus on the how, not the why
-  
+
 - Learn to value your mental health above all
 
 - Develop the ability to quiet and focus your mind
@@ -123,13 +123,13 @@ And I’m now at a point where porn has no control over me.
 
 Realistically, you could probably achieve the same thing in around six months if you stuck to a rigorous routine.
 
-However, I also maintain that humans simply aren’t like that. 
+However, I also maintain that humans simply aren’t like that.
 
-Some of us are driven by failure and by experiencing things the hard way. Others of us may be so deep in our delusion that it may take years to even realise that we have a problem. 
+Some of us are driven by failure and by experiencing things the hard way. Others of us may be so deep in our delusion that it may take years to even realise that we have a problem.
 
 That’s okay too.
 
-Understand that we’re not here to fight ourselves any longer. 
+Understand that we’re not here to fight ourselves any longer.
 
 We’re here to understand who we are, what we have to do to change, as well as understand how we can improve as people.
 
