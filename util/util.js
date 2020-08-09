@@ -236,8 +236,6 @@ const generateContent = async (folder, isBible) => {
 
     for (const file_name of list.sort()) {
       if (!file_name.includes('notes') && !file_name.includes('_index')) {
-
-        console.log(file_name)
         const file_contents = await fse.readFile(`${folder}/${file_name}`, 'utf8');
         const { new_list_item, new_string_item } = extractData(file_contents, file_name, 'content', isBible);
         new_list.push(new_list_item);

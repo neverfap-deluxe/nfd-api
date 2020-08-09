@@ -40,6 +40,8 @@ const {
   // contact_folder,
 } = require('./const');
 
+const { formatDate } = require('./date');
+
 const {
   // generatePage,
   generateContent,
@@ -56,7 +58,7 @@ const generateBible = async () => {
 ---
 title: The NeverFap Deluxe Bible
 subtitle: A complete collection of guides, articles, and practices.
-date: ${formatDate(new Date())}
+date: ${formatDate(new Date())} Edition
 ---
 `;
 

@@ -2,21 +2,22 @@
 ---
 title: The NeverFap Deluxe Bible
 subtitle: A complete collection of guides, articles, and practices.
+date: 09-08-2020 Edition
 ---
 
 # NeverFap Deluxe Preface
 
-Thank you for reading The NeverFap Deluxe Bible!
+Thank you for reading the NeverFap Deluxe Bible!
 
-It is a complete collection of guides, articles, and practices on the NeverFap Deluxe Website!
+It is a complete collection of the guides, articles, and practices on the NeverFap Deluxe Website!
 
-However, it does not contain all the content from the website. Including the excellent homepage explanation of what NeverFap Deluxe is, the various NeverFap Deluxe resource recommendations on the website, as well as the dozens of other pages, links and resources to things such as Hovering Meditation, The NeverFap Deluxe #accountability program etc.
+It is important to note that it does not contain all of the content on the NeverFap Deluxe website.
 
-Instead this book is an excellent companion piece to the website, and if you already have the basics of the NeverFap Delue Method down, then this book will serve you well.
+Including the excellent homepage explanation of what NeverFap Deluxe is, the various NeverFap Deluxe resource recommendations on the website, as well as the dozens of other pages, links and resources on the website.
+
+Instead, it can help to think of this book as an excellent companion piece to the website. Furthermore, if you already have the basics of the NeverFap Delue Method down, then this book will serve you well.
 
 For a full view of the NeverFap Deluxe Method of Overcoming Porn Addiction, please proceed to the website.
-
-Because Julius Reade says so ^^
 
 <a href="https://neverfapdeluxe.com/">https://neverfapdeluxe.com/</a>
 
@@ -27,15 +28,15 @@ Because Julius Reade says so ^^
 
 Welcome to NeverFap Deluxe!
 
-I decided to create NeverFap Deluxe in 2018 in order to help people overcome porn addiction.
+I decided to create NeverFap Deluxe in 2018 in order to help people overcome their own porn addiction.
 
 I aim to teach people how to be in complete control of their minds using the power of meditation and other various awareness and mental health exercises.
 
 Not only have I personally overcome porn addiction using these fundamental skills and practices, however I want to help you do the same too.
 
-Because I can say with absolute certainty that full recovery is guaranteed as long as you take the time to educate yourself and learn to trust and embrace the recovery process.
+Because I can say with absolute certainty that complete recovery is guaranteed as long as you take the time to educate yourself, as well as learn to trust and embrace the recovery process.
 
-It's honestly as simple as putting one foot in front of the other, and to make things even easier, I'll be here to guide you every step of the way.
+The process itself is honestly as simple as putting one foot in front of the other. And to make things even easier for you, I'll be here to guide you every single step of the way.
 
 
 
@@ -47,7 +48,7 @@ While everyone is aware of the NoFap movement, during my journey I failed to fin
 
 Most of the materials I could find online included various theories on how to manage urges utilising a trope of ineffective and unhealthy coping mechanisms...
 
-...to personal advice from existing porn addicts who's opinion seemed to change depending on the day of the week, as per their unpredictable schedule of relapse and mania.
+...to personal advice from existing porn addicts, who's opinion seemed to change depending on the day of the week, as per their unpredictable schedule of relapse and mania.
 
 I mean, you wouldn't receive financial advice from someone with a gambling problem, so why should your porn addiction recovery be any different?
 
@@ -1030,7 +1031,7 @@ I want to talk about choice.
 
 Specifically, how it relates to the Five Fundamental Principles of NeverFap.
 
-The first principle that I almost always introduce to people is <u>Choice over mind</u>, because it is the one principle that most porn addicts (usually) find the most profound. 
+The first principle that I almost always introduce to people is <u>Choice over mind</u>, because it is the one principle that most porn addicts (usually) find the most profound.
 
 
 
@@ -1062,13 +1063,13 @@ So let's consider this your formal re-education.
 
 It begs to state that everything in life is a choice.
 
-There's choice in how we feel. Choice in what we want to think. Choice in how we live, and what we want to eat. 
+There's choice in how we feel. Choice in what we want to think. Choice in how we live, and what we want to eat.
 
 In fact, there's choice in almost everything that happens in life.
 
 And yet, this doesn't mean that we necessarily get to choose all these things.
 
-We don't get to choose our race. We don't get to choose how others live their lives. Hell, we certainly don't get to choose what the weather will be that day. 
+We don't get to choose our race. We don't get to choose how others live their lives. Hell, we certainly don't get to choose what the weather will be that day.
 
 And that's okay.
 
@@ -1096,7 +1097,7 @@ In part, because it is the only choice you truly have control over.
 
 
 
-And it's a choice which overrides every other choice imaginable. 
+And it's a choice which overrides every other choice imaginable.
 
 Of course, I'm sure you're already aware of this fact. I mean, obviously you have the ability to react to life's circumstances.
 
@@ -1104,7 +1105,7 @@ Yet perhaps you don't quite understand the significance of what this actually me
 
 Perhaps you're misinterpretating what having this choice allows you to do, so let's explore that idea.
 
-When you truly understand what <u>Choice over mind</u> means, it completely changes the way you look at things. 
+When you truly understand what <u>Choice over mind</u> means, it completely changes the way you look at things.
 
 You no longer become victim, or rather you realise that you never were victim, over that which you cannot choose.
 
@@ -1119,13 +1120,13 @@ So what does it being able to respond actually mean?
 
 
 
-At no point do you have absolute certainty over any outcome in life. 
+At no point do you have absolute certainty over any outcome in life.
 
 Instead, what you do have is absolute certainty over your actions, and this is quite profound for a few reasons.
 
 If your ability to respond is the only true choice that you have, then it signifies that you have full control over your life.
 
-Because response happens through actions, and actions are the only means through which we can change as human beings. 
+Because response happens through actions, and actions are the only means through which we can change as human beings.
 
 
 
@@ -1153,7 +1154,7 @@ We both have the exact same potential to respond on a low level with our thought
 ### The only difference between you and me is in the actions that we've taken over time.
 
 
- 
+
 
 Which is to say that if you responded in the same way that I did, then you also would not be a porn addict.
 
@@ -1168,15 +1169,13 @@ Which is to say that if you responded in the same way that I did, then you also 
 
 The important thing to understand about success is that it doesn't happen at a high level.
 
-It happens on an emotional and physical level. 
+It happens on an emotional and physical level.
 
-Success is the difference between choosing to remain calm in a tense situation, as opposed to losing our cool. 
+Success is the difference between choosing to remain calm in a tense situation, as opposed to losing our cool.
 
-Success isn't about being wealthy or driving a fast car.
+Success isn't about being wealthy or driving a fast car. Success is about having control over our feelings and emotions.
 
-Success is about having control over our feelings and emotions, so we feel indifferent about how much money we or anyone else has.
-
-In the context of porn addiction, success is acknowledging that our cravings for porn are merely habitual, and not to be taken personally. 
+In the context of porn addiction, success is acknowledging that our cravings for porn are merely habitual, and not to be taken personally.
 
 Success is meditating daily so that we can learn the skills to properly address our porn addiction.
 
@@ -1195,7 +1194,7 @@ Porn addicts really are no different from each other.
 
 Every porn addict goes through the same feelings and emotions of helplessness, guilt and depression.
 
-The only difference is in how they choose to respond to these feelings and emotions, so they don't let them dominate their life. 
+The only difference is in how they choose to respond to these feelings and emotions, so they don't let them dominate their life.
 
 Now, I'm not suggesting that you'll be able to face these feelings and emotions by merely being aware of them.
 
@@ -1221,9 +1220,9 @@ Moving forward, I recommend checking out our list of NeverFap Deluxe Practices f
 
 Today I’m here to talk to you about porn addiction.
 
-Porn addiction itself can be a very complex topic. We can spend hours discussing the intricacies of how particular cultural upbringings affect the way we view women. 
+Porn addiction itself can be a very complex topic. We can spend hours discussing the intricacies of how particular cultural upbringings affect the way we view women.
 
-We can bore over the details of our past trauma in order to extract why exactly we’re so obsessed with certain types of porn. 
+We can bore over the details of our past trauma in order to extract why exactly we’re so obsessed with certain types of porn.
 
 We can do all sorts of things to try and understand why we humans are the way we are, and to be quite frank... it’s all very exhausting.
 
@@ -1236,7 +1235,7 @@ Because the truth is, overcoming pornography addiction is deceptively simple.
 
 
 
-And that’s literally all I need to maintain control over my mind.
+And that’s literally all I need to do in order to maintain control over my mind.
 
 Of course, I also do a lot more, like train my mind with perspective exercises, but now that I'm in a stable state in regards to my porn addiction, all I really have do is maintain my mental health.
 
@@ -1255,7 +1254,7 @@ And it's so empowering.
 
 And I want to show you how.
 
-Ultimately, we have one rule here at NeverFap: 
+Ultimately, we have one rule here at NeverFap:
 
 
 
@@ -1268,7 +1267,7 @@ Without practicing the core skills that will help you overcome porn addiction, y
 
 It's no different whether you want to become a successful body builder or a world class sculptor. Practice is the bridge that will help get you there.
 
-You know it. I know it. Everyone knows it. 
+You know it. I know it. Everyone knows it.
 
 So what's stopping you?
 
@@ -1279,13 +1278,13 @@ So what's stopping you?
 
 
 
-Which is to say there's some kind of internal misunderstanding which is preventing you from doing what you want in your mind. 
+Which is to say there's some kind of internal misunderstanding which is preventing you from doing what you want in your mind.
 
-Yes, a misunderstanding. 
+Yes, a misunderstanding.
 
-Perhaps it's a self-limiting belief. Perhaps you haven't developed your awareness to a point that you can act with intention. Perhaps you have no idea what you're doing. 
+Perhaps it's a self-limiting belief. Perhaps you haven't developed your awareness to a point that you can act with intention. Perhaps you have no idea what you're doing.
 
-Perhaps you've never developed a single healthy coping mechanism at all in your entire life. 
+Perhaps you've never developed a single healthy coping mechanism at all in your entire life.
 
 That's why I came up with The Five Fundamental Principles of NeverFap in order to help you better understand where you may be misunderstanding yourself.
 
@@ -1296,13 +1295,13 @@ That's why I came up with The Five Fundamental Principles of NeverFap in order t
 
 
 
-If we had to break down what people tend to find difficult in regards to overcoming their porn addiction. 
+If we had to break down what people tend to find difficult in regards to overcoming their porn addiction.
 
 You could say that it comes down to a) Figuring out how to actually convince oneself to commit to porn recovery and b) Truly understanding what will work, and what will not.
 
 This not only includes the knowledge surrounding porn recovery, but also working with our emotions to effectively apply it in everyday situations.
 
-Which can be incredibly difficult, if not outright confusing when we don't truly have the confidence to know exactly what we're doing. 
+Which can be incredibly difficult, if not outright confusing when we don't truly have the confidence to know exactly what we're doing.
 
 We'll be feeling completely confident one week into our recovery, only to face what seems like an insurmountable wall of fear and doubt, which inevitably leads to relpase.
 
@@ -1327,7 +1326,7 @@ As for a non-exhaustive list of these skills, here are some of the things which 
 
 
 - Learn to focus on the how, not the why
-  
+
 
 - Learn to value your mental health above all
 
@@ -1367,13 +1366,13 @@ And I’m now at a point where porn has no control over me.
 
 Realistically, you could probably achieve the same thing in around six months if you stuck to a rigorous routine.
 
-However, I also maintain that humans simply aren’t like that. 
+However, I also maintain that humans simply aren’t like that.
 
-Some of us are driven by failure and by experiencing things the hard way. Others of us may be so deep in our delusion that it may take years to even realise that we have a problem. 
+Some of us are driven by failure and by experiencing things the hard way. Others of us may be so deep in our delusion that it may take years to even realise that we have a problem.
 
 That’s okay too.
 
-Understand that we’re not here to fight ourselves any longer. 
+Understand that we’re not here to fight ourselves any longer.
 
 We’re here to understand who we are, what we have to do to change, as well as understand how we can improve as people.
 
@@ -6511,7 +6510,7 @@ And this happens for a number of reasons.
 
 Instead, we develop this idea that it must be this highly-trained skill that only Bhuddist monks can attain following years of practice in a remote location.
 
-So what ends up happening is put all this effort and strain into trying to develop this 'zen-like' state of mind, which ends up exhausting us more than it does helping us.
+So what ends up happening is that you end up putting all this pressure into trying to develop some 'zen-like' state of mind, which ends up exhausting us more than it does helping us.
 
 We become so distracted in the expectation of what observation should be, that we ironically spend all our mental effort judging and feeling pressured, rather than observing at all.
 
