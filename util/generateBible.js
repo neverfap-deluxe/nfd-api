@@ -51,9 +51,6 @@ const {
 
 
 const generateBible = async () => {
-
-
-
   const headerMarkdown = `
 ---
 title: The NeverFap Deluxe Bible
@@ -78,6 +75,20 @@ Instead, it can help to think of this book as an excellent companion piece to th
 For a full view of the NeverFap Deluxe Method of Overcoming Porn Addiction, please proceed to the website.
 
 <a href="https://neverfapdeluxe.com/">https://neverfapdeluxe.com/</a>
+`;
+
+const manifestoMarkdown = `
+# NeverFap Deluxe Manifesto
+
+I am The Reade thy Human.
+
+- Thou shalt dedicate thy life to thy mental health.
+- Thou shalt place thy mental health above all.
+- Thou shalt meditate daily without fail.
+- Thou shalt seek awareness.
+- Thou shalt seek healthy coping mechanisms under all circumstance.
+- Thou shalt not doubt.
+- Thou shalt let go.
 `;
 
   const [
@@ -128,6 +139,9 @@ For a full view of the NeverFap Deluxe Method of Overcoming Porn Addiction, plea
 
     // GUIDES
     summary.string,
+
+    manifestoMarkdown,
+
     guide.string,
 
     // CONTENT

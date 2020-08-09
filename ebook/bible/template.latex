@@ -1,9 +1,5 @@
 % https://github.com/jgm/pandoc-templates/blob/master/default.latex
 
-\usepackage{titlesec}
-\titlespacing*{\section}{0pt}{3ex plus 2ex}{4ex}
-\titleformat*{\section}{\fontsize{12}{12}\bfseries}
-
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode$for(hyperrefoptions)$,$hyperrefoptions$$endfor$}{hyperref}
 \PassOptionsToPackage{hyphens}{url}

@@ -401,6 +401,18 @@ It's simply the cherry on top of the cake.
 Not the cake itself.
 
 
+# NeverFap Deluxe Manifesto
+
+I am The Reade thy Human.
+
+- Thou shalt dedicate thy life to thy mental health.
+- Thou shalt place thy mental health above all.
+- Thou shalt meditate daily without fail.
+- Thou shalt seek awareness.
+- Thou shalt seek healthy coping mechanisms under all circumstance.
+- Thou shalt not doubt.
+- Thou shalt let go.
+
 # NeverFap Deluxe Summary
 
 
