@@ -11,6 +11,11 @@ Released under the [GNU GPLv3 licence](https://github.com/neverfap-deluxe/nfd-ap
 
 For the PDFs, Tahoma or Verdana work best.
 
+% Trigger ToC creation in LaTeX
+\renewcommand{\baselinestretch}{0.7}\normalsize
+\tableofcontents
+\renewcommand{\baselinestretch}{1.2}\normalsize
+
 
 ## Tech
 

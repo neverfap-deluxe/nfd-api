@@ -47,12 +47,16 @@ const {
   stringFromArray,
 } = require('./util');
 
+
 const generateBible = async () => {
+
+
 
   const headerMarkdown = `
 ---
 title: The NeverFap Deluxe Bible
 subtitle: A complete collection of guides, articles, and practices.
+date: ${formatDate(new Date())}
 ---
 `;
 
