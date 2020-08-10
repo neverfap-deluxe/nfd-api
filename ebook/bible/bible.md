@@ -2,7 +2,9 @@
 ---
 title: The NeverFap Deluxe Bible
 subtitle: A complete collection of guides, articles, and practices.
-date: 09-08-2020 Edition
+date: 10-08-2020 Edition
+colorlinks: true
+linkcolor: blue
 ---
 
 # NeverFap Deluxe Preface
@@ -408,7 +410,7 @@ I am The Reade thy Human.
 - Thou shalt dedicate thy life to thy mental health.
 - Thou shalt place thy mental health above all.
 - Thou shalt meditate daily without fail.
-- Thou shalt seek awareness.
+- Thou shalt maintain thy awareness.
 - Thou shalt seek healthy coping mechanisms under all circumstance.
 - Thou shalt not doubt.
 - Thou shalt let go.

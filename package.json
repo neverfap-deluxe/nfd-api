@@ -15,7 +15,7 @@
     "bible": "npm run bible-md && npm run bible-pub && npm run bible-pdf && npm run bible-move",
     "bible-md": "node ./util/generateBible.js",
     "bible-pub": "pandoc ./ebook/bible/bible.md --strip-comments --toc --toc-depth 2 --metadata-file ./ebook/bible/bible-metadata.yaml -o ./ebook/bible/neverfap-deluxe-bible.epub -f markdown -t epub",
-    "bible-pdf": "pandoc ./ebook/bible/bible.md --template=\"./ebook/bible/template.latex\" --strip-comments --toc --toc-depth 2 --pdf-engine=xelatex -V linestretch=\"1.1\" -V mainfont=\"Verdana\" -V colorlinks=\"true\" -V linkcolor=\"blue\" -V geometry=\"a4paper\" --metadata-file ./ebook/bible/bible-metadata.yaml -o ./ebook/bible/neverfap-deluxe-bible.pdf",
+    "bible-pdf": "pandoc ./ebook/bible/bible.md --include-in-header ./ebook/bible/titlesec.tex --template=\"./ebook/bible/template.tex\" --strip-comments --toc --toc-depth 2 --pdf-engine=xelatex -V linestretch=\"1.1\" -V mainfont=\"Verdana\" -V geometry=\"a4paper\" --metadata-file ./ebook/bible/bible-metadata.yaml -o ./ebook/bible/neverfap-deluxe-bible.pdf",
 
     "bible-move": "sh ./ebook/bible/move-bible.sh",
     "bible-check": "java -jar ./epub_check/epubcheck.jar ./ebook/bible/bible.epub",
