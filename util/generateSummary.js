@@ -33,7 +33,7 @@ Instead this book is an excellent companion piece to the website, and if you alr
 
 For a full view of the NeverFap Deluxe Method of Overcoming Porn Addiction, please proceed to the website.
 
-Because Julius Reade says so ^^
+Because the creator says so ^^
 
 <a href="https://neverfapdeluxe.com/">https://neverfapdeluxe.com/</a>
 `;

@@ -17,7 +17,7 @@ ignoreFiles = [ "\\.notes$" ]
   post = "/articles/:slug"
 
 [author]
-  name = "Julius Reade"
+  name = "Sleepy Pete"
 
 [markup.goldmark.renderer]
   unsafe= true

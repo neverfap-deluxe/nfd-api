@@ -1,5 +1,5 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
-  xmlns:atom="http://www.w3.org/2005/Atom" 
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" version="2.0">
   <channel>
     <title>The NeverFap Deluxe Podcast</title>
@@ -11,7 +11,7 @@
       <link>https://neverfapdeluxe.com/</link> <!-- NOTE: Will need to change this to the neverfapdeluxe.com/podcast route once that becomes live -->
     </image>
     <description>
-    So, you're an obsessive porn addict. Or maybe you'd like to become one, because why the hell not? Offering half-baked advice and often inaccurate opinion, recovered porn addict Julius Reade shares all his tips and tricks from his five year porn recovery journey.
+    So, you're an obsessive porn addict. Or maybe you'd like to become one, because why the hell not? Offering half-baked advice, I share all my tips and tricks from my five year porn recovery journey.
     </description>
     <language>en-us</language>
     <copyright>NeverFap Deluxe Copyright 2019</copyright>
@@ -19,7 +19,7 @@
     <lastBuildDate>Tue, 03 Mar 2019 06:00:00 PDT</lastBuildDate>
     <itunes:author>Julius</itunes:author>
     <itunes:summary>
-    So, you're an obsessive porn addict. Or maybe you'd like to become one, because why the hell not? Offering half-baked advice and often inaccurate opinion, recovered porn addict Julius Reade shares all his tips and tricks from his five year porn recovery journey.
+    So, you're an obsessive porn addict. Or maybe you'd like to become one, because why the hell not? Offering half-baked advice, I share all my tips and tricks from my five year porn recovery journey.
     </itunes:summary>
     <itunes:subtitle>Porn addiction recovery tips and tricks</itunes:subtitle>
     <itunes:owner>
@@ -37,7 +37,7 @@
     <itunes:category text="Health"/>
     <itunes:category text="Self-Help"/>
     <pubDate>Sat, 03 Mar 2019 06:00:00 PDT</pubDate>
-    
+
     <item>
       <title>
 EP01 - My Personal Porn Recovery Journey

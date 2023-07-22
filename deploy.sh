@@ -10,8 +10,6 @@ ssh root@198.199.67.180 <<EOF
   echo "npm run bible"
   npm run bible
 
-  echo "echo exit"
-  exit
 EOF
 
 echo 'all done!'

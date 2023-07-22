@@ -20,7 +20,7 @@ Hovering is a meditation technique that I created in 2019 to help people sufferi
 
 What inspired the creation of hovering?
 
-My name is Julius Reade and I run a porn addiction recovery website. In doing so I’ve become aware of many of the limitations of existing approaches towards mental health.
+I run a porn addiction recovery website. In doing so I’ve become aware of many of the limitations of existing approaches towards mental health.
 
 Especially for today’s generation of young people, as well as most adults I speak with as well.
 
